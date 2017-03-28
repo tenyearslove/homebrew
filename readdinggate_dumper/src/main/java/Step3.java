@@ -25,7 +25,7 @@ public class Step3 {
     }
 
     public static void getStep(String qzJson) {
-        System.out.println("STEP 3\n");
+        GetQuiz.writeOutput(String.format("%s (%s)", "STEP 3", GetQuiz.title));
 
         JsonObject root = new JsonParser().parse(qzJson).getAsJsonObject();
         JsonPrimitive d = (JsonPrimitive) root.get("d");
@@ -36,7 +36,7 @@ public class Step3 {
             gObject = ja.get(p).getAsJsonObject();
             String question = v("Question");
 
-            System.out.println(String.format("%s", question));
+            GetQuiz.writeOutput(String.format("%s", question));
         }
     }
 

@@ -20,7 +20,7 @@ public class Step1 {
     }
 
     public static void getStep(String qzJson) {
-        System.out.println("STEP 1\n");
+        GetQuiz.writeOutput(String.format("%s (%s)", "STEP 1", GetQuiz.title));
 
         JsonObject root = new JsonParser().parse(qzJson).getAsJsonObject();
         JsonPrimitive d = (JsonPrimitive) root.get("d");
@@ -29,7 +29,7 @@ public class Step1 {
         String[] answer = new String[size];
         for (int p = 0 ; p < size ; p++) {
             gObject = ja.get(p).getAsJsonObject();
-            String quizNo = v("QuizNo");
+            String quizNo = v("Seq");
             String question = v("Question");
             String correctText = v("CorrectText");
             String[] example = new String[4];
@@ -46,15 +46,15 @@ public class Step1 {
                     answer[p] = "" + (i + 1);
                 }
             }
-            System.out.println(String.format("[%s] %s", quizNo, question));
+            GetQuiz.writeOutput(String.format("[%s] %s", quizNo, question));
             for (int i = 0 ; i < example.length ; i++) {
-                System.out.println(String.format("  %d. %s", (i+1), example[i]));
+                GetQuiz.writeOutput(String.format("  %d. %s", (i+1), example[i]));
             }
-            System.out.println("");
+            GetQuiz.writeOutput("");
         }
-        System.out.println("\n\nStep1 - Answer\n");
+        GetQuiz.writeOutput("\n\nStep1 - Answer " + "(" + GetQuiz.title + ")\n");
         for (int p = 0 ; p < size ; p++) {
-            System.out.println(String.format("%s - %s", (p+1), answer[p]));
+            GetQuiz.writeOutput(String.format("%s - %s", (p+1), answer[p]));
         }
     }
 

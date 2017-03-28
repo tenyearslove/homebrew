@@ -24,24 +24,31 @@ public class Step2 {
     }
 
     public static void getStep(String qzJson) {
-        System.out.println("STEP 2\n");
+        GetQuiz.writeOutput(String.format("%s (%s)", "STEP 2", GetQuiz.title));
 
         JsonObject root = new JsonParser().parse(qzJson).getAsJsonObject();
         JsonPrimitive d = (JsonPrimitive) root.get("d");
         JsonArray ja = new JsonParser().parse(d.getAsString()).getAsJsonArray();
         int size = ja.size();
-        String[] answer = new String[size];
         for (int p = 0 ; p < size ; p++) {
             gObject = ja.get(p).getAsJsonObject();
             String vocabulary = v("Vocabulary");
             String korean = v("Korean");
             String britannica = v("Britannica");
             String seq = v("Seq");
-            System.out.println(String.format("[%s] %s", seq, vocabulary));
-            System.out.println(String.format(" - %s", korean));
-            System.out.println(String.format(" - %s", britannica));
+            GetQuiz.writeOutput(String.format("[%s] %s", seq, vocabulary));
+            GetQuiz.writeOutput(String.format(" - %s", korean));
+            GetQuiz.writeOutput(String.format(" - %s", britannica));
 
-            System.out.println("");
+            GetQuiz.writeOutput("");
+        }
+
+        GetQuiz.writeOutput("\nVocabulary List (" + GetQuiz.title + ")\n");
+        for (int p = 0 ; p < size ; p++) {
+            gObject = ja.get(p).getAsJsonObject();
+            String vocabulary = v("Vocabulary");
+            String seq = v("Seq");
+            GetQuiz.writeOutput(String.format("[%s] %s", seq, vocabulary));
         }
     }
 

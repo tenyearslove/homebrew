@@ -28,7 +28,7 @@ public class Step4 {
     }
 
     public static void getStep(String qzJson, String title) {
-        System.out.println("STEP 4\n");
+        GetQuiz.writeOutput(String.format("%s (%s)", "STEP 4", GetQuiz.title));
 
         JsonObject root = new JsonParser().parse(qzJson).getAsJsonObject();
         JsonPrimitive d = (JsonPrimitive) root.get("d");
@@ -45,13 +45,13 @@ public class Step4 {
             String contentsId = v("ContentsId");
             saveUrl(title + "-" + quizNo + ".mp3", soundPath);
 
-            System.out.println(String.format("[%s] %s", quizNo, question.replaceAll("┒", "[          ]")));
+            GetQuiz.writeOutput(String.format("[%s] %s", quizNo, question.replaceAll("┒", "[          ]")));
 
             answer[p] = correct.replaceAll("┒", ", ");
         }
-        System.out.println("\n\nStep4 - Answer\n");
+        GetQuiz.writeOutput("\n\nStep4 - Answer " + "(" + GetQuiz.title + ")\n");
         for (int p = 0 ; p < size ; p++) {
-            System.out.println(String.format("%s - %s", (p+1), answer[p]));
+            GetQuiz.writeOutput(String.format("%s - %s", (p+1), answer[p]));
         }
     }
 
