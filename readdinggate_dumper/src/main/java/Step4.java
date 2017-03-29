@@ -9,10 +9,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
 
 public class Step4 {
 
@@ -35,6 +32,7 @@ public class Step4 {
         JsonArray ja = new JsonParser().parse(d.getAsString()).getAsJsonArray();
         int size = ja.size();
         String[] answer = new String[size];
+        List<String> filenames = new ArrayList<String>();
         for (int p = 0 ; p < size ; p++) {
             gObject = ja.get(p).getAsJsonObject();
             String quizNo = v("QuizNo");
@@ -43,11 +41,21 @@ public class Step4 {
 
             String soundPath = v("SoundPath");
             String contentsId = v("ContentsId");
-            saveUrl(title + "-" + quizNo + ".mp3", soundPath);
+            String filename = title + "-" + quizNo + ".mp3";
+            saveUrl(filename, soundPath);
+            filenames.add(filename);
 
             GetQuiz.writeOutput(String.format("[%s] %s", quizNo, question.replaceAll("┒", "[          ]")));
 
             answer[p] = correct.replaceAll("┒", ", ");
+        }
+        try {
+            Dropbox.upload(title, filenames);
+            for (String file : filenames) {
+                new File(file).delete();
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
         }
         GetQuiz.writeOutput("\n\nStep4 - Answer " + "(" + GetQuiz.title + ")\n");
         for (int p = 0 ; p < size ; p++) {

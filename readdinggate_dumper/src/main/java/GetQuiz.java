@@ -31,10 +31,10 @@ public class GetQuiz {
         String BODY_INFO = "{\"pStudyId\":\"" + STUDY_ID + "\",\"pStudentHistoryId\":\"000077C2017000043\"}";
         String info = getData(INFO_URL, BODY_INFO);
         JsonObject jo = new JsonParser().parse(new JsonParser().parse(info).getAsJsonObject().get("d").getAsString()).getAsJsonArray().get(0).getAsJsonObject();
-        title = jo.getAsJsonPrimitive("Title").getAsString();
+        title = jo.getAsJsonPrimitive("Title").getAsString().trim();
 
         try {
-            bw = new BufferedWriter(new FileWriter(new File("z:/99.Temp/siwon.sung/reading_gate/" + title + ".txt")));
+            bw = new BufferedWriter(new FileWriter(new File("E:/Reading Gate/" + title + ".txt")));
         } catch (Exception e) {
             e.printStackTrace();
         }
