@@ -1,0 +1,28 @@
+group 'org.metachris'
+version '1.0'
+
+apply plugin: 'groovy'
+apply plugin: 'java'
+
+sourceCompatibility = 1.5
+
+repositories {
+    mavenCentral()
+}
+
+compileJava {
+    options.encoding = 'UTF-8'
+}
+
+dependencies {
+    compile 'com.squareup.okhttp3:okhttp:3.4.1'
+    compile 'com.squareup.okhttp3:logging-interceptor:3.4.1'
+    compile 'com.squareup.retrofit2:retrofit:2.1.0'
+    compile 'com.squareup.retrofit2:converter-gson:2.1.0'
+}
+
+task execute(type:JavaExec) {
+    main = 'RegTest'
+    classpath = sourceSets.main.runtimeClasspath
+    jvmArgs = ['-Dhttp.proxyHost=168.219.61.252', '-Dhttp.proxyPort=8080']
+}
