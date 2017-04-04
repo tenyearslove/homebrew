@@ -6,66 +6,36 @@ import com.google.gson.JsonPrimitive;
 import java.io.BufferedInputStream;
 import java.io.File;
 import java.io.FileOutputStream;
-import java.io.IOException;
-import java.net.MalformedURLException;
 import java.net.URL;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
 
-public class Step4 {
+public class Story {
 
     static JsonObject gObject = null;
 
     public static void main(String[] args) {
         try {
             String qzJson = new Scanner(new File("step4.json")).useDelimiter("\\Z").next();
-            getStep(qzJson, "TITLE");
+            getStep(qzJson);
         } catch (Exception e) {
             e.printStackTrace();
         }
     }
 
-    public static void getStep(String qzJson, String title) {
-        GetQuiz.writeOutput(String.format("%s (%s)", "STEP 4", GetQuiz.title));
-
+    public static void getStep(String qzJson) {
         JsonObject root = new JsonParser().parse(qzJson).getAsJsonObject();
         JsonPrimitive d = (JsonPrimitive) root.get("d");
         JsonArray ja = new JsonParser().parse(d.getAsString()).getAsJsonArray();
         int size = ja.size();
-        String[] answer = new String[size];
-        List<String> filenames = new ArrayList<String>();
         for (int p = 0 ; p < size ; p++) {
             gObject = ja.get(p).getAsJsonObject();
-            String quizNo = v("QuizNo");
-            String question = v("Question");
-            String correct = v("Correct");
-            if (correct == null) {
-                correct = v("CorrectText");
-            }
-
-            String soundPath = v("SoundPath");
-            if (soundPath == null) {
-                soundPath = v("QuestionSoundPath");
-            }
-            String contentsId = v("ContentsId");
-            String filename = title + "-" + quizNo + ".mp3";
-            saveUrl(filename, soundPath);
-            filenames.add(filename);
-
-            GetQuiz.writeOutput(String.format("[%s] %s", quizNo, question.replaceAll("┒", "[          ]")));
-
-            answer[p] = correct.replaceAll("┒", ", ");
-        }
-        try {
-            Dropbox.upload(title, filenames);
-            for (String file : filenames) {
-                new File(file).delete();
-            }
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-        GetQuiz.writeOutput("\n\nStep4 - Answer " + "(" + GetQuiz.title + ")\n");
-        for (int p = 0 ; p < size ; p++) {
-            GetQuiz.writeOutput(String.format("%s - %s", (p+1), answer[p]));
+            String imagePath = v("ImagePath");
+            String page = v("Page");
+            int pageNumber = Integer.parseInt(page);
+            String filename = String.format("%s-%02d.jpg", GetQuiz.title, pageNumber);
+            saveUrl(filename, imagePath);
         }
     }
 

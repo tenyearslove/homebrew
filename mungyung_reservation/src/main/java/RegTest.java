@@ -74,7 +74,7 @@ public class RegTest {
 //                Call<ResponseBody> callYuga5 = getYugaCall("2016-10-22","2016-10-23", "222");
 //                Call<ResponseBody> callYuga6 = getYugaCall("2016-10-15","2016-10-16", "222");
 
-                Call<ResponseBody> callBuljung1 = getBuljungCall("2017-04-05","2017-04-07");
+                Call<ResponseBody> callBuljung1 = getBuljungCall("2017-05-05","2017-05-07");
 //                Call<ResponseBody> callBuljung2 = getBuljungCall("2017-04-22","2017-04-23");
 //                Call<ResponseBody> callBuljung3 = getBuljungCall("2017-04-29","2017-04-30");
 

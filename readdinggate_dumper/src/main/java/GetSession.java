@@ -25,10 +25,10 @@ public class GetSession {
     public static final String STUDENT_ID = "000077C2017000043";
 
     public static void main(String args[]) {
-        getSession();
+        getSession(null);
     }
 
-    public static String getSession() {
+    public static String getSession(String specificStudyId) {
         try {
             Request request = new Request.Builder()
                     .url(BASE_URL)
@@ -48,24 +48,27 @@ public class GetSession {
             String message = response.body().string();
 //            GetQuiz.writeOutput(message);
 
-            request = new Request.Builder()
-                    .url(ASSIGNMENT_URL)
-                    .addHeader("Cookie", cookie)
-                    .build();
-            response = HttpClient.client.newCall(request).execute();
-            message = response.body().string();
-//            GetQuiz.writeOutput(message);
-//            GetQuiz.writeOutput(STUDENT_ID);
-            Scanner sc = new Scanner(message);
-            String line = "";
-            while (sc.hasNextLine()) {
-                line = sc.nextLine();
-                if (line.contains("_" + STUDENT_ID)) break;
+            String studyId = specificStudyId;
+            if (studyId == null) {
+                request = new Request.Builder()
+                        .url(ASSIGNMENT_URL)
+                        .addHeader("Cookie", cookie)
+                        .build();
+                response = HttpClient.client.newCall(request).execute();
+                message = response.body().string();
+                //            GetQuiz.writeOutput(message);
+                //            GetQuiz.writeOutput(STUDENT_ID);
+                Scanner sc = new Scanner(message);
+                String line = "";
+                while (sc.hasNextLine()) {
+                    line = sc.nextLine();
+                    if (line.contains("_" + STUDENT_ID)) break;
+                }
+                line = line.replaceAll("<button class=\"bt-start onoff\" id=\"", "");
+                line = line.replaceAll(" ", "");
+                line = line.substring(0, line.indexOf('_'));
+                studyId = line;
             }
-            line = line.replaceAll("<button class=\"bt-start onoff\" id=\"", "");
-            line = line.replaceAll(" ", "");
-            line = line.substring(0, line.indexOf('_'));
-            String studyId = line;
             GetQuiz.STUDY_ID = studyId;
 
             body = RequestBody.create(FORM, "studyId=" + studyId + "&studentHistoryId=000077C2017000043");

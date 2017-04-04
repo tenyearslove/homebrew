@@ -31,12 +31,30 @@ public class Step3 {
         JsonPrimitive d = (JsonPrimitive) root.get("d");
         JsonArray ja = new JsonParser().parse(d.getAsString()).getAsJsonArray();
         int size = ja.size();
-        String[] answer = new String[size];
+        String[] answer = null;
         for (int p = 0; p < size; p++) {
             gObject = ja.get(p).getAsJsonObject();
             String question = v("Question");
+            String correctText = v("CorrectText");
+            String correct = v("Correct");
+            String seq = v("Seq");
 
-            GetQuiz.writeOutput(String.format("%s", question));
+            if (correct == null)
+                GetQuiz.writeOutput(String.format("%s", question));
+            else {
+                if (answer == null) {
+                    answer = new String[size];
+                }
+                GetQuiz.writeOutput(String.format("%s. %s\n                                                                      [ True  |  False ]", seq, question));
+                answer[p] = String.format("%s. %s [%s]", seq, correct.equals("1")?"True":"False", correctText);
+            }
+        }
+
+        if (answer != null) {
+            GetQuiz.writeOutput("\n\nStep3 - Answer " + "(" + GetQuiz.title + ")\n");
+            for (int p = 0; p < size; p++) {
+                GetQuiz.writeOutput(String.format("%s", answer[p]));
+            }
         }
     }
 
