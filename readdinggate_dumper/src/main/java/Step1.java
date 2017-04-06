@@ -42,13 +42,15 @@ public class Step1 {
             example = (String []) exampleList.toArray();
 
             for (int i = 0 ; i < example.length ; i++) {
-                if (example[i].equals(correctText)) {
+                if (example[i] != null && example[i].equals(correctText)) {
                     answer[p] = "" + (i + 1);
                 }
             }
             GetQuiz.writeOutput(String.format("[%s] %s", quizNo, question));
             for (int i = 0 ; i < example.length ; i++) {
-                GetQuiz.writeOutput(String.format("  %d. %s", (i+1), example[i]));
+                if (example[i] != null) {
+                    GetQuiz.writeOutput(String.format("  %d. %s", (i + 1), example[i]));
+                }
             }
             GetQuiz.writeOutput("");
         }
@@ -59,6 +61,13 @@ public class Step1 {
     }
 
     public static String v(String key) {
-        return gObject.get(key).getAsString();
+        String retValue = null;
+        if (gObject.has(key)) {
+            JsonElement element = gObject.get(key);
+            if (element.isJsonNull() == false) {
+                retValue = element.getAsString();
+            }
+        }
+        return retValue;
     }
 }
