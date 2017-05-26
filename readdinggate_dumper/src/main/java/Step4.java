@@ -51,7 +51,7 @@ public class Step4 {
             saveUrl(filename, soundPath);
             filenames.add(filename);
 
-            GetQuiz.writeOutput(String.format("[%s] %s", quizNo, question.replaceAll("┒", "[          ]\n")));
+            GetQuiz.writeOutput(String.format("[%s] %s\n", quizNo, question.replaceAll("┒", "[          ]")));
 
             answer[p] = correct.replaceAll("┒", ", ");
         }
