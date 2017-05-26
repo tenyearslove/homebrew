@@ -56,7 +56,7 @@ public class Step2 {
                     vocabulary = v("Word");
                 }
                 String seq = v("Seq");
-                GetQuiz.writeOutput(String.format("[%s] %s", seq, vocabulary));
+                GetQuiz.writeOutput(String.format("[%s]\t%s", seq, vocabulary));
             }
         } catch (Exception e) {
             e.printStackTrace();
