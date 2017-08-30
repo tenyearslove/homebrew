@@ -1,24 +1,18 @@
-import com.squareup.okhttp.Interceptor;
-import com.squareup.okhttp.OkHttpClient;
-import com.squareup.okhttp.Request;
-import com.squareup.okhttp.ResponseBody;
+import okhttp3.*;
+import okhttp3.logging.HttpLoggingInterceptor;
+import retrofit2.Call;
+import retrofit2.Converter;
+import retrofit2.Retrofit;
+import retrofit2.http.Field;
+import retrofit2.http.FormUrlEncoded;
+import retrofit2.http.POST;
 
 import java.io.IOException;
-import java.util.HashMap;
-import java.util.Map;
-
-import retrofit.Call;
-import retrofit.GsonConverterFactory;
-import retrofit.Retrofit;
-import retrofit.http.Body;
-import retrofit.http.Field;
-import retrofit.http.FormUrlEncoded;
-import retrofit.http.GET;
-import retrofit.http.POST;
-import retrofit.http.Query;
+import java.lang.annotation.Annotation;
+import java.lang.reflect.Type;
 
 public class RegApi {
-    public static final String API_URL = "http://reserv.mgtpcr.or.kr";
+    public static final String API_URL = "http://www.mgtpcr.or.kr";
 
     private static RegApi instance = null;
     private HttpBinService service;
@@ -28,8 +22,8 @@ public class RegApi {
      */
     public interface HttpBinService {
         @FormUrlEncoded
-        @POST("/reserv/camping/readyreserv_reg.do")
-        Call<ResponseBody> postRegervationYuga(
+        @POST("/web/camping/readyreserv_reg.do")
+        Call<String> postRegervationYuga(
                 @Field("searchDate") String searchDate,
                 @Field("facilityLength") String facilityLength,
                 @Field("overLapCode") String overLapCode,
@@ -43,22 +37,37 @@ public class RegApi {
                 @Field("persons") String persons,
                 @Field("personsMax") String personsMax,
                 @Field("userName") String userName,
+                @Field("account") String account,
                 @Field("organization") String organization,
                 @Field("eventName") String eventName,
                 @Field("sido") String sido,
                 @Field("gugun") String gugun,
                 @Field("jusoName") String jusoName,
+                @Field("usePurpose") String usePurpose,
                 @Field("tel1") String tel1,
                 @Field("tel2") String tel2,
                 @Field("tel3") String tel3,
-                @Field("cashreceiptF") String cashreceiptF,
-                @Field("cashType") String cashType,
-                @Field("etcNum") String etcNum
+                @Field("emailid") String emailid,
+                @Field("emaildomain") String emaildomain
+        );
+
+        @FormUrlEncoded
+        @POST("/web/camping/regreservation.do?menuIdx=363")
+        Call<String> postRegervationYugaPre(
+                @Field("searchDate") String searchDate,
+                @Field("facilityLength") String facilityLength,
+                @Field("priceR") String priceR,
+                @Field("priceNumR") String priceNumR,
+                @Field("useDaysR") String useDaysR,
+                @Field("useFacilityR") String useFacilityR,
+                @Field("totPriceR") String totPriceR,
+                @Field("totPriceDescR") String totPriceDescR,
+                @Field("useFacilityArray") String useFacilityArray
         );
 
         @FormUrlEncoded
         @POST("/reserv/forest/readyreserv_reg.do")
-        Call<ResponseBody> postRegervationBuljung(
+        Call<String> postRegervationBuljung(
                 @Field("searchDate") String searchDate,
                 @Field("facilityLength") String facilityLength,
                 @Field("overLapCode") String overLapCode,
@@ -90,21 +99,32 @@ public class RegApi {
      * Private constructor
      */
     private RegApi() {
-        // Http interceptor to add custom headers to every request
-        OkHttpClient httpClient = new OkHttpClient();
-        httpClient.networkInterceptors().add(new Interceptor() {
-            public com.squareup.okhttp.Response intercept(Chain chain) throws IOException {
+        HttpLoggingInterceptor loggingLevelinterceptor = new HttpLoggingInterceptor();
+        loggingLevelinterceptor.setLevel(HttpLoggingInterceptor.Level.BODY);
+
+        Interceptor cookieInterceptor = new Interceptor() {
+            public Response intercept(Interceptor.Chain chain) throws IOException {
                 Request.Builder builder = chain.request().newBuilder();
+                builder.addHeader("Cookie", "JSESSIONID=8fK4xmMS1wPE1vUKr0NpaaGFyMb2DVa0zm9cWmFAeAox9ddR93RbaSf6n239HkHZ.TUdIT01FX2RvbWFpbi9ob21lcGFnZQ==; counter_main_main_today=667; counter_main_main_yesterday=58; counter_main_main_total=10434; counter_main_main=TJb30fsa; COBEE_AUTH=C2aced1ac.A2c55723882d180_0");
 
                 return chain.proceed(builder.build());
             }
-        });
+        };
 
-        // Retrofit setup
+        OkHttpClient.Builder builder = new OkHttpClient.Builder()
+                .addInterceptor(loggingLevelinterceptor)
+                .addInterceptor(cookieInterceptor);
+//                .connectTimeout(60, TimeUnit.SECONDS);
+
+        OkHttpClient httpClient = builder.build();
+
         Retrofit retrofit = new Retrofit.Builder()
                 .baseUrl(API_URL)
                 .client(httpClient)
+                .addConverterFactory(new StringConverterFactory())
                 .build();
+
+        // Service setup
 
         // Service setup
         service = retrofit.create(HttpBinService.class);
@@ -114,7 +134,7 @@ public class RegApi {
      * Get the HttpApi singleton instance
      */
     public static RegApi getInstance() {
-        if(instance == null) {
+        if (instance == null) {
             instance = new RegApi();
         }
         return instance;
@@ -125,5 +145,34 @@ public class RegApi {
      */
     public HttpBinService getService() {
         return service;
+    }
+
+    public final class StringConverterFactory extends Converter.Factory {
+        @Override
+        public Converter<ResponseBody, ?> responseBodyConverter(Type type, Annotation[] annotations, Retrofit retrofit) {
+            //noinspection EqualsBetweenInconvertibleTypes
+            if (String.class.equals(type)) {
+                return new Converter<ResponseBody, Object>() {
+                    public Object convert(ResponseBody responseBody) throws IOException {
+                        return responseBody.string();
+                    }
+                };
+            }
+
+            return null;
+        }
+
+        @Override
+        public Converter<?, RequestBody> requestBodyConverter(Type type,
+                                                              Annotation[] parameterAnnotations, Annotation[] methodAnnotations, Retrofit retrofit) {
+            if (String.class.equals(type)) {
+                return new Converter<String, RequestBody>() {
+                    public RequestBody convert(String value) throws IOException {
+                        return RequestBody.create(MediaType.parse("text/plain"), value);
+                    }
+                };
+            }
+            return null;
+        }
     }
 }
