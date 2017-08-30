@@ -1,10 +1,7 @@
 import com.google.gson.*;
 
 import java.io.File;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
 
 public class Step1 {
 
@@ -32,24 +29,25 @@ public class Step1 {
             String quizNo = v("Seq");
             String question = v("Question");
             String correctText = v("CorrectText");
-            String[] example = new String[4];
-            example[0] = v("Example1");
-            example[1] = v("Example2");
-            example[2] = v("Example3");
-            example[3] = v("Example4");
-            List exampleList = Arrays.asList(example);
-            Collections.shuffle(exampleList);
-            example = (String []) exampleList.toArray();
+            List<String> example = new ArrayList<String>();
+            example.add(v("Example1"));
+            example.add(v("Example2"));
+            example.add(v("Example3"));
+            example.add(v("Example4"));
+            if (example.get(3) == null) {
+                example.remove(3);
+            }
+            Collections.shuffle(example);
 
-            for (int i = 0 ; i < example.length ; i++) {
-                if (example[i] != null && example[i].equals(correctText)) {
+            for (int i = 0 ; i < example.size() ; i++) {
+                if (example.get(i) != null && example.get(i).equals(correctText)) {
                     answer[p] = "" + (i + 1);
                 }
             }
             GetQuiz.writeOutput(String.format("[%s] %s", quizNo, question));
-            for (int i = 0 ; i < example.length ; i++) {
-                if (example[i] != null) {
-                    GetQuiz.writeOutput(String.format("  %d. %s", (i + 1), example[i]));
+            for (int i = 0 ; i < example.size() ; i++) {
+                if (example.get(i) != null) {
+                    GetQuiz.writeOutput(String.format("  %d. %s", (i + 1), example.get(i)));
                 }
             }
             GetQuiz.writeOutput("");
@@ -67,6 +65,9 @@ public class Step1 {
             if (element.isJsonNull() == false) {
                 retValue = element.getAsString();
             }
+        }
+        if (retValue != null && retValue.equals("null")) {
+            retValue = null;
         }
         return retValue;
     }
