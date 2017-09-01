@@ -1,14 +1,10 @@
-import okhttp3.ResponseBody;
 import retrofit2.Call;
 import retrofit2.Response;
-
-import java.io.IOException;
-import java.text.SimpleDateFormat;
-import java.util.Date;
 
 public class RegTest {
 
     public static RegApi api;
+
     public static void main(String[] args) {
         testInstance();
     }
@@ -23,18 +19,18 @@ public class RegTest {
             System.out.println("START");
 
             while (true) {
-                Call<String> callYugaPre = getYugaPreCall("2017-09-04", "223");
-                Call<String> callYuga = getYugaCall("2017-09-04","2017-09-06", "223");
+                Call<String> callYugaPre = getYugaPreCall("2017-10-04", "223");
+                Call<String> callYuga = getYugaCall("2017-10-04", "2017-10-06", "223");
                 callYugaPre.execute();
                 callYuga.execute();
 
-                Call<String> callYugaPre2 = getYugaPreCall("2017-09-04", "222");
-                Call<String> callYuga2 = getYugaCall("2017-09-04","2017-09-06", "222");
+                Call<String> callYugaPre2 = getYugaPreCall("2017-10-04", "222");
+                Call<String> callYuga2 = getYugaCall("2017-10-04", "2017-10-06", "222");
                 callYugaPre2.execute();
                 callYuga2.execute();
 
-                Thread.sleep(1000);
-                break;
+                Thread.sleep(60000);
+//                break;
             }
 
         } catch (Exception e) {
@@ -49,15 +45,15 @@ public class RegTest {
                 "",
                 room, //222, 223
                 "0",
-                "520000",
+                "560000",
                 "2",
-                "520000",
+                "560000",
                 startDate, //"2016-10-29",
                 endDate, //"2016-10-30",
                 "15",
                 "15",
-                "성시원",
-                "성시원",
+                "김민주",
+                "김민주",
                 "",
                 "",
                 "",
@@ -75,7 +71,6 @@ public class RegTest {
     }
 
 
-
     public static Call<String> getYugaPreCall(String startDate, String room) {
         Call<String> callYuga = api.getService().postRegervationYugaPre(
                 startDate,
@@ -86,7 +81,7 @@ public class RegTest {
                 "",
                 "",
                 "",
-                "[{\"baseprice\":\"260000\",\"priceNum\":\"0\",\"useDay\":\"2\",\"useFacility\":\"" + room + "\",\"totPrice\":\"520000\",\"totPriceDesc\":\"\"}]"
+                "[{\"baseprice\":\"280000\",\"priceNum\":\"0\",\"useDay\":\"2\",\"useFacility\":\"" + room + "\",\"totPrice\":\"560000\",\"totPriceDesc\":\"\"}]"
         );
 
         return callYuga;
