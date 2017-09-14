@@ -25,8 +25,8 @@ public class Step1 {
         int size = ja.size();
         String[] answer = new String[size];
         for (int p = 0 ; p < size ; p++) {
-            gObject = ja.get(p).getAsJsonObject();
-            String quizNo = v("Seq");
+            gObject = getQuizByQuizNo(ja, p+1);
+            String quizNo = "" + (p+1);
             String question = v("Question");
             String correctText = v("CorrectText");
             List<String> example = new ArrayList<String>();
@@ -56,6 +56,18 @@ public class Step1 {
         for (int p = 0 ; p < size ; p++) {
             GetQuiz.writeOutput(String.format("%s - %s", (p+1), answer[p]));
         }
+    }
+
+    public static JsonObject getQuizByQuizNo(JsonArray ja, int x) {
+        int size = ja.size();
+        for (int i = 0 ; i < size ; i++) {
+            JsonObject jo = ja.get(i).getAsJsonObject();
+            JsonElement element = jo.get("QuizNo");
+            int quizNo = element.getAsInt();
+            if (x == quizNo)
+                return jo;
+        }
+        return null;
     }
 
     public static String v(String key) {
