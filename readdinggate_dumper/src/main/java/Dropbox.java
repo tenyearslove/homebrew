@@ -13,7 +13,7 @@ import java.io.InputStream;
 import java.io.IOException;
 
 public class Dropbox {
-    private static final String ACCESS_TOKEN = "VT0LuhaDAAMAAAAAAAB8vM05Mt2xr9ZFUcVD_lKLT8dDpwSbBVNul4dVoz0_F-CK";
+    private static final String ACCESS_TOKEN = "ygyXBWSuiyAAAAAAAAAAJIDklB2G_SrnOunbc4xRuh3gwB88PBZUnDCF3g2kogxC";
 
     public static void main(String args[]) throws DbxException, IOException {
         // Create Dropbox client
