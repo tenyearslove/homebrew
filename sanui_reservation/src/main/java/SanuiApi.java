@@ -50,7 +50,7 @@ public class SanuiApi {
         Interceptor cookieInterceptor = new Interceptor() {
             public Response intercept(Chain chain) throws IOException {
                 Request.Builder builder = chain.request().newBuilder();
-                builder.addHeader("Cookie", "1487058033.html=pcookie; PHPSESSID=05698b7b80ffaeb2610668be742962e2; counter_main_main_today=667; counter_main_main_yesterday=58; counter_main_main_total=10434; counter_main_main=TJb30fsa; COBEE_AUTH=C2aced1ac.A2c55723882d180_0");
+                builder.addHeader("Cookie", "COBEE_AUTH=C282b835a.A2d21c747013fa0_0; PHPSESSID=865aca6250a12414a7f7e46b19fd8277");
 
                 return chain.proceed(builder.build());
             }

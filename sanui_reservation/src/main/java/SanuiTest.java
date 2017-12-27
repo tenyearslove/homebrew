@@ -14,9 +14,9 @@ public class SanuiTest {
 //            System.out.println("START");
             Call<String> call;
             Response<String> response;
-//            while (true) {
+            while (true) {
                 try {
-                    call = getCall("387");
+                    call = getCall("459");
                     response = call.execute();
 //                    System.out.println(response.body());
 //
@@ -24,11 +24,11 @@ public class SanuiTest {
 //                    response = call.execute();
 //                    System.out.println(response.body());
 //
-//                    Thread.sleep(100);
+                    Thread.sleep(1000);
                 } catch (Exception e) {
                     e.printStackTrace();
                 }
-//            }
+            }
 
         } catch (Exception e) {
             e.printStackTrace();
