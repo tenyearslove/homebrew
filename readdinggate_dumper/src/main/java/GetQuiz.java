@@ -30,7 +30,7 @@ public class GetQuiz {
 
     public static void main(String args[]) {
         GetSession.getSession(STUDY_ID);
-        String BODY_INFO = "{\"pStudyId\":\"" + STUDY_ID + "\",\"pStudentHistoryId\":\"000077C2017000043\"}";
+        String BODY_INFO = "{\"pStudyId\":\"" + STUDY_ID + "\",\"pStudentHistoryId\":\"000077C2018000136\"}";
         String info = getData(INFO_URL, BODY_INFO);
         try {
             JsonObject jo = new JsonParser().parse(new JsonParser().parse(info).getAsJsonObject().get("d").getAsString()).getAsJsonArray().get(0).getAsJsonObject();
@@ -49,10 +49,10 @@ public class GetQuiz {
 
 
 //        String BODY_STORY = "{\"pStudyId\":\"" + STUDY_ID + "\",\"pStudentHistoryId\":\"000077C2017000043\",\"pStep\":\"story\"}";
-        String BODY_STEP1 = "{\"pStudyId\":\"" + STUDY_ID + "\",\"pStudentHistoryId\":\"000077C2017000043\",\"pStep\":\"1\"}";
-        String BODY_STEP2 = "{\"pStudyId\":\"" + STUDY_ID + "\",\"pStudentHistoryId\":\"000077C2017000043\",\"pStep\":\"2\"}";
-        String BODY_STEP3 = "{\"pStudyId\":\"" + STUDY_ID + "\",\"pStudentHistoryId\":\"000077C2017000043\",\"pStep\":\"3\"}";
-        String BODY_STEP4 = "{\"pStudyId\":\"" + STUDY_ID + "\",\"pStudentHistoryId\":\"000077C2017000043\",\"pStep\":\"4\"}";
+        String BODY_STEP1 = "{\"pStudyId\":\"" + STUDY_ID + "\",\"pStudentHistoryId\":\"000077C2018000136\",\"pStep\":\"1\"}";
+        String BODY_STEP2 = "{\"pStudyId\":\"" + STUDY_ID + "\",\"pStudentHistoryId\":\"000077C2018000136\",\"pStep\":\"2\"}";
+        String BODY_STEP3 = "{\"pStudyId\":\"" + STUDY_ID + "\",\"pStudentHistoryId\":\"000077C2018000136\",\"pStep\":\"3\"}";
+        String BODY_STEP4 = "{\"pStudyId\":\"" + STUDY_ID + "\",\"pStudentHistoryId\":\"000077C2018000136\",\"pStep\":\"4\"}";
 
         //Story.getStep(getData(DATA_URL, BODY_STORY));
 

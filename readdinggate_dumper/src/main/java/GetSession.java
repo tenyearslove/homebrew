@@ -22,7 +22,7 @@ public class GetSession {
     public static final MediaType HTML = MediaType.parse("text/html, application/xhtml+xml");
 
     public static final String ID_PWD = "id=jullian&password=1251";
-    public static final String STUDENT_ID = "000077C2017000043";
+    public static final String STUDENT_ID = "000077C2014000113";
 
     public static void main(String args[]) {
         getSession(null);
@@ -71,7 +71,7 @@ public class GetSession {
             }
             GetQuiz.STUDY_ID = studyId;
 
-            body = RequestBody.create(FORM, "studyId=" + studyId + "&studentHistoryId=000077C2017000043");
+            body = RequestBody.create(FORM, "studyId=" + studyId + "&studentHistoryId=000077C2014000113");
             request = new Request.Builder()
                     .url(STUDY_URL)
                     .post(body)
