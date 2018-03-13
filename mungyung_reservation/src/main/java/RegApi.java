@@ -105,7 +105,7 @@ public class RegApi {
         Interceptor cookieInterceptor = new Interceptor() {
             public Response intercept(Interceptor.Chain chain) throws IOException {
                 Request.Builder builder = chain.request().newBuilder();
-                builder.addHeader("Cookie", "JSESSIONID=8fK4xmMS1wPE1vUKr0NpaaGFyMb2DVa0zm9cWmFAeAox9ddR93RbaSf6n239HkHZ.TUdIT01FX2RvbWFpbi9ob21lcGFnZQ==; counter_main_main_today=667; counter_main_main_yesterday=58; counter_main_main_total=10434; counter_main_main=TJb30fsa; COBEE_AUTH=C2aced1ac.A2c55723882d180_0");
+                builder.addHeader("Cookie", "JSESSIONID=oPks5cEOFblMazpMT7OxsautQpjSFHHYvSNDg3aRl1Q4i0C8Mc3FRtcUipOjJrS3.TUdIT01FX2RvbWFpbi9ob21lcGFnZQ==; counter_main_main_today=667; counter_main_main_yesterday=58; counter_main_main_total=10434; counter_main_main=TJb30fsa; COBEE_AUTH=C2aced1ac.A2c55723882d180_0");
 
                 return chain.proceed(builder.build());
             }

@@ -18,16 +18,94 @@ public class RegTest {
 
             System.out.println("START");
 
+            // 222 북두칠성
+            // 333 남두육성
+
             while (true) {
-                Call<String> callYugaPre = getYugaPreCall("2017-10-04", "223");
-                Call<String> callYuga = getYugaCall("2017-10-04", "2017-10-06", "223");
+                Call<String> callYugaPre = null;
+                Call<String> callYuga = null;
+                String regDate = null;
+                String room = null;
+
+                //북두칠성
+                room = "222";
+
+                regDate = "2018-05-05";
+                callYugaPre = getYugaPreCall(regDate, room);
+                callYuga = getYugaCall(regDate, regDate, room);
                 callYugaPre.execute();
                 callYuga.execute();
 
-                Call<String> callYugaPre2 = getYugaPreCall("2017-10-04", "222");
-                Call<String> callYuga2 = getYugaCall("2017-10-04", "2017-10-06", "222");
-                callYugaPre2.execute();
-                callYuga2.execute();
+                regDate = "2018-05-06";
+                callYugaPre = getYugaPreCall(regDate, room);
+                callYuga = getYugaCall(regDate, regDate, room);
+                callYugaPre.execute();
+                callYuga.execute();
+
+                regDate = "2018-05-07";
+                callYugaPre = getYugaPreCall(regDate, room);
+                callYuga = getYugaCall(regDate, regDate, room);
+                callYugaPre.execute();
+                callYuga.execute();
+
+                //////
+                regDate = "2018-05-19";
+                callYugaPre = getYugaPreCall(regDate, room);
+                callYuga = getYugaCall(regDate, regDate, room);
+                callYugaPre.execute();
+                callYuga.execute();
+
+                regDate = "2018-05-20";
+                callYugaPre = getYugaPreCall(regDate, room);
+                callYuga = getYugaCall(regDate, regDate, room);
+                callYugaPre.execute();
+                callYuga.execute();
+
+                regDate = "2018-05-21";
+                callYugaPre = getYugaPreCall(regDate, room);
+                callYuga = getYugaCall(regDate, regDate, room);
+                callYugaPre.execute();
+                callYuga.execute();
+
+                //남두육성========================================
+                room = "223";
+
+                regDate = "2018-05-05";
+                callYugaPre = getYugaPreCall(regDate, room);
+                callYuga = getYugaCall(regDate, regDate, room);
+                callYugaPre.execute();
+                callYuga.execute();
+
+                regDate = "2018-05-06";
+                callYugaPre = getYugaPreCall(regDate, room);
+                callYuga = getYugaCall(regDate, regDate, room);
+                callYugaPre.execute();
+                callYuga.execute();
+
+                regDate = "2018-05-07";
+                callYugaPre = getYugaPreCall(regDate, room);
+                callYuga = getYugaCall(regDate, regDate, room);
+                callYugaPre.execute();
+                callYuga.execute();
+
+                //////
+                regDate = "2018-05-19";
+                callYugaPre = getYugaPreCall(regDate, room);
+                callYuga = getYugaCall(regDate, regDate, room);
+                callYugaPre.execute();
+                callYuga.execute();
+
+                regDate = "2018-05-20";
+                callYugaPre = getYugaPreCall(regDate, room);
+                callYuga = getYugaCall(regDate, regDate, room);
+                callYugaPre.execute();
+                callYuga.execute();
+
+                regDate = "2018-05-21";
+                callYugaPre = getYugaPreCall(regDate, room);
+                callYuga = getYugaCall(regDate, regDate, room);
+                callYugaPre.execute();
+                callYuga.execute();
 
                 Thread.sleep(60000);
 //                break;
@@ -45,15 +123,15 @@ public class RegTest {
                 "",
                 room, //222, 223
                 "0",
-                "560000",
-                "2",
-                "560000",
+                "280000",
+                "1",
+                "280000",
                 startDate, //"2016-10-29",
                 endDate, //"2016-10-30",
                 "15",
                 "15",
-                "김민주",
-                "김민주",
+                "성시원",
+                "성시원",
                 "",
                 "",
                 "",
@@ -61,8 +139,8 @@ public class RegTest {
                 "",
                 "",
                 "010",
-                "4514",
-                "9849",
+                "4013",
+                "9992",
                 "",
                 ""
         );
@@ -81,7 +159,7 @@ public class RegTest {
                 "",
                 "",
                 "",
-                "[{\"baseprice\":\"280000\",\"priceNum\":\"0\",\"useDay\":\"2\",\"useFacility\":\"" + room + "\",\"totPrice\":\"560000\",\"totPriceDesc\":\"\"}]"
+                "[{\"baseprice\":\"280000\",\"priceNum\":\"0\",\"useDay\":\"1\",\"useFacility\":\"" + room + "\",\"totPrice\":\"280000\",\"totPriceDesc\":\"\"}]"
         );
 
         return callYuga;
