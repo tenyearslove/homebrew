@@ -22,7 +22,10 @@ dependencies {
 }
 
 task execute(type:JavaExec) {
-    main = 'RegTest'
+    main = 'SanuiTest'
     classpath = sourceSets.main.runtimeClasspath
-    jvmArgs = ['-Dhttp.proxyHost=168.219.61.252', '-Dhttp.proxyPort=8080']
+}
+
+task wrapper(type: Wrapper) {
+    gradleVersion = '2.14.1' //version required
 }
