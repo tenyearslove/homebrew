@@ -10,107 +10,43 @@ public class RegTest {
     }
 
     private static void testInstance() {
+        api = RegApi.getInstance();
+
+        Call<String> call;
+        Response<String> response;
+
+        System.out.println("START");
+
+        // 222 북두칠성
+        // 223 남두육성
+
+        while (true) {
+            execute("222", "2018-05-05");
+            execute("222", "2018-05-06");
+            execute("222", "2018-05-07");
+
+            execute("223", "2018-05-05");
+            execute("223", "2018-05-06");
+            execute("223", "2018-05-07");
+        }
+    }
+
+    public static void execute(final String room, final String regDate) {
         try {
-            api = RegApi.getInstance();
-
-            Call<String> call;
-            Response<String> response;
-
-            System.out.println("START");
-
-            // 222 북두칠성
-            // 333 남두육성
-
-            while (true) {
-                Call<String> callYugaPre = null;
-                Call<String> callYuga = null;
-                String regDate = null;
-                String room = null;
-
-                //북두칠성
-                room = "222";
-
-                regDate = "2018-05-05";
-                callYugaPre = getYugaPreCall(regDate, room);
-                callYuga = getYugaCall(regDate, regDate, room);
-                callYugaPre.execute();
-                callYuga.execute();
-
-                regDate = "2018-05-06";
-                callYugaPre = getYugaPreCall(regDate, room);
-                callYuga = getYugaCall(regDate, regDate, room);
-                callYugaPre.execute();
-                callYuga.execute();
-
-                regDate = "2018-05-07";
-                callYugaPre = getYugaPreCall(regDate, room);
-                callYuga = getYugaCall(regDate, regDate, room);
-                callYugaPre.execute();
-                callYuga.execute();
-
-                //////
-                regDate = "2018-05-19";
-                callYugaPre = getYugaPreCall(regDate, room);
-                callYuga = getYugaCall(regDate, regDate, room);
-                callYugaPre.execute();
-                callYuga.execute();
-
-                regDate = "2018-05-20";
-                callYugaPre = getYugaPreCall(regDate, room);
-                callYuga = getYugaCall(regDate, regDate, room);
-                callYugaPre.execute();
-                callYuga.execute();
-
-                regDate = "2018-05-21";
-                callYugaPre = getYugaPreCall(regDate, room);
-                callYuga = getYugaCall(regDate, regDate, room);
-                callYugaPre.execute();
-                callYuga.execute();
-
-                //남두육성========================================
-                room = "223";
-
-                regDate = "2018-05-05";
-                callYugaPre = getYugaPreCall(regDate, room);
-                callYuga = getYugaCall(regDate, regDate, room);
-                callYugaPre.execute();
-                callYuga.execute();
-
-                regDate = "2018-05-06";
-                callYugaPre = getYugaPreCall(regDate, room);
-                callYuga = getYugaCall(regDate, regDate, room);
-                callYugaPre.execute();
-                callYuga.execute();
-
-                regDate = "2018-05-07";
-                callYugaPre = getYugaPreCall(regDate, room);
-                callYuga = getYugaCall(regDate, regDate, room);
-                callYugaPre.execute();
-                callYuga.execute();
-
-                //////
-                regDate = "2018-05-19";
-                callYugaPre = getYugaPreCall(regDate, room);
-                callYuga = getYugaCall(regDate, regDate, room);
-                callYugaPre.execute();
-                callYuga.execute();
-
-                regDate = "2018-05-20";
-                callYugaPre = getYugaPreCall(regDate, room);
-                callYuga = getYugaCall(regDate, regDate, room);
-                callYugaPre.execute();
-                callYuga.execute();
-
-                regDate = "2018-05-21";
-                callYugaPre = getYugaPreCall(regDate, room);
-                callYuga = getYugaCall(regDate, regDate, room);
-                callYugaPre.execute();
-                callYuga.execute();
-
-                Thread.sleep(60000);
-//                break;
-            }
-
+//            new Thread() {
+//                public void run() {
+                    //북두칠성
+                    try {
+                        Call<String> callYugaPre = getYugaPreCall(regDate, room);
+                        Call<String> callYuga = getYugaCall(regDate, regDate, room);
+                        callYugaPre.execute();
+                        callYuga.execute();
+                    } catch (Exception e) {
+                        System.out.println(e.getMessage());
+//                        e.printStackTrace();
+                    }
+//                }
+//            }.start();
         } catch (Exception e) {
             e.printStackTrace();
         }
