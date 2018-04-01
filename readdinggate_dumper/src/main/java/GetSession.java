@@ -64,7 +64,8 @@ public class GetSession {
                     line = sc.nextLine();
                     if (line.contains("_" + STUDENT_ID)) break;
                 }
-                line = line.replaceAll("<button class=\"bt-start onoff\" id=\"", "");
+                line = line.replaceAll("<div class=\"buttonLinkFree\" id=\"", "");
+                line = line.replaceAll("\" style=\"width: 108px; height: 30px; padding-top: 10px;\">", "");
                 line = line.replaceAll(" ", "");
                 line = line.substring(0, line.indexOf('_'));
                 studyId = line;
