@@ -1,0 +1,6 @@
+:compileJava UP-TO-DATE
+:compileGroovy UP-TO-DATE
+:processResources UP-TO-DATE
+:classes UP-TO-DATE
+:execute
+START

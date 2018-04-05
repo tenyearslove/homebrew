@@ -20,25 +20,31 @@ public class RegTest {
         // 222 북두칠성
         // 223 남두육성
 
-        while (true) {
-            execute("222", "2018-05-05");
-            execute("222", "2018-05-06");
-            execute("222", "2018-05-07");
+        String userName = "이정현";
+        String tel = "010-6528-9849";
 
-            execute("223", "2018-05-05");
-            execute("223", "2018-05-06");
-            execute("223", "2018-05-07");
+//        String userName = "성시원";
+//        String tel = "010-4013-9992";
+        while (true) {
+            execute("222", "2018-05-05", "280000", "15", userName, tel);
+            execute("222", "2018-05-06", "280000", "15", userName, tel);
+
+            execute("223", "2018-05-05", "280000", "15", userName, tel);
+            execute("223", "2018-05-06", "280000", "15", userName, tel);
+
+            execute("204", "2018-05-05", "220000", "14", userName, tel);
+            execute("204", "2018-05-06", "220000", "14", userName, tel);
         }
     }
 
-    public static void execute(final String room, final String regDate) {
+    public static void execute(final String room, final String regDate, final String price, String personMax, String userName, String tel) {
         try {
 //            new Thread() {
 //                public void run() {
                     //북두칠성
                     try {
-                        Call<String> callYugaPre = getYugaPreCall(regDate, room);
-                        Call<String> callYuga = getYugaCall(regDate, regDate, room);
+                        Call<String> callYugaPre = getYugaPreCall(regDate, room, price);
+                        Call<String> callYuga = getYugaCall(regDate, regDate, room, price, personMax, userName, tel);
                         callYugaPre.execute();
                         callYuga.execute();
                     } catch (Exception e) {
@@ -52,31 +58,32 @@ public class RegTest {
         }
     }
 
-    public static Call<String> getYugaCall(String startDate, String endDate, String room) {
+    public static Call<String> getYugaCall(String startDate, String endDate, String room, String price, String personMax, String userName, String tel) {
+        String[] telNum = tel.split("-");
         Call<String> callYuga = api.getService().postRegervationYuga(
                 startDate,
                 "1",
                 "",
                 room, //222, 223
                 "0",
-                "280000",
+                price,
                 "1",
-                "280000",
+                price,
                 startDate, //"2016-10-29",
                 endDate, //"2016-10-30",
-                "15",
-                "15",
-                "성시원",
-                "성시원",
+                personMax,
+                personMax,
+                userName,
+                userName,
                 "",
                 "",
                 "",
                 "",
                 "",
                 "",
-                "010",
-                "4013",
-                "9992",
+                telNum[0],
+                telNum[1],
+                telNum[2],
                 "",
                 ""
         );
@@ -85,7 +92,7 @@ public class RegTest {
     }
 
 
-    public static Call<String> getYugaPreCall(String startDate, String room) {
+    public static Call<String> getYugaPreCall(String startDate, String room, String price) {
         Call<String> callYuga = api.getService().postRegervationYugaPre(
                 startDate,
                 "",
@@ -95,7 +102,7 @@ public class RegTest {
                 "",
                 "",
                 "",
-                "[{\"baseprice\":\"280000\",\"priceNum\":\"0\",\"useDay\":\"1\",\"useFacility\":\"" + room + "\",\"totPrice\":\"280000\",\"totPriceDesc\":\"\"}]"
+                "[{\"baseprice\":\"" + price + "\",\"priceNum\":\"0\",\"useDay\":\"1\",\"useFacility\":\"" + room + "\",\"totPrice\":\"" + price + "\",\"totPriceDesc\":\"\"}]"
         );
 
         return callYuga;
