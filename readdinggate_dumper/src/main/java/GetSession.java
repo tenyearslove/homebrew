@@ -5,7 +5,6 @@ import okhttp3.RequestBody;
 import okhttp3.Response;
 
 import java.io.IOException;
-import java.io.StringReader;
 import java.util.Scanner;
 
 /**
@@ -70,9 +69,9 @@ public class GetSession {
                 line = line.substring(0, line.indexOf('_'));
                 studyId = line;
             }
-            GetQuiz.STUDY_ID = studyId;
+            GetQuiz.StudyId = studyId;
 
-            body = RequestBody.create(FORM, "studyId=" + studyId + "&studentHistoryId=000077C2014000113");
+            body = RequestBody.create(FORM, "studyId=" + studyId + "&studentHistoryId=" + GetQuiz.StudentHistoryId);
             request = new Request.Builder()
                     .url(STUDY_URL)
                     .post(body)
