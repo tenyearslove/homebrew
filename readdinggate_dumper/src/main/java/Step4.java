@@ -24,7 +24,9 @@ public class Step4 {
         }
     }
 
-    public static void getStep(String qzJson, String title) {
+    public static void getStep(String studyId, String studentHistoryId) {
+        String BODY_STEP4 = GetQuiz.getRequestBodyJson("4");
+        String qzJson = GetQuiz.getData(GetQuiz.DATA_URL, BODY_STEP4);
         GetQuiz.writeOutput(String.format("%s (%s)", "STEP 4", GetQuiz.title));
 
         JsonObject root = new JsonParser().parse(qzJson).getAsJsonObject();
@@ -47,16 +49,26 @@ public class Step4 {
                 soundPath = v("QuestionSoundPath");
             }
             String contentsId = v("ContentsId");
-            String filename = title + "-" + quizNo + ".mp3";
+            String filename = GetQuiz.title + "-" + quizNo + ".mp3";
             saveUrl(filename, soundPath);
             filenames.add(filename);
 
             GetQuiz.writeOutput(String.format("[%s] %s\n", quizNo, question.replaceAll("┒", "[          ]")));
 
             answer[p] = correct.replaceAll("┒", ", ");
+
+            try {
+                String quizId = v("QuizId");
+                String requestJson = GetQuiz.getSaveTestResultJson(studyId, studentHistoryId, "4", quizId, quizNo, p + 1, "1", question, "1", (p == size-1), true);
+//                System.out.println(requestJson);
+                String response = GetQuiz.getData(GetQuiz.SAVE_RESULT_URL, requestJson);
+//                System.out.println("###" + response);
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
         }
         try {
-            Dropbox.upload(title, filenames);
+            Dropbox.upload(GetQuiz.title, filenames);
             for (String file : filenames) {
                 new File(file).delete();
             }

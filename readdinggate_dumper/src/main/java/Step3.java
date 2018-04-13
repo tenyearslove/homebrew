@@ -6,6 +6,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.net.URLEncoder;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -15,16 +16,19 @@ public class Step3 {
 
     static JsonObject gObject = null;
 
-    public static void main(String[] args) {
-        try {
-            String qzJson = new Scanner(new File("step3.json")).useDelimiter("\\Z").next();
-            getStep(qzJson);
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-    }
+//    public static void main(String[] args) {
+//        try {
+//            String qzJson = new Scanner(new File("step3.json")).useDelimiter("\\Z").next();
+//            getStep(qzJson);
+//        } catch (Exception e) {
+//            e.printStackTrace();
+//        }
+//    }
 
-    public static void getStep(String qzJson) {
+    public static void getStep(String studyId, String studentHistoryId) {
+        String BODY_STEP3 = GetQuiz.getRequestBodyJson("3");
+        String qzJson = GetQuiz.getData(GetQuiz.DATA_URL, BODY_STEP3);
+
         GetQuiz.writeOutput(String.format("%s (%s)", "STEP 3", GetQuiz.title));
 
         JsonObject root = new JsonParser().parse(qzJson).getAsJsonObject();
@@ -40,10 +44,21 @@ public class Step3 {
             String correct = v("Correct");
             String seq = v("Seq");
 
-            if (correct == null)
+            if (correct == null) {// order Quiz
                 orderQuestion.add(question);
 //                GetQuiz.writeOutput(String.format("%s", question));
-            else {
+
+                try {
+                    String quizId = v("QuizId");
+                    String quizNo = v("QuizNo");
+                    String requestJson = GetQuiz.getSaveTestResultJson(studyId, studentHistoryId, "3", quizId, quizNo, p + 1, "1", question, "1", (p == size-1), false);
+//                    System.out.println(requestJson);
+                    String response = GetQuiz.getData(GetQuiz.SAVE_RESULT_URL, requestJson);
+//                    System.out.println("###" + response);
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+            } else { //OX quiz
                 if (answer == null) {
                     answer = new String[size];
                 }

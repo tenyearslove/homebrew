@@ -23,6 +23,8 @@ public class GetQuiz {
 
     public static final String DATA_URL = "http://study6.readinggate.com/hp/asmx/wsBrPb.asmx/GetQuizData";
 
+    public static final String SAVE_RESULT_URL = "http://study6.readinggate.com/hp/asmx/wsBrPb.asmx/SaveTestResult";
+
     public static String title = "default";
 
     public static BufferedWriter bw = null;
@@ -39,32 +41,19 @@ public class GetQuiz {
         }
 
         try {
-            bw = new BufferedWriter(new FileWriter(new File("/home/siwon.sung/Samba/Reading Gate/" + title + ".txt")));
+            bw = new BufferedWriter(new FileWriter(new File("E:/Reading Gate/" + title + ".txt")));
         } catch (Exception e) {
             e.printStackTrace();
         }
-//        GetQuiz.writeOutput(title);
-//        GetQuiz.writeOutput("");
-
-
-
-//        String BODY_STORY = "{\"StudyId\":\"" + StudyId + "\",\"pStudentHistoryId\":\"000077C2017000043\",\"pStep\":\"story\"}";
-        String BODY_STEP1 = getRequestBodyJson(1);
-        String BODY_STEP2 = getRequestBodyJson(2);
-        String BODY_STEP3 = getRequestBodyJson(3);
-        String BODY_STEP4 = getRequestBodyJson(4);
-
-        //Story.getStep(getData(DATA_URL, BODY_STORY));
 
         GivePoint.getStep(StudyId, StudentHistoryId);
-
-        Step1.getStep(StudyId, StudentHistoryId, getData(DATA_URL, BODY_STEP1));
+        Step1.getStep(StudyId, StudentHistoryId);
         GetQuiz.writeOutput("\n\n");
-        Step2.getStep(getData(DATA_URL, BODY_STEP2));
+        Step2.getStep(StudyId, StudentHistoryId);
         GetQuiz.writeOutput("\n\n");
-        Step3.getStep(getData(DATA_URL, BODY_STEP3));
+        Step3.getStep(StudyId, StudentHistoryId);
         GetQuiz.writeOutput("\n\n");
-        Step4.getStep(getData(DATA_URL, BODY_STEP4), title);
+        Step4.getStep(StudyId, StudentHistoryId);
 
         try {
             bw.flush();
@@ -74,7 +63,7 @@ public class GetQuiz {
         }
     }
 
-    public static String getRequestBodyJson(Integer step) {
+    public static String getRequestBodyJson(String step) {
         JsonObject jo = new JsonObject();
         jo.add("pStudyId", new JsonPrimitive(StudyId));
         jo.add("pStudentHistoryId", new JsonPrimitive(StudentHistoryId));
@@ -108,5 +97,49 @@ public class GetQuiz {
         } catch (Exception e) {
             e.printStackTrace();
         }
+    }
+
+    public static String getSaveTestResultJson(
+            String study_id,
+            String student_history_id,
+            String step,
+            String quiz_id,
+            String quiz_no,
+            int current_quiz_no,
+            String ox,
+            String correct,
+            String answer_count,
+            boolean isLastQuiz,
+            boolean isStudyEnd
+    ) {
+        JsonObject jo = new JsonObject();
+        jo.add("study_id", new JsonPrimitive(study_id));
+        jo.add("student_history_id", new JsonPrimitive(student_history_id));
+        jo.add("study_type_code", new JsonPrimitive("001001"));
+        jo.add("step", new JsonPrimitive(step));
+        jo.add("quiz_id", new JsonPrimitive(quiz_id));
+        jo.add("quiz_no", new JsonPrimitive(quiz_no));
+        jo.add("current_quiz_no", new JsonPrimitive("" + current_quiz_no));
+        jo.add("ox", new JsonPrimitive(ox));
+        jo.add("temp_text", new JsonPrimitive(""));
+        jo.add("penalty_word", new JsonPrimitive(""));
+        jo.add("correct", new JsonPrimitive(correct));
+        jo.add("student_answer", new JsonPrimitive(correct));
+        jo.add("answer_count", new JsonPrimitive(answer_count));
+        jo.add("score", new JsonPrimitive(isLastQuiz?"100":"0"));
+        jo.add("save_type", new JsonPrimitive(""));
+        jo.add("last_quiz_yn", new JsonPrimitive(isLastQuiz?"Y":"N"));
+        jo.add("study_end_yn", new JsonPrimitive(isStudyEnd?"Y":"N"));
+        jo.add("delete_penalty_yn", new JsonPrimitive("N"));
+        jo.add("revision_yn", new JsonPrimitive("N"));
+
+
+        JsonObject top = new JsonObject();
+        top.add("jsonStr", new JsonPrimitive(jo.toString()));
+
+        String retStr = top.toString();
+        //System.out.println(retStr);
+
+        return retStr;
     }
 }

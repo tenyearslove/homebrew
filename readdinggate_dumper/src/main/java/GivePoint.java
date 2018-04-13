@@ -18,6 +18,6 @@ public class GivePoint {
         jo.add("pPoint", new JsonPrimitive("50"));
 
         String response = GetQuiz.getData(DATA_URL, jo.toString());
-        System.out.println(response);
+//        System.out.println(response);
     }
 }
