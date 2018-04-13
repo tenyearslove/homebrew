@@ -17,7 +17,7 @@ public class Step1 {
     }
 
     public static void getStep(String studyId, String studentHistoryId, String qzJson) {
-        GetQuiz.writeOutput(String.format("%s (%s)", "STEP 1\n", GetQuiz.title));
+        GetQuiz.writeOutput(String.format("%s (%s)\n", "STEP 1", GetQuiz.title));
 
         JsonObject root = new JsonParser().parse(qzJson).getAsJsonObject();
         JsonPrimitive d = (JsonPrimitive) root.get("d");
@@ -56,10 +56,18 @@ public class Step1 {
             String quizId = v("QuizId");
             String quizNo = v("QuizNo");
 
-            String requestJson = getSaveTestResultJson(studyId, studentHistoryId, "1", quizId, quizNo);
+            String score = "0";
+            String last_quiz_yn = "N";
 
-//            String response = GetQuiz.getData("http://study6.readinggate.com/hp/asmx/wsBrPb.asmx/SaveTestResult", requestJson);
-//            System.out.println("###" + response);
+            if (p == size - 1) {
+                score = "100";
+                last_quiz_yn = "Y";
+            }
+
+            String requestJson = getSaveTestResultJson(studyId, studentHistoryId, "1", quizId, quizNo, answer[p], last_quiz_yn, score);
+
+            String response = GetQuiz.getData("http://study6.readinggate.com/hp/asmx/wsBrPb.asmx/SaveTestResult", requestJson);
+            System.out.println("###" + response);
 
         }
         GetQuiz.writeOutput("\n\nStep1 - Answer " + "(" + GetQuiz.title + ")\n");
@@ -99,10 +107,12 @@ public class Step1 {
             String student_history_id,
             String step,
             String quiz_id,
-            String quiz_no
+            String quiz_no,
 //            String current_quiz_no,
-//            String correct,
+            String correct,
 //            String student_answer
+            String last_quiz_yn,
+            String score
     ) {
         //jsonStr={ study_id :"000077C2018001371" , student_history_id :"000077C2018000136" , study_type_code :"001001" ,
         // step :"1" , quiz_id :"12372" , quiz_no :"1" , current_quiz_no :"1" , ox :"1" , temp_text :"" , penalty_word :"" ,
@@ -126,12 +136,12 @@ public class Step1 {
         jo.add("ox", new JsonPrimitive("1"));
         jo.add("temp_text", new JsonPrimitive(""));
         jo.add("penalty_word", new JsonPrimitive(""));
-        jo.add("correct", new JsonPrimitive("1"));
-        jo.add("student_answer", new JsonPrimitive("1"));
+        jo.add("correct", new JsonPrimitive(correct));
+        jo.add("student_answer", new JsonPrimitive(correct));
         jo.add("answer_count", new JsonPrimitive("1"));
-        jo.add("score", new JsonPrimitive("0"));
+        jo.add("score", new JsonPrimitive(score));
         jo.add("save_type", new JsonPrimitive(""));
-        jo.add("last_quiz_yn", new JsonPrimitive("N"));
+        jo.add("last_quiz_yn", new JsonPrimitive(last_quiz_yn));
         jo.add("study_end_yn", new JsonPrimitive("N"));
         jo.add("delete_penalty_yn", new JsonPrimitive("N"));
         jo.add("revision_yn", new JsonPrimitive("N"));
@@ -141,7 +151,7 @@ public class Step1 {
         top.add("jsonStr", new JsonPrimitive(jo.toString()));
 
         String retStr = top.toString();
-//        System.out.println(retStr);
+        System.out.println(retStr);
 
         return retStr;
     }
