@@ -2,13 +2,6 @@ import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 import com.google.gson.JsonPrimitive;
-import com.sun.xml.internal.fastinfoset.vocab.Vocabulary;
-
-import java.io.File;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
-import java.util.Scanner;
 
 public class Step2 {
 
@@ -34,12 +27,12 @@ public class Step2 {
             int size = ja.size();
             for (int p = 0; p < size; p++) {
                 gObject = ja.get(p).getAsJsonObject();
-                for (int i = 1 ; i <= 2 ; i++) {
+                for (int i = 1; i <= 2; i++) {
                     String quizId = v("QuizId");
                     String quizNo = v("QuizNo");
                     String vocabulary = v("Vocabulary");
 
-                    String requestJson = GetQuiz.getSaveTestResultJson(studyId, studentHistoryId, "2P", quizId, quizNo, p+1, "", vocabulary, ""+i, false, false);
+                    String requestJson = GetQuiz.getSaveTestResultJson(studyId, studentHistoryId, "2P", quizId, quizNo, p + 1, "", vocabulary, "" + i, false, false);
                     String response = GetQuiz.getData(GetQuiz.SAVE_RESULT_URL, requestJson);
 //                    System.out.println("###" + response);
                 }
@@ -79,7 +72,7 @@ public class Step2 {
                 String quizId = v("QuizId");
                 String quizNo = v("QuizNo");
 
-                String requestJson = GetQuiz.getSaveTestResultJson(studyId, studentHistoryId, "2", quizId, quizNo, p+1, "1", vocabulary, "1", (p == size-1), false);
+                String requestJson = GetQuiz.getSaveTestResultJson(studyId, studentHistoryId, "2", quizId, quizNo, p + 1, "1", vocabulary, "1", (p == size - 1), false);
                 String response = GetQuiz.getData(GetQuiz.SAVE_RESULT_URL, requestJson);
 //                System.out.println("###" + response);
             }
