@@ -1,0 +1,2284 @@
+apt;1;;;1;1;1;apt;~하는 경향이 있는, 적당한;;WORD_1_1_1.mp3;WORD_1_1_1_1.mp3;0;;;1
+astonished;1;;;1;1;2;astonish;놀라게 하다;;WORD_1_1_2.mp3;WORD_1_1_2_1.mp3;0;;;2
+chronically;1;;;1;1;3;chronically;만성적으로;;WORD_1_1_3.mp3;WORD_1_1_3_1.mp3;0;;;3
+daubing;1;;;1;1;4;daub;흠뻑 칠하다;;WORD_1_1_4.mp3;WORD_1_1_4_1.mp3;0;;;4
+domain;1;;;1;1;5;domain;지역, 영토;;WORD_1_1_5.mp3;WORD_1_1_5_1.mp3;0;;;5
+enthusiastic ;1;;;1;1;6;enthusiastic;열성적인;;WORD_1_1_6.mp3;WORD_1_1_6_1.mp3;0;;;6
+extends;1;;;1;1;7;extend;(어떤 거리까지) 걸쳐 있다, 확장하다, 늘리다;;WORD_1_1_7.mp3;WORD_1_1_7_1.mp3;0;;;7
+feat;1;;;1;1;8;feat;업적;;WORD_1_1_8.mp3;WORD_1_1_8_1.mp3;0;;;8
+fulfill ;1;;;1;1;9;fulfill;성취하다, 만족시키다;;WORD_1_1_9.mp3;WORD_1_1_9_1.mp3;0;;;9
+gave over to ;1;;;1;1;10;give over to;헌신하다, 바치다;;WORD_1_1_10.mp3;WORD_1_1_10_1.mp3;0;;;10
+heavy;1;;;1;1;11;heavy;무거운, 고된;;WORD_1_1_11.mp3;WORD_1_1_11_1.mp3;0;;;11
+hibernation;1;;;1;1;12;hibernation;동면;;WORD_1_1_12.mp3;WORD_1_1_12_1.mp3;0;;;12
+illusion ;1;;;1;1;13;illusion;착각, 오해;;WORD_1_1_13.mp3;WORD_1_1_13_1.mp3;0;;;13
+intrigued;1;;;1;1;14;intrigue;(주의관심을) 끌다, 음모를 꾸미다;;WORD_1_1_14.mp3;WORD_1_1_14_1.mp3;0;;;14
+luxuriant;1;;;1;1;15;luxuriant;무성한, 풍부한;;WORD_1_1_15.mp3;WORD_1_1_15_1.mp3;0;;;15
+magnitude ;1;;;1;1;16;magnitude;정도, 크기;;WORD_1_1_16.mp3;WORD_1_1_16_1.mp3;0;;;16
+maintained;1;;;1;1;17;maintain;주장하다, 지속하다;;WORD_1_1_17.mp3;WORD_1_1_17_1.mp3;0;;;17
+monitors;1;;;1;1;18;monitor;조사하다;;WORD_1_1_18.mp3;WORD_1_1_18_1.mp3;0;;;18
+outbreak ;1;;;1;1;19;outbreak;(전염병 등의) 만연, 창궐,  폭발;;WORD_1_1_19.mp3;WORD_1_1_19_1.mp3;0;;;19
+periodically;1;;;1;1;20;periodically;주기적으로;;WORD_1_1_20.mp3;WORD_1_1_20_1.mp3;0;;;20
+released;1;;;1;1;21;release;해방시키다, 뿜다, 방출하다, (묶인 것을) 풀다;;WORD_1_1_21.mp3;WORD_1_1_21_1.mp3;0;;;21
+rendering;1;;;1;1;22;rendering;연주, 공연;;WORD_1_1_22.mp3;WORD_1_1_22_1.mp3;0;;;22
+renowned;1;;;1;1;23;renowned;유명한;;WORD_1_1_23.mp3;WORD_1_1_23_1.mp3;0;;;23
+reproduce;1;;;1;1;24;reproduce;복제하다, 번식하다;;WORD_1_1_24.mp3;WORD_1_1_24_1.mp3;0;;;24
+rugged;1;;;1;1;25;rugged;울퉁불퉁한;;WORD_1_1_25.mp3;WORD_1_1_25_1.mp3;0;;;25
+self-sufficient ;1;;;1;1;26;self-sufficient;자급자족하는, 제힘으로 살아가는;;WORD_1_1_26.mp3;WORD_1_1_26_1.mp3;0;;;26
+speculative;1;;;1;1;27;speculative;이론적인, 사색적인;;WORD_1_1_27.mp3;WORD_1_1_27_1.mp3;0;;;27
+stimulate;1;;;1;1;28;stimulate;자극하다, 격려하다;;WORD_1_1_28.mp3;WORD_1_1_28_1.mp3;0;;;28
+subordinate;1;;;1;1;29;subordinate;종속적인;;WORD_1_1_29.mp3;WORD_1_1_29_1.mp3;0;;;29
+torrential;1;;;1;1;30;torrential;격렬한;;WORD_1_1_30.mp3;WORD_1_1_30_1.mp3;0;;;30
+address;2;;;1;2;1;address;주소, 강연;;WORD_1_2_1.mp3;WORD_1_2_1_1.mp3;0;;;31
+assumes;2;;;1;2;2;assume;맡다, ~인 척하다, ~라고 생각하다, 추측하다;;WORD_1_2_2.mp3;WORD_1_2_2_1.mp3;0;;;32
+attain;2;;;1;2;3;attain;도달하다, 성취하다, 이루다;;WORD_1_2_3.mp3;WORD_1_2_3_1.mp3;0;;;33
+boasted;2;;;1;2;4;boast;자랑하다;;WORD_1_2_4.mp3;WORD_1_2_4_1.mp3;0;;;34
+capacity;2;;;1;2;5;capacity;용적, 능력;;WORD_1_2_5.mp3;WORD_1_2_5_1.mp3;0;;;35
+ceded ;2;;;1;2;6;cede;양도하다, 포기하다;;WORD_1_2_6.mp3;WORD_1_2_6_1.mp3;0;;;36
+declining;2;;;1;2;7;decline;거절하다, 하락하다, 쇠퇴하다;;WORD_1_2_7.mp3;WORD_1_2_7_1.mp3;0;;;37
+deserted;2;;;1;2;8;desert;버리다;;WORD_1_2_8.mp3;WORD_1_2_8_1.mp3;0;;;38
+disassembled;2;;;1;2;9;disassemble;분해하다;;WORD_1_2_9.mp3;WORD_1_2_9_1.mp3;0;;;39
+disposed;2;;;1;2;10;dispose;배치하다, 배열하다;;WORD_1_2_10.mp3;WORD_1_2_10_1.mp3;0;;;40
+dispose of;2;;;1;2;11;dispose of;처리하다;;WORD_1_2_11.mp3;WORD_1_2_11_1.mp3;0;;;41
+erode ;2;;;1;2;12;erode;침식하다, 부식되다;;WORD_1_2_12.mp3;WORD_1_2_12_1.mp3;0;;;42
+fairly;2;;;1;2;13;fairly;꽤, 공정하게;;WORD_1_2_13.mp3;WORD_1_2_13_1.mp3;0;;;43
+glossy ;2;;;1;2;14;glossy;빛나는, 광택이 나는;;WORD_1_2_14.mp3;WORD_1_2_14_1.mp3;0;;;44
+grounds;2;;;1;2;15;grounds;근거, 이유;;WORD_1_2_15.mp3;WORD_1_2_15_1.mp3;0;;;45
+hallmark;2;;;1;2;16;hallmark;특징;;WORD_1_2_16.mp3;WORD_1_2_16_1.mp3;0;;;46
+ideal;2;;;1;2;17;ideal;이상적인, 전형의, 관념적인;;WORD_1_2_17.mp3;WORD_1_2_17_1.mp3;0;;;47
+inhabit ;2;;;1;2;18;inhabit;거주하다;;WORD_1_2_18.mp3;WORD_1_2_18_1.mp3;0;;;48
+laborious;2;;;1;2;19;laborious;근면한;;WORD_1_2_19.mp3;WORD_1_2_19_1.mp3;0;;;49
+lingered ;2;;;1;2;20;linger;남다, 꾸물거리다, 질질 끌다;;WORD_1_2_20.mp3;WORD_1_2_20_1.mp3;0;;;50
+loathes ;2;;;1;2;21;loathe;혐오하다;;WORD_1_2_21.mp3;WORD_1_2_21_1.mp3;0;;;51
+mimic;2;;;1;2;22;mimic;모방하다;;WORD_1_2_22.mp3;WORD_1_2_22_1.mp3;0;;;52
+model ;2;;;1;2;23;model;견본;;WORD_1_2_23.mp3;WORD_1_2_23_1.mp3;0;;;53
+observe;2;;;1;2;24;observe;관찰하다, 알아채다, 준수하다;;WORD_1_2_24.mp3;WORD_1_2_24_1.mp3;0;;;54
+plentiful;2;;;1;2;25;plentiful;풍부한;;WORD_1_2_25.mp3;WORD_1_2_25_1.mp3;0;;;55
+preoccupied;2;;;1;2;26;preoccupied;몰두한;;WORD_1_2_26.mp3;WORD_1_2_26_1.mp3;0;;;56
+property;2;;;1;2;27;property;자산, 특성;;WORD_1_2_27.mp3;WORD_1_2_27_1.mp3;0;;;57
+recurring;2;;;1;2;28;recurring;되풀이되는;;WORD_1_2_28.mp3;WORD_1_2_28_1.mp3;0;;;58
+rooted;2;;;1;2;29;rooted;뿌리 깊은, 정착한;;WORD_1_2_29.mp3;WORD_1_2_29_1.mp3;0;;;59
+thoroughly ;2;;;1;2;30;thoroughly;철저히, 완전히;;WORD_1_2_30.mp3;WORD_1_2_30_1.mp3;0;;;60
+afforded;3;;;1;3;1;afford;주다;;WORD_1_3_1.mp3;WORD_1_3_1_1.mp3;0;;;61
+announced;3;;;1;3;2;announce;공포하다;;WORD_1_3_2.mp3;WORD_1_3_2_1.mp3;0;;;62
+a wide range of;3;;;1;3;3;a wide range of;다양한;;WORD_1_3_3.mp3;WORD_1_3_3_1.mp3;0;;;63
+chance ;3;;;1;3;4;chance;가능성, 기회;;WORD_1_3_4.mp3;WORD_1_3_4_1.mp3;0;;;64
+charted;3;;;1;3;5;chart;(지도 등을) 작성하다;;WORD_1_3_5.mp3;WORD_1_3_5_1.mp3;0;;;65
+engaged;3;;;1;3;6;engage;약속하다, 예약하다, 고용하다;;WORD_1_3_6.mp3;WORD_1_3_6_1.mp3;0;;;66
+esteemed;3;;;1;3;7;esteem;존경하다, 중하게 여기다;;WORD_1_3_7.mp3;WORD_1_3_7_1.mp3;0;;;67
+evidence;3;;;1;3;8;evidence;증거, 징후;;WORD_1_3_8.mp3;WORD_1_3_8_1.mp3;0;;;68
+fertile ;3;;;1;3;9;fertile;비옥한;;WORD_1_3_9.mp3;WORD_1_3_9_1.mp3;0;;;69
+generate;3;;;1;3;10;generate;발생시키다;;WORD_1_3_10.mp3;WORD_1_3_10_1.mp3;0;;;70
+innate;3;;;1;3;11;innate;타고난;;WORD_1_3_11.mp3;WORD_1_3_11_1.mp3;0;;;71
+invaluable ;3;;;1;3;12;invaluable;매우 귀중한;;WORD_1_3_12.mp3;WORD_1_3_12_1.mp3;0;;;72
+irreparable;3;;;1;3;13;irreparable;돌이킬 수 없는;;WORD_1_3_13.mp3;WORD_1_3_13_1.mp3;0;;;73
+maxim;3;;;1;3;14;maxim;격언, 행동 원칙;;WORD_1_3_14.mp3;WORD_1_3_14_1.mp3;0;;;74
+objected;3;;;1;3;15;object;항의하다, 목적;;WORD_1_3_15.mp3;WORD_1_3_15_1.mp3;0;;;75
+outstanding;3;;;1;3;16;outstanding;뛰어난, 미결제의;;WORD_1_3_16.mp3;WORD_1_3_16_1.mp3;0;;;76
+patron;3;;;1;3;17;patron;후원자, 고객;;WORD_1_3_17.mp3;WORD_1_3_17_1.mp3;0;;;77
+predominate;3;;;1;3;18;predominate;우세하다, 지배력을 갖다;;WORD_1_3_18.mp3;WORD_1_3_18_1.mp3;0;;;78
+previous;3;;;1;3;19;previous;이전의;;WORD_1_3_19.mp3;WORD_1_3_19_1.mp3;0;;;79
+premise ;3;;;1;3;20;premise;전제;;WORD_1_3_20.mp3;WORD_1_3_20_1.mp3;0;;;80
+primitive;3;;;1;3;21;primitive;원시적인, 기본적인;;WORD_1_3_21.mp3;WORD_1_3_21_1.mp3;0;;;81
+proficiency;3;;;1;3;22;proficiency;능숙함;;WORD_1_3_22.mp3;WORD_1_3_22_1.mp3;0;;;82
+proposition;3;;;1;3;23;proposition;제안;;WORD_1_3_23.mp3;WORD_1_3_23_1.mp3;0;;;83
+questionable;3;;;1;3;24;questionable;의심스러운;;WORD_1_3_24.mp3;WORD_1_3_24_1.mp3;0;;;84
+rife with ;3;;;1;3;25;rife with;가득찬, 수없이 많은;;WORD_1_3_25.mp3;WORD_1_3_25_1.mp3;0;;;85
+shield;3;;;1;3;26;shield;보호하다;;WORD_1_3_26.mp3;WORD_1_3_26_1.mp3;0;;;86
+solitary ;3;;;1;3;27;solitary;외딴, 고독한;;WORD_1_3_27.mp3;WORD_1_3_27_1.mp3;0;;;87
+stick;3;;;1;3;28;stick;달라붙다, 고수하다;;WORD_1_3_28.mp3;WORD_1_3_28_1.mp3;0;;;88
+stimulus ;3;;;1;3;29;stimulus;자극, 격려;;WORD_1_3_29.mp3;WORD_1_3_29_1.mp3;0;;;89
+stir ;3;;;1;3;30;stir;자극하다;;WORD_1_3_30.mp3;WORD_1_3_30_1.mp3;0;;;90
+taboo ;3;;;1;3;31;taboo;금기;;WORD_1_3_31.mp3;WORD_1_3_31_1.mp3;0;;;91
+thrived;3;;;1;3;32;thrive;번성하다;;WORD_1_3_32.mp3;WORD_1_3_32_1.mp3;0;;;92
+vagaries;3;;;1;3;33;vagary;예측 불허의 변화;;WORD_1_3_33.mp3;WORD_1_3_33_1.mp3;0;;;93
+waned;3;;;1;3;34;wane;감소하다, 쇠퇴하다;;WORD_1_3_34.mp3;WORD_1_3_34_1.mp3;0;;;94
+views;3;;;1;3;35;view;견해, 의견, 간주하다;;WORD_1_3_35.mp3;WORD_1_3_35_1.mp3;0;;;95
+achieved;4;;;1;4;1;achieve;성취하다;;WORD_1_4_1.mp3;WORD_1_4_1_1.mp3;0;;;96
+anchored;4;;;1;4;2;anchor;고정시키다;;WORD_1_4_2.mp3;WORD_1_4_2_1.mp3;0;;;97
+attributes;4;;;1;4;3;attribute;~의 탓으로 돌리다, 특성;;WORD_1_4_3.mp3;WORD_1_4_3_1.mp3;0;;;98
+brisk ;4;;;1;4;4;brisk;활기 있는;;WORD_1_4_4.mp3;WORD_1_4_4_1.mp3;0;;;99
+codify;4;;;1;4;5;codify;(체계적으로) 정리하다;;WORD_1_4_5.mp3;WORD_1_4_5_1.mp3;0;;;100
+consummate;4;;;1;4;6;consummate;뛰어난, 완전한;;WORD_1_4_6.mp3;WORD_1_4_6_1.mp3;0;;;101
+descent;4;;;1;4;7;descent;하강, 혈통, 기원;;WORD_1_4_7.mp3;WORD_1_4_7_1.mp3;0;;;102
+disseminated ;4;;;1;4;8;disseminate;퍼뜨리다;;WORD_1_4_8.mp3;WORD_1_4_8_1.mp3;0;;;103
+earned;4;;;1;4;9;earn;획득하다;;WORD_1_4_9.mp3;WORD_1_4_9_1.mp3;0;;;104
+emergence;4;;;1;4;10;emergence;출현, 부상;;WORD_1_4_10.mp3;WORD_1_4_10_1.mp3;0;;;105
+facilitate;4;;;1;4;11;facilitate;(일을) 용이하게 하다;;WORD_1_4_11.mp3;WORD_1_4_11_1.mp3;0;;;106
+fervent;4;;;1;4;12;fervent;열정적인;;WORD_1_4_12.mp3;WORD_1_4_12_1.mp3;0;;;107
+fine;4;;;1;4;13;fine;미세한, 섬세한, 가느다란;;WORD_1_4_13.mp3;WORD_1_4_13_1.mp3;0;;;108
+frivolous ;4;;;1;4;14;frivolous;사소한;;WORD_1_4_14.mp3;WORD_1_4_14_1.mp3;0;;;109
+giants ;4;;;1;4;15;giant;거인;;WORD_1_4_15.mp3;WORD_1_4_15_1.mp3;0;;;110
+golden age;4;;;1;4;16;golden age;황금 시대, 전성기;;WORD_1_4_16.mp3;WORD_1_4_16_1.mp3;0;;;111
+grasp;4;;;1;4;17;grasp;붙잡다, 이해하다, 파악하다;;WORD_1_4_17.mp3;WORD_1_4_17_1.mp3;0;;;112
+hamstrung;4;;;1;4;18;hamstrung;무력한, 불구의;;WORD_1_4_18.mp3;WORD_1_4_18_1.mp3;0;;;113
+haphazard;4;;;1;4;19;haphazard;되는대로의, 우연의;;WORD_1_4_19.mp3;WORD_1_4_19_1.mp3;0;;;114
+incidental ;4;;;1;4;20;incidental;중요하지 않은, 우연한;;WORD_1_4_20.mp3;WORD_1_4_20_1.mp3;0;;;115
+initiated;4;;;1;4;21;initiate;시작하다;;WORD_1_4_21.mp3;WORD_1_4_21_1.mp3;0;;;116
+make up;4;;;1;4;22;make up;창작하다, 창안하다;;WORD_1_4_22.mp3;WORD_1_4_22_1.mp3;0;;;117
+manifold;4;;;1;4;23;manifold;가지각색의;;WORD_1_4_23.mp3;WORD_1_4_23_1.mp3;0;;;118
+obliterate;4;;;1;4;24;obliterate;제거하다;;WORD_1_4_24.mp3;WORD_1_4_24_1.mp3;0;;;119
+period ;4;;;1;4;25;period;시대;;WORD_1_4_25.mp3;WORD_1_4_25_1.mp3;0;;;120
+proceeding;4;;;1;4;26;proceed;나아가다;;WORD_1_4_26.mp3;WORD_1_4_26_1.mp3;0;;;121
+procure;4;;;1;4;27;procure;얻다;;WORD_1_4_27.mp3;WORD_1_4_27_1.mp3;0;;;122
+professional ;4;;;1;4;28;professional;전문적인;;WORD_1_4_28.mp3;WORD_1_4_28_1.mp3;0;;;123
+redundancy;4;;;1;4;29;redundancy;여분, 장황;;WORD_1_4_29.mp3;WORD_1_4_29_1.mp3;0;;;124
+responsible;4;;;1;4;30;responsible;책임이 있는;;WORD_1_4_30.mp3;WORD_1_4_30_1.mp3;0;;;125
+sharp;4;;;1;4;31;sharp;날카로운, 예리한, 급격한;;WORD_1_4_31.mp3;WORD_1_4_31_1.mp3;0;;;126
+supplement;4;;;1;4;32;supplement;보충하다, 추가, 부가;;WORD_1_4_32.mp3;WORD_1_4_32_1.mp3;0;;;127
+suspended;4;;;1;4;33;suspend;연기하다, 중지하다, 매달;;WORD_1_4_33.mp3;WORD_1_4_33_1.mp3;0;;;128
+tailored;4;;;1;4;34;tailored;맞추어진;;WORD_1_4_34.mp3;WORD_1_4_34_1.mp3;0;;;129
+aimlessly;5;;;1;5;1;aimlessly;목적 없이;;WORD_1_5_1.mp3;WORD_1_5_1_1.mp3;0;;;130
+allied ;5;;;1;5;2;ally;~와 동맹하다, 연합하다;;WORD_1_5_2.mp3;WORD_1_5_2_1.mp3;0;;;131
+anonymous ;5;;;1;5;3;anonymous;익명의;;WORD_1_5_3.mp3;WORD_1_5_3_1.mp3;0;;;132
+anticipated;5;;;1;5;4;anticipate;예견하다;;WORD_1_5_4.mp3;WORD_1_5_4_1.mp3;0;;;133
+archaic ;5;;;1;5;5;archaic;원시적인, 구식의;;WORD_1_5_5.mp3;WORD_1_5_5_1.mp3;0;;;134
+asset;5;;;1;5;6;asset;이점, 장점;;WORD_1_5_6.mp3;WORD_1_5_6_1.mp3;0;;;135
+behavior ;5;;;1;5;7;behavior;행동;;WORD_1_5_7.mp3;WORD_1_5_7_1.mp3;0;;;136
+ceaseless;5;;;1;5;8;ceaseless;끊임없는;;WORD_1_5_8.mp3;WORD_1_5_8_1.mp3;0;;;137
+changed ;5;;;1;5;9;change;변화시키다;;WORD_1_5_9.mp3;WORD_1_5_9_1.mp3;0;;;138
+confederacy;5;;;1;5;10;confederacy;연합, 동맹;;WORD_1_5_10.mp3;WORD_1_5_10_1.mp3;0;;;139
+cut;5;;;1;5;11;cut;절단하다;;WORD_1_5_11.mp3;WORD_1_5_11_1.mp3;0;;;140
+disturbance;5;;;1;5;12;disturbance;동요, 혼란;;WORD_1_5_12.mp3;WORD_1_5_12_1.mp3;0;;;141
+elucidated;5;;;1;5;13;elucidate;명료하게 하다;;WORD_1_5_13.mp3;WORD_1_5_13_1.mp3;0;;;142
+encroachment;5;;;1;5;14;encroachment;침범;;WORD_1_5_14.mp3;WORD_1_5_14_1.mp3;0;;;143
+enticed;5;;;1;5;15;entice;유혹하다;;WORD_1_5_15.mp3;WORD_1_5_15_1.mp3;0;;;144
+equivocally;5;;;1;5;16;equivocally;애매하게;;WORD_1_5_16.mp3;WORD_1_5_16_1.mp3;0;;;145
+exterminate;5;;;1;5;17;exterminate;근절하다;;WORD_1_5_17.mp3;WORD_1_5_17_1.mp3;0;;;146
+fortify;5;;;1;5;18;fortify;강화하다;;WORD_1_5_18.mp3;WORD_1_5_18_1.mp3;0;;;147
+formerly;5;;;1;5;19;formerly;이전에;;WORD_1_5_19.mp3;WORD_1_5_19_1.mp3;0;;;148
+immunity ;5;;;1;5;20;immunity;면제;;WORD_1_5_20.mp3;WORD_1_5_20_1.mp3;0;;;149
+improve;5;;;1;5;21;improve;개선하다;;WORD_1_5_21.mp3;WORD_1_5_21_1.mp3;0;;;150
+in retrospect;5;;;1;5;22;in retrospect;되돌아보면, 회상하면;;WORD_1_5_22.mp3;WORD_1_5_22_1.mp3;0;;;151
+lost sight of;5;;;1;5;23;lose sight of;잊다;;WORD_1_5_23.mp3;WORD_1_5_23_1.mp3;0;;;152
+nuts and bolts;5;;;1;5;24;nuts and bolts;기본;;WORD_1_5_24.mp3;WORD_1_5_24_1.mp3;0;;;153
+permitted;5;;;1;5;25;permit;허락하다;;WORD_1_5_25.mp3;WORD_1_5_25_1.mp3;0;;;154
+radical;5;;;1;5;26;radical;근본적인, 급진적인;;WORD_1_5_26.mp3;WORD_1_5_26_1.mp3;0;;;155
+rarely ;5;;;1;5;27;rarely;드물게, 좀처럼 ~않는;;WORD_1_5_27.mp3;WORD_1_5_27_1.mp3;0;;;156
+sparse;5;;;1;5;28;sparse;빈약한, 부족한;;WORD_1_5_28.mp3;WORD_1_5_28_1.mp3;0;;;157
+sting;5;;;1;5;29;sting;얼얼하다, 쓰리다;;WORD_1_5_29.mp3;WORD_1_5_29_1.mp3;0;;;158
+supported;5;;;1;5;30;support;지지하다, 부양하다;;WORD_1_5_30.mp3;WORD_1_5_30_1.mp3;0;;;159
+tangible;5;;;1;5;31;tangible;실질적인;;WORD_1_5_31.mp3;WORD_1_5_31_1.mp3;0;;;160
+tolerated;5;;;1;5;32;tolerate;견디다;;WORD_1_5_32.mp3;WORD_1_5_32_1.mp3;0;;;161
+trained ;5;;;1;5;33;train;～로 향하게 하다;;WORD_1_5_33.mp3;WORD_1_5_33_1.mp3;0;;;162
+unambiguous;5;;;1;5;34;unambiguous;명확한;;WORD_1_5_34.mp3;WORD_1_5_34_1.mp3;0;;;163
+virtually;5;;;1;5;35;virtually;사실상, 거의;;WORD_1_5_35.mp3;WORD_1_5_35_1.mp3;0;;;164
+wary ;5;;;1;5;36;wary;조심(경계)하는;;WORD_1_5_36.mp3;WORD_1_5_36_1.mp3;0;;;165
+wealth ;5;;;1;5;37;wealth;풍부함;;WORD_1_5_37.mp3;WORD_1_5_37_1.mp3;0;;;166
+wiggle ;5;;;1;5;38;wiggle;이리저리 흔들다;;WORD_1_5_38.mp3;WORD_1_5_38_1.mp3;0;;;167
+agile;6;;;1;6;1;agile;민첩한;;WORD_1_6_1.mp3;WORD_1_6_1_1.mp3;0;;;168
+ample ;6;;;1;6;2;ample;넓은, 충분한;;WORD_1_6_2.mp3;WORD_1_6_2_1.mp3;0;;;169
+arbitrarily;6;;;1;6;3;arbitrarily;임의로;;WORD_1_6_3.mp3;WORD_1_6_3_1.mp3;0;;;170
+attested;6;;;1;6;4;attest;입증하다;;WORD_1_6_4.mp3;WORD_1_6_4_1.mp3;0;;;171
+break with;6;;;1;6;5;break with;관계를 끊다;;WORD_1_6_5.mp3;WORD_1_6_5_1.mp3;0;;;172
+brightness;6;;;1;6;6;brightness;빛;;WORD_1_6_6.mp3;WORD_1_6_6_1.mp3;0;;;173
+conjures;6;;;1;6;7;conjure;불러내다, 상기시키다, 간청하다;;WORD_1_6_7.mp3;WORD_1_6_7_1.mp3;0;;;174
+contrive;6;;;1;6;8;contrive;고안해내다;;WORD_1_6_8.mp3;WORD_1_6_8_1.mp3;0;;;175
+correspondence;6;;;1;6;9;correspondence;일치, (편지로 하는) 통신;;WORD_1_6_9.mp3;WORD_1_6_9_1.mp3;0;;;176
+durable;6;;;1;6;10;durable;지속적인;;WORD_1_6_10.mp3;WORD_1_6_10_1.mp3;0;;;177
+dwarfs;6;;;1;6;11;dwarf;난쟁이;;WORD_1_6_11.mp3;WORD_1_6_11_1.mp3;0;;;178
+enigmatic;6;;;1;6;12;enigmatic;알기 어려운;;WORD_1_6_12.mp3;WORD_1_6_12_1.mp3;0;;;179
+extinct ;6;;;1;6;13;extinct;멸종된;;WORD_1_6_13.mp3;WORD_1_6_13_1.mp3;0;;;180
+fabricated;6;;;1;6;14;fabricate;만들어내다;;WORD_1_6_14.mp3;WORD_1_6_14_1.mp3;0;;;181
+flakes;6;;;1;6;15;flake;파편;;WORD_1_6_15.mp3;WORD_1_6_15_1.mp3;0;;;182
+harm;6;;;1;6;16;harm;손해;;WORD_1_6_16.mp3;WORD_1_6_16_1.mp3;0;;;183
+innocent ;6;;;1;6;17;innocent;결백한;;WORD_1_6_17.mp3;WORD_1_6_17_1.mp3;0;;;184
+in the course of;6;;;1;6;18;in the course of;～동안에;;WORD_1_6_18.mp3;WORD_1_6_18_1.mp3;0;;;185
+in vain;6;;;1;6;19;in vain;헛되이;;WORD_1_6_19.mp3;WORD_1_6_19_1.mp3;0;;;186
+inconsequential ;6;;;1;6;20;inconsequential;하찮은, 사소한;;WORD_1_6_20.mp3;WORD_1_6_20_1.mp3;0;;;187
+leave;6;;;1;6;21;leave;떠나다;;WORD_1_6_21.mp3;WORD_1_6_21_1.mp3;0;;;188
+liken ;6;;;1;6;22;liken;비유하다;;WORD_1_6_22.mp3;WORD_1_6_22_1.mp3;0;;;189
+literally;6;;;1;6;23;literally;실제로;;WORD_1_6_23.mp3;WORD_1_6_23_1.mp3;0;;;190
+moderate ;6;;;1;6;24;moderate;온건한;;WORD_1_6_24.mp3;WORD_1_6_24_1.mp3;0;;;191
+prolonged;6;;;1;6;25;prolong;연장하다;;WORD_1_6_25.mp3;WORD_1_6_25_1.mp3;0;;;192
+purifying;6;;;1;6;26;purify;정화하다, 깨끗이 하다;;WORD_1_6_26.mp3;WORD_1_6_26_1.mp3;0;;;193
+reasonable ;6;;;1;6;27;reasonable;이치에 맞는;;WORD_1_6_27.mp3;WORD_1_6_27_1.mp3;0;;;194
+refined ;6;;;1;6;28;refined;정제된;;WORD_1_6_28.mp3;WORD_1_6_28_1.mp3;0;;;195
+retain;6;;;1;6;29;retain;유지(보유)하다;;WORD_1_6_29.mp3;WORD_1_6_29_1.mp3;0;;;196
+scarce ;6;;;1;6;30;scarce;드문, 부족한;;WORD_1_6_30.mp3;WORD_1_6_30_1.mp3;0;;;197
+scope;6;;;1;6;31;scope;범위;;WORD_1_6_31.mp3;WORD_1_6_31_1.mp3;0;;;198
+shabby;6;;;1;6;32;shabby;초라한;;WORD_1_6_32.mp3;WORD_1_6_32_1.mp3;0;;;199
+short-lived;6;;;1;6;33;short-lived;단기간의;;WORD_1_6_33.mp3;WORD_1_6_33_1.mp3;0;;;200
+solidify;6;;;1;6;34;solidify;결속시키다;;WORD_1_6_34.mp3;WORD_1_6_34_1.mp3;0;;;201
+substantial ;6;;;1;6;35;substantial;튼튼한, 상당한;;WORD_1_6_35.mp3;WORD_1_6_35_1.mp3;0;;;202
+vacant;6;;;1;6;36;vacant;텅빈;;WORD_1_6_36.mp3;WORD_1_6_36_1.mp3;0;;;203
+wizened ;6;;;1;6;37;wizened;시든, 주름진;;WORD_1_6_37.mp3;WORD_1_6_37_1.mp3;0;;;204
+zone;6;;;1;6;38;zone;지역;;WORD_1_6_38.mp3;WORD_1_6_38_1.mp3;0;;;205
+abolishing;7;;;1;7;1;abolish;폐지하다;;WORD_1_7_1.mp3;WORD_1_7_1_1.mp3;0;;;206
+adage;7;;;1;7;2;adage;속담, 금언;;WORD_1_7_2.mp3;WORD_1_7_2_1.mp3;0;;;207
+aesthetic;7;;;1;7;3;aesthetic;미적인;;WORD_1_7_3.mp3;WORD_1_7_3_1.mp3;0;;;208
+affected ;7;;;1;7;4;affect;~에 영향을 미치다, ~인 체하다;;WORD_1_7_4.mp3;WORD_1_7_4_1.mp3;0;;;209
+alteration;7;;;1;7;5;alteration;변경;;WORD_1_7_5.mp3;WORD_1_7_5_1.mp3;0;;;210
+amenities;7;;;1;7;6;amenity;편의 시설;;WORD_1_7_6.mp3;WORD_1_7_6_1.mp3;0;;;211
+approximately;7;;;1;7;7;approximately;대략;;WORD_1_7_7.mp3;WORD_1_7_7_1.mp3;0;;;212
+artisans;7;;;1;7;8;artisan;숙련공;;WORD_1_7_8.mp3;WORD_1_7_8_1.mp3;0;;;213
+bear ;7;;;1;7;9;bear;운반하다, 산출하다, 생기게 하다, (무게를) 지탱하다, 견디다;;WORD_1_7_9.mp3;WORD_1_7_9_1.mp3;0;;;214
+bountiful;7;;;1;7;10;bountiful;풍부한;;WORD_1_7_10.mp3;WORD_1_7_10_1.mp3;0;;;215
+constituent;7;;;1;7;11;constituent;구성하는, 구성 요소의;;WORD_1_7_11.mp3;WORD_1_7_11_1.mp3;0;;;216
+dispute ;7;;;1;7;12;dispute;논쟁하다, 논쟁;;WORD_1_7_12.mp3;WORD_1_7_12_1.mp3;0;;;217
+faculty;7;;;1;7;13;faculty;능력;;WORD_1_7_13.mp3;WORD_1_7_13_1.mp3;0;;;218
+field ;7;;;1;7;14;field;분야;;WORD_1_7_14.mp3;WORD_1_7_14_1.mp3;0;;;219
+guiltless;7;;;1;7;15;guiltless;결백한;;WORD_1_7_15.mp3;WORD_1_7_15_1.mp3;0;;;220
+influx ;7;;;1;7;16;influx;유입;;WORD_1_7_16.mp3;WORD_1_7_16_1.mp3;0;;;221
+inundated ;7;;;1;7;17;inundate;물에 잠기게 하다;;WORD_1_7_17.mp3;WORD_1_7_17_1.mp3;0;;;222
+lexicon;7;;;1;7;18;lexicon;어휘;;WORD_1_7_18.mp3;WORD_1_7_18_1.mp3;0;;;223
+lured;7;;;1;7;19;lure;유혹하다;;WORD_1_7_19.mp3;WORD_1_7_19_1.mp3;0;;;224
+mixture ;7;;;1;7;20;mixture;혼합(물);;WORD_1_7_20.mp3;WORD_1_7_20_1.mp3;0;;;225
+mounted;7;;;1;7;21;mount;오르다, 증가하다;;WORD_1_7_21.mp3;WORD_1_7_21_1.mp3;0;;;226
+mundane ;7;;;1;7;22;mundane;평범한;;WORD_1_7_22.mp3;WORD_1_7_22_1.mp3;0;;;227
+nearly;7;;;1;7;23;nearly;거의;;WORD_1_7_23.mp3;WORD_1_7_23_1.mp3;0;;;228
+outstrip;7;;;1;7;24;outstrip;능가하다, 뛰어나다;;WORD_1_7_24.mp3;WORD_1_7_24_1.mp3;0;;;229
+pertinent ;7;;;1;7;25;pertinent;관련된, 적절한;;WORD_1_7_25.mp3;WORD_1_7_25_1.mp3;0;;;230
+ preclude;7;;;1;7;26;preclude;그만두게 하다, 막다;;WORD_1_7_26.mp3;WORD_1_7_26_1.mp3;0;;;231
+refrain ;7;;;1;7;27;refrain;삼가다, 중단하다;;WORD_1_7_27.mp3;WORD_1_7_27_1.mp3;0;;;232
+roughly;7;;;1;7;28;roughly;대략;;WORD_1_7_28.mp3;WORD_1_7_28_1.mp3;0;;;233
+semblance ;7;;;1;7;29;semblance;외관, 유사함 ;;WORD_1_7_29.mp3;WORD_1_7_29_1.mp3;0;;;234
+sophisticated;7;;;1;7;30;sophisticated;복잡한;;WORD_1_7_30.mp3;WORD_1_7_30_1.mp3;0;;;235
+stages ;7;;;1;7;31;stage;단계;;WORD_1_7_31.mp3;WORD_1_7_31_1.mp3;0;;;236
+thick ;7;;;1;7;32;thick;빽빽한;;WORD_1_7_32.mp3;WORD_1_7_32_1.mp3;0;;;237
+thus;7;;;1;7;33;thus;따라서;;WORD_1_7_33.mp3;WORD_1_7_33_1.mp3;0;;;238
+tiny;7;;;1;7;34;tiny;작은;;WORD_1_7_34.mp3;WORD_1_7_34_1.mp3;0;;;239
+verge ;7;;;1;7;35;verge;경계, 찰나;;WORD_1_7_35.mp3;WORD_1_7_35_1.mp3;0;;;240
+aborted;8;;;1;8;1;abort;중단하다;;WORD_1_8_1.mp3;WORD_1_8_1_1.mp3;0;;;241
+acquire;8;;;1;8;2;acquire;얻다;;WORD_1_8_2.mp3;WORD_1_8_2_1.mp3;0;;;242
+affections;8;;;1;8;3;affection;애정;;WORD_1_8_3.mp3;WORD_1_8_3_1.mp3;0;;;243
+agreed ;8;;;1;8;4;agree;동의하다;;WORD_1_8_4.mp3;WORD_1_8_4_1.mp3;0;;;244
+alerted ;8;;;1;8;5;alert;경계하는, 경고하다;;WORD_1_8_5.mp3;WORD_1_8_5_1.mp3;0;;;245
+allured;8;;;1;8;6;allure;(마음을) 끌다, 유혹하다;;WORD_1_8_6.mp3;WORD_1_8_6_1.mp3;0;;;246
+amplify ;8;;;1;8;7;amplify;늘리다;;WORD_1_8_7.mp3;WORD_1_8_7_1.mp3;0;;;247
+arid;8;;;1;8;8;arid;메마른;;WORD_1_8_8.mp3;WORD_1_8_8_1.mp3;0;;;248
+ascribe ;8;;;1;8;9;ascribe;~의 탓으로 돌리다;;WORD_1_8_9.mp3;WORD_1_8_9_1.mp3;0;;;249
+barges ;8;;;1;8;10;barge;배;;WORD_1_8_10.mp3;WORD_1_8_10_1.mp3;0;;;250
+compensate;8;;;1;8;11;compensate;보상하다, 상쇄하다;;WORD_1_8_11.mp3;WORD_1_8_11_1.mp3;0;;;251
+configure ;8;;;1;8;12;configure;~의 형체로 만들다;;WORD_1_8_12.mp3;WORD_1_8_12_1.mp3;0;;;252
+drastic ;8;;;1;8;13;drastic;과격한, 극단적인;;WORD_1_8_13.mp3;WORD_1_8_13_1.mp3;0;;;253
+embarrassed;8;;;1;8;14;embarrass;무안케 하다;;WORD_1_8_14.mp3;WORD_1_8_14_1.mp3;0;;;254
+focused;8;;;1;8;15;focus;집중하다;;WORD_1_8_15.mp3;WORD_1_8_15_1.mp3;0;;;255
+functions;8;;;1;8;16;function;기능, 역할, 기능하다;;WORD_1_8_16.mp3;WORD_1_8_16_1.mp3;0;;;256
+gathering ;8;;;1;8;17;gathering;수집, 모임;;WORD_1_8_17.mp3;WORD_1_8_17_1.mp3;0;;;257
+haul ;8;;;1;8;18;haul;끌어당기다;;WORD_1_8_18.mp3;WORD_1_8_18_1.mp3;0;;;258
+immediate;8;;;1;8;19;immediate;인접한;;WORD_1_8_19.mp3;WORD_1_8_19_1.mp3;0;;;259
+increased;8;;;1;8;20;increase;확대하다;;WORD_1_8_20.mp3;WORD_1_8_20_1.mp3;0;;;260
+loomed ;8;;;1;8;21;loom;어렴풋이 나타나다;;WORD_1_8_21.mp3;WORD_1_8_21_1.mp3;0;;;261
+overtaxing;8;;;1;8;22;overtax;지나치게 과세하다;;WORD_1_8_22.mp3;WORD_1_8_22_1.mp3;0;;;262
+paradox ;8;;;1;8;23;paradox;모순;;WORD_1_8_23.mp3;WORD_1_8_23_1.mp3;0;;;263
+pervasive;8;;;1;8;24;pervasive;퍼지는;;WORD_1_8_24.mp3;WORD_1_8_24_1.mp3;0;;;264
+pleasing;8;;;1;8;25;pleasing;마음에 드는, 기분 좋은;;WORD_1_8_25.mp3;WORD_1_8_25_1.mp3;0;;;265
+primary;8;;;1;8;26;primary;근본적인;;WORD_1_8_26.mp3;WORD_1_8_26_1.mp3;0;;;266
+proper ;8;;;1;8;27;proper;적당한;;WORD_1_8_27.mp3;WORD_1_8_27_1.mp3;0;;;267
+recur;8;;;1;8;28;recur;재발하다;;WORD_1_8_28.mp3;WORD_1_8_28_1.mp3;0;;;268
+save for ;8;;;1;8;29;save for;~을 제외하고;;WORD_1_8_29.mp3;WORD_1_8_29_1.mp3;0;;;269
+served ;8;;;1;8;30;serve;소용이 되다, 도움이 되다;;WORD_1_8_30.mp3;WORD_1_8_30_1.mp3;0;;;270
+simulate ;8;;;1;8;31;simulate;흉내 내다, 가장하다;;WORD_1_8_31.mp3;WORD_1_8_31_1.mp3;0;;;271
+speck;8;;;1;8;32;speck;얼룩, 소량;;WORD_1_8_32.mp3;WORD_1_8_32_1.mp3;0;;;272
+strive ;8;;;1;8;33;strive;노력하다;;WORD_1_8_33.mp3;WORD_1_8_33_1.mp3;0;;;273
+supposed;8;;;1;8;34;suppose;가정하다;;WORD_1_8_34.mp3;WORD_1_8_34_1.mp3;0;;;274
+surprised ;8;;;1;8;35;surprise;놀라게 하다;;WORD_1_8_35.mp3;WORD_1_8_35_1.mp3;0;;;275
+treated;8;;;1;8;36;treat;다루다, 대하다;;WORD_1_8_36.mp3;WORD_1_8_36_1.mp3;0;;;276
+undertake;8;;;1;8;37;undertake;(책임역할을) 맡다, 착수하다;;WORD_1_8_37.mp3;WORD_1_8_37_1.mp3;0;;;277
+variant ;8;;;1;8;38;variant;변형;;WORD_1_8_38.mp3;WORD_1_8_38_1.mp3;0;;;278
+abandoning;9;;;1;9;1;abandon;그만두다, 버리다;;WORD_1_9_1.mp3;WORD_1_9_1_1.mp3;0;;;279
+antidote;9;;;1;9;2;antidote;치료법;;WORD_1_9_2.mp3;WORD_1_9_2_1.mp3;0;;;280
+at hand;9;;;1;9;3;at hand;사용 가능한;;WORD_1_9_3.mp3;WORD_1_9_3_1.mp3;0;;;281
+bear in mind ;9;;;1;9;4;bear in mind;명심하다;;WORD_1_9_4.mp3;WORD_1_9_4_1.mp3;0;;;282
+boost;9;;;1;9;5;boost;증대시키다;;WORD_1_9_5.mp3;WORD_1_9_5_1.mp3;0;;;283
+conspicuous ;9;;;1;9;6;conspicuous;뚜렷한;;WORD_1_9_6.mp3;WORD_1_9_6_1.mp3;0;;;284
+critica;9;;;1;9;7;critical;중요한, 위험한;;WORD_1_9_7.mp3;WORD_1_9_7_1.mp3;0;;;285
+discriminate ;9;;;1;9;8;discriminate;식별하다;;WORD_1_9_8.mp3;WORD_1_9_8_1.mp3;0;;;286
+dorsal;9;;;1;9;9;dorsal;등(부분)의;;WORD_1_9_9.mp3;WORD_1_9_9_1.mp3;0;;;287
+eliminated;9;;;1;9;10;eliminate;제거하다;;WORD_1_9_10.mp3;WORD_1_9_10_1.mp3;0;;;288
+fuse;9;;;1;9;11;fuse;녹다, 녹이다;;WORD_1_9_11.mp3;WORD_1_9_11_1.mp3;0;;;289
+hinterland;9;;;1;9;12;hinterland;배후지, 오지;;WORD_1_9_12.mp3;WORD_1_9_12_1.mp3;0;;;290
+in earnest;9;;;1;9;13;in earnest;진지한;;WORD_1_9_13.mp3;WORD_1_9_13_1.mp3;0;;;291
+laden ;9;;;1;9;14;laden;(짐을) 실은;;WORD_1_9_14.mp3;WORD_1_9_14_1.mp3;0;;;292
+lumber ;9;;;1;9;15;lumber;판재, 재목;;WORD_1_9_15.mp3;WORD_1_9_15_1.mp3;0;;;293
+mirror;9;;;1;9;16;mirror;반영하다;;WORD_1_9_16.mp3;WORD_1_9_16_1.mp3;0;;;294
+mutual;9;;;1;9;17;mutual;상호 간의, 공동의;;WORD_1_9_17.mp3;WORD_1_9_17_1.mp3;0;;;295
+obtainable;9;;;1;9;18;obtainable;손에 넣을 수 있는;;WORD_1_9_18.mp3;WORD_1_9_18_1.mp3;0;;;296
+patch ;9;;;1;9;19;patch;수선하다; 작은 부분, 지역;;WORD_1_9_19.mp3;WORD_1_9_19_1.mp3;0;;;297
+protested;9;;;1;9;20;protest;항의하다;;WORD_1_9_20.mp3;WORD_1_9_20_1.mp3;0;;;298
+recalled;9;;;1;9;21;recall;회상하다;;WORD_1_9_21.mp3;WORD_1_9_21_1.mp3;0;;;299
+reflection;9;;;1;9;22;reflection;반영;;WORD_1_9_22.mp3;WORD_1_9_22_1.mp3;0;;;300
+regain;9;;;1;9;23;regain;~을 되찾다;;WORD_1_9_23.mp3;WORD_1_9_23_1.mp3;0;;;301
+reinforce ;9;;;1;9;24;reinforce;강화하다;;WORD_1_9_24.mp3;WORD_1_9_24_1.mp3;0;;;302
+relevant ;9;;;1;9;25;relevant;관련된, 적절한;;WORD_1_9_25.mp3;WORD_1_9_25_1.mp3;0;;;303
+reminisced ;9;;;1;9;26;reminisce;추억하다;;WORD_1_9_26.mp3;WORD_1_9_26_1.mp3;0;;;304
+route;9;;;1;9;27;route;길;;WORD_1_9_27.mp3;WORD_1_9_27_1.mp3;0;;;305
+secreted ;9;;;1;9;28;secrete;분비하다;;WORD_1_9_28.mp3;WORD_1_9_28_1.mp3;0;;;306
+semiarid ;9;;;1;9;29;semiarid;반건조한;;WORD_1_9_29.mp3;WORD_1_9_29_1.mp3;0;;;307
+soothe;9;;;1;9;30;soothe;진정시키다, 완화하다;;WORD_1_9_30.mp3;WORD_1_9_30_1.mp3;0;;;308
+stayed ;9;;;1;9;31;stay;머무르다;;WORD_1_9_31.mp3;WORD_1_9_31_1.mp3;0;;;309
+surplus;9;;;1;9;32;surplus;나머지, 잔여;;WORD_1_9_32.mp3;WORD_1_9_32_1.mp3;0;;;310
+toothed;9;;;1;9;33;toothed;들쑥날쑥한;;WORD_1_9_33.mp3;WORD_1_9_33_1.mp3;0;;;311
+transformed;9;;;1;9;34;transform;변형시키다;;WORD_1_9_34.mp3;WORD_1_9_34_1.mp3;0;;;312
+unbalanced;9;;;1;9;35;unbalanced;균형을 잃은;;WORD_1_9_35.mp3;WORD_1_9_35_1.mp3;0;;;313
+uniformly ;9;;;1;9;36;uniformly;균일하게;;WORD_1_9_36.mp3;WORD_1_9_36_1.mp3;0;;;314
+utilitarian;9;;;1;9;37;utilitarian;실용적인;;WORD_1_9_37.mp3;WORD_1_9_37_1.mp3;0;;;315
+variety;9;;;1;9;38;variety;다양성, 종류;;WORD_1_9_38.mp3;WORD_1_9_38_1.mp3;0;;;316
+wonderful ;9;;;1;9;39;wonderful;놀라운;;WORD_1_9_39.mp3;WORD_1_9_39_1.mp3;0;;;317
+advantage;10;;;1;10;1;advantage;이익;;WORD_1_10_1.mp3;WORD_1_10_1_1.mp3;0;;;318
+arose from ;10;;;1;10;2;arise from;~에서 기인하다;;WORD_1_10_2.mp3;WORD_1_10_2_1.mp3;0;;;319
+barrier ;10;;;1;10;3;barrier;장애물, 장벽;;WORD_1_10_3.mp3;WORD_1_10_3_1.mp3;0;;;320
+betrayed;10;;;1;10;4;betray;배신하다;;WORD_1_10_4.mp3;WORD_1_10_4_1.mp3;0;;;321
+bound;10;;;1;10;5;bind;묶다;;WORD_1_10_5.mp3;WORD_1_10_5_1.mp3;0;;;322
+blurring ;10;;;1;10;6;blur;흐리게 하다;;WORD_1_10_6.mp3;WORD_1_10_6_1.mp3;0;;;323
+circumvent ;10;;;1;10;7;circumvent;우회하다;;WORD_1_10_7.mp3;WORD_1_10_7_1.mp3;0;;;324
+clumsy;10;;;1;10;8;clumsy;서투른;;WORD_1_10_8.mp3;WORD_1_10_8_1.mp3;0;;;325
+commenced;10;;;1;10;9;commence;시작하다;;WORD_1_10_9.mp3;WORD_1_10_9_1.mp3;0;;;326
+conduct;10;;;1;10;10;conduct;행동, (빛열 등을) 전도하다;;WORD_1_10_10.mp3;WORD_1_10_10_1.mp3;0;;;327
+conserve ;10;;;1;10;11;conserve;보존하다;;WORD_1_10_11.mp3;WORD_1_10_11_1.mp3;0;;;328
+contradictions ;10;;;1;10;12;contradiction;모순;;WORD_1_10_12.mp3;WORD_1_10_12_1.mp3;0;;;329
+culminated;10;;;1;10;13;culminate;~로 끝나다;;WORD_1_10_13.mp3;WORD_1_10_13_1.mp3;0;;;330
+delineated;10;;;1;10;14;delineate;윤곽을 그리다;;WORD_1_10_14.mp3;WORD_1_10_14_1.mp3;0;;;331
+donations ;10;;;1;10;15;donation;기부(금), 기증(물);;WORD_1_10_15.mp3;WORD_1_10_15_1.mp3;0;;;332
+embarked on;10;;;1;10;16;embark on;시작하다;;WORD_1_10_16.mp3;WORD_1_10_16_1.mp3;0;;;333
+foundation ;10;;;1;10;17;foundation;기초;;WORD_1_10_17.mp3;WORD_1_10_17_1.mp3;0;;;334
+fundamental ;10;;;1;10;18;fundamental;근본적인;;WORD_1_10_18.mp3;WORD_1_10_18_1.mp3;0;;;335
+handful ;10;;;1;10;19;handful;소량, 소수;;WORD_1_10_19.mp3;WORD_1_10_19_1.mp3;0;;;336
+height ;10;;;1;10;20;height;정상, 절정;;WORD_1_10_20.mp3;WORD_1_10_20_1.mp3;0;;;337
+identical ;10;;;1;10;21;identical;동일한;;WORD_1_10_21.mp3;WORD_1_10_21_1.mp3;0;;;338
+impediment ;10;;;1;10;22;impediment;장애;;WORD_1_10_22.mp3;WORD_1_10_22_1.mp3;0;;;339
+justified ;10;;;1;10;23;justify;(정당성을) 증명하다;;WORD_1_10_23.mp3;WORD_1_10_23_1.mp3;0;;;340
+lamented;10;;;1;10;24;lament;슬퍼하다, 애도하다;;WORD_1_10_24.mp3;WORD_1_10_24_1.mp3;0;;;341
+microorganism;10;;;1;10;25;microorganism;미생물;;WORD_1_10_25.mp3;WORD_1_10_25_1.mp3;0;;;342
+origin ;10;;;1;10;26;origin;발생, 근원;;WORD_1_10_26.mp3;WORD_1_10_26_1.mp3;0;;;343
+peculiarity;10;;;1;10;27;peculiarity;특성;;WORD_1_10_27.mp3;WORD_1_10_27_1.mp3;0;;;344
+physical ;10;;;1;10;28;physical;물질의;;WORD_1_10_28.mp3;WORD_1_10_28_1.mp3;0;;;345
+predicted;10;;;1;10;29;predict;예측하다;;WORD_1_10_29.mp3;WORD_1_10_29_1.mp3;0;;;346
+progress ;10;;;1;10;30;progress;발전;;WORD_1_10_30.mp3;WORD_1_10_30_1.mp3;0;;;347
+scooped;10;;;1;10;31;scoop;긁어모으다;;WORD_1_10_31.mp3;WORD_1_10_31_1.mp3;0;;;348
+scored ;10;;;1;10;32;score;얻다, 악보, 악곡;;WORD_1_10_32.mp3;WORD_1_10_32_1.mp3;0;;;349
+scrap ;10;;;1;10;33;scrap;파편;;WORD_1_10_33.mp3;WORD_1_10_33_1.mp3;0;;;350
+singularly;10;;;1;10;34;singularly;각별히;;WORD_1_10_34.mp3;WORD_1_10_34_1.mp3;0;;;351
+skilled ;10;;;1;10;35;skilled;숙련된;;WORD_1_10_35.mp3;WORD_1_10_35_1.mp3;0;;;352
+stemmed from;10;;;1;10;36;stem from;~에서 유래하다;;WORD_1_10_36.mp3;WORD_1_10_36_1.mp3;0;;;353
+subsidized ;10;;;1;10;37;subsidize;후원하다;;WORD_1_10_37.mp3;WORD_1_10_37_1.mp3;0;;;354
+unanimity ;10;;;1;10;38;unanimity;(만장)일치;;WORD_1_10_38.mp3;WORD_1_10_38_1.mp3;0;;;355
+account ;11;;;1;11;1;account;기술(記述);;WORD_1_11_1.mp3;WORD_1_11_1_1.mp3;0;;;356
+alloyed;11;;;1;11;2;alloy;혼합하다;;WORD_1_11_2.mp3;WORD_1_11_2_1.mp3;0;;;357
+barely ;11;;;1;11;3;barely;거의 ~않다;;WORD_1_11_3.mp3;WORD_1_11_3_1.mp3;0;;;358
+carry on ;11;;;1;11;4;carry on;~을 계속하다;;WORD_1_11_4.mp3;WORD_1_11_4_1.mp3;0;;;359
+cohesion;11;;;1;11;5;cohesion;결속;;WORD_1_11_5.mp3;WORD_1_11_5_1.mp3;0;;;360
+coincide;11;;;1;11;6;coincide;동시에 일어나다, 의견이 일치하다;;WORD_1_11_6.mp3;WORD_1_11_6_1.mp3;0;;;361
+colossal ;11;;;1;11;7;colossal;거대한;;WORD_1_11_7.mp3;WORD_1_11_7_1.mp3;0;;;362
+considerable ;11;;;1;11;8;considerable;중요한, 상당한;;WORD_1_11_8.mp3;WORD_1_11_8_1.mp3;0;;;363
+converge;11;;;1;11;9;converge;한데 모이다;;WORD_1_11_9.mp3;WORD_1_11_9_1.mp3;0;;;364
+convictions;11;;;1;11;10;conviction;신념;;WORD_1_11_10.mp3;WORD_1_11_10_1.mp3;0;;;365
+covet ;11;;;1;11;11;covet;갈망하다;;WORD_1_11_11.mp3;WORD_1_11_11_1.mp3;0;;;366
+defects;11;;;1;11;12;defect;결점;;WORD_1_11_12.mp3;WORD_1_11_12_1.mp3;0;;;367
+defection ;11;;;1;11;13;defection;변절, 탈당;;WORD_1_11_13.mp3;WORD_1_11_13_1.mp3;0;;;368
+dull ;11;;;1;11;14;dull;지루한;;WORD_1_11_14.mp3;WORD_1_11_14_1.mp3;0;;;369
+endeavored;11;;;1;11;15;endeavor;노력하다, 애쓰다;;WORD_1_11_15.mp3;WORD_1_11_15_1.mp3;0;;;370
+flocks ;11;;;1;11;16;flock;무리, 떼;;WORD_1_11_16.mp3;WORD_1_11_16_1.mp3;0;;;371
+granted;11;;;1;11;17;grant;주다;;WORD_1_11_17.mp3;WORD_1_11_17_1.mp3;0;;;372
+hustled;11;;;1;11;18;hustle;서두르다, 밀다;;WORD_1_11_18.mp3;WORD_1_11_18_1.mp3;0;;;373
+intermediate ;11;;;1;11;19;intermediate;중간의;;WORD_1_11_19.mp3;WORD_1_11_19_1.mp3;0;;;374
+intolerant ;11;;;1;11;20;intolerant;옹졸한, 편협한;;WORD_1_11_20.mp3;WORD_1_11_20_1.mp3;0;;;375
+kinds ;11;;;1;11;21;kind;친절한, 인정 많은, 유형, 종류;;WORD_1_11_21.mp3;WORD_1_11_21_1.mp3;0;;;376
+limited ;11;;;1;11;22;limit;경계, 한계, 제한하다;;WORD_1_11_22.mp3;WORD_1_11_22_1.mp3;0;;;377
+margin;11;;;1;11;23;margin;가장자리;;WORD_1_11_23.mp3;WORD_1_11_23_1.mp3;0;;;378
+militia ;11;;;1;11;24;militia;시민군;;WORD_1_11_24.mp3;WORD_1_11_24_1.mp3;0;;;379
+moreover;11;;;1;11;25;moreover;게다가;;WORD_1_11_25.mp3;WORD_1_11_25_1.mp3;0;;;380
+necessary;11;;;1;11;26;necessary;필수적인;;WORD_1_11_26.mp3;WORD_1_11_26_1.mp3;0;;;381
+obstructed;11;;;1;11;27;obstruct;막다, 방해하다;;WORD_1_11_27.mp3;WORD_1_11_27_1.mp3;0;;;382
+on the spot;11;;;1;11;28;on the spot;즉시;;WORD_1_11_28.mp3;WORD_1_11_28_1.mp3;0;;;383
+partial;11;;;1;11;29;partial;편파적인, 부분적인;;WORD_1_11_29.mp3;WORD_1_11_29_1.mp3;0;;;384
+placid;11;;;1;11;30;placid;평온한;;WORD_1_11_30.mp3;WORD_1_11_30_1.mp3;0;;;385
+porosity ;11;;;1;11;31;porosity;구멍, 다공성;;WORD_1_11_31.mp3;WORD_1_11_31_1.mp3;0;;;386
+reformed ;11;;;1;11;32;reform;개정하다, 개선하다;;WORD_1_11_32.mp3;WORD_1_11_32_1.mp3;0;;;387
+rigid ;11;;;1;11;33;rigid;단단한, 뻣뻣한, 엄격한;;WORD_1_11_33.mp3;WORD_1_11_33_1.mp3;0;;;388
+scarcity ;11;;;1;11;34;scarcity;부족, 결핍;;WORD_1_11_34.mp3;WORD_1_11_34_1.mp3;0;;;389
+adaptable;12;;;1;12;1;adaptable;융통성 있는, 적응성 있는;;WORD_1_12_1.mp3;WORD_1_12_1_1.mp3;0;;;390
+adhesion;12;;;1;12;2;adhesion;달라붙음, 부착;;WORD_1_12_2.mp3;WORD_1_12_2_1.mp3;0;;;391
+blamed ;12;;;1;12;3;blame;비난하다;;WORD_1_12_3.mp3;WORD_1_12_3_1.mp3;0;;;392
+chaotic ;12;;;1;12;4;chaotic;무질서한;;WORD_1_12_4.mp3;WORD_1_12_4_1.mp3;0;;;393
+comprehend ;12;;;1;12;5;comprehend;이해하다;;WORD_1_12_5.mp3;WORD_1_12_5_1.mp3;0;;;394
+decided;12;;;1;12;6;decided;분명한, 단호한;;WORD_1_12_6.mp3;WORD_1_12_6_1.mp3;0;;;395
+displaced;12;;;1;12;7;displace;대체하다;;WORD_1_12_7.mp3;WORD_1_12_7_1.mp3;0;;;396
+enclosed;12;;;1;12;8;enclose;에워싸다;;WORD_1_12_8.mp3;WORD_1_12_8_1.mp3;0;;;397
+entailed ;12;;;1;12;9;entail;～을 수반하다;;WORD_1_12_9.mp3;WORD_1_12_9_1.mp3;0;;;398
+excel ;12;;;1;12;10;excel;능가하다, 빼어나다;;WORD_1_12_10.mp3;WORD_1_12_10_1.mp3;0;;;399
+expend;12;;;1;12;11;expend;(시간노력 등을) 쓰다, 들이다;;WORD_1_12_11.mp3;WORD_1_12_11_1.mp3;0;;;400
+facility;12;;;1;12;12;facility;재능, 소질;;WORD_1_12_12.mp3;WORD_1_12_12_1.mp3;0;;;401
+genre;12;;;1;12;13;genre;유형;;WORD_1_12_13.mp3;WORD_1_12_13_1.mp3;0;;;402
+illustrates;12;;;1;12;14;illustrate;묘사하다;;WORD_1_12_14.mp3;WORD_1_12_14_1.mp3;0;;;403
+infrastructure;12;;;1;12;15;infrastructure;기반, 하부 구조;;WORD_1_12_15.mp3;WORD_1_12_15_1.mp3;0;;;404
+inhibited ;12;;;1;12;16;inhibit;억제하다, 금지하다;;WORD_1_12_16.mp3;WORD_1_12_16_1.mp3;0;;;405
+involve;12;;;1;12;17;involve;～을 수반하다;;WORD_1_12_17.mp3;WORD_1_12_17_1.mp3;0;;;406
+lease;12;;;1;12;18;lease;임차하다;;WORD_1_12_18.mp3;WORD_1_12_18_1.mp3;0;;;407
+likewise ;12;;;1;12;19;likewise;또한, 마찬가지로;;WORD_1_12_19.mp3;WORD_1_12_19_1.mp3;0;;;408
+limited ;12;;;1;12;20;limited;제한된;;WORD_1_12_20.mp3;WORD_1_12_20_1.mp3;0;;;409
+lodged in;12;;;1;12;21;lodge in;박다, 꽂아 넣다;;WORD_1_12_21.mp3;WORD_1_12_21_1.mp3;0;;;410
+mingled ;12;;;1;12;22;mingle;섞이다, 혼합되다;;WORD_1_12_22.mp3;WORD_1_12_22_1.mp3;0;;;411
+obligation;12;;;1;12;23;obligation;의무;;WORD_1_12_23.mp3;WORD_1_12_23_1.mp3;0;;;412
+obliged ;12;;;1;12;24;oblige;강요하다;;WORD_1_12_24.mp3;WORD_1_12_24_1.mp3;0;;;413
+offered;12;;;1;12;25;offer;제공하다, 제안하다;;WORD_1_12_25.mp3;WORD_1_12_25_1.mp3;0;;;414
+on occasion;12;;;1;12;26;on occasion;가끔;;WORD_1_12_26.mp3;WORD_1_12_26_1.mp3;0;;;415
+pared;12;;;1;12;27;pare;껍질을 벗기다, 삭감하다;;WORD_1_12_27.mp3;WORD_1_12_27_1.mp3;0;;;416
+predominately;12;;;1;12;28;predominately;주로;;WORD_1_12_28.mp3;WORD_1_12_28_1.mp3;0;;;417
+preordained;12;;;1;12;29;preordained;예정된;;WORD_1_12_29.mp3;WORD_1_12_29_1.mp3;0;;;418
+rendered;12;;;1;12;30;render;~가 되게 하다, 주다, ~을 표현하다;;WORD_1_12_30.mp3;WORD_1_12_30_1.mp3;0;;;419
+renown ;12;;;1;12;31;renown;명성;;WORD_1_12_31.mp3;WORD_1_12_31_1.mp3;0;;;420
+repel ;12;;;1;12;32;repel;물리치다;;WORD_1_12_32.mp3;WORD_1_12_32_1.mp3;0;;;421
+sanitation ;12;;;1;12;33;sanitation;공중위생;;WORD_1_12_33.mp3;WORD_1_12_33_1.mp3;0;;;422
+scorching;12;;;1;12;34;scorching;몹시 뜨거운(더운);;WORD_1_12_34.mp3;WORD_1_12_34_1.mp3;0;;;423
+secluded;12;;;1;12;35;secluded;외딴;;WORD_1_12_35.mp3;WORD_1_12_35_1.mp3;0;;;424
+spare;12;;;1;12;36;spare;절약하다, 주다, (시간을) 할애하다;;WORD_1_12_36.mp3;WORD_1_12_36_1.mp3;0;;;425
+stimulating ;12;;;1;12;37;stimulating;활기(자극)를 주는;;WORD_1_12_37.mp3;WORD_1_12_37_1.mp3;0;;;426
+typified;12;;;1;12;38;typify;대표하다, 특징을 나타내다;;WORD_1_12_38.mp3;WORD_1_12_38_1.mp3;0;;;427
+wholesale;12;;;1;12;39;wholesale;대규모의;;WORD_1_12_39.mp3;WORD_1_12_39_1.mp3;0;;;428
+admired ;13;;;2;1;1;admire;존경하다;;WORD_2_1_1.mp3;WORD_2_1_1_1.mp3;0;;;429
+adroit ;13;;;2;1;2;adroit;능숙한;;WORD_2_1_2.mp3;WORD_2_1_2_1.mp3;0;;;430
+ambivalent ;13;;;2;1;3;ambivalent;불확실한, 상반된 감정이 공존하는;;WORD_2_1_3.mp3;WORD_2_1_3_1.mp3;0;;;431
+camouflage ;13;;;2;1;4;camouflage;감추다, 위장하다;;WORD_2_1_4.mp3;WORD_2_1_4_1.mp3;0;;;432
+composed ;13;;;2;1;5;composed;차분한, 작성된;;WORD_2_1_5.mp3;WORD_2_1_5_1.mp3;0;;;433
+concealed;13;;;2;1;6;conceal;숨기다;;WORD_2_1_6.mp3;WORD_2_1_6_1.mp3;0;;;434
+deliberate;13;;;2;1;7;deliberate;신중한, 의도적인;;WORD_2_1_7.mp3;WORD_2_1_7_1.mp3;0;;;435
+exhilarated;13;;;2;1;8;exhilarate;들뜨게 하다;;WORD_2_1_8.mp3;WORD_2_1_8_1.mp3;0;;;436
+exposure ;13;;;2;1;9;exposure;폭로, 발각;;WORD_2_1_9.mp3;WORD_2_1_9_1.mp3;0;;;437
+glowed;13;;;2;1;10;glow;빛나다;;WORD_2_1_10.mp3;WORD_2_1_10_1.mp3;0;;;438
+hiatus;13;;;2;1;11;hiatus;중단, 단절;;WORD_2_1_11.mp3;WORD_2_1_11_1.mp3;0;;;439
+incinerate;13;;;2;1;12;incinerate;태우다;;WORD_2_1_12.mp3;WORD_2_1_12_1.mp3;0;;;440
+ineffectively;13;;;2;1;13;ineffectively;비효과적으로;;WORD_2_1_13.mp3;WORD_2_1_13_1.mp3;0;;;441
+inert;13;;;2;1;14;inert;자동력(自動力)이 없는, 움직일 수 없는;;WORD_2_1_14.mp3;WORD_2_1_14_1.mp3;0;;;442
+luster ;13;;;2;1;15;luster;광채;;WORD_2_1_15.mp3;WORD_2_1_15_1.mp3;0;;;443
+massive;13;;;2;1;16;massive;거대한, 막대한;;WORD_2_1_16.mp3;WORD_2_1_16_1.mp3;0;;;444
+occupied;13;;;2;1;17;occupy;(주의마음을) 끌다, 사로잡다;;WORD_2_1_17.mp3;WORD_2_1_17_1.mp3;0;;;445
+precedes;13;;;2;1;18;precede;앞서다, 우선하다;;WORD_2_1_18.mp3;WORD_2_1_18_1.mp3;0;;;446
+prove;13;;;2;1;19;prove;입증하다;;WORD_2_1_19.mp3;WORD_2_1_19_1.mp3;0;;;447
+purchased ;13;;;2;1;20;purchas;얻다, 획득하다;;WORD_2_1_20.mp3;WORD_2_1_20_1.mp3;0;;;448
+restricted;13;;;2;1;21;restrict;제한하다;;WORD_2_1_21.mp3;WORD_2_1_21_1.mp3;0;;;449
+ruptured;13;;;2;1;22;rupture;불화, 파열, 찢다, 파열시키다;;WORD_2_1_22.mp3;WORD_2_1_22_1.mp3;0;;;450
+scrutiny ;13;;;2;1;23;scrutiny;정밀 조사;;WORD_2_1_23.mp3;WORD_2_1_23_1.mp3;0;;;451
+seductive ;13;;;2;1;24;seductive;유혹적인;;WORD_2_1_24.mp3;WORD_2_1_24_1.mp3;0;;;452
+seeped;13;;;2;1;25;seep;스며들다;;WORD_2_1_25.mp3;WORD_2_1_25_1.mp3;0;;;453
+segments;13;;;2;1;26;segment;부분;;WORD_2_1_26.mp3;WORD_2_1_26_1.mp3;0;;;454
+shattered;13;;;2;1;27;shatter;박살 내다;;WORD_2_1_27.mp3;WORD_2_1_27_1.mp3;0;;;455
+shocked ;13;;;2;1;28;shock;충격을 주다, 놀라게 하다;;WORD_2_1_28.mp3;WORD_2_1_28_1.mp3;0;;;456
+significant ;13;;;2;1;29;significant;중요한;;WORD_2_1_29.mp3;WORD_2_1_29_1.mp3;0;;;457
+slabs;13;;;2;1;30;slab;조각;;WORD_2_1_30.mp3;WORD_2_1_30_1.mp3;0;;;458
+slaughtered ;13;;;2;1;31;slaughter;학살하다;;WORD_2_1_31.mp3;WORD_2_1_31_1.mp3;0;;;459
+strife;13;;;2;1;32;strife;싸움;;WORD_2_1_32.mp3;WORD_2_1_32_1.mp3;0;;;460
+style;13;;;2;1;33;style;방식;;WORD_2_1_33.mp3;WORD_2_1_33_1.mp3;0;;;461
+sustained ;13;;;2;1;34;sustained;지속적인;;WORD_2_1_34.mp3;WORD_2_1_34_1.mp3;0;;;462
+temperance;13;;;2;1;35;temperance;자제, 절제;;WORD_2_1_35.mp3;WORD_2_1_35_1.mp3;0;;;463
+tremendous;13;;;2;1;36;tremendous;엄청난;;WORD_2_1_36.mp3;WORD_2_1_36_1.mp3;0;;;464
+vivid ;13;;;2;1;37;vivid;선명한, 생생한;;WORD_2_1_37.mp3;WORD_2_1_37_1.mp3;0;;;465
+wedges ;13;;;2;1;38;wedge;억지로 밀어 넣다;;WORD_2_1_38.mp3;WORD_2_1_38_1.mp3;0;;;466
+actually ;14;;;2;2;1;actually;실제로;;WORD_2_2_1.mp3;WORD_2_2_1_1.mp3;0;;;467
+adorned ;14;;;2;2;2;adorn;장식하다;;WORD_2_2_2.mp3;WORD_2_2_2_1.mp3;0;;;468
+calculated ;14;;;2;2;3;calculate;추정하다, 어림잡다;;WORD_2_2_3.mp3;WORD_2_2_3_1.mp3;0;;;469
+claimed;14;;;2;2;4;claim;요구하다;;WORD_2_2_4.mp3;WORD_2_2_4_1.mp3;0;;;470
+commemorate;14;;;2;2;5;commemorate;기념하다;;WORD_2_2_5.mp3;WORD_2_2_5_1.mp3;0;;;471
+conformity;14;;;2;2;6;conformity;일치;;WORD_2_2_6.mp3;WORD_2_2_6_1.mp3;0;;;472
+copious ;14;;;2;2;7;copious;풍부한;;WORD_2_2_7.mp3;WORD_2_2_7_1.mp3;0;;;473
+desires;14;;;2;2;8;desire;열망하다, 요구하다;;WORD_2_2_8.mp3;WORD_2_2_8_1.mp3;0;;;474
+diligently ;14;;;2;2;9;diligently;열심히;;WORD_2_2_9.mp3;WORD_2_2_9_1.mp3;0;;;475
+enthrall ;14;;;2;2;10;enthrall;매혹하다;;WORD_2_2_10.mp3;WORD_2_2_10_1.mp3;0;;;476
+feast ;14;;;2;2;11;feast;축제, 배불리 먹다;;WORD_2_2_11.mp3;WORD_2_2_11_1.mp3;0;;;477
+gathered ;14;;;2;2;12;gather;모으다;;WORD_2_2_12.mp3;WORD_2_2_12_1.mp3;0;;;478
+gauge ;14;;;2;2;13;gauge;평가하다, 판단하다;;WORD_2_2_13.mp3;WORD_2_2_13_1.mp3;0;;;479
+gluing ;14;;;2;2;14;glue;접착시키다;;WORD_2_2_14.mp3;WORD_2_2_14_1.mp3;0;;;480
+grand ;14;;;2;2;15;grand;웅장한;;WORD_2_2_15.mp3;WORD_2_2_15_1.mp3;0;;;481
+hearten ;14;;;2;2;16;hearten;격려하다;;WORD_2_2_16.mp3;WORD_2_2_16_1.mp3;0;;;482
+hub;14;;;2;2;17;hub;중심;;WORD_2_2_17.mp3;WORD_2_2_17_1.mp3;0;;;483
+hybrids;14;;;2;2;18;hybrid;잡종, 혼합물;;WORD_2_2_18.mp3;WORD_2_2_18_1.mp3;0;;;484
+impetus;14;;;2;2;19;impetus;자극;;WORD_2_2_19.mp3;WORD_2_2_19_1.mp3;0;;;485
+impressed;14;;;2;2;20;improvise;(연주연설 등을) 즉흥적으로 ;;WORD_2_2_20.mp3;WORD_2_2_20_1.mp3;0;;;486
+irresistible;14;;;2;2;21;irresistible;매혹적인, 저항할 수 없는;;WORD_2_2_21.mp3;WORD_2_2_21_1.mp3;0;;;487
+incised;14;;;2;2;22;incised;새겨진;;WORD_2_2_22.mp3;WORD_2_2_22_1.mp3;0;;;488
+inherentin ;14;;;2;2;23;inherent in;내재된;;WORD_2_2_23.mp3;WORD_2_2_23_1.mp3;0;;;489
+juvenile ;14;;;2;2;24;juvenile;어린;;WORD_2_2_24.mp3;WORD_2_2_24_1.mp3;0;;;490
+main;14;;;2;2;25;main;주요한;;WORD_2_2_25.mp3;WORD_2_2_25_1.mp3;0;;;491
+negligence;14;;;2;2;26;negligence;부주의, 태만;;WORD_2_2_26.mp3;WORD_2_2_26_1.mp3;0;;;492
+outweighed;14;;;2;2;27;outweigh;~보다 뛰어나다;;WORD_2_2_27.mp3;WORD_2_2_27_1.mp3;0;;;493
+pigment ;14;;;2;2;28;pigment;색소;;WORD_2_2_28.mp3;WORD_2_2_28_1.mp3;0;;;494
+plausible;14;;;2;2;29;plausible;그럴듯한;;WORD_2_2_29.mp3;WORD_2_2_29_1.mp3;0;;;495
+prudent ;14;;;2;2;30;prudent;조심성 있는, 신중한;;WORD_2_2_30.mp3;WORD_2_2_30_1.mp3;0;;;496
+revised;14;;;2;2;31;revise;수정하다;;WORD_2_2_31.mp3;WORD_2_2_31_1.mp3;0;;;497
+spirit;14;;;2;2;32;spirit;정신;;WORD_2_2_32.mp3;WORD_2_2_32_1.mp3;0;;;498
+skillful ;14;;;2;2;33;skillful;숙련된;;WORD_2_2_33.mp3;WORD_2_2_33_1.mp3;0;;;499
+tenets;14;;;2;2;34;tenet;원칙;;WORD_2_2_34.mp3;WORD_2_2_34_1.mp3;0;;;500
+transformation;14;;;2;2;35;transformation;변화;;WORD_2_2_35.mp3;WORD_2_2_35_1.mp3;0;;;501
+traverse;14;;;2;2;36;traverse;가로지르다;;WORD_2_2_36.mp3;WORD_2_2_36_1.mp3;0;;;502
+unbearably;14;;;2;2;37;unbearably;극도로;;WORD_2_2_37.mp3;WORD_2_2_37_1.mp3;0;;;503
+variable ;14;;;2;2;38;variable;변하기 쉬운;;WORD_2_2_38.mp3;WORD_2_2_38_1.mp3;0;;;504
+while;14;;;2;2;39;while;~동안에, ~하는 한, ~할 지라도, ~와는 반대로;;WORD_2_2_39.mp3;WORD_2_2_39_1.mp3;0;;;505
+affluent ;15;;;2;3;1;affluent;부유한, 풍족한;;WORD_2_3_1.mp3;WORD_2_3_1_1.mp3;0;;;506
+aggravated ;15;;;2;3;2;aggravate;악화시키다;;WORD_2_3_2.mp3;WORD_2_3_2_1.mp3;0;;;507
+cling to ;15;;;2;3;3;cling to;달라붙다, 고수하다;;WORD_2_3_3.mp3;WORD_2_3_3_1.mp3;0;;;508
+crafted ;15;;;2;3;4;craft;솜씨 있게 만들다;;WORD_2_3_4.mp3;WORD_2_3_4_1.mp3;0;;;509
+crest ;15;;;2;3;5;crest;정상;;WORD_2_3_5.mp3;WORD_2_3_5_1.mp3;0;;;510
+critics;15;;;2;3;6;critic;비평가;;WORD_2_3_6.mp3;WORD_2_3_6_1.mp3;0;;;511
+cross-hatching ;15;;;2;3;7;cross-hatching;음영;;WORD_2_3_7.mp3;WORD_2_3_7_1.mp3;0;;;512
+decimated ;15;;;2;3;8;decimate;많은 사람을 죽이다;;WORD_2_3_8.mp3;WORD_2_3_8_1.mp3;0;;;513
+disciples;15;;;2;3;9;disciple;제자;;WORD_2_3_9.mp3;WORD_2_3_9_1.mp3;0;;;514
+disclosed;15;;;2;3;10;disclose;(사실 등을) 밝히다;;WORD_2_3_10.mp3;WORD_2_3_10_1.mp3;0;;;515
+disposition ;15;;;2;3;11;disposition;성질, 기질;;WORD_2_3_11.mp3;WORD_2_3_11_1.mp3;0;;;516
+dissimilar;15;;;2;3;12;dissimilar;다른;;WORD_2_3_12.mp3;WORD_2_3_12_1.mp3;0;;;517
+dominant ;15;;;2;3;13;dominant;우세한;;WORD_2_3_13.mp3;WORD_2_3_13_1.mp3;0;;;518
+effect ;15;;;2;3;14;effect;영향, 결과;;WORD_2_3_14.mp3;WORD_2_3_14_1.mp3;0;;;519
+enhanced;15;;;2;3;15;enhance;향상시키다, 개선하다;;WORD_2_3_15.mp3;WORD_2_3_15_1.mp3;0;;;520
+enunciated;15;;;2;3;16;enunciate;분명하게 발음하다;;WORD_2_3_16.mp3;WORD_2_3_16_1.mp3;0;;;521
+eradicate ;15;;;2;3;17;eradicate;근절하다;;WORD_2_3_17.mp3;WORD_2_3_17_1.mp3;0;;;522
+harsh;15;;;2;3;18;harsh;가혹한;;WORD_2_3_18.mp3;WORD_2_3_18_1.mp3;0;;;523
+heritage;15;;;2;3;19;heritage;전통, 유산;;WORD_2_3_19.mp3;WORD_2_3_19_1.mp3;0;;;524
+inappropriate;15;;;2;3;20;inappropriate;부적당한;;WORD_2_3_20.mp3;WORD_2_3_20_1.mp3;0;;;525
+insolent;15;;;2;3;21;insolent;무례한;;WORD_2_3_21.mp3;WORD_2_3_21_1.mp3;0;;;526
+jeopardy;15;;;2;3;22;jeopardy;위험;;WORD_2_3_22.mp3;WORD_2_3_22_1.mp3;0;;;527
+luxury;15;;;2;3;23;luxury;사치;;WORD_2_3_23.mp3;WORD_2_3_23_1.mp3;0;;;528
+manipulate ;15;;;2;3;24;manipulate;조종하다, 다루다;;WORD_2_3_24.mp3;WORD_2_3_24_1.mp3;0;;;529
+mocked ;15;;;2;3;25;mock;조롱하다;;WORD_2_3_25.mp3;WORD_2_3_25_1.mp3;0;;;530
+precious;15;;;2;3;26;precious;귀중한;;WORD_2_3_26.mp3;WORD_2_3_26_1.mp3;0;;;531
+regard ;15;;;2;3;27;regard;관심, 호감, 존경;;WORD_2_3_27.mp3;WORD_2_3_27_1.mp3;0;;;532
+returned;15;;;2;3;28;return;되돌아가다;;WORD_2_3_28.mp3;WORD_2_3_28_1.mp3;0;;;533
+set ;15;;;2;3;29;set;～을 놓다;;WORD_2_3_29.mp3;WORD_2_3_29_1.mp3;0;;;534
+spacious ;15;;;2;3;30;spacious;넓은;;WORD_2_3_30.mp3;WORD_2_3_30_1.mp3;0;;;535
+spectators;15;;;2;3;31;spectator;구경꾼;;WORD_2_3_31.mp3;WORD_2_3_31_1.mp3;0;;;536
+strict;15;;;2;3;32;strict;엄격한;;WORD_2_3_32.mp3;WORD_2_3_32_1.mp3;0;;;537
+swift ;15;;;2;3;33;swift;빠른;;WORD_2_3_33.mp3;WORD_2_3_33_1.mp3;0;;;538
+synchronized;15;;;2;3;34;synchronize;동시에 일어나다;;WORD_2_3_34.mp3;WORD_2_3_34_1.mp3;0;;;539
+throughout;15;;;2;3;35;throughout;~의 도처에;;WORD_2_3_35.mp3;WORD_2_3_35_1.mp3;0;;;540
+undermined;15;;;2;3;36;undermine;약화시키다;;WORD_2_3_36.mp3;WORD_2_3_36_1.mp3;0;;;541
+upset;15;;;2;3;37;upset;뒤엎다, 전복시키다, 당황하게 하다;;WORD_2_3_37.mp3;WORD_2_3_37_1.mp3;0;;;542
+virtuous;15;;;2;3;38;virtuous;덕 있는;;WORD_2_3_38.mp3;WORD_2_3_38_1.mp3;0;;;543
+wrangling ;15;;;2;3;39;wrangle;논쟁하다, 말다툼하다;;WORD_2_3_39.mp3;WORD_2_3_39_1.mp3;0;;;544
+withdrawn;15;;;2;3;40;withdraw;물러나다;;WORD_2_3_40.mp3;WORD_2_3_40_1.mp3;0;;;545
+worshiped;15;;;2;3;41;worship;숭배하다;;WORD_2_3_41.mp3;WORD_2_3_41_1.mp3;0;;;546
+alternative;16;;;2;4;1;alternative;대안, 대용이 되는;;WORD_2_4_1.mp3;WORD_2_4_1_1.mp3;0;;;547
+analogous;16;;;2;4;2;analogous;유사한;;WORD_2_4_2.mp3;WORD_2_4_2_1.mp3;0;;;548
+annually;16;;;2;4;3;annually;매년;;WORD_2_4_3.mp3;WORD_2_4_3_1.mp3;0;;;549
+awkward;16;;;2;4;4;awkward;서투른;;WORD_2_4_4.mp3;WORD_2_4_4_1.mp3;0;;;550
+capability ;16;;;2;4;5;capability;재능;;WORD_2_4_5.mp3;WORD_2_4_5_1.mp3;0;;;551
+cleanse;16;;;2;4;6;cleanse;깨끗이 하다;;WORD_2_4_6.mp3;WORD_2_4_6_1.mp3;0;;;552
+collided;16;;;2;4;7;collide;충돌하다;;WORD_2_4_7.mp3;WORD_2_4_7_1.mp3;0;;;553
+congested;16;;;2;4;8;congested;혼잡한;;WORD_2_4_8.mp3;WORD_2_4_8_1.mp3;0;;;554
+contemporary;16;;;2;4;9;contemporary;현대의, 동시대의;;WORD_2_4_9.mp3;WORD_2_4_9_1.mp3;0;;;555
+covers ;16;;;2;4;10;cover;포함하다;;WORD_2_4_10.mp3;WORD_2_4_10_1.mp3;0;;;556
+deceitful ;16;;;2;4;11;deceitful;허위의;;WORD_2_4_11.mp3;WORD_2_4_11_1.mp3;0;;;557
+exception ;16;;;2;4;12;exception;제외;;WORD_2_4_12.mp3;WORD_2_4_12_1.mp3;0;;;558
+features;16;;;2;4;13;feature;특징;;WORD_2_4_13.mp3;WORD_2_4_13_1.mp3;0;;;559
+fractious ;16;;;2;4;14;fractious;성미가 까다로운;;WORD_2_4_14.mp3;WORD_2_4_14_1.mp3;0;;;560
+incorporate;16;;;2;4;15;incorporate;통합하다;;WORD_2_4_15.mp3;WORD_2_4_15_1.mp3;0;;;561
+intimate ;16;;;2;4;16;intimate;친숙한;;WORD_2_4_16.mp3;WORD_2_4_16_1.mp3;0;;;562
+invariably;16;;;2;4;17;invariably;예외 없이, 반드시;;WORD_2_4_17.mp3;WORD_2_4_17_1.mp3;0;;;563
+inveigled;16;;;2;4;18;inveigle;꾀다, 유혹하다;;WORD_2_4_18.mp3;WORD_2_4_18_1.mp3;0;;;564
+led;16;;;2;4;19;lead;단서, 야기하다;;WORD_2_4_19.mp3;WORD_2_4_19_1.mp3;0;;;565
+looped;16;;;2;4;20;loop;묶다;;WORD_2_4_20.mp3;WORD_2_4_20_1.mp3;0;;;566
+lucid ;16;;;2;4;21;lucid;명료한, 명쾌한;;WORD_2_4_21.mp3;WORD_2_4_21_1.mp3;0;;;567
+mastered;16;;;2;4;22;master;정통하다;;WORD_2_4_22.mp3;WORD_2_4_22_1.mp3;0;;;568
+option;16;;;2;4;23;option;선택;;WORD_2_4_23.mp3;WORD_2_4_23_1.mp3;0;;;569
+paradoxical ;16;;;2;4;24;paradoxical;역설적인;;WORD_2_4_24.mp3;WORD_2_4_24_1.mp3;0;;;570
+plumage ;16;;;2;4;25;plumage;깃털;;WORD_2_4_25.mp3;WORD_2_4_25_1.mp3;0;;;571
+preventing;16;;;2;4;26;prevent;～을 방해하다, 막다;;WORD_2_4_26.mp3;WORD_2_4_26_1.mp3;0;;;572
+profuse;16;;;2;4;27;profuse;풍부한;;WORD_2_4_27.mp3;WORD_2_4_27_1.mp3;0;;;573
+revolves;16;;;2;4;28;revolve;회전하다;;WORD_2_4_28.mp3;WORD_2_4_28_1.mp3;0;;;574
+scaling ;16;;;2;4;29;scale;(기어)오르다, 정도, 단계;;WORD_2_4_29.mp3;WORD_2_4_29_1.mp3;0;;;575
+scanted ;16;;;2;4;30;scant;줄이다;;WORD_2_4_30.mp3;WORD_2_4_30_1.mp3;0;;;576
+sensational ;16;;;2;4;31;sensational;세상을 들끓게 하는;;WORD_2_4_31.mp3;WORD_2_4_31_1.mp3;0;;;577
+shallow;16;;;2;4;32;shallow;얕은;;WORD_2_4_32.mp3;WORD_2_4_32_1.mp3;0;;;578
+sorting;16;;;2;4;33;sort;분류하다, 종류;;WORD_2_4_33.mp3;WORD_2_4_33_1.mp3;0;;;579
+stylus;16;;;2;4;34;stylus;첨필;;WORD_2_4_34.mp3;WORD_2_4_34_1.mp3;0;;;580
+typically ;16;;;2;4;35;typically;일반적으로;;WORD_2_4_35.mp3;WORD_2_4_35_1.mp3;0;;;581
+vary;16;;;2;4;36;vary;다르다;;WORD_2_4_36.mp3;WORD_2_4_36_1.mp3;0;;;582
+voracious;16;;;2;4;37;voracious;만족할 줄 모르는, 탐욕적인;;WORD_2_4_37.mp3;WORD_2_4_37_1.mp3;0;;;583
+absolute;17;;;2;5;1;absolute;완전한;;WORD_2_5_1.mp3;WORD_2_5_1_1.mp3;0;;;584
+adapted ;17;;;2;5;2;adapted;개조된;;WORD_2_5_2.mp3;WORD_2_5_2_1.mp3;0;;;585
+chambers;17;;;2;5;3;chamber;(작은) 방;;WORD_2_5_3.mp3;WORD_2_5_3_1.mp3;0;;;586
+compacting;17;;;2;5;4;compact;압축하다, 조밀한, 밀집한;;WORD_2_5_4.mp3;WORD_2_5_4_1.mp3;0;;;587
+complacency;17;;;2;5;5;complacency;만족;;WORD_2_5_5.mp3;WORD_2_5_5_1.mp3;0;;;588
+compulsory ;17;;;2;5;6;compulsory;강제적인;;WORD_2_5_6.mp3;WORD_2_5_6_1.mp3;0;;;589
+concomitant ;17;;;2;5;7;concomitant;동시에 일어나는;;WORD_2_5_7.mp3;WORD_2_5_7_1.mp3;0;;;590
+condensed ;17;;;2;5;8;condense;압축(응축)하다;;WORD_2_5_8.mp3;WORD_2_5_8_1.mp3;0;;;591
+conformed;17;;;2;5;9;conform;순응하다, 따르다;;WORD_2_5_9.mp3;WORD_2_5_9_1.mp3;0;;;592
+consistent;17;;;2;5;10;consistent;모순이 없는, 일관된;;WORD_2_5_10.mp3;WORD_2_5_10_1.mp3;0;;;593
+constrained;17;;;2;5;11;constrain;억제하다;;WORD_2_5_11.mp3;WORD_2_5_11_1.mp3;0;;;594
+contagious;17;;;2;5;12;contagious;전염성 있는;;WORD_2_5_12.mp3;WORD_2_5_12_1.mp3;0;;;595
+counterpart;17;;;2;5;13;counterpart;(동등한 자격의) 대응물;;WORD_2_5_13.mp3;WORD_2_5_13_1.mp3;0;;;596
+debris;17;;;2;5;14;debris;잔해;;WORD_2_5_14.mp3;WORD_2_5_14_1.mp3;0;;;597
+decisive ;17;;;2;5;15;decisive;결정적인;;WORD_2_5_15.mp3;WORD_2_5_15_1.mp3;0;;;598
+disdains ;17;;;2;5;16;disdain;경멸하다;;WORD_2_5_16.mp3;WORD_2_5_16_1.mp3;0;;;599
+element;17;;;2;5;17;element;구성 요소;;WORD_2_5_17.mp3;WORD_2_5_17_1.mp3;0;;;600
+erratic ;17;;;2;5;18;erratic;불규칙적인, 변덕스러운;;WORD_2_5_18.mp3;WORD_2_5_18_1.mp3;0;;;601
+exhausted;17;;;2;5;19;exhaust;다 써버리다, 지치게 하다;;WORD_2_5_19.mp3;WORD_2_5_19_1.mp3;0;;;602
+expand;17;;;2;5;20;expand;확장하다;;WORD_2_5_20.mp3;WORD_2_5_20_1.mp3;0;;;603
+flattering;17;;;2;5;21;flattering;아부하는;;WORD_2_5_21.mp3;WORD_2_5_21_1.mp3;0;;;604
+full-blown;17;;;2;5;22;full-blown;성숙한;;WORD_2_5_22.mp3;WORD_2_5_22_1.mp3;0;;;605
+henceforth ;17;;;2;5;23;henceforth;앞으로, 차후;;WORD_2_5_23.mp3;WORD_2_5_23_1.mp3;0;;;606
+inadvertently;17;;;2;5;24;inadvertently;뜻하지 않게, 우연히;;WORD_2_5_24.mp3;WORD_2_5_24_1.mp3;0;;;607
+intricate;17;;;2;5;25;intricate;복잡한;;WORD_2_5_25.mp3;WORD_2_5_25_1.mp3;0;;;608
+mammoth ;17;;;2;5;26;mammoth;거대한;;WORD_2_5_26.mp3;WORD_2_5_26_1.mp3;0;;;609
+merely;17;;;2;5;27;merely;단지;;WORD_2_5_27.mp3;WORD_2_5_27_1.mp3;0;;;610
+ordinary;17;;;2;5;28;ordinary;보통의, 평범한;;WORD_2_5_28.mp3;WORD_2_5_28_1.mp3;0;;;611
+plain;17;;;2;5;29;plain;분명한, 꾸밈없는, 간소한;;WORD_2_5_29.mp3;WORD_2_5_29_1.mp3;0;;;612
+popular ;17;;;2;5;30;popular;대중적인;;WORD_2_5_30.mp3;WORD_2_5_30_1.mp3;0;;;613
+reconcile ;17;;;2;5;31;reconcile;화해시키다, 조정하다;;WORD_2_5_31.mp3;WORD_2_5_31_1.mp3;0;;;614
+reexamined;17;;;2;5;32;reexamine;재검토하다;;WORD_2_5_32.mp3;WORD_2_5_32_1.mp3;0;;;615
+requirement;17;;;2;5;33;requirement;조건, 조항;;WORD_2_5_33.mp3;WORD_2_5_33_1.mp3;0;;;616
+revolutionized;17;;;2;5;34;revolutionize;～에 혁명을 일으키다;;WORD_2_5_34.mp3;WORD_2_5_34_1.mp3;0;;;617
+rivals ;17;;;2;5;35;rival;경쟁자, 경쟁하다;;WORD_2_5_35.mp3;WORD_2_5_35_1.mp3;0;;;618
+shovel ;17;;;2;5;36;shovel;(삽으로) 파다;;WORD_2_5_36.mp3;WORD_2_5_36_1.mp3;0;;;619
+succinct;17;;;2;5;37;succinct;간결한;;WORD_2_5_37.mp3;WORD_2_5_37_1.mp3;0;;;620
+ties;17;;;2;5;38;tie;관계;;WORD_2_5_38.mp3;WORD_2_5_38_1.mp3;0;;;621
+ability;18;;;2;6;1;ability;능력;;WORD_2_6_1.mp3;WORD_2_6_1_1.mp3;0;;;622
+accessible;18;;;2;6;2;accessible;이용 가능한, 접근하기 쉬운;;WORD_2_6_2.mp3;WORD_2_6_2_1.mp3;0;;;623
+accorded;18;;;2;6;3;accord;주다, 수여하다, 일치하다;;WORD_2_6_3.mp3;WORD_2_6_3_1.mp3;0;;;624
+appear;18;;;2;6;4;appear;~인 듯하다, ~인 것 같이 보인다;;WORD_2_6_4.mp3;WORD_2_6_4_1.mp3;0;;;625
+was rooted in ;18;;;2;6;5;be rooted in;~에 근거를 두다, ~에서 유래하다;;WORD_2_6_5.mp3;WORD_2_6_5_1.mp3;0;;;626
+bogs;18;;;2;6;6;bog;습지;;WORD_2_6_6.mp3;WORD_2_6_6_1.mp3;0;;;627
+collaborated;18;;;2;6;7;collaborate;협력하다;;WORD_2_6_7.mp3;WORD_2_6_7_1.mp3;0;;;628
+crucible;18;;;2;6;8;crucible;도가니, 용광로;;WORD_2_6_8.mp3;WORD_2_6_8_1.mp3;0;;;629
+curb ;18;;;2;6;9;curb;제한(억제)하다;;WORD_2_6_9.mp3;WORD_2_6_9_1.mp3;0;;;630
+cycle ;18;;;2;6;10;cycle;주기;;WORD_2_6_10.mp3;WORD_2_6_10_1.mp3;0;;;631
+deemed ;18;;;2;6;11;deem;~라고 여기다;;WORD_2_6_11.mp3;WORD_2_6_11_1.mp3;0;;;632
+devout;18;;;2;6;12;devout;독실한;;WORD_2_6_12.mp3;WORD_2_6_12_1.mp3;0;;;633
+dispersed;18;;;2;6;13;disperse;흩어지게 하다;;WORD_2_6_13.mp3;WORD_2_6_13_1.mp3;0;;;634
+economical;18;;;2;6;14;economical;절약하는;;WORD_2_6_14.mp3;WORD_2_6_14_1.mp3;0;;;635
+eventually ;18;;;2;6;15;eventually;결국;;WORD_2_6_15.mp3;WORD_2_6_15_1.mp3;0;;;636
+faint;18;;;2;6;16;faint;희미한;;WORD_2_6_16.mp3;WORD_2_6_16_1.mp3;0;;;637
+financial ;18;;;2;6;17;financial;재정상의;;WORD_2_6_17.mp3;WORD_2_6_17_1.mp3;0;;;638
+frightened ;18;;;2;6;18;frighten;두렵게 하다;;WORD_2_6_18.mp3;WORD_2_6_18_1.mp3;0;;;639
+geognosy;18;;;2;6;19;geognosy;지질학;;WORD_2_6_19.mp3;WORD_2_6_19_1.mp3;0;;;640
+gave way to;18;;;2;6;20;give way to;물러가다, 양보하다;;WORD_2_6_20.mp3;WORD_2_6_20_1.mp3;0;;;641
+ immense;18;;;2;6;21;immense;거대한, 막대한;;WORD_2_6_21.mp3;WORD_2_6_21_1.mp3;0;;;642
+impact ;18;;;2;6;22;impact;영향;;WORD_2_6_22.mp3;WORD_2_6_22_1.mp3;0;;;643
+ingenuity;18;;;2;6;23;ingenuity;독창성, 창의력;;WORD_2_6_23.mp3;WORD_2_6_23_1.mp3;0;;;644
+in keeping with ;18;;;2;6;24;in keeping with;~와 일치하여;;WORD_2_6_24.mp3;WORD_2_6_24_1.mp3;0;;;645
+job;18;;;2;6;25;job;일, 직무;;WORD_2_6_25.mp3;WORD_2_6_25_1.mp3;0;;;646
+lethargic ;18;;;2;6;26;lethargic;무기력한;;WORD_2_6_26.mp3;WORD_2_6_26_1.mp3;0;;;647
+meager;18;;;2;6;27;meager;부족한;;WORD_2_6_27.mp3;WORD_2_6_27_1.mp3;0;;;648
+parody;18;;;2;6;28;parody;풍자적 변형;;WORD_2_6_28.mp3;WORD_2_6_28_1.mp3;0;;;649
+refuge;18;;;2;6;29;refuge;피난처, 은신처;;WORD_2_6_29.mp3;WORD_2_6_29_1.mp3;0;;;650
+rural ;18;;;2;6;30;rural;시골의;;WORD_2_6_30.mp3;WORD_2_6_30_1.mp3;0;;;651
+scrubbed;18;;;2;6;31;scrub;북북 문지르다;;WORD_2_6_31.mp3;WORD_2_6_31_1.mp3;0;;;652
+secure;18;;;2;6;32;secure;확보하다, 안전한;;WORD_2_6_32.mp3;WORD_2_6_32_1.mp3;0;;;653
+skepticism;18;;;2;6;33;skepticism;회의(론);;WORD_2_6_33.mp3;WORD_2_6_33_1.mp3;0;;;654
+so far;18;;;2;6;34;so far;지금까지;;WORD_2_6_34.mp3;WORD_2_6_34_1.mp3;0;;;655
+spark ;18;;;2;6;35;spark;야기하다;;WORD_2_6_35.mp3;WORD_2_6_35_1.mp3;0;;;656
+speculation;18;;;2;6;36;speculation;추측;;WORD_2_6_36.mp3;WORD_2_6_36_1.mp3;0;;;657
+terrain;18;;;2;6;37;terrain;지역;;WORD_2_6_37.mp3;WORD_2_6_37_1.mp3;0;;;658
+tumult ;18;;;2;6;38;tumult;혼란, 소란;;WORD_2_6_38.mp3;WORD_2_6_38_1.mp3;0;;;659
+unlimited ;18;;;2;6;39;unlimited;무한한;;WORD_2_6_39.mp3;WORD_2_6_39_1.mp3;0;;;660
+vagarious ;18;;;2;6;40;vagarious;변덕스러운;;WORD_2_6_40.mp3;WORD_2_6_40_1.mp3;0;;;661
+volumes;18;;;2;6;41;volume;책;;WORD_2_6_41.mp3;WORD_2_6_41_1.mp3;0;;;662
+advent;19;;;2;7;1;advent;출현;;WORD_2_7_1.mp3;WORD_2_7_1_1.mp3;0;;;663
+article ;19;;;2;7;2;article;(개개의) 물품;;WORD_2_7_2.mp3;WORD_2_7_2_1.mp3;0;;;664
+assembly;19;;;2;7;3;assembly;의회;;WORD_2_7_3.mp3;WORD_2_7_3_1.mp3;0;;;665
+associated ;19;;;2;7;4;associated;연관된;;WORD_2_7_4.mp3;WORD_2_7_4_1.mp3;0;;;666
+aware ;19;;;2;7;5;aware;～을 알고 있는;;WORD_2_7_5.mp3;WORD_2_7_5_1.mp3;0;;;667
+bank ;19;;;2;7;6;bank;물가, 기슭;;WORD_2_7_6.mp3;WORD_2_7_6_1.mp3;0;;;668
+by and large;19;;;2;7;7;by and large;전반적으로, 대체로;;WORD_2_7_7.mp3;WORD_2_7_7_1.mp3;0;;;669
+challenged;19;;;2;7;8;challenge;난제, 도전하다;;WORD_2_7_8.mp3;WORD_2_7_8_1.mp3;0;;;670
+compresses;19;;;2;7;9;compress;압축하다;;WORD_2_7_9.mp3;WORD_2_7_9_1.mp3;0;;;671
+consort;19;;;2;7;10;consort;교제하다;;WORD_2_7_10.mp3;WORD_2_7_10_1.mp3;0;;;672
+construed ;19;;;2;7;11;construe;해석하다;;WORD_2_7_11.mp3;WORD_2_7_11_1.mp3;0;;;673
+correct ;19;;;2;7;12;correct;고치다, 바로잡다;;WORD_2_7_12.mp3;WORD_2_7_12_1.mp3;0;;;674
+curious;19;;;2;7;13;curious;호기심이 강한;;WORD_2_7_13.mp3;WORD_2_7_13_1.mp3;0;;;675
+deadly ;19;;;2;7;14;deadly;치명적인;;WORD_2_7_14.mp3;WORD_2_7_14_1.mp3;0;;;676
+defeated ;19;;;2;7;15;defeated;패배한;;WORD_2_7_15.mp3;WORD_2_7_15_1.mp3;0;;;677
+depleted;19;;;2;7;16;deplete;고갈시키다;;WORD_2_7_16.mp3;WORD_2_7_16_1.mp3;0;;;678
+edges ;19;;;2;7;17;edge;가장자리;;WORD_2_7_17.mp3;WORD_2_7_17_1.mp3;0;;;679
+elude;19;;;2;7;18;elude;피하다;;WORD_2_7_18.mp3;WORD_2_7_18_1.mp3;0;;;680
+endowed;19;;;2;7;19;endow;부여하다;;WORD_2_7_19.mp3;WORD_2_7_19_1.mp3;0;;;681
+exceedingly ;19;;;2;7;20;exceedingly;지나칠 정도로;;WORD_2_7_20.mp3;WORD_2_7_20_1.mp3;0;;;682
+far-reaching;19;;;2;7;21;far-reaching;방대한;;WORD_2_7_21.mp3;WORD_2_7_21_1.mp3;0;;;683
+flustered;19;;;2;7;22;fluster;혼란시키다;;WORD_2_7_22.mp3;WORD_2_7_22_1.mp3;0;;;684
+guess ;19;;;2;7;23;guess;추측하다;;WORD_2_7_23.mp3;WORD_2_7_23_1.mp3;0;;;685
+importance;19;;;2;7;24;importance;중요함;;WORD_2_7_24.mp3;WORD_2_7_24_1.mp3;0;;;686
+interfere ;19;;;2;7;25;interfere;방해하다, 간섭하다;;WORD_2_7_25.mp3;WORD_2_7_25_1.mp3;0;;;687
+irksome;19;;;2;7;26;irksome;지루한;;WORD_2_7_26.mp3;WORD_2_7_26_1.mp3;0;;;688
+lasted;19;;;2;7;27;last;마지막의, 지속하다;;WORD_2_7_27.mp3;WORD_2_7_27_1.mp3;0;;;689
+manages;19;;;2;7;28;manage;관리하다;;WORD_2_7_28.mp3;WORD_2_7_28_1.mp3;0;;;690
+mastery;19;;;2;7;29;mastery;전문 기술, 숙달;;WORD_2_7_29.mp3;WORD_2_7_29_1.mp3;0;;;691
+monopolized;19;;;2;7;30;monopolize;독점하다;;WORD_2_7_30.mp3;WORD_2_7_30_1.mp3;0;;;692
+overcame;19;;;2;7;31;overcome;이기다, 정복하다;;WORD_2_7_31.mp3;WORD_2_7_31_1.mp3;0;;;693
+ratified ;19;;;2;7;32;ratify;승인하다;;WORD_2_7_32.mp3;WORD_2_7_32_1.mp3;0;;;694
+replica;19;;;2;7;33;replica;복제;;WORD_2_7_33.mp3;WORD_2_7_33_1.mp3;0;;;695
+shift ;19;;;2;7;34;shift;옮기다, 바꾸다;;WORD_2_7_34.mp3;WORD_2_7_34_1.mp3;0;;;696
+strides;19;;;2;7;35;stride;진보, 발전;;WORD_2_7_35.mp3;WORD_2_7_35_1.mp3;0;;;697
+subject to ;19;;;2;7;36;subject to;(영향을) 받기 쉬운;;WORD_2_7_36.mp3;WORD_2_7_36_1.mp3;0;;;698
+successive ;19;;;2;7;37;successive;연속적인;;WORD_2_7_37.mp3;WORD_2_7_37_1.mp3;0;;;699
+transition;19;;;2;7;38;transition;변화;;WORD_2_7_38.mp3;WORD_2_7_38_1.mp3;0;;;700
+undertaking;19;;;2;7;39;undertaking;사업, 과제;;WORD_2_7_39.mp3;WORD_2_7_39_1.mp3;0;;;701
+accurate ;20;;;2;8;1;accurate;정확한;;WORD_2_8_1.mp3;WORD_2_8_1_1.mp3;0;;;702
+advisor;20;;;2;8;2;advisor;고문;;WORD_2_8_2.mp3;WORD_2_8_2_1.mp3;0;;;703
+antagonized ;20;;;2;8;3;antagonize;대항하다;;WORD_2_8_3.mp3;WORD_2_8_3_1.mp3;0;;;704
+architecture ;20;;;2;8;4;architecture;구조;;WORD_2_8_4.mp3;WORD_2_8_4_1.mp3;0;;;705
+assured;20;;;2;8;5;assure;확신시키다;;WORD_2_8_5.mp3;WORD_2_8_5_1.mp3;0;;;706
+bond;20;;;2;8;6;bond;유대, 결속;;WORD_2_8_6.mp3;WORD_2_8_6_1.mp3;0;;;707
+brave ;20;;;2;8;7;brave;대담한;;WORD_2_8_7.mp3;WORD_2_8_7_1.mp3;0;;;708
+complement;20;;;2;8;8;complement;보충, 보완;;WORD_2_8_8.mp3;WORD_2_8_8_1.mp3;0;;;709
+comprises;20;;;2;8;9;comprise;구성되다;;WORD_2_8_9.mp3;WORD_2_8_9_1.mp3;0;;;710
+counter to;20;;;2;8;10;counter to;~와 정반대로;;WORD_2_8_10.mp3;WORD_2_8_10_1.mp3;0;;;711
+crucial;20;;;2;8;11;crucial;중대한;;WORD_2_8_11.mp3;WORD_2_8_11_1.mp3;0;;;712
+daring ;20;;;2;8;12;daring;용감한;;WORD_2_8_12.mp3;WORD_2_8_12_1.mp3;0;;;713
+devising;20;;;2;8;13;devise;고안하다;;WORD_2_8_13.mp3;WORD_2_8_13_1.mp3;0;;;714
+duplicate ;20;;;2;8;14;duplicate;복사(복제)하다;;WORD_2_8_14.mp3;WORD_2_8_14_1.mp3;0;;;715
+dwindle ;20;;;2;8;15;dwindle;줄다, 감소시키다;;WORD_2_8_15.mp3;WORD_2_8_15_1.mp3;0;;;716
+embodies;20;;;2;8;16;embody;구현하다, ～을 포함하다;;WORD_2_8_16.mp3;WORD_2_8_16_1.mp3;0;;;717
+etched;20;;;2;8;17;etch;식각하다, 새기다;;WORD_2_8_17.mp3;WORD_2_8_17_1.mp3;0;;;718
+flashed;20;;;2;8;18;flash;번쩍이다;;WORD_2_8_18.mp3;WORD_2_8_18_1.mp3;0;;;719
+imaginable ;20;;;2;8;19;imaginable;상상할 수 있는;;WORD_2_8_19.mp3;WORD_2_8_19_1.mp3;0;;;720
+infectious;20;;;2;8;20;infectious;전염성의;;WORD_2_8_20.mp3;WORD_2_8_20_1.mp3;0;;;721
+innumerable ;20;;;2;8;21;innumerable;무수한;;WORD_2_8_21.mp3;WORD_2_8_21_1.mp3;0;;;722
+invariable ;20;;;2;8;22;invariable;불변의;;WORD_2_8_22.mp3;WORD_2_8_22_1.mp3;0;;;723
+meditated;20;;;2;8;23;meditate;숙고하다;;WORD_2_8_23.mp3;WORD_2_8_23_1.mp3;0;;;724
+opposite;20;;;2;8;24;opposite;(성질의미 등이) 정반대의. 정반대;;WORD_2_8_24.mp3;WORD_2_8_24_1.mp3;0;;;725
+outdid;20;;;2;8;25;outdo;~을 능가하다;;WORD_2_8_25.mp3;WORD_2_8_25_1.mp3;0;;;726
+outline;20;;;2;8;26;outline;개요, 윤곽;;WORD_2_8_26.mp3;WORD_2_8_26_1.mp3;0;;;727
+paralleled;20;;;2;8;27;parallel;～와 유사한, ～에 필적하다;;WORD_2_8_27.mp3;WORD_2_8_27_1.mp3;0;;;728
+preeminent ;20;;;2;8;28;preeminent;탁월한;;WORD_2_8_28.mp3;WORD_2_8_28_1.mp3;0;;;729
+reassuring ;20;;;2;8;29;reassuring;용기를 북돋는;;WORD_2_8_29.mp3;WORD_2_8_29_1.mp3;0;;;730
+regulate;20;;;2;8;30;regulate;조절하다;;WORD_2_8_30.mp3;WORD_2_8_30_1.mp3;0;;;731
+respectful ;20;;;2;8;31;respectful;공손한;;WORD_2_8_31.mp3;WORD_2_8_31_1.mp3;0;;;732
+shrink;20;;;2;8;32;shrink;줄어들다;;WORD_2_8_32.mp3;WORD_2_8_32_1.mp3;0;;;733
+skill;20;;;2;8;33;skill;기술;;WORD_2_8_33.mp3;WORD_2_8_33_1.mp3;0;;;734
+steadily;20;;;2;8;34;steadily;지속적으로;;WORD_2_8_34.mp3;WORD_2_8_34_1.mp3;0;;;735
+struggled ;20;;;2;8;35;struggle;싸우다;;WORD_2_8_35.mp3;WORD_2_8_35_1.mp3;0;;;736
+subsequence ;20;;;2;8;36;subsequence;이어서 일어나는 것;;WORD_2_8_36.mp3;WORD_2_8_36_1.mp3;0;;;737
+warrant;20;;;2;8;37;warrant;정당화하다;;WORD_2_8_37.mp3;WORD_2_8_37_1.mp3;0;;;738
+wares;20;;;2;8;38;ware;제품;;WORD_2_8_38.mp3;WORD_2_8_38_1.mp3;0;;;739
+yet ;20;;;2;8;39;yet;그럼에도 불구하고;;WORD_2_8_39.mp3;WORD_2_8_39_1.mp3;0;;;740
+abundance;21;;;2;9;1;abundance;풍부함;;WORD_2_9_1.mp3;WORD_2_9_1_1.mp3;0;;;741
+adaptability;21;;;2;9;2;adaptability;적응성, 융통성;;WORD_2_9_2.mp3;WORD_2_9_2_1.mp3;0;;;742
+arrested;21;;;2;9;3;arrest;체포하다;;WORD_2_9_3.mp3;WORD_2_9_3_1.mp3;0;;;743
+assigned;21;;;2;9;4;assigned;정해진;;WORD_2_9_4.mp3;WORD_2_9_4_1.mp3;0;;;744
+is at odds with;21;;;2;9;5;be at odds with;~와 불화하다;;WORD_2_9_5.mp3;WORD_2_9_5_1.mp3;0;;;745
+curiously;21;;;2;9;6;curiously;신기하게도;;WORD_2_9_6.mp3;WORD_2_9_6_1.mp3;0;;;746
+dense;21;;;2;9;7;dense;짙은;;WORD_2_9_7.mp3;WORD_2_9_7_1.mp3;0;;;747
+deployed ;21;;;2;9;8;deploy;(전략적으로) 배치하다;;WORD_2_9_8.mp3;WORD_2_9_8_1.mp3;0;;;748
+discreet;21;;;2;9;9;discreet;분별력 있는;;WORD_2_9_9.mp3;WORD_2_9_9_1.mp3;0;;;749
+entire;21;;;2;9;10;entire;전체의;;WORD_2_9_10.mp3;WORD_2_9_10_1.mp3;0;;;750
+evident ;21;;;2;9;11;evident;분명한;;WORD_2_9_11.mp3;WORD_2_9_11_1.mp3;0;;;751
+extensive;21;;;2;9;12;extensive;넓은;;WORD_2_9_12.mp3;WORD_2_9_12_1.mp3;0;;;752
+extinguish ;21;;;2;9;13;extinguish;(불을) 끄다, 소멸시키다;;WORD_2_9_13.mp3;WORD_2_9_13_1.mp3;0;;;753
+feeble;21;;;2;9;14;feeble;연약한;;WORD_2_9_14.mp3;WORD_2_9_14_1.mp3;0;;;754
+flavor;21;;;2;9;15;flavor;특징, 맛, 풍미;;WORD_2_9_15.mp3;WORD_2_9_15_1.mp3;0;;;755
+fragmentary;21;;;2;9;16;fragmentary;단편적인;;WORD_2_9_16.mp3;WORD_2_9_16_1.mp3;0;;;756
+in charge of;21;;;2;9;17;in charge of;~에 책임이 있는;;WORD_2_9_17.mp3;WORD_2_9_17_1.mp3;0;;;757
+minor;21;;;2;9;18;minor;중요치 않은;;WORD_2_9_18.mp3;WORD_2_9_18_1.mp3;0;;;758
+parcel out ;21;;;2;9;19;parcel out;분할(분배)하다;;WORD_2_9_19.mp3;WORD_2_9_19_1.mp3;0;;;759
+perceive;21;;;2;9;20;perceive;알아차리다;;WORD_2_9_20.mp3;WORD_2_9_20_1.mp3;0;;;760
+pieces;21;;;2;9;21;piece;조각, 잇다, 접합하다;;WORD_2_9_21.mp3;WORD_2_9_21_1.mp3;0;;;761
+pledge;21;;;2;9;22;pledge;맹세;;WORD_2_9_22.mp3;WORD_2_9_22_1.mp3;0;;;762
+portrayed ;21;;;2;9;23;portray;묘사하다;;WORD_2_9_23.mp3;WORD_2_9_23_1.mp3;0;;;763
+project ;21;;;2;9;24;project;계획, 돌출하다;;WORD_2_9_24.mp3;WORD_2_9_24_1.mp3;0;;;764
+region;21;;;2;9;25;region;지역;;WORD_2_9_25.mp3;WORD_2_9_25_1.mp3;0;;;765
+safe;21;;;2;9;26;safe;안전한;;WORD_2_9_26.mp3;WORD_2_9_26_1.mp3;0;;;766
+searching ;21;;;2;9;27;search;탐색하다, 조사하다;;WORD_2_9_27.mp3;WORD_2_9_27_1.mp3;0;;;767
+seething ;21;;;2;9;28;seethe;(화가 나서) 속이 끓다;;WORD_2_9_28.mp3;WORD_2_9_28_1.mp3;0;;;768
+shortcomings;21;;;2;9;29;shortcoming;결점;;WORD_2_9_29.mp3;WORD_2_9_29_1.mp3;0;;;769
+special ;21;;;2;9;30;special;특별한;;WORD_2_9_30.mp3;WORD_2_9_30_1.mp3;0;;;770
+surveying ;21;;;2;9;31;survey;조사하다;;WORD_2_9_31.mp3;WORD_2_9_31_1.mp3;0;;;771
+temperaments;21;;;2;9;32;temperament;성질;;WORD_2_9_32.mp3;WORD_2_9_32_1.mp3;0;;;772
+tool;21;;;2;9;33;tool;도구;;WORD_2_9_33.mp3;WORD_2_9_33_1.mp3;0;;;773
+uninitiated;21;;;2;9;34;uninitiated;미숙한;;WORD_2_9_34.mp3;WORD_2_9_34_1.mp3;0;;;774
+vanished;21;;;2;9;35;vanish;사라지다;;WORD_2_9_35.mp3;WORD_2_9_35_1.mp3;0;;;775
+vile;21;;;2;9;36;vile;사악한;;WORD_2_9_36.mp3;WORD_2_9_36_1.mp3;0;;;776
+worldly;21;;;2;9;37;worldly;세속적인;;WORD_2_9_37.mp3;WORD_2_9_37_1.mp3;0;;;777
+wrecked ;21;;;2;9;38;wreck;파괴하다;;WORD_2_9_38.mp3;WORD_2_9_38_1.mp3;0;;;778
+accustomed ;22;;;2;10;1;accustomed;익숙한;;WORD_2_10_1.mp3;WORD_2_10_1_1.mp3;0;;;779
+alleged;22;;;2;10;2;allege;주장하다, 우기다;;WORD_2_10_2.mp3;WORD_2_10_2_1.mp3;0;;;780
+at the expense of ;22;;;2;10;3;at the expense of;~의 비용(대가)으로;;WORD_2_10_3.mp3;WORD_2_10_3_1.mp3;0;;;781
+breed ;22;;;2;10;4;breed;기르다;;WORD_2_10_4.mp3;WORD_2_10_4_1.mp3;0;;;782
+chiseled ;22;;;2;10;5;chisel;조각하다;;WORD_2_10_5.mp3;WORD_2_10_5_1.mp3;0;;;783
+conclusive ;22;;;2;10;6;conclusive;결정적인;;WORD_2_10_6.mp3;WORD_2_10_6_1.mp3;0;;;784
+costly;22;;;2;10;7;costly;비싼;;WORD_2_10_7.mp3;WORD_2_10_7_1.mp3;0;;;785
+crack down;22;;;2;10;8;crack down;～을 엄히 단속하다;;WORD_2_10_8.mp3;WORD_2_10_8_1.mp3;0;;;786
+degree ;22;;;2;10;9;degree;정도;;WORD_2_10_9.mp3;WORD_2_10_9_1.mp3;0;;;787
+delicate ;22;;;2;10;10;delicate;섬세한;;WORD_2_10_10.mp3;WORD_2_10_10_1.mp3;0;;;788
+devoted;22;;;2;10;11;devote;헌신하다;;WORD_2_10_11.mp3;WORD_2_10_11_1.mp3;0;;;789
+died;22;;;2;10;12;die;죽다;;WORD_2_10_12.mp3;WORD_2_10_12_1.mp3;0;;;790
+distribute;22;;;2;10;13;distribute;분배하다;;WORD_2_10_13.mp3;WORD_2_10_13_1.mp3;0;;;791
+emergency;22;;;2;10;14;emergency;위기, 위급;;WORD_2_10_14.mp3;WORD_2_10_14_1.mp3;0;;;792
+fatal ;22;;;2;10;15;fatal;치명적인;;WORD_2_10_15.mp3;WORD_2_10_15_1.mp3;0;;;793
+guilty ;22;;;2;10;16;guilty;유죄의;;WORD_2_10_16.mp3;WORD_2_10_16_1.mp3;0;;;794
+hazards;22;;;2;10;17;hazard;위험;;WORD_2_10_17.mp3;WORD_2_10_17_1.mp3;0;;;795
+in any case;22;;;2;10;18;in any case;여하간에, 여하튼;;WORD_2_10_18.mp3;WORD_2_10_18_1.mp3;0;;;796
+incited ;22;;;2;10;19;incite;자극하다;;WORD_2_10_19.mp3;WORD_2_10_19_1.mp3;0;;;797
+moist;22;;;2;10;20;moist;축축한;;WORD_2_10_20.mp3;WORD_2_10_20_1.mp3;0;;;798
+ornamented ;22;;;2;10;21;ornament;장식하다;;WORD_2_10_21.mp3;WORD_2_10_21_1.mp3;0;;;799
+peripheral;22;;;2;10;22;peripheral;주변의;;WORD_2_10_22.mp3;WORD_2_10_22_1.mp3;0;;;800
+precipitous;22;;;2;10;23;precipitous;성급한;;WORD_2_10_23.mp3;WORD_2_10_23_1.mp3;0;;;801
+primarily;22;;;2;10;24;primarily;주로, 본래, 처음에;;WORD_2_10_24.mp3;WORD_2_10_24_1.mp3;0;;;802
+primeval ;22;;;2;10;25;primeval;원시의;;WORD_2_10_25.mp3;WORD_2_10_25_1.mp3;0;;;803
+raw;22;;;2;10;26;raw;가공하지 않은;;WORD_2_10_26.mp3;WORD_2_10_26_1.mp3;0;;;804
+rejected ;22;;;2;10;27;reject;거절하다;;WORD_2_10_27.mp3;WORD_2_10_27_1.mp3;0;;;805
+replenish;22;;;2;10;28;replenish;보충하다;;WORD_2_10_28.mp3;WORD_2_10_28_1.mp3;0;;;806
+rot ;22;;;2;10;29;rot;부패하다;;WORD_2_10_29.mp3;WORD_2_10_29_1.mp3;0;;;807
+ruin;22;;;2;10;30;ruin;파괴하다;;WORD_2_10_30.mp3;WORD_2_10_30_1.mp3;0;;;808
+runoff;22;;;2;10;31;runoff;범람, 넘쳐흐름;;WORD_2_10_31.mp3;WORD_2_10_31_1.mp3;0;;;809
+shortened;22;;;2;10;32;shorten;줄이다;;WORD_2_10_32.mp3;WORD_2_10_32_1.mp3;0;;;810
+spoiled;22;;;2;10;33;spoil;망치다, 손상시키다;;WORD_2_10_33.mp3;WORD_2_10_33_1.mp3;0;;;811
+standard;22;;;2;10;34;standard;기준, 보통의;;WORD_2_10_34.mp3;WORD_2_10_34_1.mp3;0;;;812
+stipulation;22;;;2;10;35;stipulation;조건;;WORD_2_10_35.mp3;WORD_2_10_35_1.mp3;0;;;813
+strikingly;22;;;2;10;36;strikingly;두드러지게;;WORD_2_10_36.mp3;WORD_2_10_36_1.mp3;0;;;814
+subtracted;22;;;2;10;37;subtract;빼다;;WORD_2_10_37.mp3;WORD_2_10_37_1.mp3;0;;;815
+thaw ;22;;;2;10;38;thaw;녹다;;WORD_2_10_38.mp3;WORD_2_10_38_1.mp3;0;;;816
+unpinned ;22;;;2;10;39;unpin;핀(핀 종류의 것)을 빼다;;WORD_2_10_39.mp3;WORD_2_10_39_1.mp3;0;;;817
+akin to ;23;;;2;11;1;akin to;~와 유사한, ~에 가까운;;WORD_2_11_1.mp3;WORD_2_11_1_1.mp3;0;;;818
+appealing;23;;;2;11;2;appealing;매력적인;;WORD_2_11_2.mp3;WORD_2_11_2_1.mp3;0;;;819
+approached;23;;;2;11;3;approach;접근법, 방법, 접근하다;;WORD_2_11_3.mp3;WORD_2_11_3_1.mp3;0;;;820
+arguing ;23;;;2;11;4;argue;논쟁하다;;WORD_2_11_4.mp3;WORD_2_11_4_1.mp3;0;;;821
+asserted;23;;;2;11;5;assert;주장하다;;WORD_2_11_5.mp3;WORD_2_11_5_1.mp3;0;;;822
+braced ;23;;;2;11;6;brace;받치다, 보강하다;;WORD_2_11_6.mp3;WORD_2_11_6_1.mp3;0;;;823
+catastrophic ;23;;;2;11;7;catastrophic;비참한, 비극적인;;WORD_2_11_7.mp3;WORD_2_11_7_1.mp3;0;;;824
+clarify ;23;;;2;11;8;clarify;명료하게 하다;;WORD_2_11_8.mp3;WORD_2_11_8_1.mp3;0;;;825
+constantly;23;;;2;11;9;constantly;지속적으로;;WORD_2_11_9.mp3;WORD_2_11_9_1.mp3;0;;;826
+deception ;23;;;2;11;10;deception;속임수, 사기;;WORD_2_11_10.mp3;WORD_2_11_10_1.mp3;0;;;827
+distinct ;23;;;2;11;11;distinct;별개의, 뚜렷한;;WORD_2_11_11.mp3;WORD_2_11_11_1.mp3;0;;;828
+edition;23;;;2;11;12;edition;(간행물)판;;WORD_2_11_12.mp3;WORD_2_11_12_1.mp3;0;;;829
+elaborate;23;;;2;11;13;elaborate;복잡한, 정교한;;WORD_2_11_13.mp3;WORD_2_11_13_1.mp3;0;;;830
+flaw;23;;;2;11;14;flaw;결점;;WORD_2_11_14.mp3;WORD_2_11_14_1.mp3;0;;;831
+flooded;23;;;2;11;15;flood;범람시키다;;WORD_2_11_15.mp3;WORD_2_11_15_1.mp3;0;;;832
+floods of;23;;;2;11;16;floods of;다수의, 쇄도하는;;WORD_2_11_16.mp3;WORD_2_11_16_1.mp3;0;;;833
+habitats;23;;;2;11;17;habitat;거주지;;WORD_2_11_17.mp3;WORD_2_11_17_1.mp3;0;;;834
+hint;23;;;2;11;18;hint;암시;;WORD_2_11_18.mp3;WORD_2_11_18_1.mp3;0;;;835
+intensified;23;;;2;11;19;intensify;강화하다;;WORD_2_11_19.mp3;WORD_2_11_19_1.mp3;0;;;836
+intentional ;23;;;2;11;20;intentional;고의적인;;WORD_2_11_20.mp3;WORD_2_11_20_1.mp3;0;;;837
+kin;23;;;2;11;21;kin;친척;;WORD_2_11_21.mp3;WORD_2_11_21_1.mp3;0;;;838
+make their way;23;;;2;11;22;make one's way;나아가다;;WORD_2_11_22.mp3;WORD_2_11_22_1.mp3;0;;;839
+measured;23;;;2;11;23;measure;측정하다;;WORD_2_11_23.mp3;WORD_2_11_23_1.mp3;0;;;840
+minute ;23;;;2;11;24;minute;미세한, 정밀한;;WORD_2_11_24.mp3;WORD_2_11_24_1.mp3;0;;;841
+notwithstanding ;23;;;2;11;25;notwithstanding;～에도 불구하고;;WORD_2_11_25.mp3;WORD_2_11_25_1.mp3;0;;;842
+profound ;23;;;2;11;26;profound;심오한;;WORD_2_11_26.mp3;WORD_2_11_26_1.mp3;0;;;843
+protect;23;;;2;11;27;protect;보호하다;;WORD_2_11_27.mp3;WORD_2_11_27_1.mp3;0;;;844
+receives ;23;;;2;11;28;receive;받다, 얻다;;WORD_2_11_28.mp3;WORD_2_11_28_1.mp3;0;;;845
+relevance;23;;;2;11;29;relevance;적절성, 타당성;;WORD_2_11_29.mp3;WORD_2_11_29_1.mp3;0;;;846
+reliance;23;;;2;11;30;reliance;의존;;WORD_2_11_30.mp3;WORD_2_11_30_1.mp3;0;;;847
+represents ;23;;;2;11;31;represent;묘사하다, 표현하다, 대표하다;;WORD_2_11_31.mp3;WORD_2_11_31_1.mp3;0;;;848
+required;23;;;2;11;32;require;요구하다;;WORD_2_11_32.mp3;WORD_2_11_32_1.mp3;0;;;849
+resemble;23;;;2;11;33;resemble;닮다;;WORD_2_11_33.mp3;WORD_2_11_33_1.mp3;0;;;850
+resolved ;23;;;2;11;34;resolve;결정하다, 해결하다;;WORD_2_11_34.mp3;WORD_2_11_34_1.mp3;0;;;851
+retard;23;;;2;11;35;retard;지체시키다;;WORD_2_11_35.mp3;WORD_2_11_35_1.mp3;0;;;852
+roster ;23;;;2;11;36;roster;명부;;WORD_2_11_36.mp3;WORD_2_11_36_1.mp3;0;;;853
+scenic ;23;;;2;11;37;scenic;풍경이 아름다운;;WORD_2_11_37.mp3;WORD_2_11_37_1.mp3;0;;;854
+absurd ;24;;;2;12;1;absurd;불합리한, 어리석은;;WORD_2_12_1.mp3;WORD_2_12_1_1.mp3;0;;;855
+activity;24;;;2;12;2;activity;활기;;WORD_2_12_2.mp3;WORD_2_12_2_1.mp3;0;;;856
+assorting;24;;;2;12;3;assort;분류하다;;WORD_2_12_3.mp3;WORD_2_12_3_1.mp3;0;;;857
+beamed ;24;;;2;12;4;beam;빛나다;;WORD_2_12_4.mp3;WORD_2_12_4_1.mp3;0;;;858
+broken;24;;;2;12;5;break;부수다, (짧은) 휴식;;WORD_2_12_5.mp3;WORD_2_12_5_1.mp3;0;;;859
+bromide;24;;;2;12;6;bromide;진부한 말(생각);;WORD_2_12_6.mp3;WORD_2_12_6_1.mp3;0;;;860
+common ;24;;;2;12;7;common;공통의;;WORD_2_12_7.mp3;WORD_2_12_7_1.mp3;0;;;861
+consciously;24;;;2;12;8;consciously;의도적으로;;WORD_2_12_8.mp3;WORD_2_12_8_1.mp3;0;;;862
+context ;24;;;2;12;9;context;배경;;WORD_2_12_9.mp3;WORD_2_12_9_1.mp3;0;;;863
+damage ;24;;;2;12;10;damage;손상, 손해;;WORD_2_12_10.mp3;WORD_2_12_10_1.mp3;0;;;864
+detached ;24;;;2;12;11;detach;분리하다;;WORD_2_12_11.mp3;WORD_2_12_11_1.mp3;0;;;865
+dormant ;24;;;2;12;12;dormant;활동하지 않는;;WORD_2_12_12.mp3;WORD_2_12_12_1.mp3;0;;;866
+environment;24;;;2;12;13;environment;환경;;WORD_2_12_13.mp3;WORD_2_12_13_1.mp3;0;;;867
+essential ;24;;;2;12;14;essential;필수적인;;WORD_2_12_14.mp3;WORD_2_12_14_1.mp3;0;;;868
+heightened ;24;;;2;12;15;heighten;늘리다;;WORD_2_12_15.mp3;WORD_2_12_15_1.mp3;0;;;869
+hindered;24;;;2;12;16;hinder;방해하다;;WORD_2_12_16.mp3;WORD_2_12_16_1.mp3;0;;;870
+impose;24;;;2;12;17;impose;강요하다;;WORD_2_12_17.mp3;WORD_2_12_17_1.mp3;0;;;871
+ingenious ;24;;;2;12;18;ingenious;독창적인;;WORD_2_12_18.mp3;WORD_2_12_18_1.mp3;0;;;872
+insignificant;24;;;2;12;19;insignificant;사소한;;WORD_2_12_19.mp3;WORD_2_12_19_1.mp3;0;;;873
+keen ;24;;;2;12;20;keen;예리한;;WORD_2_12_20.mp3;WORD_2_12_20_1.mp3;0;;;874
+lodged;24;;;2;12;21;lodge;거처(피난처)를 제공하다, 숙박하다;;WORD_2_12_21.mp3;WORD_2_12_21_1.mp3;0;;;875
+power;24;;;2;12;22;power;영향력, 힘;;WORD_2_12_22.mp3;WORD_2_12_22_1.mp3;0;;;876
+prominent ;24;;;2;12;23;prominent;탁월한;;WORD_2_12_23.mp3;WORD_2_12_23_1.mp3;0;;;877
+provided ;24;;;2;12;24;provided;만약 ～이라면;;WORD_2_12_24.mp3;WORD_2_12_24_1.mp3;0;;;878
+put together ;24;;;2;12;25;put together;결합시키다;;WORD_2_12_25.mp3;WORD_2_12_25_1.mp3;0;;;879
+reflect;24;;;2;12;26;reflect;숙고하다, 반영하다, 나타내다;;WORD_2_12_26.mp3;WORD_2_12_26_1.mp3;0;;;880
+relinquished ;24;;;2;12;27;relinquish;포기하다, 버리다;;WORD_2_12_27.mp3;WORD_2_12_27_1.mp3;0;;;881
+representative ;24;;;2;12;28;representative;전형적인;;WORD_2_12_28.mp3;WORD_2_12_28_1.mp3;0;;;882
+scanned;24;;;2;12;29;scan;조사하다;;WORD_2_12_29.mp3;WORD_2_12_29_1.mp3;0;;;883
+severed ;24;;;2;12;30;sever;절단하다, 분리하다;;WORD_2_12_30.mp3;WORD_2_12_30_1.mp3;0;;;884
+shortly ;24;;;2;12;31;shortly;곧;;WORD_2_12_31.mp3;WORD_2_12_31_1.mp3;0;;;885
+showcased;24;;;2;12;32;showcase;전시하다;;WORD_2_12_32.mp3;WORD_2_12_32_1.mp3;0;;;886
+succession;24;;;2;12;33;succession;연속;;WORD_2_12_33.mp3;WORD_2_12_33_1.mp3;0;;;887
+summit;24;;;2;12;34;summit;정상;;WORD_2_12_34.mp3;WORD_2_12_34_1.mp3;0;;;888
+token ;24;;;2;12;35;token;상징, 표시;;WORD_2_12_35.mp3;WORD_2_12_35_1.mp3;0;;;889
+transmitted;24;;;2;12;36;transmit;전달하다;;WORD_2_12_36.mp3;WORD_2_12_36_1.mp3;0;;;890
+useful;24;;;2;12;37;useful;유익한, 도움이 되는;;WORD_2_12_37.mp3;WORD_2_12_37_1.mp3;0;;;891
+vestiges;24;;;2;12;38;vestige;흔적;;WORD_2_12_38.mp3;WORD_2_12_38_1.mp3;0;;;892
+aimed ;25;;;3;1;1;aim;목표하다, 목적;;WORD_3_1_1.mp3;WORD_3_1_1_1.mp3;0;;;893
+allocates ;25;;;3;1;2;allocate;책정하다, 배분하다;;WORD_3_1_2.mp3;WORD_3_1_2_1.mp3;0;;;894
+attributed to;25;;;3;1;3;attributed to;~에서 기인한, ~로 설명되는;;WORD_3_1_3.mp3;WORD_3_1_3_1.mp3;0;;;895
+authenticate;25;;;3;1;4;authenticate;입증하다, 증명하다;;WORD_3_1_4.mp3;WORD_3_1_4_1.mp3;0;;;896
+confused ;25;;;3;1;5;confuse;혼란시키다;;WORD_3_1_5.mp3;WORD_3_1_5_1.mp3;0;;;897
+debate ;25;;;3;1;6;debate;논쟁;;WORD_3_1_6.mp3;WORD_3_1_6_1.mp3;0;;;898
+detractors ;25;;;3;1;7;detractor;험담하는 사람;;WORD_3_1_7.mp3;WORD_3_1_7_1.mp3;0;;;899
+disguise;25;;;3;1;8;disguise;속이다, 감추다;;WORD_3_1_8.mp3;WORD_3_1_8_1.mp3;0;;;900
+dissent ;25;;;3;1;9;dissent;의견을 달리하다;;WORD_3_1_9.mp3;WORD_3_1_9_1.mp3;0;;;901
+distinguishes;25;;;3;1;10;distinguish;구별하다;;WORD_3_1_10.mp3;WORD_3_1_10_1.mp3;0;;;902
+drawn;25;;;3;1;11;draw;끌다;;WORD_3_1_11.mp3;WORD_3_1_11_1.mp3;0;;;903
+drawback;25;;;3;1;12;drawback;결점;;WORD_3_1_12.mp3;WORD_3_1_12_1.mp3;0;;;904
+dye ;25;;;3;1;13;dye;염료, 물감;;WORD_3_1_13.mp3;WORD_3_1_13_1.mp3;0;;;905
+emitted ;25;;;3;1;14;emit;발산하다;;WORD_3_1_14.mp3;WORD_3_1_14_1.mp3;0;;;906
+expose;25;;;3;1;15;expose;드러내다;;WORD_3_1_15.mp3;WORD_3_1_15_1.mp3;0;;;907
+flawless;25;;;3;1;16;flawless;흠 없는;;WORD_3_1_16.mp3;WORD_3_1_16_1.mp3;0;;;908
+frustrated ;25;;;3;1;17;frustrate;좌절시키다;;WORD_3_1_17.mp3;WORD_3_1_17_1.mp3;0;;;909
+full;25;;;3;1;18;full;완전한, 상세한;;WORD_3_1_18.mp3;WORD_3_1_18_1.mp3;0;;;910
+indicate ;25;;;3;1;19;indicate;넌지시 비추다;;WORD_3_1_19.mp3;WORD_3_1_19_1.mp3;0;;;911
+initially ;25;;;3;1;20;initially;처음에;;WORD_3_1_20.mp3;WORD_3_1_20_1.mp3;0;;;912
+innovative ;25;;;3;1;21;innovative;기발한, 혁신적인;;WORD_3_1_21.mp3;WORD_3_1_21_1.mp3;0;;;913
+landslide ;25;;;3;1;22;landslide;산사태;;WORD_3_1_22.mp3;WORD_3_1_22_1.mp3;0;;;914
+malady;25;;;3;1;23;malady;병;;WORD_3_1_23.mp3;WORD_3_1_23_1.mp3;0;;;915
+minimized;25;;;3;1;24;minimize;줄이다, 과소평가하다;;WORD_3_1_24.mp3;WORD_3_1_24_1.mp3;0;;;916
+orders;25;;;3;1;25;order;명령, 질서, 조화;;WORD_3_1_25.mp3;WORD_3_1_25_1.mp3;0;;;917
+prohibited;25;;;3;1;26;prohibit;금지하다;;WORD_3_1_26.mp3;WORD_3_1_26_1.mp3;0;;;918
+reduced ;25;;;3;1;27;reduce;감소시키다;;WORD_3_1_27.mp3;WORD_3_1_27_1.mp3;0;;;919
+revealed;25;;;3;1;28;reveal;드러내다;;WORD_3_1_28.mp3;WORD_3_1_28_1.mp3;0;;;920
+shed light on ;25;;;3;1;29;shed light on;~을 명백히 하다;;WORD_3_1_29.mp3;WORD_3_1_29_1.mp3;0;;;921
+sank ;25;;;3;1;30;sink;가라앉다;;WORD_3_1_30.mp3;WORD_3_1_30_1.mp3;0;;;922
+size;25;;;3;1;31;size;크기;;WORD_3_1_31.mp3;WORD_3_1_31_1.mp3;0;;;923
+slope ;25;;;3;1;32;slope;경사;;WORD_3_1_32.mp3;WORD_3_1_32_1.mp3;0;;;924
+subside;25;;;3;1;33;subside;진정되다;;WORD_3_1_33.mp3;WORD_3_1_33_1.mp3;0;;;925
+took place;25;;;3;1;34;take place;발생하다;;WORD_3_1_34.mp3;WORD_3_1_34_1.mp3;0;;;926
+though;25;;;3;1;35;though;그러나, ~이지만, 비록 ~일지라도;;WORD_3_1_35.mp3;WORD_3_1_35_1.mp3;0;;;927
+underground ;25;;;3;1;36;underground;비밀의;;WORD_3_1_36.mp3;WORD_3_1_36_1.mp3;0;;;928
+antipathy;26;;;3;2;1;antipathy;반감;;WORD_3_2_1.mp3;WORD_3_2_1_1.mp3;0;;;929
+applicable ;26;;;3;2;2;applicable;적용 가능한, 적절한;;WORD_3_2_2.mp3;WORD_3_2_2_1.mp3;0;;;930
+blotted out ;26;;;3;2;3;blot out;가리다;;WORD_3_2_3.mp3;WORD_3_2_3_1.mp3;0;;;931
+bold ;26;;;3;2;4;bold;대담한;;WORD_3_2_4.mp3;WORD_3_2_4_1.mp3;0;;;932
+booming;26;;;3;2;5;boom;번성하다;;WORD_3_2_5.mp3;WORD_3_2_5_1.mp3;0;;;933
+characteristic ;26;;;3;2;6;characteristic;독특한, 특성;;WORD_3_2_6.mp3;WORD_3_2_6_1.mp3;0;;;934
+clear;26;;;3;2;7;clear;명쾌한;;WORD_3_2_7.mp3;WORD_3_2_7_1.mp3;0;;;935
+coarse;26;;;3;2;8;coarse;거친, 천한;;WORD_3_2_8.mp3;WORD_3_2_8_1.mp3;0;;;936
+concentrate ;26;;;3;2;9;concentrate;집중하다, 모으다;;WORD_3_2_9.mp3;WORD_3_2_9_1.mp3;0;;;937
+contemplated;26;;;3;2;10;contemplate;심사숙고하다;;WORD_3_2_10.mp3;WORD_3_2_10_1.mp3;0;;;938
+crippled ;26;;;3;2;11;cripple;손상시키다;;WORD_3_2_11.mp3;WORD_3_2_11_1.mp3;0;;;939
+demanding;26;;;3;2;12;demanding;힘든, 큰 노력을 요하는;;WORD_3_2_12.mp3;WORD_3_2_12_1.mp3;0;;;940
+deviate;26;;;3;2;13;deviate;벗어나다;;WORD_3_2_13.mp3;WORD_3_2_13_1.mp3;0;;;941
+discovered ;26;;;3;2;14;discover;확인하다, 찾아내다;;WORD_3_2_14.mp3;WORD_3_2_14_1.mp3;0;;;942
+discrete ;26;;;3;2;15;discrete;구별되는;;WORD_3_2_15.mp3;WORD_3_2_15_1.mp3;0;;;943
+encompasses;26;;;3;2;16;encompass;포함하다;;WORD_3_2_16.mp3;WORD_3_2_16_1.mp3;0;;;944
+entertained;26;;;3;2;17;entertain;즐겁게 하다;;WORD_3_2_17.mp3;WORD_3_2_17_1.mp3;0;;;945
+far-sighted;26;;;3;2;18;far-sighted;현명한;;WORD_3_2_18.mp3;WORD_3_2_18_1.mp3;0;;;946
+fluctuates ;26;;;3;2;19;fluctuate;변동하다;;WORD_3_2_19.mp3;WORD_3_2_19_1.mp3;0;;;947
+halted ;26;;;3;2;20;halt;멈추다;;WORD_3_2_20.mp3;WORD_3_2_20_1.mp3;0;;;948
+incessantly;26;;;3;2;21;incessantly;끊임없이;;WORD_3_2_21.mp3;WORD_3_2_21_1.mp3;0;;;949
+leading;26;;;3;2;22;leading;우세한, 주된;;WORD_3_2_22.mp3;WORD_3_2_22_1.mp3;0;;;950
+modified;26;;;3;2;23;modify;변경하다;;WORD_3_2_23.mp3;WORD_3_2_23_1.mp3;0;;;951
+mutation;26;;;3;2;24;mutation;변이, 변화;;WORD_3_2_24.mp3;WORD_3_2_24_1.mp3;0;;;952
+obelisk ;26;;;3;2;25;obelisk;방첨탑, 오벨리스크;;WORD_3_2_25.mp3;WORD_3_2_25_1.mp3;0;;;953
+pastime ;26;;;3;2;26;pastime;기분 전환;;WORD_3_2_26.mp3;WORD_3_2_26_1.mp3;0;;;954
+rather than ;26;;;3;2;27;rather than;～대신에;;WORD_3_2_27.mp3;WORD_3_2_27_1.mp3;0;;;955
+receptacle;26;;;3;2;28;receptacle;그릇, 용기;;WORD_3_2_28.mp3;WORD_3_2_28_1.mp3;0;;;956
+rely ;26;;;3;2;29;rely;의지하다;;WORD_3_2_29.mp3;WORD_3_2_29_1.mp3;0;;;957
+remote ;26;;;3;2;30;remote;외딴, 멀리 떨어진;;WORD_3_2_30.mp3;WORD_3_2_30_1.mp3;0;;;958
+rotten;26;;;3;2;31;rotten;썩은, 부패한;;WORD_3_2_31.mp3;WORD_3_2_31_1.mp3;0;;;959
+roved;26;;;3;2;32;rove;배회하다;;WORD_3_2_32.mp3;WORD_3_2_32_1.mp3;0;;;960
+shoddy;26;;;3;2;33;shoddy;조악한, (질이) 떨어지는;;WORD_3_2_33.mp3;WORD_3_2_33_1.mp3;0;;;961
+shredded ;26;;;3;2;34;shred;(갈기갈기) 찢다;;WORD_3_2_34.mp3;WORD_3_2_34_1.mp3;0;;;962
+simply ;26;;;3;2;35;simply;단지;;WORD_3_2_35.mp3;WORD_3_2_35_1.mp3;0;;;963
+span;26;;;3;2;36;span;기간, ~에 걸치다, 이르다;;WORD_3_2_36.mp3;WORD_3_2_36_1.mp3;0;;;964
+stunned;26;;;3;2;37;stun;놀라게 하다;;WORD_3_2_37.mp3;WORD_3_2_37_1.mp3;0;;;965
+tranquil;26;;;3;2;38;tranquil;평온한, 차분한;;WORD_3_2_38.mp3;WORD_3_2_38_1.mp3;0;;;966
+assistance;27;;;3;3;1;assistance;원조;;WORD_3_3_1.mp3;WORD_3_3_1_1.mp3;0;;;967
+avoid;27;;;3;3;2;avoid;~을 피하다;;WORD_3_3_2.mp3;WORD_3_3_2_1.mp3;0;;;968
+best-suited ;27;;;3;3;3;best-suited;가장 적절한;;WORD_3_3_3.mp3;WORD_3_3_3_1.mp3;0;;;969
+bridle ;27;;;3;3;4;bridle;굴레;;WORD_3_3_4.mp3;WORD_3_3_4_1.mp3;0;;;970
+classify;27;;;3;3;5;classify;분류하다;;WORD_3_3_5.mp3;WORD_3_3_5_1.mp3;0;;;971
+collectively;27;;;3;3;6;collectively;공동으로;;WORD_3_3_6.mp3;WORD_3_3_6_1.mp3;0;;;972
+comparable;27;;;3;3;7;comparable;유사한;;WORD_3_3_7.mp3;WORD_3_3_7_1.mp3;0;;;973
+cultivator;27;;;3;3;8;cultivator;경작자;;WORD_3_3_8.mp3;WORD_3_3_8_1.mp3;0;;;974
+designated;27;;;3;3;9;designated;지정된;;WORD_3_3_9.mp3;WORD_3_3_9_1.mp3;0;;;975
+detrimental ;27;;;3;3;10;detrimental;해로운, 불리한;;WORD_3_3_10.mp3;WORD_3_3_10_1.mp3;0;;;976
+differentiate ;27;;;3;3;11;differentiate;구별하다;;WORD_3_3_11.mp3;WORD_3_3_11_1.mp3;0;;;977
+displayed ;27;;;3;3;12;display;보여 주다;;WORD_3_3_12.mp3;WORD_3_3_12_1.mp3;0;;;978
+emissaries ;27;;;3;3;13;emissary;사절;;WORD_3_3_13.mp3;WORD_3_3_13_1.mp3;0;;;979
+enact;27;;;3;3;14;enact;제정하다;;WORD_3_3_14.mp3;WORD_3_3_14_1.mp3;0;;;980
+evenly ;27;;;3;3;15;evenly;고르게, 일관되게;;WORD_3_3_15.mp3;WORD_3_3_15_1.mp3;0;;;981
+expedience;27;;;3;3;16;expedience;편의;;WORD_3_3_16.mp3;WORD_3_3_16_1.mp3;0;;;982
+genuinely ;27;;;3;3;17;genuinely;정말로;;WORD_3_3_17.mp3;WORD_3_3_17_1.mp3;0;;;983
+immediately ;27;;;3;3;18;immediately;즉시, 당장;;WORD_3_3_18.mp3;WORD_3_3_18_1.mp3;0;;;984
+important;27;;;3;3;19;important;중요한;;WORD_3_3_19.mp3;WORD_3_3_19_1.mp3;0;;;985
+inconceivable;27;;;3;3;20;inconceivable;상상도 못할;;WORD_3_3_20.mp3;WORD_3_3_20_1.mp3;0;;;986
+in progress;27;;;3;3;21;in progress;진행 중인;;WORD_3_3_21.mp3;WORD_3_3_21_1.mp3;0;;;987
+it followed that ;27;;;3;3;22;it followed that ~;그 결과로서 ~가 되었다;;WORD_3_3_22.mp3;WORD_3_3_22_1.mp3;0;;;988
+keep in touch;27;;;3;3;23;keep in touch;연락을 유지하다;;WORD_3_3_23.mp3;WORD_3_3_23_1.mp3;0;;;989
+massacre;27;;;3;3;24;massacre;대량학살;;WORD_3_3_24.mp3;WORD_3_3_24_1.mp3;0;;;990
+mean;27;;;3;3;25;mean;~을 의미하다, 비열한;;WORD_3_3_25.mp3;WORD_3_3_25_1.mp3;0;;;991
+mute ;27;;;3;3;26;mute;무언의;;WORD_3_3_26.mp3;WORD_3_3_26_1.mp3;0;;;992
+participate;27;;;3;3;27;participate;함께 하다;;WORD_3_3_27.mp3;WORD_3_3_27_1.mp3;0;;;993
+pitted;27;;;3;3;28;pit;(사람기술 등을) ~와 대항시키다;;WORD_3_3_28.mp3;WORD_3_3_28_1.mp3;0;;;994
+raise ;27;;;3;3;29;raise;올리다;;WORD_3_3_29.mp3;WORD_3_3_29_1.mp3;0;;;995
+rare;27;;;3;3;30;rare;드문;;WORD_3_3_30.mp3;WORD_3_3_30_1.mp3;0;;;996
+respectively;27;;;3;3;31;respectively;각각;;WORD_3_3_31.mp3;WORD_3_3_31_1.mp3;0;;;997
+seemingly;27;;;3;3;32;seemingly;보기에;;WORD_3_3_32.mp3;WORD_3_3_32_1.mp3;0;;;998
+sporadically;27;;;3;3;33;sporadically;때때로, 간헐적으로;;WORD_3_3_33.mp3;WORD_3_3_33_1.mp3;0;;;999
+stringent.;27;;;3;3;34;stringent;엄한;;WORD_3_3_34.mp3;WORD_3_3_34_1.mp3;0;;;1000
+superficial ;27;;;3;3;35;superficial;외면의;;WORD_3_3_35.mp3;WORD_3_3_35_1.mp3;0;;;1001
+timid;27;;;3;3;36;timid;소심한;;WORD_3_3_36.mp3;WORD_3_3_36_1.mp3;0;;;1002
+transport ;27;;;3;3;37;transport;운송하다;;WORD_3_3_37.mp3;WORD_3_3_37_1.mp3;0;;;1003
+unavoidable;27;;;3;3;38;unavoidable;불가피한;;WORD_3_3_38.mp3;WORD_3_3_38_1.mp3;0;;;1004
+uniform ;27;;;3;3;39;uniform;일관성 있는;;WORD_3_3_39.mp3;WORD_3_3_39_1.mp3;0;;;1005
+unsubstantial ;27;;;3;3;40;unsubstantial;비현실적인;;WORD_3_3_40.mp3;WORD_3_3_40_1.mp3;0;;;1006
+aptly ;28;;;3;4;1;aptly;적절히;;WORD_3_4_1.mp3;WORD_3_4_1_1.mp3;0;;;1007
+attracted;28;;;3;4;2;attract;(마음을) 끌다;;WORD_3_4_2.mp3;WORD_3_4_2_1.mp3;0;;;1008
+beverages;28;;;3;4;3;beverage;음료수;;WORD_3_4_3.mp3;WORD_3_4_3_1.mp3;0;;;1009
+blunt ;28;;;3;4;4;blunt;무딘;;WORD_3_4_4.mp3;WORD_3_4_4_1.mp3;0;;;1010
+bustling;28;;;3;4;5;bustling;부산한;;WORD_3_4_5.mp3;WORD_3_4_5_1.mp3;0;;;1011
+controlling;28;;;3;4;6;control;지배하다;;WORD_3_4_6.mp3;WORD_3_4_6_1.mp3;0;;;1012
+controversy;28;;;3;4;7;controversy;논쟁;;WORD_3_4_7.mp3;WORD_3_4_7_1.mp3;0;;;1013
+dichotomy;28;;;3;4;8;dichotomy;양분, 이분;;WORD_3_4_8.mp3;WORD_3_4_8_1.mp3;0;;;1014
+disruption ;28;;;3;4;9;disruption;중단;;WORD_3_4_9.mp3;WORD_3_4_9_1.mp3;0;;;1015
+enthusiasm ;28;;;3;4;10;enthusiasm;열정;;WORD_3_4_10.mp3;WORD_3_4_10_1.mp3;0;;;1016
+episode ;28;;;3;4;11;episode;하나의 사건;;WORD_3_4_11.mp3;WORD_3_4_11_1.mp3;0;;;1017
+equivalent ;28;;;3;4;12;equivalent;동등한;;WORD_3_4_12.mp3;WORD_3_4_12_1.mp3;0;;;1018
+evoked ;28;;;3;4;13;evoke;일깨우다, 자아내다;;WORD_3_4_13.mp3;WORD_3_4_13_1.mp3;0;;;1019
+exotic ;28;;;3;4;14;exotic;기묘한, 못 보던;;WORD_3_4_14.mp3;WORD_3_4_14_1.mp3;0;;;1020
+flair ;28;;;3;4;15;flair;재주, 재능;;WORD_3_4_15.mp3;WORD_3_4_15_1.mp3;0;;;1021
+flight ;28;;;3;4;16;flight;탈출;;WORD_3_4_16.mp3;WORD_3_4_16_1.mp3;0;;;1022
+formidable;28;;;3;4;17;formidable;무서운;;WORD_3_4_17.mp3;WORD_3_4_17_1.mp3;0;;;1023
+frugal ;28;;;3;4;18;frugal;절약하는;;WORD_3_4_18.mp3;WORD_3_4_18_1.mp3;0;;;1024
+fuelled;28;;;3;4;19;fuel;지지하다, 자극하다;;WORD_3_4_19.mp3;WORD_3_4_19_1.mp3;0;;;1025
+game ;28;;;3;4;20;game;사냥감;;WORD_3_4_20.mp3;WORD_3_4_20_1.mp3;0;;;1026
+hand in hand;28;;;3;4;21;hand in hand;협력하여, 동반하여;;WORD_3_4_21.mp3;WORD_3_4_21_1.mp3;0;;;1027
+intermittent;28;;;3;4;22;intermittent;간헐적인;;WORD_3_4_22.mp3;WORD_3_4_22_1.mp3;0;;;1028
+intersect;28;;;3;4;23;intersect;교차하다, 가로지르다;;WORD_3_4_23.mp3;WORD_3_4_23_1.mp3;0;;;1029
+made sense;28;;;3;4;24;make sense;이치에 맞다;;WORD_3_4_24.mp3;WORD_3_4_24_1.mp3;0;;;1030
+movement;28;;;3;4;25;movement;(정치사회적) 운동;;WORD_3_4_25.mp3;WORD_3_4_25_1.mp3;0;;;1031
+pass through;28;;;3;4;26;pass through;꿰뚫다;;WORD_3_4_26.mp3;WORD_3_4_26_1.mp3;0;;;1032
+precise ;28;;;3;4;27;precise;정확한;;WORD_3_4_27.mp3;WORD_3_4_27_1.mp3;0;;;1033
+published;28;;;3;4;28;publish;발표하다;;WORD_3_4_28.mp3;WORD_3_4_28_1.mp3;0;;;1034
+readily ;28;;;3;4;29;readily;쉽게, 기꺼이;;WORD_3_4_29.mp3;WORD_3_4_29_1.mp3;0;;;1035
+records;28;;;3;4;30;record;기록;;WORD_3_4_30.mp3;WORD_3_4_30_1.mp3;0;;;1036
+relieve;28;;;3;4;31;relieve;경감하다;;WORD_3_4_31.mp3;WORD_3_4_31_1.mp3;0;;;1037
+settle down ;28;;;3;4;32;settle down;진정시키다;;WORD_3_4_32.mp3;WORD_3_4_32_1.mp3;0;;;1038
+shunned;28;;;3;4;33;shun;피하다;;WORD_3_4_33.mp3;WORD_3_4_33_1.mp3;0;;;1039
+spectacula;28;;;3;4;34;spectacular;멋진, 장엄한;;WORD_3_4_34.mp3;WORD_3_4_34_1.mp3;0;;;1040
+steady;28;;;3;4;35;steady;안정된;;WORD_3_4_35.mp3;WORD_3_4_35_1.mp3;0;;;1041
+store;28;;;3;4;36;store;따로 떼어두다, 비축하다;;WORD_3_4_36.mp3;WORD_3_4_36_1.mp3;0;;;1042
+stupid;28;;;3;4;37;stupid;어리석은;;WORD_3_4_37.mp3;WORD_3_4_37_1.mp3;0;;;1043
+success;28;;;3;4;38;success;성공, 달성;;WORD_3_4_38.mp3;WORD_3_4_38_1.mp3;0;;;1044
+tend;28;;;3;4;39;tend;돌보다;;WORD_3_4_39.mp3;WORD_3_4_39_1.mp3;0;;;1045
+wattle;28;;;3;4;40;wattle;가는 막대기;;WORD_3_4_40.mp3;WORD_3_4_40_1.mp3;0;;;1046
+wrath ;28;;;3;4;41;wrath;분노;;WORD_3_4_41.mp3;WORD_3_4_41_1.mp3;0;;;1047
+acid;29;;;3;5;1;acid;신랄한;;WORD_3_5_1.mp3;WORD_3_5_1_1.mp3;0;;;1048
+amassed;29;;;3;5;2;amass;모으다;;WORD_3_5_2.mp3;WORD_3_5_2_1.mp3;0;;;1049
+breakthrough ;29;;;3;5;3;breakthrough;약진, 큰 발전;;WORD_3_5_3.mp3;WORD_3_5_3_1.mp3;0;;;1050
+causes;29;;;3;5;4;cause;야기시키다, 초래하다;;WORD_3_5_4.mp3;WORD_3_5_4_1.mp3;0;;;1051
+certain;29;;;3;5;5;certain;일정한;;WORD_3_5_5.mp3;WORD_3_5_5_1.mp3;0;;;1052
+components;29;;;3;5;6;component;성분;;WORD_3_5_6.mp3;WORD_3_5_6_1.mp3;0;;;1053
+conditional;29;;;3;5;7;conditional;조건부의, ~여하에 달린;;WORD_3_5_7.mp3;WORD_3_5_7_1.mp3;0;;;1054
+confronted ;29;;;3;5;8;confront;직면하다;;WORD_3_5_8.mp3;WORD_3_5_8_1.mp3;0;;;1055
+consequences;29;;;3;5;9;consequence;결과;;WORD_3_5_9.mp3;WORD_3_5_9_1.mp3;0;;;1056
+cracked;29;;;3;5;10;crack;쪼개다, 깨뜨리다;;WORD_3_5_10.mp3;WORD_3_5_10_1.mp3;0;;;1057
+crude;29;;;3;5;11;crude;천연 그대로의, 가공하지 않은;;WORD_3_5_11.mp3;WORD_3_5_11_1.mp3;0;;;1058
+droughts;29;;;3;5;12;drought;가뭄;;WORD_3_5_12.mp3;WORD_3_5_12_1.mp3;0;;;1059
+effort ;29;;;3;5;13;effort;노력;;WORD_3_5_13.mp3;WORD_3_5_13_1.mp3;0;;;1060
+emerged ;29;;;3;5;14;emerge;나타나다;;WORD_3_5_14.mp3;WORD_3_5_14_1.mp3;0;;;1061
+endurance;29;;;3;5;15;endurance;인내, 내구력;;WORD_3_5_15.mp3;WORD_3_5_15_1.mp3;0;;;1062
+euphoria;29;;;3;5;16;euphoria;행복감;;WORD_3_5_16.mp3;WORD_3_5_16_1.mp3;0;;;1063
+exacerbated ;29;;;3;5;17;exacerbate;더욱 심하게 하다;;WORD_3_5_17.mp3;WORD_3_5_17_1.mp3;0;;;1064
+explained ;29;;;3;5;18;explain;설명하다;;WORD_3_5_18.mp3;WORD_3_5_18_1.mp3;0;;;1065
+finished;29;;;3;5;19;finish;끝내다;;WORD_3_5_19.mp3;WORD_3_5_19_1.mp3;0;;;1066
+hollow;29;;;3;5;20;hollow;텅빈;;WORD_3_5_20.mp3;WORD_3_5_20_1.mp3;0;;;1067
+lashed;29;;;3;5;21;lash;묶다, 매다;;WORD_3_5_21.mp3;WORD_3_5_21_1.mp3;0;;;1068
+leisurely;29;;;3;5;22;leisurely;느긋한;;WORD_3_5_22.mp3;WORD_3_5_22_1.mp3;0;;;1069
+manageable ;29;;;3;5;23;manageable;관리할 수 있는, 감당할 수 있는;;WORD_3_5_23.mp3;WORD_3_5_23_1.mp3;0;;;1070
+note;29;;;3;5;24;note;명성;;WORD_3_5_24.mp3;WORD_3_5_24_1.mp3;0;;;1071
+periphery ;29;;;3;5;25;periphery;주변부;;WORD_3_5_25.mp3;WORD_3_5_25_1.mp3;0;;;1072
+practical;29;;;3;5;26;practical;실용적인;;WORD_3_5_26.mp3;WORD_3_5_26_1.mp3;0;;;1073
+prerequisite ;29;;;3;5;27;prerequisite;필요조건;;WORD_3_5_27.mp3;WORD_3_5_27_1.mp3;0;;;1074
+relatively ;29;;;3;5;28;relatively;비교적으로;;WORD_3_5_28.mp3;WORD_3_5_28_1.mp3;0;;;1075
+rudimentary ;29;;;3;5;29;rudimentary;기본적인, 기초적인;;WORD_3_5_29.mp3;WORD_3_5_29_1.mp3;0;;;1076
+selected;29;;;3;5;30;selected;선택된;;WORD_3_5_30.mp3;WORD_3_5_30_1.mp3;0;;;1077
+shed;29;;;3;5;31;shed;탈피하다, (빛 등을) 비추다;;WORD_3_5_31.mp3;WORD_3_5_31_1.mp3;0;;;1078
+spotty;29;;;3;5;32;spotty;고르지 않은;;WORD_3_5_32.mp3;WORD_3_5_32_1.mp3;0;;;1079
+spread;29;;;3;5;33;spread;퍼지다, ~에 이르다;;WORD_3_5_33.mp3;WORD_3_5_33_1.mp3;0;;;1080
+staunch ;29;;;3;5;34;staunch;확고한, 충실한;;WORD_3_5_34.mp3;WORD_3_5_34_1.mp3;0;;;1081
+stressed;29;;;3;5;35;stress;강조, 강조하다;;WORD_3_5_35.mp3;WORD_3_5_35_1.mp3;0;;;1082
+stunted;29;;;3;5;36;stunted;(성장이) 멎은;;WORD_3_5_36.mp3;WORD_3_5_36_1.mp3;0;;;1083
+trespassing;29;;;3;5;37;trespass;침해하다;;WORD_3_5_37.mp3;WORD_3_5_37_1.mp3;0;;;1084
+trumpeted;29;;;3;5;38;trumpet;공표하다;;WORD_3_5_38.mp3;WORD_3_5_38_1.mp3;0;;;1085
+via ;29;;;3;5;39;via;~을 경유하여;;WORD_3_5_39.mp3;WORD_3_5_39_1.mp3;0;;;1086
+accumulated;30;;;3;6;1;accumulate;모으다;;WORD_3_6_1.mp3;WORD_3_6_1_1.mp3;0;;;1087
+antithesis;30;;;3;6;2;antithesis;정반대;;WORD_3_6_2.mp3;WORD_3_6_2_1.mp3;0;;;1088
+astute ;30;;;3;6;3;astute;기민한;;WORD_3_6_3.mp3;WORD_3_6_3_1.mp3;0;;;1089
+is up to;30;;;3;6;4;be up to;～에 달려 있다;;WORD_3_6_4.mp3;WORD_3_6_4_1.mp3;0;;;1090
+beings ;30;;;3;6;5;being;생물;;WORD_3_6_5.mp3;WORD_3_6_5_1.mp3;0;;;1091
+bring about ;30;;;3;6;6;bring about;초래하다;;WORD_3_6_6.mp3;WORD_3_6_6_1.mp3;0;;;1092
+cache;30;;;3;6;7;cache;은닉처;;WORD_3_6_7.mp3;WORD_3_6_7_1.mp3;0;;;1093
+celebratory ;30;;;3;6;8;celebratory;축하의, 축하하는;;WORD_3_6_8.mp3;WORD_3_6_8_1.mp3;0;;;1094
+close;30;;;3;6;9;close;면밀한, 차단하다;;WORD_3_6_9.mp3;WORD_3_6_9_1.mp3;0;;;1095
+cognitive;30;;;3;6;10;cognitive;정신적인, 인식의;;WORD_3_6_10.mp3;WORD_3_6_10_1.mp3;0;;;1096
+created ;30;;;3;6;11;create;만들어내다;;WORD_3_6_11.mp3;WORD_3_6_11_1.mp3;0;;;1097
+destroyed;30;;;3;6;12;destroy;파괴하다, 망치다;;WORD_3_6_12.mp3;WORD_3_6_12_1.mp3;0;;;1098
+diminutive ;30;;;3;6;13;diminutive;작은;;WORD_3_6_13.mp3;WORD_3_6_13_1.mp3;0;;;1099
+endangered ;30;;;3;6;14;endangered;멸종위기에 처한, 위험에 처한;;WORD_3_6_14.mp3;WORD_3_6_14_1.mp3;0;;;1100
+formative ;30;;;3;6;15;formative;형성되는, 발달의;;WORD_3_6_15.mp3;WORD_3_6_15_1.mp3;0;;;1101
+foundered;30;;;3;6;16;founder;실패하다;;WORD_3_6_16.mp3;WORD_3_6_16_1.mp3;0;;;1102
+gleaned;30;;;3;6;17;glean;모으다;;WORD_3_6_17.mp3;WORD_3_6_17_1.mp3;0;;;1103
+governed ;30;;;3;6;18;govern;지배하다, 통제하다;;WORD_3_6_18.mp3;WORD_3_6_18_1.mp3;0;;;1104
+indigenous;30;;;3;6;19;indigenous;토착의;;WORD_3_6_19.mp3;WORD_3_6_19_1.mp3;0;;;1105
+integrate ;30;;;3;6;20;integrate;통합하다;;WORD_3_6_20.mp3;WORD_3_6_20_1.mp3;0;;;1106
+interval ;30;;;3;6;21;interval;(시간거리의) 간격;;WORD_3_6_21.mp3;WORD_3_6_21_1.mp3;0;;;1107
+largely ;30;;;3;6;22;largely;대개;;WORD_3_6_22.mp3;WORD_3_6_22_1.mp3;0;;;1108
+magnificent ;30;;;3;6;23;magnificent;굉장히 멋진;;WORD_3_6_23.mp3;WORD_3_6_23_1.mp3;0;;;1109
+overshadowed;30;;;3;6;24;overshadow;가리다, 어둡게하다;;WORD_3_6_24.mp3;WORD_3_6_24_1.mp3;0;;;1110
+particular ;30;;;3;6;25;particular;특별한;;WORD_3_6_25.mp3;WORD_3_6_25_1.mp3;0;;;1111
+ramifications ;30;;;3;6;26;ramification;결과;;WORD_3_6_26.mp3;WORD_3_6_26_1.mp3;0;;;1112
+rather ;30;;;3;6;27;rather;약간, 다소;;WORD_3_6_27.mp3;WORD_3_6_27_1.mp3;0;;;1113
+realms;30;;;3;6;28;realm;범위, 영역;;WORD_3_6_28.mp3;WORD_3_6_28_1.mp3;0;;;1114
+rivalry ;30;;;3;6;29;rivalry;경쟁;;WORD_3_6_29.mp3;WORD_3_6_29_1.mp3;0;;;1115
+silent;30;;;3;6;30;silent;말이 없는;;WORD_3_6_30.mp3;WORD_3_6_30_1.mp3;0;;;1116
+situated ;30;;;3;6;31;situate;위치시키다;;WORD_3_6_31.mp3;WORD_3_6_31_1.mp3;0;;;1117
+sphere;30;;;3;6;32;sphere;분야;;WORD_3_6_32.mp3;WORD_3_6_32_1.mp3;0;;;1118
+stealthily ;30;;;3;6;33;stealthily;은밀히, 몰래;;WORD_3_6_33.mp3;WORD_3_6_33_1.mp3;0;;;1119
+superb ;30;;;3;6;34;superb;뛰어난, 훌륭한;;WORD_3_6_34.mp3;WORD_3_6_34_1.mp3;0;;;1120
+swelled;30;;;3;6;35;swell;(크기수량 등이) 증가하다;;WORD_3_6_35.mp3;WORD_3_6_35_1.mp3;0;;;1121
+tender;30;;;3;6;36;tender;부드러운, 변상금;;WORD_3_6_36.mp3;WORD_3_6_36_1.mp3;0;;;1122
+velocity;30;;;3;6;37;velocity;속도, 신속함;;WORD_3_6_37.mp3;WORD_3_6_37_1.mp3;0;;;1123
+wild;30;;;3;6;38;wild;야생의, 난폭한;;WORD_3_6_38.mp3;WORD_3_6_38_1.mp3;0;;;1124
+accompany ;31;;;3;7;1;accompany;동반하다;;WORD_3_7_1.mp3;WORD_3_7_1_1.mp3;0;;;1125
+adverse;31;;;3;7;2;adverse;적대적인;;WORD_3_7_2.mp3;WORD_3_7_2_1.mp3;0;;;1126
+appeal;31;;;3;7;3;appeal;탄원, 청원, 매력;;WORD_3_7_3.mp3;WORD_3_7_3_1.mp3;0;;;1127
+aroused;31;;;3;7;4;arouse;자극하다, 유발시키다;;WORD_3_7_4.mp3;WORD_3_7_4_1.mp3;0;;;1128
+boundaries;31;;;3;7;5;boundary;경계(선);;WORD_3_7_5.mp3;WORD_3_7_5_1.mp3;0;;;1129
+buried ;31;;;3;7;6;bury;가리다;;WORD_3_7_6.mp3;WORD_3_7_6_1.mp3;0;;;1130
+collective;31;;;3;7;7;collective;집합된, 축적된;;WORD_3_7_7.mp3;WORD_3_7_7_1.mp3;0;;;1131
+confined ;31;;;3;7;8;confine;제한하다;;WORD_3_7_8.mp3;WORD_3_7_8_1.mp3;0;;;1132
+cumbersome;31;;;3;7;9;cumbersome;성가신, 다루기 힘든;;WORD_3_7_9.mp3;WORD_3_7_9_1.mp3;0;;;1133
+dispensable;31;;;3;7;10;dispensable;없어도 되는;;WORD_3_7_10.mp3;WORD_3_7_10_1.mp3;0;;;1134
+distribution;31;;;3;7;11;distribution;분배;;WORD_3_7_11.mp3;WORD_3_7_11_1.mp3;0;;;1135
+eat;31;;;3;7;12;eat;먹다;;WORD_3_7_12.mp3;WORD_3_7_12_1.mp3;0;;;1136
+entirely ;31;;;3;7;13;entirely;완전히;;WORD_3_7_13.mp3;WORD_3_7_13_1.mp3;0;;;1137
+equal;31;;;3;7;14;equal;동등한;;WORD_3_7_14.mp3;WORD_3_7_14_1.mp3;0;;;1138
+evaluate;31;;;3;7;15;evaluate;평가하다;;WORD_3_7_15.mp3;WORD_3_7_15_1.mp3;0;;;1139
+false ;31;;;3;7;16;false;잘못된;;WORD_3_7_16.mp3;WORD_3_7_16_1.mp3;0;;;1140
+focal point;31;;;3;7;17;focal point;중심(지);;WORD_3_7_17.mp3;WORD_3_7_17_1.mp3;0;;;1141
+gallant;31;;;3;7;18;gallant;용감한;;WORD_3_7_18.mp3;WORD_3_7_18_1.mp3;0;;;1142
+hence;31;;;3;7;19;hence;그러므로;;WORD_3_7_19.mp3;WORD_3_7_19_1.mp3;0;;;1143
+integral ;31;;;3;7;20;integral;필수적;;WORD_3_7_20.mp3;WORD_3_7_20_1.mp3;0;;;1144
+laid down;31;;;3;7;21;lay down;(규칙원칙 등을) 정하다;;WORD_3_7_21.mp3;WORD_3_7_21_1.mp3;0;;;1145
+launching;31;;;3;7;22;launch;착수하다;;WORD_3_7_22.mp3;WORD_3_7_22_1.mp3;0;;;1146
+magnify;31;;;3;7;23;magnify;확대하다, 증대하다;;WORD_3_7_23.mp3;WORD_3_7_23_1.mp3;0;;;1147
+match;31;;;3;7;24;match;필적하다;;WORD_3_7_24.mp3;WORD_3_7_24_1.mp3;0;;;1148
+more or less;31;;;3;7;25;more or less;어느 정도, 다소;;WORD_3_7_25.mp3;WORD_3_7_25_1.mp3;0;;;1149
+nature;31;;;3;7;26;nature;특징, 성향;;WORD_3_7_26.mp3;WORD_3_7_26_1.mp3;0;;;1150
+operative;31;;;3;7;27;operative;효과적인;;WORD_3_7_27.mp3;WORD_3_7_27_1.mp3;0;;;1151
+pragmatic;31;;;3;7;28;pragmatic;실용적인;;WORD_3_7_28.mp3;WORD_3_7_28_1.mp3;0;;;1152
+proliferate;31;;;3;7;29;proliferate;증식하다;;WORD_3_7_29.mp3;WORD_3_7_29_1.mp3;0;;;1153
+proven ;31;;;3;7;30;proven;증명된;;WORD_3_7_30.mp3;WORD_3_7_30_1.mp3;0;;;1154
+provoked;31;;;3;7;31;provoke;자극하다, 화나게 하다;;WORD_3_7_31.mp3;WORD_3_7_31_1.mp3;0;;;1155
+register;31;;;3;7;32;register;등록하다, 기록하다, 목록;;WORD_3_7_32.mp3;WORD_3_7_32_1.mp3;0;;;1156
+respectable;31;;;3;7;33;respectable;존경할만한;;WORD_3_7_33.mp3;WORD_3_7_33_1.mp3;0;;;1157
+rigged;31;;;3;7;34;rig;장비를 갖추다;;WORD_3_7_34.mp3;WORD_3_7_34_1.mp3;0;;;1158
+sterile;31;;;3;7;35;sterile;불모의;;WORD_3_7_35.mp3;WORD_3_7_35_1.mp3;0;;;1159
+sufficient ;31;;;3;7;36;sufficient;충분한;;WORD_3_7_36.mp3;WORD_3_7_36_1.mp3;0;;;1160
+transparent ;31;;;3;7;37;transparent;명백한;;WORD_3_7_37.mp3;WORD_3_7_37_1.mp3;0;;;1161
+uneasy;31;;;3;7;38;uneasy;불안한;;WORD_3_7_38.mp3;WORD_3_7_38_1.mp3;0;;;1162
+unpretentious;31;;;3;7;39;unpretentious;수수한;;WORD_3_7_39.mp3;WORD_3_7_39_1.mp3;0;;;1163
+appreciably ;32;;;3;8;1;appreciably;뚜렷하게, 상당히;;WORD_3_8_1.mp3;WORD_3_8_1_1.mp3;0;;;1164
+assess ;32;;;3;8;2;assess;평가하다;;WORD_3_8_2.mp3;WORD_3_8_2_1.mp3;0;;;1165
+banished;32;;;3;8;3;banish;추방하다;;WORD_3_8_3.mp3;WORD_3_8_3_1.mp3;0;;;1166
+choices;32;;;3;8;4;choice;선택권, 대안;;WORD_3_8_4.mp3;WORD_3_8_4_1.mp3;0;;;1167
+comparatively;32;;;3;8;5;comparatively;비교적, 꽤;;WORD_3_8_5.mp3;WORD_3_8_5_1.mp3;0;;;1168
+consume;32;;;3;8;6;consume;소비(소모)하다;;WORD_3_8_6.mp3;WORD_3_8_6_1.mp3;0;;;1169
+excavated;32;;;3;8;7;excavate;발굴하다;;WORD_3_8_7.mp3;WORD_3_8_7_1.mp3;0;;;1170
+excludes ;32;;;3;8;8;exclude;배제하다;;WORD_3_8_8.mp3;WORD_3_8_8_1.mp3;0;;;1171
+exert;32;;;3;8;9;exert;(힘능력 등을) 발휘하다;;WORD_3_8_9.mp3;WORD_3_8_9_1.mp3;0;;;1172
+extraordinary;32;;;3;8;10;extraordinary;비범한;;WORD_3_8_10.mp3;WORD_3_8_10_1.mp3;0;;;1173
+foraging;32;;;3;8;11;forage;찾아다니다;;WORD_3_8_11.mp3;WORD_3_8_11_1.mp3;0;;;1174
+fragile ;32;;;3;8;12;fragile;깨지기 쉬운, 연약한;;WORD_3_8_12.mp3;WORD_3_8_12_1.mp3;0;;;1175
+had nothing to do with;32;;;3;8;13;have nothing to do with;~와 관계가 없다;;WORD_3_8_13.mp3;WORD_3_8_13_1.mp3;0;;;1176
+interpreted;32;;;3;8;14;interpret;설명하다, 해석하다;;WORD_3_8_14.mp3;WORD_3_8_14_1.mp3;0;;;1177
+lavish ;32;;;3;8;15;lavish;낭비하다, 사치스런;;WORD_3_8_15.mp3;WORD_3_8_15_1.mp3;0;;;1178
+lucrative ;32;;;3;8;16;lucrative;이익이 되는;;WORD_3_8_16.mp3;WORD_3_8_16_1.mp3;0;;;1179
+mainly;32;;;3;8;17;mainly;주로;;WORD_3_8_17.mp3;WORD_3_8_17_1.mp3;0;;;1180
+manifest ;32;;;3;8;18;manifest;명백한, 증명하다;;WORD_3_8_18.mp3;WORD_3_8_18_1.mp3;0;;;1181
+material ;32;;;3;8;19;material;물질적인;;WORD_3_8_19.mp3;WORD_3_8_19_1.mp3;0;;;1182
+meticulously ;32;;;3;8;20;meticulously;주의 깊게;;WORD_3_8_20.mp3;WORD_3_8_20_1.mp3;0;;;1183
+nervous;32;;;3;8;21;nervous;신경질적인;;WORD_3_8_21.mp3;WORD_3_8_21_1.mp3;0;;;1184
+obstinate ;32;;;3;8;22;obstinate;완고한;;WORD_3_8_22.mp3;WORD_3_8_22_1.mp3;0;;;1185
+overstated;32;;;3;8;23;overstate;과장하다;;WORD_3_8_23.mp3;WORD_3_8_23_1.mp3;0;;;1186
+pack together ;32;;;3;8;24;pack together;모이다;;WORD_3_8_24.mp3;WORD_3_8_24_1.mp3;0;;;1187
+performed ;32;;;3;8;25;perform;수행하다;;WORD_3_8_25.mp3;WORD_3_8_25_1.mp3;0;;;1188
+perishable;32;;;3;8;26;perishable;상하기 쉬운;;WORD_3_8_26.mp3;WORD_3_8_26_1.mp3;0;;;1189
+pounded;32;;;3;8;27;pound;마구 치다;;WORD_3_8_27.mp3;WORD_3_8_27_1.mp3;0;;;1190
+prolific ;32;;;3;8;28;prolific;결실이 많은, 다작의;;WORD_3_8_28.mp3;WORD_3_8_28_1.mp3;0;;;1191
+proof;32;;;3;8;29;proof;증거;;WORD_3_8_29.mp3;WORD_3_8_29_1.mp3;0;;;1192
+serene ;32;;;3;8;30;serene;고요한;;WORD_3_8_30.mp3;WORD_3_8_30_1.mp3;0;;;1193
+spawn;32;;;3;8;31;spawn;야기하다;;WORD_3_8_31.mp3;WORD_3_8_31_1.mp3;0;;;1194
+substituted;32;;;3;8;32;substitute;대체하다, 대안;;WORD_3_8_32.mp3;WORD_3_8_32_1.mp3;0;;;1195
+surpasse;32;;;3;8;33;surpass;능가하다;;WORD_3_8_33.mp3;WORD_3_8_33_1.mp3;0;;;1196
+survival;32;;;3;8;34;survival;생존;;WORD_3_8_34.mp3;WORD_3_8_34_1.mp3;0;;;1197
+ubiquitous ;32;;;3;8;35;ubiquitous;어디에나 존재하는;;WORD_3_8_35.mp3;WORD_3_8_35_1.mp3;0;;;1198
+undergone;32;;;3;8;36;undergo;(어려운 일을) 겪다;;WORD_3_8_36.mp3;WORD_3_8_36_1.mp3;0;;;1199
+weed out;32;;;3;8;37;weed out;제거하다;;WORD_3_8_37.mp3;WORD_3_8_37_1.mp3;0;;;1200
+worn-out;32;;;3;8;38;worn-out;지친;;WORD_3_8_38.mp3;WORD_3_8_38_1.mp3;0;;;1201
+adhered ;33;;;3;9;1;adhere;~에 달라붙다, 고수하다;;WORD_3_9_1.mp3;WORD_3_9_1_1.mp3;0;;;1202
+assertions;33;;;3;9;2;assertion;주장, 단언;;WORD_3_9_2.mp3;WORD_3_9_2_1.mp3;0;;;1203
+barren ;33;;;3;9;3;barren;불모의;;WORD_3_9_3.mp3;WORD_3_9_3_1.mp3;0;;;1204
+budding ;33;;;3;9;4;budding;신진의;;WORD_3_9_4.mp3;WORD_3_9_4_1.mp3;0;;;1205
+central;33;;;3;9;5;central;주요한;;WORD_3_9_5.mp3;WORD_3_9_5_1.mp3;0;;;1206
+comprehensible;33;;;3;9;6;comprehensible;알기 쉬운;;WORD_3_9_6.mp3;WORD_3_9_6_1.mp3;0;;;1207
+concern;33;;;3;9;7;concern;관심;;WORD_3_9_7.mp3;WORD_3_9_7_1.mp3;0;;;1208
+configuration ;33;;;3;9;8;configuration;배치, 배열;;WORD_3_9_8.mp3;WORD_3_9_8_1.mp3;0;;;1209
+deserved;33;;;3;9;9;deserved;당연히 받아야 할;;WORD_3_9_9.mp3;WORD_3_9_9_1.mp3;0;;;1210
+detected;33;;;3;9;10;detect;발견하다, 인지하다;;WORD_3_9_10.mp3;WORD_3_9_10_1.mp3;0;;;1211
+diffused;33;;;3;9;11;diffuse;퍼뜨리다;;WORD_3_9_11.mp3;WORD_3_9_11_1.mp3;0;;;1212
+exaggerated;33;;;3;9;12;exaggerate;과장하다;;WORD_3_9_12.mp3;WORD_3_9_12_1.mp3;0;;;1213
+fettered ;33;;;3;9;13;fetter;구속하다, 제한하다;;WORD_3_9_13.mp3;WORD_3_9_13_1.mp3;0;;;1214
+floated ;33;;;3;9;14;float;뜨다;;WORD_3_9_14.mp3;WORD_3_9_14_1.mp3;0;;;1215
+frequent;33;;;3;9;15;frequent;빈번한;;WORD_3_9_15.mp3;WORD_3_9_15_1.mp3;0;;;1216
+groundless;33;;;3;9;16;groundless;근거 없는;;WORD_3_9_16.mp3;WORD_3_9_16_1.mp3;0;;;1217
+hindrance;33;;;3;9;17;hindrance;방해, 장애(물);;WORD_3_9_17.mp3;WORD_3_9_17_1.mp3;0;;;1218
+maneuvered;33;;;3;9;18;maneuver;계획, 책략, 움직이다;;WORD_3_9_18.mp3;WORD_3_9_18_1.mp3;0;;;1219
+marred;33;;;3;9;19;mar;망쳐 놓다;;WORD_3_9_19.mp3;WORD_3_9_19_1.mp3;0;;;1220
+mighty;33;;;3;9;20;mighty;강력한;;WORD_3_9_20.mp3;WORD_3_9_20_1.mp3;0;;;1221
+opaque ;33;;;3;9;21;opaque;불투명한, 불명료한;;WORD_3_9_21.mp3;WORD_3_9_21_1.mp3;0;;;1222
+originated;33;;;3;9;22;originate;일어나다, 생기다;;WORD_3_9_22.mp3;WORD_3_9_22_1.mp3;0;;;1223
+pace ;33;;;3;9;23;pace;걸음(걸이), 속력, 걷다;;WORD_3_9_23.mp3;WORD_3_9_23_1.mp3;0;;;1224
+perceptibly ;33;;;3;9;24;perceptibly;알아차릴 정도로;;WORD_3_9_24.mp3;WORD_3_9_24_1.mp3;0;;;1225
+promising;33;;;3;9;25;promising;유망한;;WORD_3_9_25.mp3;WORD_3_9_25_1.mp3;0;;;1226
+punctuality;33;;;3;9;26;punctuality;시간 엄수;;WORD_3_9_26.mp3;WORD_3_9_26_1.mp3;0;;;1227
+rotate ;33;;;3;9;27;rotate;회전하다;;WORD_3_9_27.mp3;WORD_3_9_27_1.mp3;0;;;1228
+scattered;33;;;3;9;28;scatter;퍼뜨리다;;WORD_3_9_28.mp3;WORD_3_9_28_1.mp3;0;;;1229
+sedentary ;33;;;3;9;29;sedentary;움직이지 않는;;WORD_3_9_29.mp3;WORD_3_9_29_1.mp3;0;;;1230
+site ;33;;;3;9;30;site;장소, 위치;;WORD_3_9_30.mp3;WORD_3_9_30_1.mp3;0;;;1231
+soak ;33;;;3;9;31;soak;적시다;;WORD_3_9_31.mp3;WORD_3_9_31_1.mp3;0;;;1232
+subsist ;33;;;3;9;32;subsist;존속하다;;WORD_3_9_32.mp3;WORD_3_9_32_1.mp3;0;;;1233
+supremacy;33;;;3;9;33;supremacy;우월, 우위;;WORD_3_9_33.mp3;WORD_3_9_33_1.mp3;0;;;1234
+triggered;33;;;3;9;34;trigger;일으키다;;WORD_3_9_34.mp3;WORD_3_9_34_1.mp3;0;;;1235
+tumultuous ;33;;;3;9;35;tumultuous;무질서한, 떠들썩한;;WORD_3_9_35.mp3;WORD_3_9_35_1.mp3;0;;;1236
+veritable ;33;;;3;9;36;veritable;실제의;;WORD_3_9_36.mp3;WORD_3_9_36_1.mp3;0;;;1237
+waste ;33;;;3;9;37;waste;낭비하다;;WORD_3_9_37.mp3;WORD_3_9_37_1.mp3;0;;;1238
+weakened;33;;;3;9;38;weaken;약화시키다;;WORD_3_9_38.mp3;WORD_3_9_38_1.mp3;0;;;1239
+accretion ;34;;;3;10;1;accretion;축적(물);;WORD_3_10_1.mp3;WORD_3_10_1_1.mp3;0;;;1240
+agriculture ;34;;;3;10;2;agriculture;농업;;WORD_3_10_2.mp3;WORD_3_10_2_1.mp3;0;;;1241
+attach;34;;;3;10;3;attach;붙이다;;WORD_3_10_3.mp3;WORD_3_10_3_1.mp3;0;;;1242
+counter;34;;;3;10;4;counter;대항하다, 반박하다;;WORD_3_10_4.mp3;WORD_3_10_4_1.mp3;0;;;1243
+crop up;34;;;3;10;5;crop up;나타나다;;WORD_3_10_5.mp3;WORD_3_10_5_1.mp3;0;;;1244
+dimly;34;;;3;10;6;dimly;희미하게;;WORD_3_10_6.mp3;WORD_3_10_6_1.mp3;0;;;1245
+distracted ;34;;;3;10;7;distract;산만하게 하다;;WORD_3_10_7.mp3;WORD_3_10_7_1.mp3;0;;;1246
+drained ;34;;;3;10;8;drain;배수하다;;WORD_3_10_8.mp3;WORD_3_10_8_1.mp3;0;;;1247
+emergent ;34;;;3;10;9;emergent;떠오르는, 신흥의;;WORD_3_10_9.mp3;WORD_3_10_9_1.mp3;0;;;1248
+enlarge ;34;;;3;10;10;enlarge;확대시키다;;WORD_3_10_10.mp3;WORD_3_10_10_1.mp3;0;;;1249
+excessive;34;;;3;10;11;excessive;지나친;;WORD_3_10_11.mp3;WORD_3_10_11_1.mp3;0;;;1250
+exploit ;34;;;3;10;12;exploit;위업, 이용하다;;WORD_3_10_12.mp3;WORD_3_10_12_1.mp3;0;;;1251
+extract ;34;;;3;10;13;extract;이끌어 내다;;WORD_3_10_13.mp3;WORD_3_10_13_1.mp3;0;;;1252
+fierce ;34;;;3;10;14;fierce;사나운;;WORD_3_10_14.mp3;WORD_3_10_14_1.mp3;0;;;1253
+fiery;34;;;3;10;15;fiery;불같은;;WORD_3_10_15.mp3;WORD_3_10_15_1.mp3;0;;;1254
+first and foremost;34;;;3;10;16;first and foremost;무엇보다도 먼저;;WORD_3_10_16.mp3;WORD_3_10_16_1.mp3;0;;;1255
+fluctuations ;34;;;3;10;17;fluctuation;변동;;WORD_3_10_17.mp3;WORD_3_10_17_1.mp3;0;;;1256
+gradually;34;;;3;10;18;gradually;점차적으로;;WORD_3_10_18.mp3;WORD_3_10_18_1.mp3;0;;;1257
+languid;34;;;3;10;19;languid;기운 없는;;WORD_3_10_19.mp3;WORD_3_10_19_1.mp3;0;;;1258
+location;34;;;3;10;20;location;장소, 위치;;WORD_3_10_20.mp3;WORD_3_10_20_1.mp3;0;;;1259
+lengthened;34;;;3;10;21;lengthen;연장하다;;WORD_3_10_21.mp3;WORD_3_10_21_1.mp3;0;;;1260
+mandatory ;34;;;3;10;22;mandatory;필수의;;WORD_3_10_22.mp3;WORD_3_10_22_1.mp3;0;;;1261
+narrated ;34;;;3;10;23;narrate;이야기하다;;WORD_3_10_23.mp3;WORD_3_10_23_1.mp3;0;;;1262
+noxious;34;;;3;10;24;noxious;유해한;;WORD_3_10_24.mp3;WORD_3_10_24_1.mp3;0;;;1263
+once;34;;;3;10;25;once;일단 ~하면;;WORD_3_10_25.mp3;WORD_3_10_25_1.mp3;0;;;1264
+piercing ;34;;;3;10;26;pierce;관통하다;;WORD_3_10_26.mp3;WORD_3_10_26_1.mp3;0;;;1265
+positive;34;;;3;10;27;positive;확신하는, 긍정적인;;WORD_3_10_27.mp3;WORD_3_10_27_1.mp3;0;;;1266
+pretended ;34;;;3;10;28;pretend;~인 체하다;;WORD_3_10_28.mp3;WORD_3_10_28_1.mp3;0;;;1267
+range;34;;;3;10;29;range;범위, 변화하다;;WORD_3_10_29.mp3;WORD_3_10_29_1.mp3;0;;;1268
+rudiments;34;;;3;10;30;rudiment;기초, 기본;;WORD_3_10_30.mp3;WORD_3_10_30_1.mp3;0;;;1269
+signified ;34;;;3;10;31;signify;표명하다, 나타내다;;WORD_3_10_31.mp3;WORD_3_10_31_1.mp3;0;;;1270
+simultaneously;34;;;3;10;32;simultaneously;동시에;;WORD_3_10_32.mp3;WORD_3_10_32_1.mp3;0;;;1271
+symmetrical ;34;;;3;10;33;symmetrical;균형이 잡힌, 대칭적인;;WORD_3_10_33.mp3;WORD_3_10_33_1.mp3;0;;;1272
+testify;34;;;3;10;34;testify;증명하다, 입증하다;;WORD_3_10_34.mp3;WORD_3_10_34_1.mp3;0;;;1273
+vast;34;;;3;10;35;vast;거대한;;WORD_3_10_35.mp3;WORD_3_10_35_1.mp3;0;;;1274
+visionary;34;;;3;10;36;visionary;환상의;;WORD_3_10_36.mp3;WORD_3_10_36_1.mp3;0;;;1275
+vogue;34;;;3;10;37;vogue;유행;;WORD_3_10_37.mp3;WORD_3_10_37_1.mp3;0;;;1276
+weariness;34;;;3;10;38;weariness;피로;;WORD_3_10_38.mp3;WORD_3_10_38_1.mp3;0;;;1277
+accelerated;35;;;3;11;1;accelerate;촉진시키다;;WORD_3_11_1.mp3;WORD_3_11_1_1.mp3;0;;;1278
+adjusted ;35;;;3;11;2;adjust;맞추다, 조절하다;;WORD_3_11_2.mp3;WORD_3_11_2_1.mp3;0;;;1279
+a great deal of;35;;;3;11;3;a great deal of;다량의;;WORD_3_11_3.mp3;WORD_3_11_3_1.mp3;0;;;1280
+alleviated;35;;;3;11;4;alleviate;완화하다;;WORD_3_11_4.mp3;WORD_3_11_4_1.mp3;0;;;1281
+aromatic ;35;;;3;11;5;aromatic;향기로운;;WORD_3_11_5.mp3;WORD_3_11_5_1.mp3;0;;;1282
+celebrated ;35;;;3;11;6;celebrated;유명한;;WORD_3_11_6.mp3;WORD_3_11_6_1.mp3;0;;;1283
+characterized;35;;;3;11;7;characterize;특징 지우다;;WORD_3_11_7.mp3;WORD_3_11_7_1.mp3;0;;;1284
+certainly;35;;;3;11;8;certainly;확실히;;WORD_3_11_8.mp3;WORD_3_11_8_1.mp3;0;;;1285
+compliment;35;;;3;11;9;compliment;칭찬, 경의;;WORD_3_11_9.mp3;WORD_3_11_9_1.mp3;0;;;1286
+decrease ;35;;;3;11;10;decrease;줄이다;;WORD_3_11_10.mp3;WORD_3_11_10_1.mp3;0;;;1287
+definite;35;;;3;11;11;definite;명확한;;WORD_3_11_11.mp3;WORD_3_11_11_1.mp3;0;;;1288
+dictated ;35;;;3;11;12;dictate;(조건방침 등을) 지시하다;;WORD_3_11_12.mp3;WORD_3_11_12_1.mp3;0;;;1289
+distinction;35;;;3;11;13;distinction;차이;;WORD_3_11_13.mp3;WORD_3_11_13_1.mp3;0;;;1290
+embedded;35;;;3;11;14;embed;고정시키다, 새겨 넣다;;WORD_3_11_14.mp3;WORD_3_11_14_1.mp3;0;;;1291
+escape;35;;;3;11;15;escape;피하다, 도피;;WORD_3_11_15.mp3;WORD_3_11_15_1.mp3;0;;;1292
+essentially;35;;;3;11;16;essentially;본래, 본질적으로;;WORD_3_11_16.mp3;WORD_3_11_16_1.mp3;0;;;1293
+forged ;35;;;3;11;17;forge;~로 나아가다, 만들다;;WORD_3_11_17.mp3;WORD_3_11_17_1.mp3;0;;;1294
+identity;35;;;3;11;18;identity;동일성;;WORD_3_11_18.mp3;WORD_3_11_18_1.mp3;0;;;1295
+illuminate ;35;;;3;11;19;illuminate;명확히 하다, 밝게 하다;;WORD_3_11_19.mp3;WORD_3_11_19_1.mp3;0;;;1296
+in a short space of time;35;;;3;11;20;in a short space of time;단시간에, 빨리;;WORD_3_11_20.mp3;WORD_3_11_20_1.mp3;0;;;1297
+inconstant ;35;;;3;11;21;inconstant;변하기 쉬운;;WORD_3_11_21.mp3;WORD_3_11_21_1.mp3;0;;;1298
+initial;35;;;3;11;22;initial;처음의;;WORD_3_11_22.mp3;WORD_3_11_22_1.mp3;0;;;1299
+lay off ;35;;;3;11;23;lay off;(일시적으로) 해고하다;;WORD_3_11_23.mp3;WORD_3_11_23_1.mp3;0;;;1300
+motif;35;;;3;11;24;motif;주제, 문양;;WORD_3_11_24.mp3;WORD_3_11_24_1.mp3;0;;;1301
+patience;35;;;3;11;25;patience;인내;;WORD_3_11_25.mp3;WORD_3_11_25_1.mp3;0;;;1302
+perilous;35;;;3;11;26;perilous;위험한;;WORD_3_11_26.mp3;WORD_3_11_26_1.mp3;0;;;1303
+personnel;35;;;3;11;27;personnel;직원;;WORD_3_11_27.mp3;WORD_3_11_27_1.mp3;0;;;1304
+ready;35;;;3;11;28;ready;준비된;;WORD_3_11_28.mp3;WORD_3_11_28_1.mp3;0;;;1305
+refused;35;;;3;11;29;refuse;거절하다, 쓰레기;;WORD_3_11_29.mp3;WORD_3_11_29_1.mp3;0;;;1306
+revival;35;;;3;11;30;revival;재생, 부활;;WORD_3_11_30.mp3;WORD_3_11_30_1.mp3;0;;;1307
+sorrow;35;;;3;11;31;sorrow;슬픔;;WORD_3_11_31.mp3;WORD_3_11_31_1.mp3;0;;;1308
+spent;35;;;3;11;32;spend;소비하다;;WORD_3_11_32.mp3;WORD_3_11_32_1.mp3;0;;;1309
+spotted;35;;;3;11;33;spot;발견하다;;WORD_3_11_33.mp3;WORD_3_11_33_1.mp3;0;;;1310
+steadfast ;35;;;3;11;34;steadfast;확고한;;WORD_3_11_34.mp3;WORD_3_11_34_1.mp3;0;;;1311
+tension;35;;;3;11;35;tension;긴장, 팽팽함;;WORD_3_11_35.mp3;WORD_3_11_35_1.mp3;0;;;1312
+ultimate ;35;;;3;11;36;ultimate;궁극적인;;WORD_3_11_36.mp3;WORD_3_11_36_1.mp3;0;;;1313
+with respect to;35;;;3;11;37;with respect to;～에 대하여;;WORD_3_11_37.mp3;WORD_3_11_37_1.mp3;0;;;1314
+angered;36;;;3;12;1;anger;화나게 하다;;WORD_3_12_1.mp3;WORD_3_12_1_1.mp3;0;;;1315
+auxiliary ;36;;;3;12;2;auxiliary;보조적인;;WORD_3_12_2.mp3;WORD_3_12_2_1.mp3;0;;;1316
+bizarre;36;;;3;12;3;bizarre;기괴한;;WORD_3_12_3.mp3;WORD_3_12_3_1.mp3;0;;;1317
+broaden ;36;;;3;12;4;broaden;확장하다;;WORD_3_12_4.mp3;WORD_3_12_4_1.mp3;0;;;1318
+check ;36;;;3;12;5;check;조사하다, 막다;;WORD_3_12_5.mp3;WORD_3_12_5_1.mp3;0;;;1319
+cited;36;;;3;12;6;cite;언급하다, 합의;;WORD_3_12_6.mp3;WORD_3_12_6_1.mp3;0;;;1320
+consensus;36;;;3;12;7;consensus;합의;;WORD_3_12_7.mp3;WORD_3_12_7_1.mp3;0;;;1321
+coped with;36;;;3;12;8;cope with;～에 잘 대처하다;;WORD_3_12_8.mp3;WORD_3_12_8_1.mp3;0;;;1322
+ebb;36;;;3;12;9;ebb;쇠퇴하다, 약해지다, 간조, 썰물;;WORD_3_12_9.mp3;WORD_3_12_9_1.mp3;0;;;1323
+elementary ;36;;;3;12;10;elementary;기초적인;;WORD_3_12_10.mp3;WORD_3_12_10_1.mp3;0;;;1324
+fashions;36;;;3;12;11;fashion;유행, 만들다, 맞추다;;WORD_3_12_11.mp3;WORD_3_12_11_1.mp3;0;;;1325
+finance ;36;;;3;12;12;finance;자금을 조달하다;;WORD_3_12_12.mp3;WORD_3_12_12_1.mp3;0;;;1326
+force ;36;;;3;12;13;force;힘;;WORD_3_12_13.mp3;WORD_3_12_13_1.mp3;0;;;1327
+legendary ;36;;;3;12;14;legendary;전설적인;;WORD_3_12_14.mp3;WORD_3_12_14_1.mp3;0;;;1328
+markedly;36;;;3;12;15;markedly;현저하게;;WORD_3_12_15.mp3;WORD_3_12_15_1.mp3;0;;;1329
+obvious;36;;;3;12;16;obvious;명백한;;WORD_3_12_16.mp3;WORD_3_12_16_1.mp3;0;;;1330
+output;36;;;3;12;17;output;결과물;;WORD_3_12_17.mp3;WORD_3_12_17_1.mp3;0;;;1331
+overwhelmingly ;36;;;3;12;18;overwhelmingly;압도적으로;;WORD_3_12_18.mp3;WORD_3_12_18_1.mp3;0;;;1332
+pension ;36;;;3;12;19;pension;연금;;WORD_3_12_19.mp3;WORD_3_12_19_1.mp3;0;;;1333
+pioneered ;36;;;3;12;20;pioneer;개척하다;;WORD_3_12_20.mp3;WORD_3_12_20_1.mp3;0;;;1334
+potent ;36;;;3;12;21;potent;강력한;;WORD_3_12_21.mp3;WORD_3_12_21_1.mp3;0;;;1335
+probing;36;;;3;12;22;probe;정밀 조사하다, 조사;;WORD_3_12_22.mp3;WORD_3_12_22_1.mp3;0;;;1336
+quaint;36;;;3;12;23;quaint;기이한;;WORD_3_12_23.mp3;WORD_3_12_23_1.mp3;0;;;1337
+react ;36;;;3;12;24;react;반응하다;;WORD_3_12_24.mp3;WORD_3_12_24_1.mp3;0;;;1338
+reaped ;36;;;3;12;25;reap;수확하다, 획득하다;;WORD_3_12_25.mp3;WORD_3_12_25_1.mp3;0;;;1339
+spectrum;36;;;3;12;26;spectrum;범위;;WORD_3_12_26.mp3;WORD_3_12_26_1.mp3;0;;;1340
+stock ;36;;;3;12;27;stock;비축(물);;WORD_3_12_27.mp3;WORD_3_12_27_1.mp3;0;;;1341
+strained;36;;;3;12;28;strain;잡아당기다, 팽팽함, 긴장;;WORD_3_12_28.mp3;WORD_3_12_28_1.mp3;0;;;1342
+stroke ;36;;;3;12;29;stroke;일격;;WORD_3_12_29.mp3;WORD_3_12_29_1.mp3;0;;;1343
+sturdy;36;;;3;12;30;sturdy;튼튼한;;WORD_3_12_30.mp3;WORD_3_12_30_1.mp3;0;;;1344
+tactics;36;;;3;12;31;tactic(s);전술, 책략;;WORD_3_12_31.mp3;WORD_3_12_31_1.mp3;0;;;1345
+tapered ;36;;;3;12;32;tapered;좁아진;;WORD_3_12_32.mp3;WORD_3_12_32_1.mp3;0;;;1346
+upsurge;36;;;3;12;33;upsurge;급증;;WORD_3_12_33.mp3;WORD_3_12_33_1.mp3;0;;;1347
+utility ;36;;;3;12;34;utility;실용성;;WORD_3_12_34.mp3;WORD_3_12_34_1.mp3;0;;;1348
+whereas;36;;;3;12;35;whereas;~에 반하여;;WORD_3_12_35.mp3;WORD_3_12_35_1.mp3;0;;;1349
+widespread;36;;;3;12;36;widespread;널리 퍼진, 광범위한;;WORD_3_12_36.mp3;WORD_3_12_36_1.mp3;0;;;1350
+accomplishing;37;;;4;1;1;accomplish;성취하다;;WORD_4_1_1.mp3;WORD_4_1_1_1.mp3;0;;;1351
+accordingly;37;;;4;1;2;accordingly;따라서;;WORD_4_1_2.mp3;WORD_4_1_2_1.mp3;0;;;1352
+alarm;37;;;4;1;3;alarm;공포, 놀람, 놀라게 하다;;WORD_4_1_3.mp3;WORD_4_1_3_1.mp3;0;;;1353
+apparatus;37;;;4;1;4;apparatus;기구;;WORD_4_1_4.mp3;WORD_4_1_4_1.mp3;0;;;1354
+backbone ;37;;;4;1;5;backbone;중추, 척추;;WORD_4_1_5.mp3;WORD_4_1_5_1.mp3;0;;;1355
+bode ;37;;;4;1;6;bode;징조가 되다;;WORD_4_1_6.mp3;WORD_4_1_6_1.mp3;0;;;1356
+cargo;37;;;4;1;7;cargo;화물;;WORD_4_1_7.mp3;WORD_4_1_7_1.mp3;0;;;1357
+composition;37;;;4;1;8;composition;구성(물), 조직;;WORD_4_1_8.mp3;WORD_4_1_8_1.mp3;0;;;1358
+conduit ;37;;;4;1;9;conduit;도관, 선;;WORD_4_1_9.mp3;WORD_4_1_9_1.mp3;0;;;1359
+consider ;37;;;4;1;10;consider;깊이 생각하다, 간주하다;;WORD_4_1_10.mp3;WORD_4_1_10_1.mp3;0;;;1360
+dual ;37;;;4;1;11;dual;이중의;;WORD_4_1_11.mp3;WORD_4_1_11_1.mp3;0;;;1361
+encroaching ;37;;;4;1;12;encroach;침입하다;;WORD_4_1_12.mp3;WORD_4_1_12_1.mp3;0;;;1362
+ensued;37;;;4;1;13;ensue;뒤따라 일어나다;;WORD_4_1_13.mp3;WORD_4_1_13_1.mp3;0;;;1363
+equipped;37;;;4;1;14;equip;(필요한 것을) 갖추어 주다;;WORD_4_1_14.mp3;WORD_4_1_14_1.mp3;0;;;1364
+establish;37;;;4;1;15;establish;설립하다;;WORD_4_1_15.mp3;WORD_4_1_15_1.mp3;0;;;1365
+exorbitant;37;;;4;1;16;exorbitant;과도한;;WORD_4_1_16.mp3;WORD_4_1_16_1.mp3;0;;;1366
+explicit;37;;;4;1;17;explicit;명백한;;WORD_4_1_17.mp3;WORD_4_1_17_1.mp3;0;;;1367
+frantic;37;;;4;1;18;frantic;미친 (광란의);;WORD_4_1_18.mp3;WORD_4_1_18_1.mp3;0;;;1368
+hectic;37;;;4;1;19;hectic;매우 흥분한, 정신없이 분주한;;WORD_4_1_19.mp3;WORD_4_1_19_1.mp3;0;;;1369
+inaugurate;37;;;4;1;20;inaugurate;개시하다;;WORD_4_1_20.mp3;WORD_4_1_20_1.mp3;0;;;1370
+incised ;37;;;4;1;21;incise;새기다;;WORD_4_1_21.mp3;WORD_4_1_21_1.mp3;0;;;1371
+jubilant ;37;;;4;1;22;jubilant;환희에 찬;;WORD_4_1_22.mp3;WORD_4_1_22_1.mp3;0;;;1372
+mode;37;;;4;1;23;mode;양식, 형태;;WORD_4_1_23.mp3;WORD_4_1_23_1.mp3;0;;;1373
+ominous ;37;;;4;1;24;ominous;불길한;;WORD_4_1_24.mp3;WORD_4_1_24_1.mp3;0;;;1374
+owned;37;;;4;1;25;own;인정하다;;WORD_4_1_25.mp3;WORD_4_1_25_1.mp3;0;;;1375
+perpetual;37;;;4;1;26;perpetual;끊임없는;;WORD_4_1_26.mp3;WORD_4_1_26_1.mp3;0;;;1376
+praiseworthy ;37;;;4;1;27;praiseworthy;칭찬할 만한;;WORD_4_1_27.mp3;WORD_4_1_27_1.mp3;0;;;1377
+progressive;37;;;4;1;28;progressive;진보적인;;WORD_4_1_28.mp3;WORD_4_1_28_1.mp3;0;;;1378
+provides ;37;;;4;1;29;provide;제공하다;;WORD_4_1_29.mp3;WORD_4_1_29_1.mp3;0;;;1379
+provisions;37;;;4;1;30;provision;식량;;WORD_4_1_30.mp3;WORD_4_1_30_1.mp3;0;;;1380
+puzzling over;37;;;4;1;31;puzzle over;쩔쩔매다, 이리저리 생각하다;;WORD_4_1_31.mp3;WORD_4_1_31_1.mp3;0;;;1381
+ruinous ;37;;;4;1;32;ruinous;파괴적인;;WORD_4_1_32.mp3;WORD_4_1_32_1.mp3;0;;;1382
+solicitations;37;;;4;1;33;solicitation;권유, 간청;;WORD_4_1_33.mp3;WORD_4_1_33_1.mp3;0;;;1383
+solicitude;37;;;4;1;34;solicitude;근심, 염려;;WORD_4_1_34.mp3;WORD_4_1_34_1.mp3;0;;;1384
+strayed;37;;;4;1;35;stray;벗어나다, 이탈하다;;WORD_4_1_35.mp3;WORD_4_1_35_1.mp3;0;;;1385
+troublesome ;37;;;4;1;36;troublesome;힘든 (성가신);;WORD_4_1_36.mp3;WORD_4_1_36_1.mp3;0;;;1386
+unqualified;37;;;4;1;37;unqualified;절대적인;;WORD_4_1_37.mp3;WORD_4_1_37_1.mp3;0;;;1387
+weak;37;;;4;1;38;weak;약한;;WORD_4_1_38.mp3;WORD_4_1_38_1.mp3;0;;;1388
+witnessing;37;;;4;1;39;witness;목격하다;;WORD_4_1_39.mp3;WORD_4_1_39_1.mp3;0;;;1389
+abhorred ;38;;;4;2;1;abhor;혐오하다;;WORD_4_2_1.mp3;WORD_4_2_1_1.mp3;0;;;1390
+ambition;38;;;4;2;2;ambition;야망;;WORD_4_2_2.mp3;WORD_4_2_2_1.mp3;0;;;1391
+bulk;38;;;4;2;3;bulk;거대함(대량), 대부분;;WORD_4_2_3.mp3;WORD_4_2_3_1.mp3;0;;;1392
+charitable;38;;;4;2;4;charitable;관대한, 자비로운;;WORD_4_2_4.mp3;WORD_4_2_4_1.mp3;0;;;1393
+conclusively;38;;;4;2;5;conclusively;결정적으로, 확실히;;WORD_4_2_5.mp3;WORD_4_2_5_1.mp3;0;;;1394
+conferred;38;;;4;2;6;confer;수여하다;;WORD_4_2_6.mp3;WORD_4_2_6_1.mp3;0;;;1395
+denied;38;;;4;2;7;deny;부인하다;;WORD_4_2_7.mp3;WORD_4_2_7_1.mp3;0;;;1396
+echo ;38;;;4;2;8;echo;반영하다, 반향하다, 반복하다;;WORD_4_2_8.mp3;WORD_4_2_8_1.mp3;0;;;1397
+eerie ;38;;;4;2;9;eerie;기묘한;;WORD_4_2_9.mp3;WORD_4_2_9_1.mp3;0;;;1398
+emulate;38;;;4;2;10;emulate;모방하다;;WORD_4_2_10.mp3;WORD_4_2_10_1.mp3;0;;;1399
+forestalled ;38;;;4;2;11;forestall;미리 막다, 미리 손쓰다;;WORD_4_2_11.mp3;WORD_4_2_11_1.mp3;0;;;1400
+generally;38;;;4;2;12;generally;대부분, 주로;;WORD_4_2_12.mp3;WORD_4_2_12_1.mp3;0;;;1401
+glance ;38;;;4;2;13;glance;흘긋 봄;;WORD_4_2_13.mp3;WORD_4_2_13_1.mp3;0;;;1402
+implements ;38;;;4;2;14;implement;도구;;WORD_4_2_14.mp3;WORD_4_2_14_1.mp3;0;;;1403
+in terms of;38;;;4;2;15;in terms of;～에 관하여;;WORD_4_2_15.mp3;WORD_4_2_15_1.mp3;0;;;1404
+inveighedagainst;38;;;4;2;16;inveigh against;통렬히 비판하다;;WORD_4_2_16.mp3;WORD_4_2_16_1.mp3;0;;;1405
+look ;38;;;4;2;17;look;보다;;WORD_4_2_17.mp3;WORD_4_2_17_1.mp3;0;;;1406
+monetary ;38;;;4;2;18;monetary;재정(금전)상의;;WORD_4_2_18.mp3;WORD_4_2_18_1.mp3;0;;;1407
+motion;38;;;4;2;19;motion;움직임, 동작;;WORD_4_2_19.mp3;WORD_4_2_19_1.mp3;0;;;1408
+obtain ;38;;;4;2;20;obtain;얻다;;WORD_4_2_20.mp3;WORD_4_2_20_1.mp3;0;;;1409
+outspoken ;38;;;4;2;21;outspoken;솔직한;;WORD_4_2_21.mp3;WORD_4_2_21_1.mp3;0;;;1410
+pants ;38;;;4;2;22;pant;숨을 헐떡이다, 바지;;WORD_4_2_22.mp3;WORD_4_2_22_1.mp3;0;;;1411
+patchy ;38;;;4;2;23;patchy;고르지 않은;;WORD_4_2_23.mp3;WORD_4_2_23_1.mp3;0;;;1412
+precipitation ;38;;;4;2;24;precipitation;촉진, 성급함;;WORD_4_2_24.mp3;WORD_4_2_24_1.mp3;0;;;1413
+promote;38;;;4;2;25;promote;촉진하다;;WORD_4_2_25.mp3;WORD_4_2_25_1.mp3;0;;;1414
+purified ;38;;;4;2;26;purified;정화된;;WORD_4_2_26.mp3;WORD_4_2_26_1.mp3;0;;;1415
+recreational;38;;;4;2;27;recreational;오락의, 휴양의;;WORD_4_2_27.mp3;WORD_4_2_27_1.mp3;0;;;1416
+recruit ;38;;;4;2;28;recruit;얻다, 모집하다;;WORD_4_2_28.mp3;WORD_4_2_28_1.mp3;0;;;1417
+seized ;38;;;4;2;29;seize;움켜잡다;;WORD_4_2_29.mp3;WORD_4_2_29_1.mp3;0;;;1418
+structured;38;;;4;2;30;structure;구조, 조직화하다;;WORD_4_2_30.mp3;WORD_4_2_30_1.mp3;0;;;1419
+surreal ;38;;;4;2;31;surreal;초현실적인;;WORD_4_2_31.mp3;WORD_4_2_31_1.mp3;0;;;1420
+synthesis;38;;;4;2;32;synthesis;통합체, 통합;;WORD_4_2_32.mp3;WORD_4_2_32_1.mp3;0;;;1421
+textile;38;;;4;2;33;textile;직물;;WORD_4_2_33.mp3;WORD_4_2_33_1.mp3;0;;;1422
+thereby ;38;;;4;2;34;thereby;그것에 의하여;;WORD_4_2_34.mp3;WORD_4_2_34_1.mp3;0;;;1423
+title;38;;;4;2;35;title;권리;;WORD_4_2_35.mp3;WORD_4_2_35_1.mp3;0;;;1424
+transcends ;38;;;4;2;36;transcend;초월하다;;WORD_4_2_36.mp3;WORD_4_2_36_1.mp3;0;;;1425
+twigs;38;;;4;2;37;twig;가지;;WORD_4_2_37.mp3;WORD_4_2_37_1.mp3;0;;;1426
+vulnerable ;38;;;4;2;38;vulnerable;(영향을) 받기 쉬운;;WORD_4_2_38.mp3;WORD_4_2_38_1.mp3;0;;;1427
+wholly;38;;;4;2;39;wholly;완전히;;WORD_4_2_39.mp3;WORD_4_2_39_1.mp3;0;;;1428
+abrupt ;39;;;4;3;1;abrupt;급한, 갑작스러운;;WORD_4_3_1.mp3;WORD_4_3_1_1.mp3;0;;;1429
+adequate;39;;;4;3;2;adequate;충분한;;WORD_4_3_2.mp3;WORD_4_3_2_1.mp3;0;;;1430
+advocating ;39;;;4;3;3;advocate;주장하다, 지지하다, 지지자;;WORD_4_3_3.mp3;WORD_4_3_3_1.mp3;0;;;1431
+appendix ;39;;;4;3;4;appendix;부록, 부가물;;WORD_4_3_4.mp3;WORD_4_3_4_1.mp3;0;;;1432
+appropriate;39;;;4;3;5;appropriate;적절한;;WORD_4_3_5.mp3;WORD_4_3_5_1.mp3;0;;;1433
+assumptions ;39;;;4;3;6;assumption;가정;;WORD_4_3_6.mp3;WORD_4_3_6_1.mp3;0;;;1434
+bestowed;39;;;4;3;7;bestow;주다, 수여하다;;WORD_4_3_7.mp3;WORD_4_3_7_1.mp3;0;;;1435
+boldly;39;;;4;3;8;boldly;용감하게;;WORD_4_3_8.mp3;WORD_4_3_8_1.mp3;0;;;1436
+choicest ;39;;;4;3;9;choicest;엄선된, 가장 좋은;;WORD_4_3_9.mp3;WORD_4_3_9_1.mp3;0;;;1437
+classic ;39;;;4;3;10;classic;전형적인, 대표적인;;WORD_4_3_10.mp3;WORD_4_3_10_1.mp3;0;;;1438
+constitute ;39;;;4;3;11;constitute;구성하다;;WORD_4_3_11.mp3;WORD_4_3_11_1.mp3;0;;;1439
+deposited;39;;;4;3;12;deposit;두다, 비축하다;;WORD_4_3_12.mp3;WORD_4_3_12_1.mp3;0;;;1440
+dogma ;39;;;4;3;13;dogma;신념, 신조;;WORD_4_3_13.mp3;WORD_4_3_13_1.mp3;0;;;1441
+employed ;39;;;4;3;14;employ;이용하다;;WORD_4_3_14.mp3;WORD_4_3_14_1.mp3;0;;;1442
+endorsed;39;;;4;3;15;endorse;보증하다, 지지하다, 배서(서명)하다;;WORD_4_3_15.mp3;WORD_4_3_15_1.mp3;0;;;1443
+exponential ;39;;;4;3;16;exponential;급격한;;WORD_4_3_16.mp3;WORD_4_3_16_1.mp3;0;;;1444
+foremost ;39;;;4;3;17;foremost;으뜸가는;;WORD_4_3_17.mp3;WORD_4_3_17_1.mp3;0;;;1445
+fragrance;39;;;4;3;18;fragrance;향기;;WORD_4_3_18.mp3;WORD_4_3_18_1.mp3;0;;;1446
+furthermore;39;;;4;3;19;furthermore;더욱이;;WORD_4_3_19.mp3;WORD_4_3_19_1.mp3;0;;;1447
+genetic ;39;;;4;3;20;genetic;유전(학)적인;;WORD_4_3_20.mp3;WORD_4_3_20_1.mp3;0;;;1448
+imposing;39;;;4;3;21;imposing;강한 인상을 주는, 웅장한;;WORD_4_3_21.mp3;WORD_4_3_21_1.mp3;0;;;1449
+luxurious ;39;;;4;3;22;luxurious;사치스러운;;WORD_4_3_22.mp3;WORD_4_3_22_1.mp3;0;;;1450
+matter ;39;;;4;3;23;matter;물질, 논점;;WORD_4_3_23.mp3;WORD_4_3_23_1.mp3;0;;;1451
+nurture;39;;;4;3;24;nurture;양육하다;;WORD_4_3_24.mp3;WORD_4_3_24_1.mp3;0;;;1452
+offset;39;;;4;3;25;offset;상쇄하다;;WORD_4_3_25.mp3;WORD_4_3_25_1.mp3;0;;;1453
+partially ;39;;;4;3;26;partially;부분적으로;;WORD_4_3_26.mp3;WORD_4_3_26_1.mp3;0;;;1454
+presumable ;39;;;4;3;27;presumable;있음직한;;WORD_4_3_27.mp3;WORD_4_3_27_1.mp3;0;;;1455
+principle;39;;;4;3;28;principle;원칙, 규범;;WORD_4_3_28.mp3;WORD_4_3_28_1.mp3;0;;;1456
+purveyor ;39;;;4;3;29;purveyor;공급업자;;WORD_4_3_29.mp3;WORD_4_3_29_1.mp3;0;;;1457
+replaced ;39;;;4;3;30;replace;대체하다;;WORD_4_3_30.mp3;WORD_4_3_30_1.mp3;0;;;1458
+routine;39;;;4;3;31;routine;보통의, 일상적인;;WORD_4_3_31.mp3;WORD_4_3_31_1.mp3;0;;;1459
+scolded ;39;;;4;3;32;scold;꾸짖다;;WORD_4_3_32.mp3;WORD_4_3_32_1.mp3;0;;;1460
+sequence;39;;;4;3;33;sequence;연속, 순서;;WORD_4_3_33.mp3;WORD_4_3_33_1.mp3;0;;;1461
+startled ;39;;;4;3;34;startle;깜짝 놀라게 하다;;WORD_4_3_34.mp3;WORD_4_3_34_1.mp3;0;;;1462
+typica;39;;;4;3;35;typical;일반적인, 전형적인;;WORD_4_3_35.mp3;WORD_4_3_35_1.mp3;0;;;1463
+unshakable ;39;;;4;3;36;unshakable;흔들리지 않는, 확고한;;WORD_4_3_36.mp3;WORD_4_3_36_1.mp3;0;;;1464
+yielded;39;;;4;3;37;yield;내주다, 굴복하다, 산출하다, 야기하다;;WORD_4_3_37.mp3;WORD_4_3_37_1.mp3;0;;;1465
+additives ;40;;;4;4;1;additive;첨가제, 부가적인;;WORD_4_4_1.mp3;WORD_4_4_1_1.mp3;0;;;1466
+antiseptic;40;;;4;4;2;antiseptic;청결한, 위생적인;;WORD_4_4_2.mp3;WORD_4_4_2_1.mp3;0;;;1467
+assembled;40;;;4;4;3;assemble;모으다;;WORD_4_4_3.mp3;WORD_4_4_3_1.mp3;0;;;1468
+asymmetric ;40;;;4;4;4;asymmetric;균형을 잃은;;WORD_4_4_4.mp3;WORD_4_4_4_1.mp3;0;;;1469
+attire;40;;;4;4;5;attire;의상;;WORD_4_4_5.mp3;WORD_4_4_5_1.mp3;0;;;1470
+avid ;40;;;4;4;6;avid;탐욕스러운, 열심인, 열렬한;;WORD_4_4_6.mp3;WORD_4_4_6_1.mp3;0;;;1471
+basics;40;;;4;4;7;basic;기본;;WORD_4_4_7.mp3;WORD_4_4_7_1.mp3;0;;;1472
+bounds ;40;;;4;4;8;bound;경계;;WORD_4_4_8.mp3;WORD_4_4_8_1.mp3;0;;;1473
+clustered ;40;;;4;4;9;cluster;모이다;;WORD_4_4_9.mp3;WORD_4_4_9_1.mp3;0;;;1474
+complex;40;;;4;4;10;complex;복합 건물군, 복잡한;;WORD_4_4_10.mp3;WORD_4_4_10_1.mp3;0;;;1475
+contrary ;40;;;4;4;11;contrary;반대의, 반대되는 ;;WORD_4_4_11.mp3;WORD_4_4_11_1.mp3;0;;;1476
+customary;40;;;4;4;12;customary;관례적인, 습관적인;;WORD_4_4_12.mp3;WORD_4_4_12_1.mp3;0;;;1477
+dangling ;40;;;4;4;13;dangle;매달리;;WORD_4_4_13.mp3;WORD_4_4_13_1.mp3;0;;;1478
+devoured ;40;;;4;4;14;devour;게걸스레 먹다;;WORD_4_4_14.mp3;WORD_4_4_14_1.mp3;0;;;1479
+encapsulate ;40;;;4;4;15;encapsulate;요약하다, 집약하다;;WORD_4_4_15.mp3;WORD_4_4_15_1.mp3;0;;;1480
+factions;40;;;4;4;16;faction;파벌;;WORD_4_4_16.mp3;WORD_4_4_16_1.mp3;0;;;1481
+fragment ;40;;;4;4;17;fragment;조각, 부분;;WORD_4_4_17.mp3;WORD_4_4_17_1.mp3;0;;;1482
+ignited ;40;;;4;4;18;ignite;불을 붙이다;;WORD_4_4_18.mp3;WORD_4_4_18_1.mp3;0;;;1483
+impounded;40;;;4;4;19;impound;가두다;;WORD_4_4_19.mp3;WORD_4_4_19_1.mp3;0;;;1484
+innocuous;40;;;4;4;20;innocuous;해가 없는;;WORD_4_4_20.mp3;WORD_4_4_20_1.mp3;0;;;1485
+links ;40;;;4;4;21;link;유대, 결합, 관련짓다;;WORD_4_4_21.mp3;WORD_4_4_21_1.mp3;0;;;1486
+murmured;40;;;4;4;22;murmur;투덜거리다, 중얼거리다;;WORD_4_4_22.mp3;WORD_4_4_22_1.mp3;0;;;1487
+persistent ;40;;;4;4;23;persistent;지속하는;;WORD_4_4_23.mp3;WORD_4_4_23_1.mp3;0;;;1488
+prospects;40;;;4;4;24;prospect;가망성, 전망;;WORD_4_4_24.mp3;WORD_4_4_24_1.mp3;0;;;1489
+random;40;;;4;4;25;random;마구잡이의;;WORD_4_4_25.mp3;WORD_4_4_25_1.mp3;0;;;1490
+realized ;40;;;4;4;26;realize;알다, 이해하다;;WORD_4_4_26.mp3;WORD_4_4_26_1.mp3;0;;;1491
+resided in;40;;;4;4;27;reside in;거주하다;;WORD_4_4_27.mp3;WORD_4_4_27_1.mp3;0;;;1492
+robust;40;;;4;4;28;robust;튼튼한, 강한;;WORD_4_4_28.mp3;WORD_4_4_28_1.mp3;0;;;1493
+satisfy;40;;;4;4;29;satisfy;만족시키다;;WORD_4_4_29.mp3;WORD_4_4_29_1.mp3;0;;;1494
+simple ;40;;;4;4;30;simple;순진한;;WORD_4_4_30.mp3;WORD_4_4_30_1.mp3;0;;;1495
+stamina;40;;;4;4;31;stamina;지구력, 체력;;WORD_4_4_31.mp3;WORD_4_4_31_1.mp3;0;;;1496
+staple;40;;;4;4;32;staple;중요 상품, 기본적인, 주요한;;WORD_4_4_32.mp3;WORD_4_4_32_1.mp3;0;;;1497
+terminated;40;;;4;4;33;terminate;끝나다;;WORD_4_4_33.mp3;WORD_4_4_33_1.mp3;0;;;1498
+treasured;40;;;4;4;34;treasure;소중히 하다;;WORD_4_4_34.mp3;WORD_4_4_34_1.mp3;0;;;1499
+unequal;40;;;4;4;35;unequal;불공평한, 균형을 잃은;;WORD_4_4_35.mp3;WORD_4_4_35_1.mp3;0;;;1500
+ventured ;40;;;4;4;36;venture;과감히 ~하다;;WORD_4_4_36.mp3;WORD_4_4_36_1.mp3;0;;;1501
+ache ;41;;;4;5;1;ache;아프다;;WORD_4_5_1.mp3;WORD_4_5_1_1.mp3;0;;;1502
+advantageous ;41;;;4;5;2;advantageous;이로운, 유익한;;WORD_4_5_2.mp3;WORD_4_5_2_1.mp3;0;;;1503
+altitude;41;;;4;5;3;altitude;고도;;WORD_4_5_3.mp3;WORD_4_5_3_1.mp3;0;;;1504
+antiquity;41;;;4;5;4;antiquity;고대;;WORD_4_5_4.mp3;WORD_4_5_4_1.mp3;0;;;1505
+assisted ;41;;;4;5;5;assist;돕다;;WORD_4_5_5.mp3;WORD_4_5_5_1.mp3;0;;;1506
+brilliance ;41;;;4;5;6;brilliance;광채;;WORD_4_5_6.mp3;WORD_4_5_6_1.mp3;0;;;1507
+celestial ;41;;;4;5;7;celestial;하늘의;;WORD_4_5_7.mp3;WORD_4_5_7_1.mp3;0;;;1508
+cleave;41;;;4;5;8;cleave;(쪼개어) 나누다, 찢다, 고수하다, 결합하다;;WORD_4_5_8.mp3;WORD_4_5_8_1.mp3;0;;;1509
+density ;41;;;4;5;9;density;농도, 밀도;;WORD_4_5_9.mp3;WORD_4_5_9_1.mp3;0;;;1510
+desperate;41;;;4;5;10;desperate;필사적인, 절망적인;;WORD_4_5_10.mp3;WORD_4_5_10_1.mp3;0;;;1511
+encouraged ;41;;;4;5;11;encourage;격려하다;;WORD_4_5_11.mp3;WORD_4_5_11_1.mp3;0;;;1512
+encumbered ;41;;;4;5;12;encumber;(의무짐 등을) 지우다, 저해하다;;WORD_4_5_12.mp3;WORD_4_5_12_1.mp3;0;;;1513
+enriches;41;;;4;5;13;enrich;(질가치 등을) 높이다;;WORD_4_5_13.mp3;WORD_4_5_13_1.mp3;0;;;1514
+fade;41;;;4;5;14;fade;약해지다, 사라지다;;WORD_4_5_14.mp3;WORD_4_5_14_1.mp3;0;;;1515
+flee ;41;;;4;5;15;flee;피하다, 도망하다;;WORD_4_5_15.mp3;WORD_4_5_15_1.mp3;0;;;1516
+follow suit;41;;;4;5;16;follow suit;따라하다;;WORD_4_5_16.mp3;WORD_4_5_16_1.mp3;0;;;1517
+gigantic ;41;;;4;5;17;gigantic;거대한;;WORD_4_5_17.mp3;WORD_4_5_17_1.mp3;0;;;1518
+hygiene;41;;;4;5;18;hygiene;위생;;WORD_4_5_18.mp3;WORD_4_5_18_1.mp3;0;;;1519
+impressive ;41;;;4;5;19;impressive;인상적인, 감동적인;;WORD_4_5_19.mp3;WORD_4_5_19_1.mp3;0;;;1520
+instantaneous ;41;;;4;5;20;instantaneous;즉각적인;;WORD_4_5_20.mp3;WORD_4_5_20_1.mp3;0;;;1521
+lusty;41;;;4;5;21;lusty;건장한, 원기왕성한;;WORD_4_5_21.mp3;WORD_4_5_21_1.mp3;0;;;1522
+mankind;41;;;4;5;22;mankind;인류;;WORD_4_5_22.mp3;WORD_4_5_22_1.mp3;0;;;1523
+maturity;41;;;4;5;23;maturity;성숙(기);;WORD_4_5_23.mp3;WORD_4_5_23_1.mp3;0;;;1524
+mere;41;;;4;5;24;mere;단지, 대수롭지 않은;;WORD_4_5_24.mp3;WORD_4_5_24_1.mp3;0;;;1525
+modest;41;;;4;5;25;modest;겸손한, 예의바른, 많지(크지) 않은;;WORD_4_5_25.mp3;WORD_4_5_25_1.mp3;0;;;1526
+persisted ;41;;;4;5;26;persist;지속되다;;WORD_4_5_26.mp3;WORD_4_5_26_1.mp3;0;;;1527
+piled ;41;;;4;5;27;pile;모으다, 쌓다, 더미;;WORD_4_5_27.mp3;WORD_4_5_27_1.mp3;0;;;1528
+pristine;41;;;4;5;28;pristine;오염되지 않은;;WORD_4_5_28.mp3;WORD_4_5_28_1.mp3;0;;;1529
+proficient ;41;;;4;5;29;proficient;숙련된, 능숙한;;WORD_4_5_29.mp3;WORD_4_5_29_1.mp3;0;;;1530
+sacred;41;;;4;5;30;sacred;신성한;;WORD_4_5_30.mp3;WORD_4_5_30_1.mp3;0;;;1531
+scruples;41;;;4;5;31;scruple;망설임, 양심의 가책;;WORD_4_5_31.mp3;WORD_4_5_31_1.mp3;0;;;1532
+scrupulous;41;;;4;5;32;scrupulous;세심한, 꼼꼼한, 양심적인, 정직한;;WORD_4_5_32.mp3;WORD_4_5_32_1.mp3;0;;;1533
+struck;41;;;4;5;33;strike;치다, 공격하다, 파업;;WORD_4_5_33.mp3;WORD_4_5_33_1.mp3;0;;;1534
+unravel ;41;;;4;5;34;unravel;해명하다, 풀다;;WORD_4_5_34.mp3;WORD_4_5_34_1.mp3;0;;;1535
+vulgar;41;;;4;5;35;vulgar;저속한;;WORD_4_5_35.mp3;WORD_4_5_35_1.mp3;0;;;1536
+account for;42;;;4;6;1;account for;～의 이유를 밝히다, 설명하다, 차지하다;;WORD_4_6_1.mp3;WORD_4_6_1_1.mp3;0;;;1537
+adjourned ;42;;;4;6;2;adjourn;연기하다;;WORD_4_6_2.mp3;WORD_4_6_2_1.mp3;0;;;1538
+adopted;42;;;4;6;3;adopt;～을 채택하다, 차용하다;;WORD_4_6_3.mp3;WORD_4_6_3_1.mp3;0;;;1539
+adored;42;;;4;6;4;adore;숭배하다, 존경하다;;WORD_4_6_4.mp3;WORD_4_6_4_1.mp3;0;;;1540
+artificial;42;;;4;6;5;artificial;인위적인, 인조의;;WORD_4_6_5.mp3;WORD_4_6_5_1.mp3;0;;;1541
+attended ;42;;;4;6;6;attend;돌보다, 시중들다;;WORD_4_6_6.mp3;WORD_4_6_6_1.mp3;0;;;1542
+bands;42;;;4;6;7;band;집단, 무리;;WORD_4_6_7.mp3;WORD_4_6_7_1.mp3;0;;;1543
+besides;42;;;4;6;8;besides;게다가;;WORD_4_6_8.mp3;WORD_4_6_8_1.mp3;0;;;1544
+circumstances ;42;;;4;6;9;circumstance;상황;;WORD_4_6_9.mp3;WORD_4_6_9_1.mp3;0;;;1545
+crawled;42;;;4;6;10;crawl;기어가다;;WORD_4_6_10.mp3;WORD_4_6_10_1.mp3;0;;;1546
+demolished;42;;;4;6;11;demolish;파괴하다;;WORD_4_6_11.mp3;WORD_4_6_11_1.mp3;0;;;1547
+endured;42;;;4;6;12;endure;견디다;;WORD_4_6_12.mp3;WORD_4_6_12_1.mp3;0;;;1548
+enormous;42;;;4;6;13;enormous;거대한;;WORD_4_6_13.mp3;WORD_4_6_13_1.mp3;0;;;1549
+fashionable ;42;;;4;6;14;fashionable;유행하는;;WORD_4_6_14.mp3;WORD_4_6_14_1.mp3;0;;;1550
+formulated ;42;;;4;6;15;formulate;(명확히체계적으로) 말하다;;WORD_4_6_15.mp3;WORD_4_6_15_1.mp3;0;;;1551
+hangs ;42;;;4;6;16;hang;매달리다;;WORD_4_6_16.mp3;WORD_4_6_16_1.mp3;0;;;1552
+immobility;42;;;4;6;17;immobility;부동 상태;;WORD_4_6_17.mp3;WORD_4_6_17_1.mp3;0;;;1553
+ inflated;42;;;4;6;18;inflate;팽창하다;;WORD_4_6_18.mp3;WORD_4_6_18_1.mp3;0;;;1554
+interrupted;42;;;4;6;19;interrupt;가로막다, 중단시키다;;WORD_4_6_19.mp3;WORD_4_6_19_1.mp3;0;;;1555
+manipulation;42;;;4;6;20;manipulation;조작, 속임수;;WORD_4_6_20.mp3;WORD_4_6_20_1.mp3;0;;;1556
+marvelous ;42;;;4;6;21;marvelous;경이로운, 놀랄만한;;WORD_4_6_21.mp3;WORD_4_6_21_1.mp3;0;;;1557
+nevertheless ;42;;;4;6;22;nevertheless;그럼에도 불구하고;;WORD_4_6_22.mp3;WORD_4_6_22_1.mp3;0;;;1558
+operate;42;;;4;6;23;operate;작동하다;;WORD_4_6_23.mp3;WORD_4_6_23_1.mp3;0;;;1559
+outlived ;42;;;4;6;24;outlive;살아남다, ~보다 더(오래) 살다;;WORD_4_6_24.mp3;WORD_4_6_24_1.mp3;0;;;1560
+practicable ;42;;;4;6;25;practicable;실행 가능한;;WORD_4_6_25.mp3;WORD_4_6_25_1.mp3;0;;;1561
+resisted;42;;;4;6;26;resist;저항하다;;WORD_4_6_26.mp3;WORD_4_6_26_1.mp3;0;;;1562
+risky ;42;;;4;6;27;risky;위험한;;WORD_4_6_27.mp3;WORD_4_6_27_1.mp3;0;;;1563
+saved;42;;;4;6;28;saved;구원된, 구제된;;WORD_4_6_28.mp3;WORD_4_6_28_1.mp3;0;;;1564
+severe;42;;;4;6;29;severe;극심한, 가차 없는, 어려운, 까다로운;;WORD_4_6_29.mp3;WORD_4_6_29_1.mp3;0;;;1565
+spontaneous ;42;;;4;6;30;spontaneous;자발적인;;WORD_4_6_30.mp3;WORD_4_6_30_1.mp3;0;;;1566
+staggered ;42;;;4;6;31;stagger;비틀거리다, 동요하다, 당황시키다;;WORD_4_6_31.mp3;WORD_4_6_31_1.mp3;0;;;1567
+thriller.;42;;;4;6;32;thriller;스릴을 주는 것;;WORD_4_6_32.mp3;WORD_4_6_32_1.mp3;0;;;1568
+toiling;42;;;4;6;33;toil;힘들게 일하다;;WORD_4_6_33.mp3;WORD_4_6_33_1.mp3;0;;;1569
+touched off;42;;;4;6;34;touch off;야기하다;;WORD_4_6_34.mp3;WORD_4_6_34_1.mp3;0;;;1570
+utterly ;42;;;4;6;35;utterly;완전히;;WORD_4_6_35.mp3;WORD_4_6_35_1.mp3;0;;;1571
+vacuum;42;;;4;6;36;vacuum;진공, 공허;;WORD_4_6_36.mp3;WORD_4_6_36_1.mp3;0;;;1572
+valid ;42;;;4;6;37;valid;타당한;;WORD_4_6_37.mp3;WORD_4_6_37_1.mp3;0;;;1573
+withheld ;42;;;4;6;38;withhold;보류하다, 억제하다;;WORD_4_6_38.mp3;WORD_4_6_38_1.mp3;0;;;1574
+wonder ;42;;;4;6;39;wonder;경이로움, 놀라운 일;;WORD_4_6_39.mp3;WORD_4_6_39_1.mp3;0;;;1575
+advanced;43;;;4;7;1;advance;진보하다;;WORD_4_7_1.mp3;WORD_4_7_1_1.mp3;0;;;1576
+applicability ;43;;;4;7;2;applicability;적절함, 적절성;;WORD_4_7_2.mp3;WORD_4_7_2_1.mp3;0;;;1577
+brittle ;43;;;4;7;3;brittle;부서지기 쉬운;;WORD_4_7_3.mp3;WORD_4_7_3_1.mp3;0;;;1578
+careful ;43;;;4;7;4;careful;주의 깊은;;WORD_4_7_4.mp3;WORD_4_7_4_1.mp3;0;;;1579
+convert;43;;;4;7;5;convert;바꾸다;;WORD_4_7_5.mp3;WORD_4_7_5_1.mp3;0;;;1580
+core ;43;;;4;7;6;core;핵심;;WORD_4_7_6.mp3;WORD_4_7_6_1.mp3;0;;;1581
+countervailed;43;;;4;7;7;countervail;상쇄시키다;;WORD_4_7_7.mp3;WORD_4_7_7_1.mp3;0;;;1582
+curative ;43;;;4;7;8;curative;치유하는;;WORD_4_7_8.mp3;WORD_4_7_8_1.mp3;0;;;1583
+disintegrated;43;;;4;7;9;disintegrate;붕괴되다, 분해되다;;WORD_4_7_9.mp3;WORD_4_7_9_1.mp3;0;;;1584
+divested ;43;;;4;7;10;divest;박탈하다 ;;WORD_4_7_10.mp3;WORD_4_7_10_1.mp3;0;;;1585
+driven;43;;;4;7;11;drive;억지로 ～하게 하다, 운동;;WORD_4_7_11.mp3;WORD_4_7_11_1.mp3;0;;;1586
+entangled ;43;;;4;7;12;entangle;뒤얽히게 하다;;WORD_4_7_12.mp3;WORD_4_7_12_1.mp3;0;;;1587
+evolved;43;;;4;7;13;evolve;서서히 발전하다;;WORD_4_7_13.mp3;WORD_4_7_13_1.mp3;0;;;1588
+extant ;43;;;4;7;14;extant;현존하는;;WORD_4_7_14.mp3;WORD_4_7_14_1.mp3;0;;;1589
+hampered;43;;;4;7;15;hamper;방해하다;;WORD_4_7_15.mp3;WORD_4_7_15_1.mp3;0;;;1590
+hide;43;;;4;7;16;hide;(짐승의) 가죽, 숨기다, 감추다;;WORD_4_7_16.mp3;WORD_4_7_16_1.mp3;0;;;1591
+immoral;43;;;4;7;17;immoral;부도덕한;;WORD_4_7_17.mp3;WORD_4_7_17_1.mp3;0;;;1592
+incipient ;43;;;4;7;18;incipient;초기의;;WORD_4_7_18.mp3;WORD_4_7_18_1.mp3;0;;;1593
+isolated;43;;;4;7;19;isolate;격리시키다;;WORD_4_7_19.mp3;WORD_4_7_19_1.mp3;0;;;1594
+jointed ;43;;;4;7;20;joint;접합하다, 연결하다;;WORD_4_7_20.mp3;WORD_4_7_20_1.mp3;0;;;1595
+kindled;43;;;4;7;21;kindle;불을 붙이다;;WORD_4_7_21.mp3;WORD_4_7_21_1.mp3;0;;;1596
+landscape ;43;;;4;7;22;landscape;풍경, 전망;;WORD_4_7_22.mp3;WORD_4_7_22_1.mp3;0;;;1597
+migrate ;43;;;4;7;23;migrate;이동하다, 이주하다;;WORD_4_7_23.mp3;WORD_4_7_23_1.mp3;0;;;1598
+milestone ;43;;;4;7;24;milestone;획기적인 사건;;WORD_4_7_24.mp3;WORD_4_7_24_1.mp3;0;;;1599
+novel;43;;;4;7;25;novel;새로운, 신기한, 진기한;;WORD_4_7_25.mp3;WORD_4_7_25_1.mp3;0;;;1600
+out of the question;43;;;4;7;26;out of the question;불가능한;;WORD_4_7_26.mp3;WORD_4_7_26_1.mp3;0;;;1601
+phenomenal;43;;;4;7;27;phenomenal;놀랄 만한;;WORD_4_7_27.mp3;WORD_4_7_27_1.mp3;0;;;1602
+plunging;43;;;4;7;28;plunge;떨어뜨리다, 던져 넣다;;WORD_4_7_28.mp3;WORD_4_7_28_1.mp3;0;;;1603
+presently;43;;;4;7;29;presently;곧;;WORD_4_7_29.mp3;WORD_4_7_29_1.mp3;0;;;1604
+reckless ;43;;;4;7;30;reckless;무모한, 부주의한;;WORD_4_7_30.mp3;WORD_4_7_30_1.mp3;0;;;1605
+sensitive;43;;;4;7;31;sensitive;민감하게 반응하는;;WORD_4_7_31.mp3;WORD_4_7_31_1.mp3;0;;;1606
+serious;43;;;4;7;32;serious;심각한, 중대한;;WORD_4_7_32.mp3;WORD_4_7_32_1.mp3;0;;;1607
+simultaneous ;43;;;4;7;33;simultaneous;동시에 일어나는;;WORD_4_7_33.mp3;WORD_4_7_33_1.mp3;0;;;1608
+soars;43;;;4;7;34;soar;높이 솟다, 급상승하다;;WORD_4_7_34.mp3;WORD_4_7_34_1.mp3;0;;;1609
+subservient ;43;;;4;7;35;subservient;부차적인, 종속적인;;WORD_4_7_35.mp3;WORD_4_7_35_1.mp3;0;;;1610
+subterranean;43;;;4;7;36;subterranean;지하의;;WORD_4_7_36.mp3;WORD_4_7_36_1.mp3;0;;;1611
+unlawful;43;;;4;7;37;unlawful;불법적인;;WORD_4_7_37.mp3;WORD_4_7_37_1.mp3;0;;;1612
+absorbed;44;;;4;8;1;absorb;흡수하다;;WORD_4_8_1.mp3;WORD_4_8_1_1.mp3;0;;;1613
+accused;44;;;4;8;2;accuse;고발하다, 비난하다;;WORD_4_8_2.mp3;WORD_4_8_2_1.mp3;0;;;1614
+a host of ;44;;;4;8;3;a host of;많은 수의;;WORD_4_8_3.mp3;WORD_4_8_3_1.mp3;0;;;1615
+apathetic;44;;;4;8;4;apathetic;무관심한;;WORD_4_8_4.mp3;WORD_4_8_4_1.mp3;0;;;1616
+arrayed;44;;;4;8;5;array;배열하다, 진열하다;;WORD_4_8_5.mp3;WORD_4_8_5_1.mp3;0;;;1617
+continual ;44;;;4;8;6;continual;끊임없는;;WORD_4_8_6.mp3;WORD_4_8_6_1.mp3;0;;;1618
+designed;44;;;4;8;7;design;뜻을 품다, 계획하다;;WORD_4_8_7.mp3;WORD_4_8_7_1.mp3;0;;;1619
+discard;44;;;4;8;8;discard;버리다;;WORD_4_8_8.mp3;WORD_4_8_8_1.mp3;0;;;1620
+elapse ;44;;;4;8;9;elapse;경과하다;;WORD_4_8_9.mp3;WORD_4_8_9_1.mp3;0;;;1621
+furnished ;44;;;4;8;10;furnish;공급하다;;WORD_4_8_10.mp3;WORD_4_8_10_1.mp3;0;;;1622
+futile;44;;;4;8;11;futile;쓸모없는;;WORD_4_8_11.mp3;WORD_4_8_11_1.mp3;0;;;1623
+guarded ;44;;;4;8;12;guard;지키다;;WORD_4_8_12.mp3;WORD_4_8_12_1.mp3;0;;;1624
+locomotion;44;;;4;8;13;locomotion;운동, 이동;;WORD_4_8_13.mp3;WORD_4_8_13_1.mp3;0;;;1625
+metamorphose ;44;;;4;8;14;metamorphose;(~으로) 변형, 변화하다(시키다);;WORD_4_8_14.mp3;WORD_4_8_14_1.mp3;0;;;1626
+misconception;44;;;4;8;15;misconception;잘못된 생각, 오해;;WORD_4_8_15.mp3;WORD_4_8_15_1.mp3;0;;;1627
+multiplicity;44;;;4;8;16;multiplicity;다양성, 다수;;WORD_4_8_16.mp3;WORD_4_8_16_1.mp3;0;;;1628
+native;44;;;4;8;17;native;토착의, 선천적인;;WORD_4_8_17.mp3;WORD_4_8_17_1.mp3;0;;;1629
+needless to say;44;;;4;8;18;needless to say;말할 필요도 없이;;WORD_4_8_18.mp3;WORD_4_8_18_1.mp3;0;;;1630
+passive;44;;;4;8;19;passive;수동적인, 활기 없는;;WORD_4_8_19.mp3;WORD_4_8_19_1.mp3;0;;;1631
+predicated ;44;;;4;8;20;predicate;단언하다, 기초를 두다;;WORD_4_8_20.mp3;WORD_4_8_20_1.mp3;0;;;1632
+presence;44;;;4;8;21;presence;존재;;WORD_4_8_21.mp3;WORD_4_8_21_1.mp3;0;;;1633
+progressively ;44;;;4;8;22;progressively;점차적으로;;WORD_4_8_22.mp3;WORD_4_8_22_1.mp3;0;;;1634
+pungent;44;;;4;8;23;pungent;신랄한, (맛 등이) 자극적인;;WORD_4_8_23.mp3;WORD_4_8_23_1.mp3;0;;;1635
+recover;44;;;4;8;24;recover;되찾다, 회복시키다;;WORD_4_8_24.mp3;WORD_4_8_24_1.mp3;0;;;1636
+regardless of;44;;;4;8;25;regardless of;~에 개의치 않고;;WORD_4_8_25.mp3;WORD_4_8_25_1.mp3;0;;;1637
+remainder;44;;;4;8;26;remainder;나머지;;WORD_4_8_26.mp3;WORD_4_8_26_1.mp3;0;;;1638
+reputation ;44;;;4;8;27;reputation;명성;;WORD_4_8_27.mp3;WORD_4_8_27_1.mp3;0;;;1639
+sheltered;44;;;4;8;28;shelter;보호하다, 숨겨 주다;;WORD_4_8_28.mp3;WORD_4_8_28_1.mp3;0;;;1640
+spur ;44;;;4;8;29;spur;자극, 자극하다;;WORD_4_8_29.mp3;WORD_4_8_29_1.mp3;0;;;1641
+suggests ;44;;;4;8;30;suggest;암시하다;;WORD_4_8_30.mp3;WORD_4_8_30_1.mp3;0;;;1642
+surged;44;;;4;8;31;surge;증가(상승)하다;;WORD_4_8_31.mp3;WORD_4_8_31_1.mp3;0;;;1643
+terminal ;44;;;4;8;32;terminal;최종의;;WORD_4_8_32.mp3;WORD_4_8_32_1.mp3;0;;;1644
+transverse;44;;;4;8;33;transverse;가로지르는;;WORD_4_8_33.mp3;WORD_4_8_33_1.mp3;0;;;1645
+underscored ;44;;;4;8;34;underscore;강조하다;;WORD_4_8_34.mp3;WORD_4_8_34_1.mp3;0;;;1646
+upbraided ;44;;;4;8;35;upbraid;꾸짖다;;WORD_4_8_35.mp3;WORD_4_8_35_1.mp3;0;;;1647
+vagabond ;44;;;4;8;36;vagabond;방랑하는;;WORD_4_8_36.mp3;WORD_4_8_36_1.mp3;0;;;1648
+vague;44;;;4;8;37;vague;모호한;;WORD_4_8_37.mp3;WORD_4_8_37_1.mp3;0;;;1649
+veracious ;44;;;4;8;38;veracious;진실한;;WORD_4_8_38.mp3;WORD_4_8_38_1.mp3;0;;;1650
+vital ;44;;;4;8;39;vital;필수적인;;WORD_4_8_39.mp3;WORD_4_8_39_1.mp3;0;;;1651
+withstanding ;44;;;4;8;40;withstand;버티다;;WORD_4_8_40.mp3;WORD_4_8_40_1.mp3;0;;;1652
+abound;45;;;4;9;1;abound;풍부하다, 가득 차다;;WORD_4_9_1.mp3;WORD_4_9_1_1.mp3;0;;;1653
+abstract ;45;;;4;9;2;abstract;추상적인, 이론적인;;WORD_4_9_2.mp3;WORD_4_9_2_1.mp3;0;;;1654
+affliction;45;;;4;9;3;affliction;고뇌, 고통;;WORD_4_9_3.mp3;WORD_4_9_3_1.mp3;0;;;1655
+attachment;45;;;4;9;4;attachment;애착;;WORD_4_9_4.mp3;WORD_4_9_4_1.mp3;0;;;1656
+beckoned;45;;;4;9;5;beckon;호출하다;;WORD_4_9_5.mp3;WORD_4_9_5_1.mp3;0;;;1657
+complicated;45;;;4;9;6;complicate;복잡하게 하다;;WORD_4_9_6.mp3;WORD_4_9_6_1.mp3;0;;;1658
+consecutive;45;;;4;9;7;consecutive;연속적인;;WORD_4_9_7.mp3;WORD_4_9_7_1.mp3;0;;;1659
+consists of;45;;;4;9;8;consist of;~로 구성되다;;WORD_4_9_8.mp3;WORD_4_9_8_1.mp3;0;;;1660
+coordination;45;;;4;9;9;coordination;공동작용;;WORD_4_9_9.mp3;WORD_4_9_9_1.mp3;0;;;1661
+crowd;45;;;4;9;10;crowd;군중, 무리;;WORD_4_9_10.mp3;WORD_4_9_10_1.mp3;0;;;1662
+doctrine;45;;;4;9;11;doctrine;원칙, 교리, 주의;;WORD_4_9_11.mp3;WORD_4_9_11_1.mp3;0;;;1663
+drastically;45;;;4;9;12;drastically;극심하게;;WORD_4_9_12.mp3;WORD_4_9_12_1.mp3;0;;;1664
+elegant;45;;;4;9;13;elegant;우아한, 세련된;;WORD_4_9_13.mp3;WORD_4_9_13_1.mp3;0;;;1665
+entity;45;;;4;9;14;entity;개체, 실체;;WORD_4_9_14.mp3;WORD_4_9_14_1.mp3;0;;;1666
+era;45;;;4;9;15;era;시대;;WORD_4_9_15.mp3;WORD_4_9_15_1.mp3;0;;;1667
+established;45;;;4;9;16;established;확정된;;WORD_4_9_16.mp3;WORD_4_9_16_1.mp3;0;;;1668
+facets ;45;;;4;9;17;facet;양상;;WORD_4_9_17.mp3;WORD_4_9_17_1.mp3;0;;;1669
+flourish ;45;;;4;9;18;flourish;번성하다;;WORD_4_9_18.mp3;WORD_4_9_18_1.mp3;0;;;1670
+hue;45;;;4;9;19;hue;빛깔, 색;;WORD_4_9_19.mp3;WORD_4_9_19_1.mp3;0;;;1671
+impaired;45;;;4;9;20;impair;손상시키다, 약하게 하다;;WORD_4_9_20.mp3;WORD_4_9_20_1.mp3;0;;;1672
+inevitably;45;;;4;9;21;inevitably;불가피하게;;WORD_4_9_21.mp3;WORD_4_9_21_1.mp3;0;;;1673
+infinite;45;;;4;9;22;infinite;무한한, 끝없는;;WORD_4_9_22.mp3;WORD_4_9_22_1.mp3;0;;;1674
+inflamed ;45;;;4;9;23;inflame;노하게 하다, 자극하다;;WORD_4_9_23.mp3;WORD_4_9_23_1.mp3;0;;;1675
+influential ;45;;;4;9;24;influential;영향력 있는, 유력한;;WORD_4_9_24.mp3;WORD_4_9_24_1.mp3;0;;;1676
+jeopardize;45;;;4;9;25;jeopardize;위태롭게 하다;;WORD_4_9_25.mp3;WORD_4_9_25_1.mp3;0;;;1677
+marvel;45;;;4;9;26;marvel;경이로움;;WORD_4_9_26.mp3;WORD_4_9_26_1.mp3;0;;;1678
+monotonous;45;;;4;9;27;monotonous;단조로운;;WORD_4_9_27.mp3;WORD_4_9_27_1.mp3;0;;;1679
+notable ;45;;;4;9;28;notable;주목할만한;;WORD_4_9_28.mp3;WORD_4_9_28_1.mp3;0;;;1680
+novelties;45;;;4;9;29;novelty;참신함, 진기함;;WORD_4_9_29.mp3;WORD_4_9_29_1.mp3;0;;;1681
+oath ;45;;;4;9;30;oath;맹세;;WORD_4_9_30.mp3;WORD_4_9_30_1.mp3;0;;;1682
+on the contrary;45;;;4;9;31;on the contrary;반대로;;WORD_4_9_31.mp3;WORD_4_9_31_1.mp3;0;;;1683
+photosynthesis;45;;;4;9;32;photosynthesis;광합성;;WORD_4_9_32.mp3;WORD_4_9_32_1.mp3;0;;;1684
+prodigious;45;;;4;9;33;prodigious;경이로운;;WORD_4_9_33.mp3;WORD_4_9_33_1.mp3;0;;;1685
+remedy;45;;;4;9;34;remedy;치료(법);;WORD_4_9_34.mp3;WORD_4_9_34_1.mp3;0;;;1686
+speculate about;45;;;4;9;35;speculate about;추측하다, 가정하다;;WORD_4_9_35.mp3;WORD_4_9_35_1.mp3;0;;;1687
+strictly ;45;;;4;9;36;strictly;엄격하게, 엄밀히, 순전히;;WORD_4_9_36.mp3;WORD_4_9_36_1.mp3;0;;;1688
+trend ;45;;;4;9;37;trend;경향;;WORD_4_9_37.mp3;WORD_4_9_37_1.mp3;0;;;1689
+unencumbered;45;;;4;9;38;unencumbered by;~에 의해 방해받지 않는;;WORD_4_9_38.mp3;WORD_4_9_38_1.mp3;0;;;1690
+unwonted;45;;;4;9;39;unwonted;보통이 아닌, 드문;;WORD_4_9_39.mp3;WORD_4_9_39_1.mp3;0;;;1691
+vexing;45;;;4;9;40;vexing;성가신, 짜증나는;;WORD_4_9_40.mp3;WORD_4_9_40_1.mp3;0;;;1692
+votaries;45;;;4;9;41;votary;(특정 종교의) 신봉자;;WORD_4_9_41.mp3;WORD_4_9_41_1.mp3;0;;;1693
+alighted;46;;;4;10;1;alight;내리다;;WORD_4_10_1.mp3;WORD_4_10_1_1.mp3;0;;;1694
+alternate ;46;;;4;10;2;alternate;번갈아 일어나다;;WORD_4_10_2.mp3;WORD_4_10_2_1.mp3;0;;;1695
+contained ;46;;;4;10;3;contain;포함(수용)하다;;WORD_4_10_3.mp3;WORD_4_10_3_1.mp3;0;;;1696
+deterred ;46;;;4;10;4;deter;막다, 방해하다;;WORD_4_10_4.mp3;WORD_4_10_4_1.mp3;0;;;1697
+examined ;46;;;4;10;5;examine;정밀 조사하다;;WORD_4_10_5.mp3;WORD_4_10_5_1.mp3;0;;;1698
+fastest;46;;;4;10;6;fast;빠른;;WORD_4_10_6.mp3;WORD_4_10_6_1.mp3;0;;;1699
+gist ;46;;;4;10;7;gist;핵심;;WORD_4_10_7.mp3;WORD_4_10_7_1.mp3;0;;;1700
+gleaming ;46;;;4;10;8;gleaming;반짝이는, 빛나는;;WORD_4_10_8.mp3;WORD_4_10_8_1.mp3;0;;;1701
+guarantee;46;;;4;10;9;guarantee;보증하다;;WORD_4_10_9.mp3;WORD_4_10_9_1.mp3;0;;;1702
+hobbies;46;;;4;10;10;hobby;취미;;WORD_4_10_10.mp3;WORD_4_10_10_1.mp3;0;;;1703
+inaccessible;46;;;4;10;11;inaccessible;접근하기 어려운, 얻기 어려운;;WORD_4_10_11.mp3;WORD_4_10_11_1.mp3;0;;;1704
+inadequate;46;;;4;10;12;inadequate;불충분한;;WORD_4_10_12.mp3;WORD_4_10_12_1.mp3;0;;;1705
+inborn ;46;;;4;10;13;inborn;선천적인;;WORD_4_10_13.mp3;WORD_4_10_13_1.mp3;0;;;1706
+inclination;46;;;4;10;14;inclination;성향, 경향;;WORD_4_10_14.mp3;WORD_4_10_14_1.mp3;0;;;1707
+in proximity to;46;;;4;10;15;in proximity to;~에 가까운;;WORD_4_10_15.mp3;WORD_4_10_15_1.mp3;0;;;1708
+insight;46;;;4;10;16;insight;통찰력, 직관;;WORD_4_10_16.mp3;WORD_4_10_16_1.mp3;0;;;1709
+intent;46;;;4;10;17;intent;의도;;WORD_4_10_17.mp3;WORD_4_10_17_1.mp3;0;;;1710
+intertwine;46;;;4;10;18;intertwine;뒤엉키다;;WORD_4_10_18.mp3;WORD_4_10_18_1.mp3;0;;;1711
+joined;46;;;4;10;19;join;연결하다, 결합하다, 합류하다;;WORD_4_10_19.mp3;WORD_4_10_19_1.mp3;0;;;1712
+meddlesome;46;;;4;10;20;meddlesome;간섭하는;;WORD_4_10_20.mp3;WORD_4_10_20_1.mp3;0;;;1713
+multiplied ;46;;;4;10;21;multiply;증가하다;;WORD_4_10_21.mp3;WORD_4_10_21_1.mp3;0;;;1714
+myriad ;46;;;4;10;22;myriad;무수한;;WORD_4_10_22.mp3;WORD_4_10_22_1.mp3;0;;;1715
+naive;46;;;4;10;23;naïve;꾸밈없는, 순진한;;WORD_4_10_23.mp3;WORD_4_10_23_1.mp3;0;;;1716
+outraged ;46;;;4;10;24;outrage;화나게 하다;;WORD_4_10_24.mp3;WORD_4_10_24_1.mp3;0;;;1717
+particularly;46;;;4;10;25;particularly;특히;;WORD_4_10_25.mp3;WORD_4_10_25_1.mp3;0;;;1718
+principal ;46;;;4;10;26;principal;주요한;;WORD_4_10_26.mp3;WORD_4_10_26_1.mp3;0;;;1719
+propel ;46;;;4;10;27;propel;추진하다, 밀어내다;;WORD_4_10_27.mp3;WORD_4_10_27_1.mp3;0;;;1720
+rigorous;46;;;4;10;28;rigorous;혹독한, 엄격한, 정밀한;;WORD_4_10_28.mp3;WORD_4_10_28_1.mp3;0;;;1721
+savor;46;;;4;10;29;savor;맛;;WORD_4_10_29.mp3;WORD_4_10_29_1.mp3;0;;;1722
+scrambled;46;;;4;10;30;scramble;뒤섞다;;WORD_4_10_30.mp3;WORD_4_10_30_1.mp3;0;;;1723
+seldom;46;;;4;10;31;seldom;거의 ~ 않다;;WORD_4_10_31.mp3;WORD_4_10_31_1.mp3;0;;;1724
+simulated ;46;;;4;10;32;simulated;모조의, 가짜의;;WORD_4_10_32.mp3;WORD_4_10_32_1.mp3;0;;;1725
+slight;46;;;4;10;33;slight;사소한;;WORD_4_10_33.mp3;WORD_4_10_33_1.mp3;0;;;1726
+sporadic ;46;;;4;10;34;sporadic;산발적인;;WORD_4_10_34.mp3;WORD_4_10_34_1.mp3;0;;;1727
+standstill;46;;;4;10;35;standstill;정지;;WORD_4_10_35.mp3;WORD_4_10_35_1.mp3;0;;;1728
+systematic ;46;;;4;10;36;systematic;조직적인;;WORD_4_10_36.mp3;WORD_4_10_36_1.mp3;0;;;1729
+through;46;;;4;10;37;through;~에 의하여;;WORD_4_10_37.mp3;WORD_4_10_37_1.mp3;0;;;1730
+versatile;46;;;4;10;38;versatile;다방면의;;WORD_4_10_38.mp3;WORD_4_10_38_1.mp3;0;;;1731
+voluble;46;;;4;10;39;voluble;입심 좋은, 유창한;;WORD_4_10_39.mp3;WORD_4_10_39_1.mp3;0;;;1732
+amiable;47;;;4;11;1;amiable;상냥한;;WORD_4_11_1.mp3;WORD_4_11_1_1.mp3;0;;;1733
+arduous;47;;;4;11;2;arduous;힘든, 분투적인;;WORD_4_11_2.mp3;WORD_4_11_2_1.mp3;0;;;1734
+ascended;47;;;4;11;3;ascend;올라가다;;WORD_4_11_3.mp3;WORD_4_11_3_1.mp3;0;;;1735
+atmosphere;47;;;4;11;4;atmosphere;공기, 분위기;;WORD_4_11_4.mp3;WORD_4_11_4_1.mp3;0;;;1736
+awe;47;;;4;11;5;awe;경외심;;WORD_4_11_5.mp3;WORD_4_11_5_1.mp3;0;;;1737
+completely;47;;;4;11;6;completely;완전히;;WORD_4_11_6.mp3;WORD_4_11_6_1.mp3;0;;;1738
+crammed;47;;;4;11;7;cram;(쑤셔) 넣다;;WORD_4_11_7.mp3;WORD_4_11_7_1.mp3;0;;;1739
+dilemma;47;;;4;11;8;dilemma;곤경;;WORD_4_11_8.mp3;WORD_4_11_8_1.mp3;0;;;1740
+discharged;47;;;4;11;9;discharge;(군인환자 등을) 해방시키다, 방출하다;;WORD_4_11_9.mp3;WORD_4_11_9_1.mp3;0;;;1741
+enlisted;47;;;4;11;10;enlist;입대하다;;WORD_4_11_10.mp3;WORD_4_11_10_1.mp3;0;;;1742
+enterprise ;47;;;4;11;11;enterprise;(모험적인) 사업;;WORD_4_11_11.mp3;WORD_4_11_11_1.mp3;0;;;1743
+escalate;47;;;4;11;12;escalate;차츰 확대되다, 오르다;;WORD_4_11_12.mp3;WORD_4_11_12_1.mp3;0;;;1744
+estimate;47;;;4;11;13;estimate;평가하다;;WORD_4_11_13.mp3;WORD_4_11_13_1.mp3;0;;;1745
+green hand;47;;;4;11;14;green hand;미숙한 사람;;WORD_4_11_14.mp3;WORD_4_11_14_1.mp3;0;;;1746
+inclined;47;;;4;11;15;inclined;~의 경향이 있는, 경사진, 기울어진;;WORD_4_11_15.mp3;WORD_4_11_15_1.mp3;0;;;1747
+incoherent ;47;;;4;11;16;incoherent;두서 없는;;WORD_4_11_16.mp3;WORD_4_11_16_1.mp3;0;;;1748
+innovate;47;;;4;11;17;innovate;혁신하다;;WORD_4_11_17.mp3;WORD_4_11_17_1.mp3;0;;;1749
+lading;47;;;4;11;18;lading;화물;;WORD_4_11_18.mp3;WORD_4_11_18_1.mp3;0;;;1750
+original ;47;;;4;11;19;original;독창적인, 처음의;;WORD_4_11_19.mp3;WORD_4_11_19_1.mp3;0;;;1751
+outrageous;47;;;4;11;20;outrageous;지나친, 엄청난;;WORD_4_11_20.mp3;WORD_4_11_20_1.mp3;0;;;1752
+pictured ;47;;;4;11;21;picture;묘사하다;;WORD_4_11_21.mp3;WORD_4_11_21_1.mp3;0;;;1753
+preliminary ;47;;;4;11;22;preliminary;서두의, 예비의;;WORD_4_11_22.mp3;WORD_4_11_22_1.mp3;0;;;1754
+preoccupation ;47;;;4;11;23;preoccupation;몰두, 강박 관념;;WORD_4_11_23.mp3;WORD_4_11_23_1.mp3;0;;;1755
+preserve;47;;;4;11;24;preserve;보호하다, 보존하다;;WORD_4_11_24.mp3;WORD_4_11_24_1.mp3;0;;;1756
+radiant ;47;;;4;11;25;radiant;빛나는;;WORD_4_11_25.mp3;WORD_4_11_25_1.mp3;0;;;1757
+researched ;47;;;4;11;26;research;조사하다;;WORD_4_11_26.mp3;WORD_4_11_26_1.mp3;0;;;1758
+reverence;47;;;4;11;27;reverence;존경;;WORD_4_11_27.mp3;WORD_4_11_27_1.mp3;0;;;1759
+reversed;47;;;4;11;28;reverse;뒤집다;;WORD_4_11_28.mp3;WORD_4_11_28_1.mp3;0;;;1760
+right ;47;;;4;11;29;right;옳은, 적절한;;WORD_4_11_29.mp3;WORD_4_11_29_1.mp3;0;;;1761
+satire;47;;;4;11;30;satire;풍자;;WORD_4_11_30.mp3;WORD_4_11_30_1.mp3;0;;;1762
+segregated;47;;;4;11;31;segregate;떼어놓다, 분리하다;;WORD_4_11_31.mp3;WORD_4_11_31_1.mp3;0;;;1763
+stable ;47;;;4;11;32;stable;안정된;;WORD_4_11_32.mp3;WORD_4_11_32_1.mp3;0;;;1764
+strong;47;;;4;11;33;strong;강한;;WORD_4_11_33.mp3;WORD_4_11_33_1.mp3;0;;;1765
+teased;47;;;4;11;34;tease;괴롭히다;;WORD_4_11_34.mp3;WORD_4_11_34_1.mp3;0;;;1766
+tempting;47;;;4;11;35;tempting;매력적인, 유혹하는;;WORD_4_11_35.mp3;WORD_4_11_35_1.mp3;0;;;1767
+type;47;;;4;11;36;type;유형;;WORD_4_11_36.mp3;WORD_4_11_36_1.mp3;0;;;1768
+underlying ;47;;;4;11;37;underlying;근원적인, 기저의;;WORD_4_11_37.mp3;WORD_4_11_37_1.mp3;0;;;1769
+veins;47;;;4;11;38;vein;정맥;;WORD_4_11_38.mp3;WORD_4_11_38_1.mp3;0;;;1770
+absolutely;48;;;4;12;1;absolutely;전적으로;;WORD_4_12_1.mp3;WORD_4_12_1_1.mp3;0;;;1771
+caption;48;;;4;12;2;caption;표제;;WORD_4_12_2.mp3;WORD_4_12_2_1.mp3;0;;;1772
+categorized;48;;;4;12;3;categorize;분류하다;;WORD_4_12_3.mp3;WORD_4_12_3_1.mp3;0;;;1773
+complicated ;48;;;4;12;4;complicated;복잡한;;WORD_4_12_4.mp3;WORD_4_12_4_1.mp3;0;;;1774
+conflicting;48;;;4;12;5;conflicting;상반(상충)되는;;WORD_4_12_5.mp3;WORD_4_12_5_1.mp3;0;;;1775
+gratifying;48;;;4;12;6;gratify;만족시키다;;WORD_4_12_6.mp3;WORD_4_12_6_1.mp3;0;;;1776
+operation;48;;;4;12;7;in operation;실시 중의, 효력을 가지는;;WORD_4_12_7.mp3;WORD_4_12_7_1.mp3;0;;;1777
+instrument;48;;;4;12;8;instrument;수단, 방법, 기구, 도구;;WORD_4_12_8.mp3;WORD_4_12_8_1.mp3;0;;;1778
+intrude ;48;;;4;12;9;intrude;침범(침해)하다;;WORD_4_12_9.mp3;WORD_4_12_9_1.mp3;0;;;1779
+key ;48;;;4;12;10;key;어조, (음악) 조, 필수적인, 중요한;;WORD_4_12_10.mp3;WORD_4_12_10_1.mp3;0;;;1780
+legacy ;48;;;4;12;11;legacy;(전통적인) 유산;;WORD_4_12_11.mp3;WORD_4_12_11_1.mp3;0;;;1781
+manufactures ;48;;;4;12;12;manufacture;(대규모로) 제조하다;;WORD_4_12_12.mp3;WORD_4_12_12_1.mp3;0;;;1782
+memorable ;48;;;4;12;13;memorable;기억할 만한, 인상적인;;WORD_4_12_13.mp3;WORD_4_12_13_1.mp3;0;;;1783
+narrowed ;48;;;4;12;14;narrow;좁아지다, 한정하다;;WORD_4_12_14.mp3;WORD_4_12_14_1.mp3;0;;;1784
+occasion;48;;;4;12;15;occasion;행사, 사건;;WORD_4_12_15.mp3;WORD_4_12_15_1.mp3;0;;;1785
+occasional ;48;;;4;12;16;occasional;가끔의;;WORD_4_12_16.mp3;WORD_4_12_16_1.mp3;0;;;1786
+oversee;48;;;4;12;17;oversee;감독하다;;WORD_4_12_17.mp3;WORD_4_12_17_1.mp3;0;;;1787
+oversight;48;;;4;12;18;oversight;실수;;WORD_4_12_18.mp3;WORD_4_12_18_1.mp3;0;;;1788
+peaceful;48;;;4;12;19;peaceful;평온한;;WORD_4_12_19.mp3;WORD_4_12_19_1.mp3;0;;;1789
+peak ;48;;;4;12;20;peak;정점, 절정;;WORD_4_12_20.mp3;WORD_4_12_20_1.mp3;0;;;1790
+perforate;48;;;4;12;21;perforate;구멍을 내다;;WORD_4_12_21.mp3;WORD_4_12_21_1.mp3;0;;;1791
+postulates;48;;;4;12;22;postulate;요구하다;;WORD_4_12_22.mp3;WORD_4_12_22_1.mp3;0;;;1792
+quit;48;;;4;12;23;quit;그만두다, 사직하다;;WORD_4_12_23.mp3;WORD_4_12_23_1.mp3;0;;;1793
+reinforcements ;48;;;4;12;24;reinforcement;보강, 지원군;;WORD_4_12_24.mp3;WORD_4_12_24_1.mp3;0;;;1794
+remnants ;48;;;4;12;25;remnant;잔재, 자취;;WORD_4_12_25.mp3;WORD_4_12_25_1.mp3;0;;;1795
+removed;48;;;4;12;26;remove;끌어내다, 제거하다;;WORD_4_12_26.mp3;WORD_4_12_26_1.mp3;0;;;1796
+role;48;;;4;12;27;role;역할, 기능;;WORD_4_12_27.mp3;WORD_4_12_27_1.mp3;0;;;1797
+shudder ;48;;;4;12;28;shudder;떨림, 전율;;WORD_4_12_28.mp3;WORD_4_12_28_1.mp3;0;;;1798
+spread out;48;;;4;12;29;spread out;넓히다, 전개하다;;WORD_4_12_29.mp3;WORD_4_12_29_1.mp3;0;;;1799
+strip;48;;;4;12;30;strip;제거하다;;WORD_4_12_30.mp3;WORD_4_12_30_1.mp3;0;;;1800
+tactile ;48;;;4;12;31;tactile;촉각으로 알 수 있는;;WORD_4_12_31.mp3;WORD_4_12_31_1.mp3;0;;;1801
+temporary;48;;;4;12;32;temporary;일시적인;;WORD_4_12_32.mp3;WORD_4_12_32_1.mp3;0;;;1802
+tendency;48;;;4;12;33;tendency;경향, 성향;;WORD_4_12_33.mp3;WORD_4_12_33_1.mp3;0;;;1803
+underpinnings;48;;;4;12;34;underpinning;기초, 기반;;WORD_4_12_34.mp3;WORD_4_12_34_1.mp3;0;;;1804
+unencumbered;48;;;4;12;35;unencumbered;방해 없는;;WORD_4_12_35.mp3;WORD_4_12_35_1.mp3;0;;;1805
+version;48;;;4;12;36;version;번역(물), 이형, 판;;WORD_4_12_36.mp3;WORD_4_12_36_1.mp3;0;;;1806
+well-suited ;48;;;4;12;37;well-suited;적절한;;WORD_4_12_37.mp3;WORD_4_12_37_1.mp3;0;;;1807
+whole ;48;;;4;12;38;whole;전체의, 완전한;;WORD_4_12_38.mp3;WORD_4_12_38_1.mp3;0;;;1808
+wit;48;;;4;12;39;wit;재치;;WORD_4_12_39.mp3;WORD_4_12_39_1.mp3;0;;;1809
+absolved;49;;;5;1;1;absolve;사면하다, 용서하다;;WORD_5_1_1.mp3;WORD_5_1_1_1.mp3;0;;;1810
+ambling ;49;;;5;1;2;ambling;느긋한;;WORD_5_1_2.mp3;WORD_5_1_2_1.mp3;0;;;1811
+bartered;49;;;5;1;3;barter;교환하다, 교역하다;;WORD_5_1_3.mp3;WORD_5_1_3_1.mp3;0;;;1812
+bombarded;49;;;5;1;4;bombard;공격하다;;WORD_5_1_4.mp3;WORD_5_1_4_1.mp3;0;;;1813
+breeding;49;;;5;1;5;breeding;번식;;WORD_5_1_5.mp3;WORD_5_1_5_1.mp3;0;;;1814
+bulky ;49;;;5;1;6;bulky;거대한;;WORD_5_1_6.mp3;WORD_5_1_6_1.mp3;0;;;1815
+depicted ;49;;;5;1;7;depict;묘사하다;;WORD_5_1_7.mp3;WORD_5_1_7_1.mp3;0;;;1816
+diminishing;49;;;5;1;8;diminish;줄다;;WORD_5_1_8.mp3;WORD_5_1_8_1.mp3;0;;;1817
+duration ;49;;;5;1;9;duration;지속 기간;;WORD_5_1_9.mp3;WORD_5_1_9_1.mp3;0;;;1818
+emphasized;49;;;5;1;10;emphasize;강조하다;;WORD_5_1_10.mp3;WORD_5_1_10_1.mp3;0;;;1819
+exalted;49;;;5;1;11;exalted;고귀한;;WORD_5_1_11.mp3;WORD_5_1_11_1.mp3;0;;;1820
+favor ;49;;;5;1;12;favor;호의, 찬성;;WORD_5_1_12.mp3;WORD_5_1_12_1.mp3;0;;;1821
+fervor ;49;;;5;1;13;fervor;열정;;WORD_5_1_13.mp3;WORD_5_1_13_1.mp3;0;;;1822
+foliage;49;;;5;1;14;foliage;잎;;WORD_5_1_14.mp3;WORD_5_1_14_1.mp3;0;;;1823
+fostered;49;;;5;1;15;foster;기르다;;WORD_5_1_15.mp3;WORD_5_1_15_1.mp3;0;;;1824
+freed;49;;;5;1;16;free;해방시키다;;WORD_5_1_16.mp3;WORD_5_1_16_1.mp3;0;;;1825
+further ;49;;;5;1;17;further;그 이상의, 여분의;;WORD_5_1_17.mp3;WORD_5_1_17_1.mp3;0;;;1826
+guided;49;;;5;1;18;guide;안내하다;;WORD_5_1_18.mp3;WORD_5_1_18_1.mp3;0;;;1827
+inaction;49;;;5;1;19;inaction;활동하지 않음;;WORD_5_1_19.mp3;WORD_5_1_19_1.mp3;0;;;1828
+incursion ;49;;;5;1;20;incursion;침입;;WORD_5_1_20.mp3;WORD_5_1_20_1.mp3;0;;;1829
+indispensable;49;;;5;1;21;indispensable;필수적인;;WORD_5_1_21.mp3;WORD_5_1_21_1.mp3;0;;;1830
+inimical;49;;;5;1;22;inimical;적대하는;;WORD_5_1_22.mp3;WORD_5_1_22_1.mp3;0;;;1831
+intervention ;49;;;5;1;23;intervention;간섭, 개입;;WORD_5_1_23.mp3;WORD_5_1_23_1.mp3;0;;;1832
+merge;49;;;5;1;24;merge;결합(융합)하다;;WORD_5_1_24.mp3;WORD_5_1_24_1.mp3;0;;;1833
+pattern;49;;;5;1;25;pattern;도안, 무늬;;WORD_5_1_25.mp3;WORD_5_1_25_1.mp3;0;;;1834
+permanent;49;;;5;1;26;permanent;불변의, 영구적인;;WORD_5_1_26.mp3;WORD_5_1_26_1.mp3;0;;;1835
+point;49;;;5;1;27;point;요점;;WORD_5_1_27.mp3;WORD_5_1_27_1.mp3;0;;;1836
+praised ;49;;;5;1;28;praise;칭송하다;;WORD_5_1_28.mp3;WORD_5_1_28_1.mp3;0;;;1837
+precarious;49;;;5;1;29;precarious;불확실한, 다루기 어려운;;WORD_5_1_29.mp3;WORD_5_1_29_1.mp3;0;;;1838
+prototype;49;;;5;1;30;prototype;원형, 모델;;WORD_5_1_30.mp3;WORD_5_1_30_1.mp3;0;;;1839
+rapidly;49;;;5;1;31;rapidly;급속히;;WORD_5_1_31.mp3;WORD_5_1_31_1.mp3;0;;;1840
+refine;49;;;5;1;32;refine;다듬어 좋게 하다;;WORD_5_1_32.mp3;WORD_5_1_32_1.mp3;0;;;1841
+rented;49;;;5;1;33;rent;임대하다, 임차하다;;WORD_5_1_33.mp3;WORD_5_1_33_1.mp3;0;;;1842
+source ;49;;;5;1;34;source;근원, 출처;;WORD_5_1_34.mp3;WORD_5_1_34_1.mp3;0;;;1843
+sparsely ;49;;;5;1;35;sparsely;희박하게;;WORD_5_1_35.mp3;WORD_5_1_35_1.mp3;0;;;1844
+standpoint ;49;;;5;1;36;standpoint;관점;;WORD_5_1_36.mp3;WORD_5_1_36_1.mp3;0;;;1845
+stinting;49;;;5;1;37;stint;절약하다;;WORD_5_1_37.mp3;WORD_5_1_37_1.mp3;0;;;1846
+subsequently ;49;;;5;1;38;subsequently;이후에;;WORD_5_1_38.mp3;WORD_5_1_38_1.mp3;0;;;1847
+terrestrial ;49;;;5;1;39;terrestrial;지상의, 속세의;;WORD_5_1_39.mp3;WORD_5_1_39_1.mp3;0;;;1848
+unbridled;49;;;5;1;40;unbridled;억제되지 않은;;WORD_5_1_40.mp3;WORD_5_1_40_1.mp3;0;;;1849
+acclaim;50;;;5;2;1;acclaim;갈채, 절찬, 격찬하다, 환호하다;;WORD_5_2_1.mp3;WORD_5_2_1_1.mp3;0;;;1850
+active;50;;;5;2;2;active;활기찬;;WORD_5_2_2.mp3;WORD_5_2_2_1.mp3;0;;;1851
+administer;50;;;5;2;3;administer;관리하다, 집행하다, 가하다;;WORD_5_2_3.mp3;WORD_5_2_3_1.mp3;0;;;1852
+avail;50;;;5;2;4;avail;도움이 되다;;WORD_5_2_4.mp3;WORD_5_2_4_1.mp3;0;;;1853
+blossom;50;;;5;2;5;blossom;번영하다;;WORD_5_2_5.mp3;WORD_5_2_5_1.mp3;0;;;1854
+cast ;50;;;5;2;6;cast;던지다;;WORD_5_2_6.mp3;WORD_5_2_6_1.mp3;0;;;1855
+charged ;50;;;5;2;7;charge;책임을 지우다;;WORD_5_2_7.mp3;WORD_5_2_7_1.mp3;0;;;1856
+chiefly;50;;;5;2;8;chiefly;주로;;WORD_5_2_8.mp3;WORD_5_2_8_1.mp3;0;;;1857
+coherent;50;;;5;2;9;coherent;논리적인, 일관성 있는;;WORD_5_2_9.mp3;WORD_5_2_9_1.mp3;0;;;1858
+counts ;50;;;5;2;10;count;중요하다;;WORD_5_2_10.mp3;WORD_5_2_10_1.mp3;0;;;1859
+discernible ;50;;;5;2;11;discernible;인식할 수 있는;;WORD_5_2_11.mp3;WORD_5_2_11_1.mp3;0;;;1860
+distinguished;50;;;5;2;12;distinguished;두드러진;;WORD_5_2_12.mp3;WORD_5_2_12_1.mp3;0;;;1861
+federated;50;;;5;2;13;federate;연합하다;;WORD_5_2_13.mp3;WORD_5_2_13_1.mp3;0;;;1862
+frame ;50;;;5;2;14;frame;만들다;;WORD_5_2_14.mp3;WORD_5_2_14_1.mp3;0;;;1863
+huge;50;;;5;2;15;huge;거대한;;WORD_5_2_15.mp3;WORD_5_2_15_1.mp3;0;;;1864
+inevitable;50;;;5;2;16;inevitable;불가피한;;WORD_5_2_16.mp3;WORD_5_2_16_1.mp3;0;;;1865
+inspire;50;;;5;2;17;inspire;고무하다;;WORD_5_2_17.mp3;WORD_5_2_17_1.mp3;0;;;1866
+intention;50;;;5;2;18;intention;의향, 의도;;WORD_5_2_18.mp3;WORD_5_2_18_1.mp3;0;;;1867
+livelihood;50;;;5;2;19;livelihood;직업, 생계;;WORD_5_2_19.mp3;WORD_5_2_19_1.mp3;0;;;1868
+make;50;;;5;2;20;make;만들다, 구성하다;;WORD_5_2_20.mp3;WORD_5_2_20_1.mp3;0;;;1869
+marked;50;;;5;2;21;mark;유명, 명성, 표시하다;;WORD_5_2_21.mp3;WORD_5_2_21_1.mp3;0;;;1870
+mechanism;50;;;5;2;22;mechanism;도구, 방법;;WORD_5_2_22.mp3;WORD_5_2_22_1.mp3;0;;;1871
+moved ;50;;;5;2;23;move;감동시키다, 나아가다, 이동하다;;WORD_5_2_23.mp3;WORD_5_2_23_1.mp3;0;;;1872
+oppressed;50;;;5;2;24;oppress;억압(학대)하다;;WORD_5_2_24.mp3;WORD_5_2_24_1.mp3;0;;;1873
+pronounced ;50;;;5;2;25;pronounced;명백한, 뚜렷한;;WORD_5_2_25.mp3;WORD_5_2_25_1.mp3;0;;;1874
+reward;50;;;5;2;26;reward;보답, 보상;;WORD_5_2_26.mp3;WORD_5_2_26_1.mp3;0;;;1875
+ripe;50;;;5;2;27;ripe;무르익은, 성숙한;;WORD_5_2_27.mp3;WORD_5_2_27_1.mp3;0;;;1876
+roamed;50;;;5;2;28;roam;배회하다;;WORD_5_2_28.mp3;WORD_5_2_28_1.mp3;0;;;1877
+sheen;50;;;5;2;29;sheen;광채;;WORD_5_2_29.mp3;WORD_5_2_29_1.mp3;0;;;1878
+situation;50;;;5;2;30;situation;상태, 처지;;WORD_5_2_30.mp3;WORD_5_2_30_1.mp3;0;;;1879
+slender;50;;;5;2;31;slender;날씬한, 연약한;;WORD_5_2_31.mp3;WORD_5_2_31_1.mp3;0;;;1880
+sped;50;;;5;2;32;speed;급속하게 진행하다, 서두르다;;WORD_5_2_32.mp3;WORD_5_2_32_1.mp3;0;;;1881
+sustenance;50;;;5;2;33;sustenance;음식, 양식;;WORD_5_2_33.mp3;WORD_5_2_33_1.mp3;0;;;1882
+understand ;50;;;5;2;34;understand;이해하다;;WORD_5_2_34.mp3;WORD_5_2_34_1.mp3;0;;;1883
+unparalleled;50;;;5;2;35;unparalleled;비길 데 없는;;WORD_5_2_35.mp3;WORD_5_2_35_1.mp3;0;;;1884
+unquestionable ;50;;;5;2;36;unquestionable;확실한;;WORD_5_2_36.mp3;WORD_5_2_36_1.mp3;0;;;1885
+veneration ;50;;;5;2;37;veneration;존경;;WORD_5_2_37.mp3;WORD_5_2_37_1.mp3;0;;;1886
+attempted ;51;;;5;3;1;attempt;시도하다;;WORD_5_3_1.mp3;WORD_5_3_1_1.mp3;0;;;1887
+beneath;51;;;5;3;2;beneath;~할 가치가 없는;;WORD_5_3_2.mp3;WORD_5_3_2_1.mp3;0;;;1888
+cohere;51;;;5;3;3;cohere;단합하다;;WORD_5_3_3.mp3;WORD_5_3_3_1.mp3;0;;;1889
+collected ;51;;;5;3;4;collect;모으다, 쌓다;;WORD_5_3_4.mp3;WORD_5_3_4_1.mp3;0;;;1890
+counts for nothing;51;;;5;3;5;count for nothing;중요하지 않다;;WORD_5_3_5.mp3;WORD_5_3_5_1.mp3;0;;;1891
+creative;51;;;5;3;6;creative;창조적인;;WORD_5_3_6.mp3;WORD_5_3_6_1.mp3;0;;;1892
+disinterested;51;;;5;3;7;disinterested;공정한;;WORD_5_3_7.mp3;WORD_5_3_7_1.mp3;0;;;1893
+distinguishable ;51;;;5;3;8;distinguishable;구별되는;;WORD_5_3_8.mp3;WORD_5_3_8_1.mp3;0;;;1894
+erudite ;51;;;5;3;9;erudite;학식 있는;;WORD_5_3_9.mp3;WORD_5_3_9_1.mp3;0;;;1895
+exceptionally;51;;;5;3;10;exceptionally;유난히;;WORD_5_3_10.mp3;WORD_5_3_10_1.mp3;0;;;1896
+final ;51;;;5;3;11;final;마지막의, 궁극적인;;WORD_5_3_11.mp3;WORD_5_3_11_1.mp3;0;;;1897
+for the sake of;51;;;5;3;12;for the sake of;～를 위하여;;WORD_5_3_12.mp3;WORD_5_3_12_1.mp3;0;;;1898
+impartial;51;;;5;3;13;impartial;공정한, 공평한;;WORD_5_3_13.mp3;WORD_5_3_13_1.mp3;0;;;1899
+impervious;51;;;5;3;14;impervious;불침투성의;;WORD_5_3_14.mp3;WORD_5_3_14_1.mp3;0;;;1900
+impolite;51;;;5;3;15;impolite;무례한;;WORD_5_3_15.mp3;WORD_5_3_15_1.mp3;0;;;1901
+indifference;51;;;5;3;16;indifference;무관심;;WORD_5_3_16.mp3;WORD_5_3_16_1.mp3;0;;;1902
+induce ;51;;;5;3;17;induce;설득하여 ~하게 하다;;WORD_5_3_17.mp3;WORD_5_3_17_1.mp3;0;;;1903
+inhabitants;51;;;5;3;18;inhabitant;주민;;WORD_5_3_18.mp3;WORD_5_3_18_1.mp3;0;;;1904
+jolts ;51;;;5;3;19;jolt;충격;;WORD_5_3_19.mp3;WORD_5_3_19_1.mp3;0;;;1905
+luminous ;51;;;5;3;20;luminous;빛을 내는, 반짝이는;;WORD_5_3_20.mp3;WORD_5_3_20_1.mp3;0;;;1906
+negligible ;51;;;5;3;21;negligible;하찮은;;WORD_5_3_21.mp3;WORD_5_3_21_1.mp3;0;;;1907
+obscure;51;;;5;3;22;obscure;애매한;;WORD_5_3_22.mp3;WORD_5_3_22_1.mp3;0;;;1908
+omnipotent ;51;;;5;3;23;omnipresent;어디에나 존재하는;;WORD_5_3_23.mp3;WORD_5_3_23_1.mp3;0;;;1909
+overpowered;51;;;5;3;24;overpower;압도하다;;WORD_5_3_24.mp3;WORD_5_3_24_1.mp3;0;;;1910
+peculiar ;51;;;5;3;25;peculiar;색다른, 독특한;;WORD_5_3_25.mp3;WORD_5_3_25_1.mp3;0;;;1911
+prohibitively;51;;;5;3;26;prohibitively;엄청나게;;WORD_5_3_26.mp3;WORD_5_3_26_1.mp3;0;;;1912
+prophetic ;51;;;5;3;27;prophetic;예언적인;;WORD_5_3_27.mp3;WORD_5_3_27_1.mp3;0;;;1913
+proprietor;51;;;5;3;28;proprietor;소유주;;WORD_5_3_28.mp3;WORD_5_3_28_1.mp3;0;;;1914
+protruded;51;;;5;3;29;protrude;튀어나오다;;WORD_5_3_29.mp3;WORD_5_3_29_1.mp3;0;;;1915
+proximity ;51;;;5;3;30;proximity;근접;;WORD_5_3_30.mp3;WORD_5_3_30_1.mp3;0;;;1916
+reliable ;51;;;5;3;31;reliable;믿을 수 있는;;WORD_5_3_31.mp3;WORD_5_3_31_1.mp3;0;;;1917
+resorted to;51;;;5;3;32;resort to;의지하다;;WORD_5_3_32.mp3;WORD_5_3_32_1.mp3;0;;;1918
+sought;51;;;5;3;33;seek;찾다, 추구하다, 노력하다, 시도하다;;WORD_5_3_33.mp3;WORD_5_3_33_1.mp3;0;;;1919
+statue;51;;;5;3;34;statue;조각상;;WORD_5_3_34.mp3;WORD_5_3_34_1.mp3;0;;;1920
+straight away;51;;;5;3;35;straight away;즉시;;WORD_5_3_35.mp3;WORD_5_3_35_1.mp3;0;;;1921
+string ;51;;;5;3;36;string;일련, 연속;;WORD_5_3_36.mp3;WORD_5_3_36_1.mp3;0;;;1922
+tangled ;51;;;5;3;37;tangled;뒤엉킨;;WORD_5_3_37.mp3;WORD_5_3_37_1.mp3;0;;;1923
+telling;51;;;5;3;38;telling;효과적인;;WORD_5_3_38.mp3;WORD_5_3_38_1.mp3;0;;;1924
+tracked;51;;;5;3;39;track;～을 쫓아가다, 진로를 관찰하다;;WORD_5_3_39.mp3;WORD_5_3_39_1.mp3;0;;;1925
+traditional ;51;;;5;3;40;traditional;통상적인, 전통의;;WORD_5_3_40.mp3;WORD_5_3_40_1.mp3;0;;;1926
+underneath ;51;;;5;3;41;underneath;～의 아래에;;WORD_5_3_41.mp3;WORD_5_3_41_1.mp3;0;;;1927
+abides;52;;;5;4;1;abide;살다, 머물다;;WORD_5_4_1.mp3;WORD_5_4_1_1.mp3;0;;;1928
+accomplished;52;;;5;4;2;accomplished;숙련된;;WORD_5_4_2.mp3;WORD_5_4_2_1.mp3;0;;;1929
+apprehend;52;;;5;4;3;apprehend;이해하다;;WORD_5_4_3.mp3;WORD_5_4_3_1.mp3;0;;;1930
+average ;52;;;5;4;4;average;중수, 평균(치);;WORD_5_4_4.mp3;WORD_5_4_4_1.mp3;0;;;1931
+blended ;52;;;5;4;5;blend;섞다;;WORD_5_4_5.mp3;WORD_5_4_5_1.mp3;0;;;1932
+block ;52;;;5;4;6;block;장애물, 막다, 방해하다;;WORD_5_4_6.mp3;WORD_5_4_6_1.mp3;0;;;1933
+compelled;52;;;5;4;7;compel;강요하다;;WORD_5_4_7.mp3;WORD_5_4_7_1.mp3;0;;;1934
+constraint;52;;;5;4;8;constraint;제한, 제약;;WORD_5_4_8.mp3;WORD_5_4_8_1.mp3;0;;;1935
+couples;52;;;5;4;9;couple;한쌍;;WORD_5_4_9.mp3;WORD_5_4_9_1.mp3;0;;;1936
+disorder;52;;;5;4;10;disorder;무질서;;WORD_5_4_10.mp3;WORD_5_4_10_1.mp3;0;;;1937
+encountered;52;;;5;4;11;encounter;마주치다;;WORD_5_4_11.mp3;WORD_5_4_11_1.mp3;0;;;1938
+erroneous;52;;;5;4;12;erroneous;잘못된;;WORD_5_4_12.mp3;WORD_5_4_12_1.mp3;0;;;1939
+expertise ;52;;;5;4;13;expertise;전문 기술;;WORD_5_4_13.mp3;WORD_5_4_13_1.mp3;0;;;1940
+fame;52;;;5;4;14;fame;명성;;WORD_5_4_14.mp3;WORD_5_4_14_1.mp3;0;;;1941
+founded;52;;;5;4;15;found;창설하다;;WORD_5_4_15.mp3;WORD_5_4_15_1.mp3;0;;;1942
+imitate ;52;;;5;4;16;imitate;흉내 내다, 모방하다;;WORD_5_4_16.mp3;WORD_5_4_16_1.mp3;0;;;1943
+incredulous;52;;;5;4;17;incredulous;의심 많은;;WORD_5_4_17.mp3;WORD_5_4_17_1.mp3;0;;;1944
+in opposition to;52;;;5;4;18;in opposition to;~에 반대하여;;WORD_5_4_18.mp3;WORD_5_4_18_1.mp3;0;;;1945
+means ;52;;;5;4;19;means;방법;;WORD_5_4_19.mp3;WORD_5_4_19_1.mp3;0;;;1946
+medium;52;;;5;4;20;medium;매개;;WORD_5_4_20.mp3;WORD_5_4_20_1.mp3;0;;;1947
+misleading ;52;;;5;4;21;misleading;현혹시키는;;WORD_5_4_21.mp3;WORD_5_4_21_1.mp3;0;;;1948
+onset ;52;;;5;4;22;onset;시작;;WORD_5_4_22.mp3;WORD_5_4_22_1.mp3;0;;;1949
+overwhelmed;52;;;5;4;23;overwhelm;압도(제압)하다;;WORD_5_4_23.mp3;WORD_5_4_23_1.mp3;0;;;1950
+phenomenon;52;;;5;4;24;phenomenon;사건, 현상;;WORD_5_4_24.mp3;WORD_5_4_24_1.mp3;0;;;1951
+pinnacles;52;;;5;4;25;pinnacle;정상;;WORD_5_4_25.mp3;WORD_5_4_25_1.mp3;0;;;1952
+pinpoint ;52;;;5;4;26;pinpoint;정확한;;WORD_5_4_26.mp3;WORD_5_4_26_1.mp3;0;;;1953
+pliable;52;;;5;4;27;pliable;휘기 쉬운, 유연한;;WORD_5_4_27.mp3;WORD_5_4_27_1.mp3;0;;;1954
+reared ;52;;;5;4;28;rear;기르다;;WORD_5_4_28.mp3;WORD_5_4_28_1.mp3;0;;;1955
+repair ;52;;;5;4;29;repair;고치다;;WORD_5_4_29.mp3;WORD_5_4_29_1.mp3;0;;;1956
+residue ;52;;;5;4;30;residue;잔여;;WORD_5_4_30.mp3;WORD_5_4_30_1.mp3;0;;;1957
+scanty;52;;;5;4;31;scanty;부족한;;WORD_5_4_31.mp3;WORD_5_4_31_1.mp3;0;;;1958
+sense;52;;;5;4;32;sense;의미;;WORD_5_4_32.mp3;WORD_5_4_32_1.mp3;0;;;1959
+shards ;52;;;5;4;33;shard;파편;;WORD_5_4_33.mp3;WORD_5_4_33_1.mp3;0;;;1960
+substrate;52;;;5;4;34;substrate;하층, 기저;;WORD_5_4_34.mp3;WORD_5_4_34_1.mp3;0;;;1961
+subtle;52;;;5;4;35;subtle;알아채기 어려운, 미묘한;;WORD_5_4_35.mp3;WORD_5_4_35_1.mp3;0;;;1962
+suitable ;52;;;5;4;36;suitable;적절한;;WORD_5_4_36.mp3;WORD_5_4_36_1.mp3;0;;;1963
+tedious ;52;;;5;4;37;tedious;지루한;;WORD_5_4_37.mp3;WORD_5_4_37_1.mp3;0;;;1964
+toxic ;52;;;5;4;38;toxic;유독한;;WORD_5_4_38.mp3;WORD_5_4_38_1.mp3;0;;;1965
+ultimately;52;;;5;4;39;ultimately;궁극적으로, 마침내;;WORD_5_4_39.mp3;WORD_5_4_39_1.mp3;0;;;1966
+universally ;52;;;5;4;40;universally;도처에, 널리;;WORD_5_4_40.mp3;WORD_5_4_40_1.mp3;0;;;1967
+usual;52;;;5;4;41;usual;흔한, 보통의;;WORD_5_4_41.mp3;WORD_5_4_41_1.mp3;0;;;1968
+adjacent;53;;;5;5;1;adjacent;인접한;;WORD_5_5_1.mp3;WORD_5_5_1_1.mp3;0;;;1969
+altered;53;;;5;5;2;alter;변환하다;;WORD_5_5_2.mp3;WORD_5_5_2_1.mp3;0;;;1970
+bare;53;;;5;5;3;bare;노출된, 벌거벗은;;WORD_5_5_3.mp3;WORD_5_5_3_1.mp3;0;;;1971
+burden ;53;;;5;5;4;burden;짐, 부담, (짐부담 등을) 지우다;;WORD_5_5_4.mp3;WORD_5_5_4_1.mp3;0;;;1972
+clout;53;;;5;5;5;clout;권력, 영향력;;WORD_5_5_5.mp3;WORD_5_5_5_1.mp3;0;;;1973
+commodities;53;;;5;5;6;commodity;상품;;WORD_5_5_6.mp3;WORD_5_5_6_1.mp3;0;;;1974
+constellations ;53;;;5;5;7;constellation;배열, (유사 성질의) 모임, 집합체;;WORD_5_5_7.mp3;WORD_5_5_7_1.mp3;0;;;1975
+daunted;53;;;5;5;8;daunt;위압하다;;WORD_5_5_8.mp3;WORD_5_5_8_1.mp3;0;;;1976
+delighted ;53;;;5;5;9;delight;기쁘게 하다;;WORD_5_5_9.mp3;WORD_5_5_9_1.mp3;0;;;1977
+deluxe;53;;;5;5;10;deluxe;호화로운;;WORD_5_5_10.mp3;WORD_5_5_10_1.mp3;0;;;1978
+depressed ;53;;;5;5;11;depressed;움푹 들어간, 내려 앉은, 우울한;;WORD_5_5_11.mp3;WORD_5_5_11_1.mp3;0;;;1979
+endless ;53;;;5;5;12;endless;끝없는;;WORD_5_5_12.mp3;WORD_5_5_12_1.mp3;0;;;1980
+especially;53;;;5;5;13;especially;특히;;WORD_5_5_13.mp3;WORD_5_5_13_1.mp3;0;;;1981
+forbids;53;;;5;5;14;forbid;금하다;;WORD_5_5_14.mp3;WORD_5_5_14_1.mp3;0;;;1982
+great ;53;;;5;5;15;great;뛰어난;;WORD_5_5_15.mp3;WORD_5_5_15_1.mp3;0;;;1983
+holds ;53;;;5;5;16;hold;수용하다;;WORD_5_5_16.mp3;WORD_5_5_16_1.mp3;0;;;1984
+impression;53;;;5;5;17;impression;인상, 영향, 효과;;WORD_5_5_17.mp3;WORD_5_5_17_1.mp3;0;;;1985
+inherent;53;;;5;5;18;inherent;선천적인;;WORD_5_5_18.mp3;WORD_5_5_18_1.mp3;0;;;1986
+instant ;53;;;5;5;19;instant;순간;;WORD_5_5_19.mp3;WORD_5_5_19_1.mp3;0;;;1987
+in time;53;;;5;5;20;in time;일찍, 결국;;WORD_5_5_20.mp3;WORD_5_5_20_1.mp3;0;;;1988
+nocturnal ;53;;;5;5;21;nocturnal;야행성의;;WORD_5_5_21.mp3;WORD_5_5_21_1.mp3;0;;;1989
+overall;53;;;5;5;22;overall;포괄적인, 전체의;;WORD_5_5_22.mp3;WORD_5_5_22_1.mp3;0;;;1990
+process;53;;;5;5;23;process;공정;;WORD_5_5_23.mp3;WORD_5_5_23_1.mp3;0;;;1991
+reach;53;;;5;5;24;reach;구역, 범위;;WORD_5_5_24.mp3;WORD_5_5_24_1.mp3;0;;;1992
+reciprocal;53;;;5;5;25;reciprocal;상호적인;;WORD_5_5_25.mp3;WORD_5_5_25_1.mp3;0;;;1993
+remarkable ;53;;;5;5;26;remarkable;놀라운, 상당한;;WORD_5_5_26.mp3;WORD_5_5_26_1.mp3;0;;;1994
+routinely;53;;;5;5;27;routinely;일상적으로;;WORD_5_5_27.mp3;WORD_5_5_27_1.mp3;0;;;1995
+sizable;53;;;5;5;28;sizable;꽤큰;;WORD_5_5_28.mp3;WORD_5_5_28_1.mp3;0;;;1996
+still;53;;;5;5;29;still;정지한, 조용한, 그럼에도 불구하고;;WORD_5_5_29.mp3;WORD_5_5_29_1.mp3;0;;;1997
+subdued;53;;;5;5;30;subdued;가라앉은, 약해진;;WORD_5_5_30.mp3;WORD_5_5_30_1.mp3;0;;;1998
+touching;53;;;5;5;31;touching;감동적인;;WORD_5_5_31.mp3;WORD_5_5_31_1.mp3;0;;;1999
+trivial ;53;;;5;5;32;trivial;사소한;;WORD_5_5_32.mp3;WORD_5_5_32_1.mp3;0;;;2000
+transferred;53;;;5;5;33;transfer;이동하다;;WORD_5_5_33.mp3;WORD_5_5_33_1.mp3;0;;;2001
+unintentionally;53;;;5;5;34;unintentionally;무심코;;WORD_5_5_34.mp3;WORD_5_5_34_1.mp3;0;;;2002
+variation;53;;;5;5;35;variation;변화;;WORD_5_5_35.mp3;WORD_5_5_35_1.mp3;0;;;2003
+vociferous ;53;;;5;5;36;vociferous;시끄러운;;WORD_5_5_36.mp3;WORD_5_5_36_1.mp3;0;;;2004
+acquisition;54;;;5;6;1;acquisition;획득;;WORD_5_6_1.mp3;WORD_5_6_1_1.mp3;0;;;2005
+ancestors ;54;;;5;6;2;ancestor;조상, 선조;;WORD_5_6_2.mp3;WORD_5_6_2_1.mp3;0;;;2006
+capricious;54;;;5;6;3;capricious;변덕스러운;;WORD_5_6_3.mp3;WORD_5_6_3_1.mp3;0;;;2007
+collaboration;54;;;5;6;4;collaboration;협동;;WORD_5_6_4.mp3;WORD_5_6_4_1.mp3;0;;;2008
+colonize ;54;;;5;6;5;colonize;식민지화하다;;WORD_5_6_5.mp3;WORD_5_6_5_1.mp3;0;;;2009
+combined ;54;;;5;6;6;combine;통합하다, 결합시키다;;WORD_5_6_6.mp3;WORD_5_6_6_1.mp3;0;;;2010
+complete;54;;;5;6;7;complete;전체의, 완전한;;WORD_5_6_7.mp3;WORD_5_6_7_1.mp3;0;;;2011
+consequently ;54;;;5;6;8;consequently;그러므로, 따라서;;WORD_5_6_8.mp3;WORD_5_6_8_1.mp3;0;;;2012
+continuity ;54;;;5;6;9;continuity;연속성;;WORD_5_6_9.mp3;WORD_5_6_9_1.mp3;0;;;2013
+disadvantage ;54;;;5;6;10;disadvantage;결점;;WORD_5_6_10.mp3;WORD_5_6_10_1.mp3;0;;;2014
+dissemination;54;;;5;6;11;dissemination;보급, 전파;;WORD_5_6_11.mp3;WORD_5_6_11_1.mp3;0;;;2015
+documented ;54;;;5;6;12;documented;기록된;;WORD_5_6_12.mp3;WORD_5_6_12_1.mp3;0;;;2016
+excited;54;;;5;6;13;excite;자극하다, 고무하다;;WORD_5_6_13.mp3;WORD_5_6_13_1.mp3;0;;;2017
+extent;54;;;5;6;14;extent;범위;;WORD_5_6_14.mp3;WORD_5_6_14_1.mp3;0;;;2018
+from time to time;54;;;5;6;15;from time to time;때때로, 이따금;;WORD_5_6_15.mp3;WORD_5_6_15_1.mp3;0;;;2019
+fusion;54;;;5;6;16;fusion;통합;;WORD_5_6_16.mp3;WORD_5_6_16_1.mp3;0;;;2020
+hunting;54;;;5;6;17;hunt;뒤지다, 찾다;;WORD_5_6_17.mp3;WORD_5_6_17_1.mp3;0;;;2021
+illicit ;54;;;5;6;18;illicit;불법적인;;WORD_5_6_18.mp3;WORD_5_6_18_1.mp3;0;;;2022
+improper ;54;;;5;6;19;improper;부적당한;;WORD_5_6_19.mp3;WORD_5_6_19_1.mp3;0;;;2023
+incessant;54;;;5;6;20;incessant;끊임없는;;WORD_5_6_20.mp3;WORD_5_6_20_1.mp3;0;;;2024
+infrequent;54;;;5;6;21;infrequent;가끔의, 진기한;;WORD_5_6_21.mp3;WORD_5_6_21_1.mp3;0;;;2025
+inhospitable;54;;;5;6;22;inhospitable;비우호적인, 황폐한;;WORD_5_6_22.mp3;WORD_5_6_22_1.mp3;0;;;2026
+intact ;54;;;5;6;23;intact;손상되지 않은;;WORD_5_6_23.mp3;WORD_5_6_23_1.mp3;0;;;2027
+overrode;54;;;5;6;24;override;무효로 하다;;WORD_5_6_24.mp3;WORD_5_6_24_1.mp3;0;;;2028
+pored;54;;;5;6;25;pore;응시하다;;WORD_5_6_25.mp3;WORD_5_6_25_1.mp3;0;;;2029
+profusion;54;;;5;6;26;profusion;풍부;;WORD_5_6_26.mp3;WORD_5_6_26_1.mp3;0;;;2030
+proponent;54;;;5;6;27;proponent;지지자;;WORD_5_6_27.mp3;WORD_5_6_27_1.mp3;0;;;2031
+prospective ;54;;;5;6;28;prospective;장래의;;WORD_5_6_28.mp3;WORD_5_6_28_1.mp3;0;;;2032
+pure ;54;;;5;6;29;pure;흠없는, 결백한;;WORD_5_6_29.mp3;WORD_5_6_29_1.mp3;0;;;2033
+rough ;54;;;5;6;30;rough;울퉁불퉁한;;WORD_5_6_30.mp3;WORD_5_6_30_1.mp3;0;;;2034
+stand for;54;;;5;6;31;stand for;~를 나타내다;;WORD_5_6_31.mp3;WORD_5_6_31_1.mp3;0;;;2035
+stationary;54;;;5;6;32;stationary;정지한;;WORD_5_6_32.mp3;WORD_5_6_32_1.mp3;0;;;2036
+submarine;54;;;5;6;33;submarine;해저의;;WORD_5_6_33.mp3;WORD_5_6_33_1.mp3;0;;;2037
+submerged ;54;;;5;6;34;submerge;물에 담그다, 물속에 넣다;;WORD_5_6_34.mp3;WORD_5_6_34_1.mp3;0;;;2038
+surmise ;54;;;5;6;35;surmise;추측하다;;WORD_5_6_35.mp3;WORD_5_6_35_1.mp3;0;;;2039
+suspected;54;;;5;6;36;suspect;생각하다, 추측하다;;WORD_5_6_36.mp3;WORD_5_6_36_1.mp3;0;;;2040
+sustainable ;54;;;5;6;37;sustainable;견딜 수 있는, 고갈되지 않는;;WORD_5_6_37.mp3;WORD_5_6_37_1.mp3;0;;;2041
+unequaled ;54;;;5;6;38;unequaled;무적의;;WORD_5_6_38.mp3;WORD_5_6_38_1.mp3;0;;;2042
+unsurpassed;54;;;5;6;39;unsurpassed;비길 데 없는;;WORD_5_6_39.mp3;WORD_5_6_39_1.mp3;0;;;2043
+unwittingly ;54;;;5;6;40;unwittingly;무의식 중에;;WORD_5_6_40.mp3;WORD_5_6_40_1.mp3;0;;;2044
+urge;54;;;5;6;41;urge;충동;;WORD_5_6_41.mp3;WORD_5_6_41_1.mp3;0;;;2045
+with little regard to;54;;;5;6;42;with little regard to ;~를 거의 고려하지 않고, ~에 상관없이;;WORD_5_6_42.mp3;WORD_5_6_42_1.mp3;0;;;2046
+abandonment ;55;;;5;7;1;abandonment;유기;;WORD_5_7_1.mp3;WORD_5_7_1_1.mp3;0;;;2047
+abuse ;55;;;5;7;2;abuse;오용하다, 학대하다;;WORD_5_7_2.mp3;WORD_5_7_2_1.mp3;0;;;2048
+accommodate;55;;;5;7;3;accommodate;맞추다, 적응시키다, 수용하다, 공급하다;;WORD_5_7_3.mp3;WORD_5_7_3_1.mp3;0;;;2049
+affronted;55;;;5;7;4;affront;모욕하다;;WORD_5_7_4.mp3;WORD_5_7_4_1.mp3;0;;;2050
+aggressive ;55;;;5;7;5;aggressive;적극적인, 공격적인;;WORD_5_7_5.mp3;WORD_5_7_5_1.mp3;0;;;2051
+as well as;55;;;5;7;6;as well as;또한, ~뿐만 아니라;;WORD_5_7_6.mp3;WORD_5_7_6_1.mp3;0;;;2052
+cardinal ;55;;;5;7;7;cardinal;기본적인;;WORD_5_7_7.mp3;WORD_5_7_7_1.mp3;0;;;2053
+cautious ;55;;;5;7;8;cautious;신중한, 조심스러운;;WORD_5_7_8.mp3;WORD_5_7_8_1.mp3;0;;;2054
+celebrate;55;;;5;7;9;celebrate;축하하다;;WORD_5_7_9.mp3;WORD_5_7_9_1.mp3;0;;;2055
+continuou;55;;;5;7;10;continuous;연속적인;;WORD_5_7_10.mp3;WORD_5_7_10_1.mp3;0;;;2056
+derived;55;;;5;7;11;derive;유래를 찾다, 끌어내다, 얻다;;WORD_5_7_11.mp3;WORD_5_7_11_1.mp3;0;;;2057
+despite ;55;;;5;7;12;despite;~에도 불구하고;;WORD_5_7_12.mp3;WORD_5_7_12_1.mp3;0;;;2058
+dim;55;;;5;7;13;dim;희미한;;WORD_5_7_13.mp3;WORD_5_7_13_1.mp3;0;;;2059
+disgusting;55;;;5;7;14;disgusting;정말 싫은, 지긋지긋한;;WORD_5_7_14.mp3;WORD_5_7_14_1.mp3;0;;;2060
+exposition;55;;;5;7;15;exposition;전시, 진열;;WORD_5_7_15.mp3;WORD_5_7_15_1.mp3;0;;;2061
+extraneous;55;;;5;7;16;extraneous;부차적인, 관계없는;;WORD_5_7_16.mp3;WORD_5_7_16_1.mp3;0;;;2062
+feed;55;;;5;7;17;feed;기르다, 부양하다, 먹이를 먹다;;WORD_5_7_17.mp3;WORD_5_7_17_1.mp3;0;;;2063
+happen;55;;;5;7;18;happen;(사건이) 발생하다;;WORD_5_7_18.mp3;WORD_5_7_18_1.mp3;0;;;2064
+impartially;55;;;5;7;19;impartially;공명정대하게;;WORD_5_7_19.mp3;WORD_5_7_19_1.mp3;0;;;2065
+indeed;55;;;5;7;20;indeed;정말로;;WORD_5_7_20.mp3;WORD_5_7_20_1.mp3;0;;;2066
+innovations;55;;;5;7;21;innovation;새로이 채택(도입)한 것;;WORD_5_7_21.mp3;WORD_5_7_21_1.mp3;0;;;2067
+jeer ;55;;;5;7;22;jeer;조롱하다;;WORD_5_7_22.mp3;WORD_5_7_22_1.mp3;0;;;2068
+noticed;55;;;5;7;23;noticed;주목받는;;WORD_5_7_23.mp3;WORD_5_7_23_1.mp3;0;;;2069
+nourish ;55;;;5;7;24;nourish;기르다, 키우다;;WORD_5_7_24.mp3;WORD_5_7_24_1.mp3;0;;;2070
+outcome ;55;;;5;7;25;outcome;결과;;WORD_5_7_25.mp3;WORD_5_7_25_1.mp3;0;;;2071
+paramount ;55;;;5;7;26;paramount;최고의, 주요한;;WORD_5_7_26.mp3;WORD_5_7_26_1.mp3;0;;;2072
+pondered ;55;;;5;7;27;ponder;심사숙고하다;;WORD_5_7_27.mp3;WORD_5_7_27_1.mp3;0;;;2073
+preparing ;55;;;5;7;28;prepare;준비하다;;WORD_5_7_28.mp3;WORD_5_7_28_1.mp3;0;;;2074
+procurement;55;;;5;7;29;procurement;획득, 확보;;WORD_5_7_29.mp3;WORD_5_7_29_1.mp3;0;;;2075
+produced;55;;;5;7;30;produce;생기게 하다;;WORD_5_7_30.mp3;WORD_5_7_30_1.mp3;0;;;2076
+proposed ;55;;;5;7;31;propose;제안하다;;WORD_5_7_31.mp3;WORD_5_7_31_1.mp3;0;;;2077
+prosperous ;55;;;5;7;32;prosperous;번영하는;;WORD_5_7_32.mp3;WORD_5_7_32_1.mp3;0;;;2078
+purpose;55;;;5;7;33;purpose;목적;;WORD_5_7_33.mp3;WORD_5_7_33_1.mp3;0;;;2079
+scent;55;;;5;7;34;scent;향기, 냄새;;WORD_5_7_34.mp3;WORD_5_7_34_1.mp3;0;;;2080
+springing up ;55;;;5;7;35;spring up;갑자기 나타나다;;WORD_5_7_35.mp3;WORD_5_7_35_1.mp3;0;;;2081
+stubborn ;55;;;5;7;36;stubborn;완고한, 완강한;;WORD_5_7_36.mp3;WORD_5_7_36_1.mp3;0;;;2082
+subsistence;55;;;5;7;37;subsistence;생존;;WORD_5_7_37.mp3;WORD_5_7_37_1.mp3;0;;;2083
+territorial ;55;;;5;7;38;territorial;영토의;;WORD_5_7_38.mp3;WORD_5_7_38_1.mp3;0;;;2084
+threatening;55;;;5;7;39;threatening;위협적인;;WORD_5_7_39.mp3;WORD_5_7_39_1.mp3;0;;;2085
+ancient ;56;;;5;8;1;ancient;고대의, 옛날의;;WORD_5_8_1.mp3;WORD_5_8_1_1.mp3;0;;;2086
+annihilated;56;;;5;8;2;annihilate;전멸시키다;;WORD_5_8_2.mp3;WORD_5_8_2_1.mp3;0;;;2087
+antagonist;56;;;5;8;3;antagonist;반대자, 적;;WORD_5_8_3.mp3;WORD_5_8_3_1.mp3;0;;;2088
+arranged;56;;;5;8;4;arrange;배열하다;;WORD_5_8_4.mp3;WORD_5_8_4_1.mp3;0;;;2089
+clutched;56;;;5;8;5;clutch;꽉 붙잡다;;WORD_5_8_5.mp3;WORD_5_8_5_1.mp3;0;;;2090
+contours ;56;;;5;8;6;contour;윤곽;;WORD_5_8_6.mp3;WORD_5_8_6_1.mp3;0;;;2091
+contradictory;56;;;5;8;7;contradictory;모순된;;WORD_5_8_7.mp3;WORD_5_8_7_1.mp3;0;;;2092
+converse ;56;;;5;8;8;converse;반대의;;WORD_5_8_8.mp3;WORD_5_8_8_1.mp3;0;;;2093
+dependent;56;;;5;8;9;dependent;의존하는;;WORD_5_8_9.mp3;WORD_5_8_9_1.mp3;0;;;2094
+deposed ;56;;;5;8;10;depose;쫓아내다;;WORD_5_8_10.mp3;WORD_5_8_10_1.mp3;0;;;2095
+distress;56;;;5;8;11;distress;고통;;WORD_5_8_11.mp3;WORD_5_8_11_1.mp3;0;;;2096
+diverges;56;;;5;8;12;diverge;갈라지다;;WORD_5_8_12.mp3;WORD_5_8_12_1.mp3;0;;;2097
+diversity ;56;;;5;8;13;diversity;다양함;;WORD_5_8_13.mp3;WORD_5_8_13_1.mp3;0;;;2098
+divert ;56;;;5;8;14;divert;전환하다;;WORD_5_8_14.mp3;WORD_5_8_14_1.mp3;0;;;2099
+enabled;56;;;5;8;15;enable;~을 가능케 하다;;WORD_5_8_15.mp3;WORD_5_8_15_1.mp3;0;;;2100
+equilibrium;56;;;5;8;16;equilibrium;평형;;WORD_5_8_16.mp3;WORD_5_8_16_1.mp3;0;;;2101
+exclusively ;56;;;5;8;17;exclusively;오로지;;WORD_5_8_17.mp3;WORD_5_8_17_1.mp3;0;;;2102
+ferry ;56;;;5;8;18;ferry;수송하다;;WORD_5_8_18.mp3;WORD_5_8_18_1.mp3;0;;;2103
+hole;56;;;5;8;19;hole;구멍;;WORD_5_8_19.mp3;WORD_5_8_19_1.mp3;0;;;2104
+in fact;56;;;5;8;20;in fact;사실상;;WORD_5_8_20.mp3;WORD_5_8_20_1.mp3;0;;;2105
+legitimate;56;;;5;8;21;legitimate;합법적인;;WORD_5_8_21.mp3;WORD_5_8_21_1.mp3;0;;;2106
+neat ;56;;;5;8;22;neat;정돈된, 단정한;;WORD_5_8_22.mp3;WORD_5_8_22_1.mp3;0;;;2107
+notion;56;;;5;8;23;notion;의견, 개념;;WORD_5_8_23.mp3;WORD_5_8_23_1.mp3;0;;;2108
+perennial;56;;;5;8;24;perennial;장기간 계속되는;;WORD_5_8_24.mp3;WORD_5_8_24_1.mp3;0;;;2109
+persecuted;56;;;5;8;25;persecute;박해하다, 괴롭히다;;WORD_5_8_25.mp3;WORD_5_8_25_1.mp3;0;;;2110
+portions;56;;;5;8;26;portion;부분;;WORD_5_8_26.mp3;WORD_5_8_26_1.mp3;0;;;2111
+prestige;56;;;5;8;27;prestige;지위, 명성;;WORD_5_8_27.mp3;WORD_5_8_27_1.mp3;0;;;2112
+prized;56;;;5;8;28;prized;높이 평가받는;;WORD_5_8_28.mp3;WORD_5_8_28_1.mp3;0;;;2113
+result ;56;;;5;8;29;result;결과;;WORD_5_8_29.mp3;WORD_5_8_29_1.mp3;0;;;2114
+rich;56;;;5;8;30;rich;비옥한, 풍부한;;WORD_5_8_30.mp3;WORD_5_8_30_1.mp3;0;;;2115
+series;56;;;5;8;31;series;일련, 연속;;WORD_5_8_31.mp3;WORD_5_8_31_1.mp3;0;;;2116
+sole;56;;;5;8;32;sole;유일한;;WORD_5_8_32.mp3;WORD_5_8_32_1.mp3;0;;;2117
+stingy;56;;;5;8;33;stingy;인색한;;WORD_5_8_33.mp3;WORD_5_8_33_1.mp3;0;;;2118
+suggestion;56;;;5;8;34;suggestion;암시;;WORD_5_8_34.mp3;WORD_5_8_34_1.mp3;0;;;2119
+supervising;56;;;5;8;35;supervise;감독하다;;WORD_5_8_35.mp3;WORD_5_8_35_1.mp3;0;;;2120
+surmount;56;;;5;8;36;surmount;극복하다;;WORD_5_8_36.mp3;WORD_5_8_36_1.mp3;0;;;2121
+traded ;56;;;5;8;37;trade;교역하다;;WORD_5_8_37.mp3;WORD_5_8_37_1.mp3;0;;;2122
+unchanged;56;;;5;8;38;unchanged;불변의;;WORD_5_8_38.mp3;WORD_5_8_38_1.mp3;0;;;2123
+underway ;56;;;5;8;39;underway;진행 중인;;WORD_5_8_39.mp3;WORD_5_8_39_1.mp3;0;;;2124
+uneven;56;;;5;8;40;uneven;울퉁불퉁한;;WORD_5_8_40.mp3;WORD_5_8_40_1.mp3;0;;;2125
+uninterested;56;;;5;8;41;uninterested;무관심한;;WORD_5_8_41.mp3;WORD_5_8_41_1.mp3;0;;;2126
+way;56;;;5;8;42;way;방법;;WORD_5_8_42.mp3;WORD_5_8_42_1.mp3;0;;;2127
+apply;57;;;5;9;1;apply;사용(적용)하다;;WORD_5_9_1.mp3;WORD_5_9_1_1.mp3;0;;;2128
+appreciated;57;;;5;9;2;appreciate;(진가를) 인정하다;;WORD_5_9_2.mp3;WORD_5_9_2_1.mp3;0;;;2129
+available ;57;;;5;9;3;available;사용할 수 있는, 이용할 수 있는;;WORD_5_9_3.mp3;WORD_5_9_3_1.mp3;0;;;2130
+capitalize on;57;;;5;9;4;capitalize on;(좋은 기회사실)을 이용하다;;WORD_5_9_4.mp3;WORD_5_9_4_1.mp3;0;;;2131
+consumption;57;;;5;9;5;consumption;소비, 소모;;WORD_5_9_5.mp3;WORD_5_9_5_1.mp3;0;;;2132
+detract ;57;;;5;9;6;detract;(가치명성 등을) 줄이다;;WORD_5_9_6.mp3;WORD_5_9_6_1.mp3;0;;;2133
+dimensions;57;;;5;9;7;dimension;크기;;WORD_5_9_7.mp3;WORD_5_9_7_1.mp3;0;;;2134
+erect;57;;;5;9;8;erect;직립한, 수직의, 세우다;;WORD_5_9_8.mp3;WORD_5_9_8_1.mp3;0;;;2135
+exceptional ;57;;;5;9;9;exceptional;예외적인;;WORD_5_9_9.mp3;WORD_5_9_9_1.mp3;0;;;2136
+expressed;57;;;5;9;10;express;표현하다, 나타내다;;WORD_5_9_10.mp3;WORD_5_9_10_1.mp3;0;;;2137
+expressly;57;;;5;9;11;expressly;명백히, 확실히;;WORD_5_9_11.mp3;WORD_5_9_11_1.mp3;0;;;2138
+fitted;57;;;5;9;12;fit;적응시키다, 맞추다;;WORD_5_9_12.mp3;WORD_5_9_12_1.mp3;0;;;2139
+habitual ;57;;;5;9;13;habitual;습관적인, 평소의;;WORD_5_9_13.mp3;WORD_5_9_13_1.mp3;0;;;2140
+harnessed;57;;;5;9;14;harness;이용하다;;WORD_5_9_14.mp3;WORD_5_9_14_1.mp3;0;;;2141
+implausible;57;;;5;9;15;implausible;믿기지 않는, 그럴 듯하지 않은;;WORD_5_9_15.mp3;WORD_5_9_15_1.mp3;0;;;2142
+institute;57;;;5;9;16;institute;수립하다, 설립하다;;WORD_5_9_16.mp3;WORD_5_9_16_1.mp3;0;;;2143
+juncture ;57;;;5;9;17;juncture;연결;;WORD_5_9_17.mp3;WORD_5_9_17_1.mp3;0;;;2144
+long;57;;;5;9;18;long;바라다;;WORD_5_9_18.mp3;WORD_5_9_18_1.mp3;0;;;2145
+mysterious ;57;;;5;9;19;mysterious;불가사의한, 신비한;;WORD_5_9_19.mp3;WORD_5_9_19_1.mp3;0;;;2146
+obsolete;57;;;5;9;20;obsolete;안쓰이는, 시대에 뒤진;;WORD_5_9_20.mp3;WORD_5_9_20_1.mp3;0;;;2147
+omit;57;;;5;9;21;omit;제외하다;;WORD_5_9_21.mp3;WORD_5_9_21_1.mp3;0;;;2148
+owing to ;57;;;5;9;22;owing to;～ 때문에;;WORD_5_9_22.mp3;WORD_5_9_22_1.mp3;0;;;2149
+pointed out;57;;;5;9;23;point out;가리키다, 지시하다;;WORD_5_9_23.mp3;WORD_5_9_23_1.mp3;0;;;2150
+prevailed;57;;;5;9;24;prevail;이기다, 압도하다;;WORD_5_9_24.mp3;WORD_5_9_24_1.mp3;0;;;2151
+receded;57;;;5;9;25;recede;물러나다;;WORD_5_9_25.mp3;WORD_5_9_25_1.mp3;0;;;2152
+reluctant;57;;;5;9;26;reluctant;꺼리는;;WORD_5_9_26.mp3;WORD_5_9_26_1.mp3;0;;;2153
+scour ;57;;;5;9;27;scour;탐색하다, 찾아다니다, 문질러 닦다;;WORD_5_9_27.mp3;WORD_5_9_27_1.mp3;0;;;2154
+signaled ;57;;;5;9;28;signal;신호하다, 신호로 알리다;;WORD_5_9_28.mp3;WORD_5_9_28_1.mp3;0;;;2155
+silhouetted ;57;;;5;9;29;silhouette;윤곽을 그리다;;WORD_5_9_29.mp3;WORD_5_9_29_1.mp3;0;;;2156
+slightly;57;;;5;9;30;slightly;약간, 조금;;WORD_5_9_30.mp3;WORD_5_9_30_1.mp3;0;;;2157
+stretched ;57;;;5;9;31;stretch;늘리다, 범위, 널리 퍼진 지역;;WORD_5_9_31.mp3;WORD_5_9_31_1.mp3;0;;;2158
+surroundings;57;;;5;9;32;surrounding;주변 환경;;WORD_5_9_32.mp3;WORD_5_9_32_1.mp3;0;;;2159
+susceptible ;57;;;5;9;33;susceptible;(영향을) 받기 쉬운, 감염되기 쉬운;;WORD_5_9_33.mp3;WORD_5_9_33_1.mp3;0;;;2160
+touted ;57;;;5;9;34;tout;크게 선전하다;;WORD_5_9_34.mp3;WORD_5_9_34_1.mp3;0;;;2161
+trifling;57;;;5;9;35;trifling;하찮은;;WORD_5_9_35.mp3;WORD_5_9_35_1.mp3;0;;;2162
+turbulence ;57;;;5;9;36;turbulence;동요, 혼란;;WORD_5_9_36.mp3;WORD_5_9_36_1.mp3;0;;;2163
+unsuitable ;57;;;5;9;37;unsuitable;부적당한;;WORD_5_9_37.mp3;WORD_5_9_37_1.mp3;0;;;2164
+void ;57;;;5;9;38;void;쓸모없는;;WORD_5_9_38.mp3;WORD_5_9_38_1.mp3;0;;;2165
+wielding ;57;;;5;9;39;wielding;(권력 등을) 행사하는;;WORD_5_9_39.mp3;WORD_5_9_39_1.mp3;0;;;2166
+apparent ;58;;;5;10;1;apparent;명백한, 외견상, 그럴듯한;;WORD_5_10_1.mp3;WORD_5_10_1_1.mp3;0;;;2167
+appreciable ;58;;;5;10;2;appreciable;눈에 띄는;;WORD_5_10_2.mp3;WORD_5_10_2_1.mp3;0;;;2168
+ardent ;58;;;5;10;3;ardent;열정적인;;WORD_5_10_3.mp3;WORD_5_10_3_1.mp3;0;;;2169
+authentic;58;;;5;10;4;authentic;진짜의;;WORD_5_10_4.mp3;WORD_5_10_4_1.mp3;0;;;2170
+authorized;58;;;5;10;5;authorize;권위를 부여하다;;WORD_5_10_5.mp3;WORD_5_10_5_1.mp3;0;;;2171
+broad appeal ;58;;;5;10;6;broad appeal;폭넓은 인기;;WORD_5_10_6.mp3;WORD_5_10_6_1.mp3;0;;;2172
+captured;58;;;5;10;7;capture;붙잡다, 포획하다;;WORD_5_10_7.mp3;WORD_5_10_7_1.mp3;0;;;2173
+channel ;58;;;5;10;8;channel;(의도하는 방향으로) 돌리다;;WORD_5_10_8.mp3;WORD_5_10_8_1.mp3;0;;;2174
+cherished;58;;;5;10;9;cherish;소중히 여기다;;WORD_5_10_9.mp3;WORD_5_10_9_1.mp3;0;;;2175
+comprehensive ;58;;;5;10;10;comprehensive;포괄적인;;WORD_5_10_10.mp3;WORD_5_10_10_1.mp3;0;;;2176
+convinced;58;;;5;10;11;convince;확신시키다, 설득하다;;WORD_5_10_11.mp3;WORD_5_10_11_1.mp3;0;;;2177
+crust;58;;;5;10;12;crust;표면, 외피;;WORD_5_10_12.mp3;WORD_5_10_12_1.mp3;0;;;2178
+executed ;58;;;5;10;13;execute;수행하다;;WORD_5_10_13.mp3;WORD_5_10_13_1.mp3;0;;;2179
+expect ;58;;;5;10;14;expect;기대(예상)하다;;WORD_5_10_14.mp3;WORD_5_10_14_1.mp3;0;;;2180
+figures;58;;;5;10;15;figure;수치, 합계;;WORD_5_10_15.mp3;WORD_5_10_15_1.mp3;0;;;2181
+fragrant ;58;;;5;10;16;fragrant;향기로운;;WORD_5_10_16.mp3;WORD_5_10_16_1.mp3;0;;;2182
+gainful ;58;;;5;10;17;gainful;벌이가 되는;;WORD_5_10_17.mp3;WORD_5_10_17_1.mp3;0;;;2183
+gap;58;;;5;10;18;gap;틈, 구멍;;WORD_5_10_18.mp3;WORD_5_10_18_1.mp3;0;;;2184
+given;58;;;5;10;19;given;정해진;;WORD_5_10_19.mp3;WORD_5_10_19_1.mp3;0;;;2185
+incisive ;58;;;5;10;20;incisive;예리한, 신랄한;;WORD_5_10_20.mp3;WORD_5_10_20_1.mp3;0;;;2186
+irreversible;58;;;5;10;21;irreversible;되돌릴 수 없는;;WORD_5_10_21.mp3;WORD_5_10_21_1.mp3;0;;;2187
+locale;58;;;5;10;22;locale;장소;;WORD_5_10_22.mp3;WORD_5_10_22_1.mp3;0;;;2188
+oozing ;58;;;5;10;23;ooze;(물공기 등이) 새다;;WORD_5_10_23.mp3;WORD_5_10_23_1.mp3;0;;;2189
+penetrate;58;;;5;10;24;penetrate;관통하다, 스며들다;;WORD_5_10_24.mp3;WORD_5_10_24_1.mp3;0;;;2190
+pervaded;58;;;5;10;25;pervade;널리 퍼지다, ~에 스며들다;;WORD_5_10_25.mp3;WORD_5_10_25_1.mp3;0;;;2191
+phase ;58;;;5;10;26;phase;시기, 단계;;WORD_5_10_26.mp3;WORD_5_10_26_1.mp3;0;;;2192
+pinions;58;;;5;10;27;pinion;깃털;;WORD_5_10_27.mp3;WORD_5_10_27_1.mp3;0;;;2193
+pitiful;58;;;5;10;28;pitiful;불쌍한;;WORD_5_10_28.mp3;WORD_5_10_28_1.mp3;0;;;2194
+predicament;58;;;5;10;29;predicament;곤경;;WORD_5_10_29.mp3;WORD_5_10_29_1.mp3;0;;;2195
+sanction;58;;;5;10;30;sanction;허가, 승인;;WORD_5_10_30.mp3;WORD_5_10_30_1.mp3;0;;;2196
+snatched;58;;;5;10;31;snatch;(와락) 붙잡다;;WORD_5_10_31.mp3;WORD_5_10_31_1.mp3;0;;;2197
+subjective;58;;;5;10;32;subjective;개인적인;;WORD_5_10_32.mp3;WORD_5_10_32_1.mp3;0;;;2198
+sweat ;58;;;5;10;33;sweat;땀;;WORD_5_10_33.mp3;WORD_5_10_33_1.mp3;0;;;2199
+therefore;58;;;5;10;34;therefore;그 결과;;WORD_5_10_34.mp3;WORD_5_10_34_1.mp3;0;;;2200
+trap;58;;;5;10;35;trap;함정, 덫;;WORD_5_10_35.mp3;WORD_5_10_35_1.mp3;0;;;2201
+tricky ;58;;;5;10;36;tricky;어려운, 까다로운, 교활한;;WORD_5_10_36.mp3;WORD_5_10_36_1.mp3;0;;;2202
+unique;58;;;5;10;37;unique;특유의, 독특한;;WORD_5_10_37.mp3;WORD_5_10_37_1.mp3;0;;;2203
+unrestricted ;58;;;5;10;38;unrestricted;제한이 없는;;WORD_5_10_38.mp3;WORD_5_10_38_1.mp3;0;;;2204
+vices;58;;;5;10;39;vice;악;;WORD_5_10_39.mp3;WORD_5_10_39_1.mp3;0;;;2205
+won;58;;;5;10;40;win;얻다;;WORD_5_10_40.mp3;WORD_5_10_40_1.mp3;0;;;2206
+abundant;59;;;5;11;1;abundant;풍부한;;WORD_5_11_1.mp3;WORD_5_11_1_1.mp3;0;;;2207
+acute;59;;;5;11;2;acute;예리한, 심한, 심각한;;WORD_5_11_2.mp3;WORD_5_11_2_1.mp3;0;;;2208
+admits;59;;;5;11;3;admit;~을 들이다;;WORD_5_11_3.mp3;WORD_5_11_3_1.mp3;0;;;2209
+affiliation;59;;;5;11;4;affiliation;결연, 제휴;;WORD_5_11_4.mp3;WORD_5_11_4_1.mp3;0;;;2210
+arrangement;59;;;5;11;5;arrangement;배열;;WORD_5_11_5.mp3;WORD_5_11_5_1.mp3;0;;;2211
+assaulting;59;;;5;11;6;assault;공격하다;;WORD_5_11_6.mp3;WORD_5_11_6_1.mp3;0;;;2212
+bias;59;;;5;11;7;bias;편견;;WORD_5_11_7.mp3;WORD_5_11_7_1.mp3;0;;;2213
+civil ;59;;;5;11;8;civil;예의 바른;;WORD_5_11_8.mp3;WORD_5_11_8_1.mp3;0;;;2214
+coalesced;59;;;5;11;9;coalesce;합체하다, 연합하다;;WORD_5_11_9.mp3;WORD_5_11_9_1.mp3;0;;;2215
+coated ;59;;;5;11;10;coat;입히다, 칠하다;;WORD_5_11_10.mp3;WORD_5_11_10_1.mp3;0;;;2216
+congenial;59;;;5;11;11;congenial;친절한, 호의적인;;WORD_5_11_11.mp3;WORD_5_11_11_1.mp3;0;;;2217
+contaminated;59;;;5;11;12;contaminate;오염시키다;;WORD_5_11_12.mp3;WORD_5_11_12_1.mp3;0;;;2218
+course;59;;;5;11;13;course;진행, 진전;;WORD_5_11_13.mp3;WORD_5_11_13_1.mp3;0;;;2219
+debatable;59;;;5;11;14;debatable;논쟁의 여지가 있는;;WORD_5_11_14.mp3;WORD_5_11_14_1.mp3;0;;;2220
+determine;59;;;5;11;15;determine;(관찰조사 등으로) 확인하다, 단정하다, 결정을 내리다;;WORD_5_11_15.mp3;WORD_5_11_15_1.mp3;0;;;2221
+devoid;59;;;5;11;16;devoid;～가 없는;;WORD_5_11_16.mp3;WORD_5_11_16_1.mp3;0;;;2222
+domestic ;59;;;5;11;17;domestic;가정의;;WORD_5_11_17.mp3;WORD_5_11_17_1.mp3;0;;;2223
+dominated;59;;;5;11;18;dominated;지배되는;;WORD_5_11_18.mp3;WORD_5_11_18_1.mp3;0;;;2224
+exercise;59;;;5;11;19;exercise;실행하다, 행사하다;;WORD_5_11_19.mp3;WORD_5_11_19_1.mp3;0;;;2225
+exhibited ;59;;;5;11;20;exhibit;보여 주다, 나타내다;;WORD_5_11_20.mp3;WORD_5_11_20_1.mp3;0;;;2226
+extol ;59;;;5;11;21;extol;칭찬하다;;WORD_5_11_21.mp3;WORD_5_11_21_1.mp3;0;;;2227
+feasible ;59;;;5;11;22;feasible;실행할 수 있는;;WORD_5_11_22.mp3;WORD_5_11_22_1.mp3;0;;;2228
+flexible;59;;;5;11;23;flexible;융통성 있는, 유연한;;WORD_5_11_23.mp3;WORD_5_11_23_1.mp3;0;;;2229
+global;59;;;5;11;24;global;세계적인;;WORD_5_11_24.mp3;WORD_5_11_24_1.mp3;0;;;2230
+heeded;59;;;5;11;25;heed;주의하다, 주의;;WORD_5_11_25.mp3;WORD_5_11_25_1.mp3;0;;;2231
+inquiry;59;;;5;11;26;inquiry;조사;;WORD_5_11_26.mp3;WORD_5_11_26_1.mp3;0;;;2232
+issue ;59;;;5;11;27;issue;논점;;WORD_5_11_27.mp3;WORD_5_11_27_1.mp3;0;;;2233
+potential;59;;;5;11;28;potential;가능성 있는, 잠재적인;;WORD_5_11_28.mp3;WORD_5_11_28_1.mp3;0;;;2234
+potentially ;59;;;5;11;29;potentially;아마도;;WORD_5_11_29.mp3;WORD_5_11_29_1.mp3;0;;;2235
+prone;59;;;5;11;30;prone;~하는 경향이 있는;;WORD_5_11_30.mp3;WORD_5_11_30_1.mp3;0;;;2236
+share;59;;;5;11;31;share;몫;;WORD_5_11_31.mp3;WORD_5_11_31_1.mp3;0;;;2237
+status;59;;;5;11;32;status;지위;;WORD_5_11_32.mp3;WORD_5_11_32_1.mp3;0;;;2238
+strength ;59;;;5;11;33;strength;힘;;WORD_5_11_33.mp3;WORD_5_11_33_1.mp3;0;;;2239
+tempted ;59;;;5;11;34;tempt;유혹하다, (마음을) 끌다;;WORD_5_11_34.mp3;WORD_5_11_34_1.mp3;0;;;2240
+urgent ;59;;;5;11;35;urgent;긴급한;;WORD_5_11_35.mp3;WORD_5_11_35_1.mp3;0;;;2241
+utilizes ;59;;;5;11;36;utilize;이용하다;;WORD_5_11_36.mp3;WORD_5_11_36_1.mp3;0;;;2242
+vaguely ;59;;;5;11;37;vaguely;불분명하게;;WORD_5_11_37.mp3;WORD_5_11_37_1.mp3;0;;;2243
+vigorous ;59;;;5;11;38;vigorous;힘찬, 강력한;;WORD_5_11_38.mp3;WORD_5_11_38_1.mp3;0;;;2244
+vows;59;;;5;11;39;vow;서약;;WORD_5_11_39.mp3;WORD_5_11_39_1.mp3;0;;;2245
+a great deal ;60;;;5;12;1;a great deal;많음, 많이;;WORD_5_12_1.mp3;WORD_5_12_1_1.mp3;0;;;2246
+added;60;;;5;12;2;added;여분의, 추가의;;WORD_5_12_2.mp3;WORD_5_12_2_1.mp3;0;;;2247
+albeit;60;;;5;12;3;albeit;비록 ~이지만;;WORD_5_12_3.mp3;WORD_5_12_3_1.mp3;0;;;2248
+allowed;60;;;5;12;4;allow;허용하다;;WORD_5_12_4.mp3;WORD_5_12_4_1.mp3;0;;;2249
+antecedent ;60;;;5;12;5;antecedent;선조;;WORD_5_12_5.mp3;WORD_5_12_5_1.mp3;0;;;2250
+apart from ;60;;;5;12;6;apart from;~을 제외하고;;WORD_5_12_6.mp3;WORD_5_12_6_1.mp3;0;;;2251
+applications ;60;;;5;12;7;application;이용;;WORD_5_12_7.mp3;WORD_5_12_7_1.mp3;0;;;2252
+augment;60;;;5;12;8;augment;증가시키다;;WORD_5_12_8.mp3;WORD_5_12_8_1.mp3;0;;;2253
+avenues ;60;;;5;12;9;avenue;수단;;WORD_5_12_9.mp3;WORD_5_12_9_1.mp3;0;;;2254
+ceased;60;;;5;12;10;cease;중지하다;;WORD_5_12_10.mp3;WORD_5_12_10_1.mp3;0;;;2255
+clean;60;;;5;12;11;clean;깨끗한, 살균의, 위생적인;;WORD_5_12_11.mp3;WORD_5_12_11_1.mp3;0;;;2256
+cumulate ;60;;;5;12;12;cumulate;쌓아 올리다, 모으다;;WORD_5_12_12.mp3;WORD_5_12_12_1.mp3;0;;;2257
+demise;60;;;5;12;13;demise;멸망, 서거;;WORD_5_12_13.mp3;WORD_5_12_13_1.mp3;0;;;2258
+detested ;60;;;5;12;14;detest;혐오하다;;WORD_5_12_14.mp3;WORD_5_12_14_1.mp3;0;;;2259
+dilute;60;;;5;12;15;dilute;묽게 하다, 약화시키다;;WORD_5_12_15.mp3;WORD_5_12_15_1.mp3;0;;;2260
+disrupted;60;;;5;12;16;disrupt;중단시키다, 혼란시키다;;WORD_5_12_16.mp3;WORD_5_12_16_1.mp3;0;;;2261
+diverse ;60;;;5;12;17;diverse;다양한;;WORD_5_12_17.mp3;WORD_5_12_17_1.mp3;0;;;2262
+drills ;60;;;5;12;18;drill;연습, 훈련;;WORD_5_12_18.mp3;WORD_5_12_18_1.mp3;0;;;2263
+eased;60;;;5;12;19;ease;완화시키다;;WORD_5_12_19.mp3;WORD_5_12_19_1.mp3;0;;;2264
+empty;60;;;5;12;20;empty;텅빈;;WORD_5_12_20.mp3;WORD_5_12_20_1.mp3;0;;;2265
+engaged;60;;;5;12;21;engaged;바쁜;;WORD_5_12_21.mp3;WORD_5_12_21_1.mp3;0;;;2266
+engrossed ;60;;;5;12;22;engrossed;몰두한;;WORD_5_12_22.mp3;WORD_5_12_22_1.mp3;0;;;2267
+even;60;;;5;12;23;even;평평한, 한결같은;;WORD_5_12_23.mp3;WORD_5_12_23_1.mp3;0;;;2268
+exceeded ;60;;;5;12;24;exceed;능가하다;;WORD_5_12_24.mp3;WORD_5_12_24_1.mp3;0;;;2269
+exudes ;60;;;5;12;25;exude;방출하다;;WORD_5_12_25.mp3;WORD_5_12_25_1.mp3;0;;;2270
+extreme;60;;;5;12;26;extreme;극심한, 극단적인;;WORD_5_12_26.mp3;WORD_5_12_26_1.mp3;0;;;2271
+imprecise ;60;;;5;12;27;imprecise;부정확한;;WORD_5_12_27.mp3;WORD_5_12_27_1.mp3;0;;;2272
+inauspicious ;60;;;5;12;28;inauspicious;불길한;;WORD_5_12_28.mp3;WORD_5_12_28_1.mp3;0;;;2273
+mask ;60;;;5;12;29;mask;가장하다, 감추다;;WORD_5_12_29.mp3;WORD_5_12_29_1.mp3;0;;;2274
+merit ;60;;;5;12;30;merit;가치, 장점;;WORD_5_12_30.mp3;WORD_5_12_30_1.mp3;0;;;2275
+perspective;60;;;5;12;31;perspective;전망;;WORD_5_12_31.mp3;WORD_5_12_31_1.mp3;0;;;2276
+predominantly ;60;;;5;12;32;predominantly;주로;;WORD_5_12_32.mp3;WORD_5_12_32_1.mp3;0;;;2277
+prey;60;;;5;12;33;prey;희생자;;WORD_5_12_33.mp3;WORD_5_12_33_1.mp3;0;;;2278
+recast ;60;;;5;12;34;recast;고쳐 만들다;;WORD_5_12_34.mp3;WORD_5_12_34_1.mp3;0;;;2279
+skipping ;60;;;5;12;35;skip;깡충 뛰다;;WORD_5_12_35.mp3;WORD_5_12_35_1.mp3;0;;;2280
+submit ;60;;;5;12;36;submit;복종(굴복)하다;;WORD_5_12_36.mp3;WORD_5_12_36_1.mp3;0;;;2281
+sustain ;60;;;5;12;37;sustain;지탱하다, 유지(지속)하다;;WORD_5_12_37.mp3;WORD_5_12_37_1.mp3;0;;;2282
+traces;60;;;5;12;38;trace;자취, 흔적;;WORD_5_12_38.mp3;WORD_5_12_38_1.mp3;0;;;2283
+urban ;60;;;5;12;39;urban;도시의;;WORD_5_12_39.mp3;WORD_5_12_39_1.mp3;0;;;2284
