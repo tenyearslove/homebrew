@@ -1,23 +1,18 @@
-group 'mangsang'
+group 'bigvoca'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'java'
 
-sourceCompatibility = 1.8
-
 repositories {
     mavenCentral()
+    jcenter()
 }
 
 dependencies {
-    compile 'com.squareup.okhttp3:okhttp:3.4.1'
-    compile 'com.squareup.okhttp3:logging-interceptor:3.4.1'
     compile 'org.jsoup:jsoup:1.11.2'
-    compile 'com.google.firebase:firebase-admin:5.8.0'
 }
 
 task execute(type:JavaExec) {
     main = 'CheckLoop'
     classpath = sourceSets.main.runtimeClasspath
-    jvmArgs = ['-Dhttp.proxyHost=168.219.61.252', '-Dhttp.proxyPort=8080', '-Dhttps.proxyHost=168.219.61.252', '-Dhttps.proxyPort=8080']
 }

@@ -5,7 +5,7 @@ import org.jsoup.select.Elements;
 
 import java.io.FileWriter;
 
-public class CheckLoop {
+public class CheckLoopAll {
     private static final int ROW = 6;
     private static final int COL = 3;
     private static final int BASE = ROW * COL;
@@ -17,17 +17,14 @@ public class CheckLoop {
         String[] koreanBuffer = new String[BASE];
 
         int NUMBER = 1;
-        for (int i = 0 ; i < 1; i++) {
+        FileWriter fileWriter = new FileWriter("Form_BigVoca_All.txt");
+        fileWriter.write("Number|english|korean1|korean2|korean3|korean4|korean5|korean6|korean7|korean8|korean9|korean10|korean11\n");
+        for (int i = 0 ; i < 80 ; i++) {
             try {
                 int set = i + 1;
-                FileWriter fileWriter = new FileWriter(String.format("Form_BigVoca_All.txt", set));
-                fileWriter.write("Number|word\n");
                 Document doc = Jsoup.connect(String.format(URL, set)).get();
                 Elements words = doc.getElementsByClass("thing text-text");
                 for (int j = 0 ; j < words.size() ; j++) {
-                    if (j != 0 && j%BASE == 0) {
-                        plushWords(fileWriter, englishBuffer, koreanBuffer, (j/BASE)-1);
-                    }
                     Element word = words.get(j);
                     Element englishElement = word.getElementsByClass("text").get(1);
                     Element koreanElement = word.getElementsByClass("text").get(3);
@@ -38,16 +35,24 @@ public class CheckLoop {
                     englishBuffer[j%BASE] = english;
                     koreanBuffer[j%BASE] = korean;
 
-//                    String tableRow = j+1 + "|" + english + "|" + korean;
-//                    System.out.println(tableRow);
-//                    fileWriter.write(tableRow + "\n");
+                    String tableRow = NUMBER++ + "|" + english + refineKorean(korean);
+                    System.out.println(tableRow);
+                    fileWriter.write(tableRow + "\n");
                 }
-                plushWords(fileWriter, englishBuffer, koreanBuffer, 0);
-                fileWriter.close();
+//                plushWords(fileWriter, englishBuffer, koreanBuffer, 0);
             } catch (Exception e) {
                 e.printStackTrace();
             }
         }
+        fileWriter.close();
+    }
+
+    private static String refineKorean(String korean) {
+        String trimed = korean.replaceAll("\\.+", "\\.").replaceAll("\\d", "").replaceAll("\\s*\\.", "|");
+//        String trimed = korean.replaceAll("[1-9|\\.]", "");
+//        String splited = trimed.replaceAll(" ", "|");
+//        System.out.println(korean + " ====>" + trimed);
+        return trimed;
     }
 
     private static void plushWords(FileWriter fileWriter, String[] englishBuffer, String[] koreanBuffer, int page) throws Exception {
