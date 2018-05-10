@@ -4,33 +4,43 @@ import org.jsoup.helper.HttpConnection;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.FormElement;
 
+import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.List;
+import java.util.Properties;
 
 public class Reservation {
+    public static final String EUC_KR = "EUC-KR";
     public static final String AUTH_NAME = "auth_name.jpg";
-    static String BOOKING_URL = "http://m.campingkorea.or.kr/pages/booking.htm";
+    public static final String INDEX_URL = "http://m.campingkorea.or.kr/pages/index.htm";
+    public static final String LOGIN_URL = "http://m.campingkorea.or.kr/pages/login.htm";
+    public static final String BOOKING_URL = "http://m.campingkorea.or.kr/pages/booking.htm";
+    public static final String MAIN_URL = "http://m.campingkorea.or.kr/pages/main.htm";
 
     public static void main(String[] args) {
         doReservation();
     }
 
     public static void doReservation() {
-        String[] session = null;//Login.doLogin();
-//        doIndex(session);
-//        doMain(session);
-//        doBooking(session);
-//        doAgree(session);
-//        doStep01(session);
-//        doStep02(session);
-        List<Connection.KeyVal> formdata = doStep03(session);
-        doReserve(session, formdata);
+        try {
+            String[] session = doLogin();
+            doIndex(session);
+            doMain(session);
+            doBooking(session);
+            doAgree(session);
+            doStep01(session);
+            doStep02(session);
+            List<Connection.KeyVal> formdata = doStep03(session);
+            doReserve(session, formdata);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 
-    private static void doReserve(String[] session, List<Connection.KeyVal> formdata) {
+    private static void doReserve(String[] session, List<Connection.KeyVal> formData) {
         try {
-            for (Connection.KeyVal keyVal : formdata) {
+            for (Connection.KeyVal keyVal : formData) {
                 String key = keyVal.key();
 
                 if (key.equals("auth_name")) {
@@ -38,23 +48,19 @@ public class Reservation {
                     keyVal.value(auth_name_value);
                 }
             }
-            formdata.add(HttpConnection.KeyVal.create("agreement", "1"));
+            formData.add(HttpConnection.KeyVal.create("agreement", "1"));
             Connection connection = Jsoup.connect("http://m.campingkorea.or.kr/bbs/res_write_ok.php")
                     .method(Connection.Method.POST)
                     .cookie(session[0], session[1])
-                    .header("Accept", "text/html, application/xhtml+xml, */*")
-                    .header("Referer", "http://m.campingkorea.or.kr/pages/booking.htm")
-                    .header("Accept-Language", "ko-KR")
-                    .header("Content-Type", "application/x-www-form-urlencoded")
-                    .header("Accept-Encoding", "gzip, deflate")
-                    .header("Pragma", "no-cache")
-                    .data(formdata);
-            for (Connection.KeyVal keyval : formdata) {
-                System.out.println(keyval.key() + " : " + keyval.value());
-            }
+                    .data(formData);
+            addDefaultHeader(connection, BOOKING_URL);
             Connection.Response response = connection.execute();
-            response.charset("EUC-KR");
+            response.charset(EUC_KR);
             System.out.println(response.body());
+
+            for (Connection.KeyVal keyVal : formData) {
+                System.out.println(keyVal.key() + " : " + keyVal.value());
+            }
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -63,22 +69,17 @@ public class Reservation {
 
     private static String doAuth(String[] session) {
         try {
-            Connection.Response resultImageResponse = Jsoup.connect("http://m.campingkorea.or.kr/bbs/bbs_gdlibrary.inc.php")
+            Connection connection = Jsoup.connect("http://m.campingkorea.or.kr/bbs/bbs_gdlibrary.inc.php")
                     .method(Connection.Method.GET)
                     .cookie(session[0], session[1])
-                    .ignoreContentType(true)
-//                    .header("Host", "m.campingkorea.or.kr")
-//                    .header("User-Agent", "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0")
-//                    .header("Accept", "*/*")
-//                    .header("Accept-Language", "ko-KR,ko;q=0.8,en-US;q=0.5,en;q=0.3")
-//                    .header("Accept-Encoding", "gzip, deflate")
-//                    .header("Referer", "http://m.campingkorea.or.kr/pages/booking.htm")
-//                    .header("Connection", "keep-alive")
-                    .execute();
+                    .ignoreContentType(true);
+            addDefaultHeader(connection, BOOKING_URL);
+            connection.header("Accept", "*/*");
+            connection.header("Upgrade-Insecure-Requests", null);
+            Connection.Response resultImageResponse = connection.execute();
 
-// output here
             FileOutputStream out = (new FileOutputStream(new java.io.File(AUTH_NAME)));
-            out.write(resultImageResponse.bodyAsBytes());  // resultImageResponse.body() is where the image's contents are.
+            out.write(resultImageResponse.bodyAsBytes());
             out.close();
 
             String auth_name = Recognizer.doOcr(AUTH_NAME);
@@ -91,17 +92,19 @@ public class Reservation {
 
     private static List<Connection.KeyVal> doStep03(String[] session) {
         try {
-            Connection.Response response = Jsoup.connect(BOOKING_URL)
+            Connection connection = Jsoup.connect(BOOKING_URL)
                     .method(Connection.Method.POST)
                     .cookie(session[0], session[1])
-                    .data("res_Day", "2018-05-28")
-                    .data("res_For", "3")
+                    .data("res_Day", "2018-05-31")
+                    .data("res_For", "1")
                     .data("home", "ms")
                     .data("mode", "step03")
-                    .data("room_Code", "cabin_a")
-                    .execute();
-            response.charset("EUC-KR");
+                    .data("room_Code", "cabin_b");
+            addDefaultHeader(connection, BOOKING_URL);
+            Connection.Response response = connection.execute();
+            response.charset(EUC_KR);
             System.out.println(response.body());
+
             Document doc = response.parse();
             FormElement form03 = (FormElement) doc.getElementById("res_form03");
             List<Connection.KeyVal> formData = form03.formData();
@@ -114,14 +117,15 @@ public class Reservation {
 
     private static void doStep02(String[] session) {
         try {
-            Connection.Response response = Jsoup.connect(BOOKING_URL)
+            Connection connection = Jsoup.connect(BOOKING_URL)
                     .method(Connection.Method.POST)
                     .cookie(session[0], session[1])
-                    .data("res_For", "3")
-                    .data("res_Day", "2018-05-28")
+                    .data("res_For", "1")
+                    .data("res_Day", "2018-05-31")
                     .data("home", "ms")
-                    .data("mode", "step02")
-                    .execute();
+                    .data("mode", "step02");
+            addDefaultHeader(connection, BOOKING_URL);
+            Connection.Response response = connection.execute();
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -130,25 +134,47 @@ public class Reservation {
 
     private static void doStep01(String[] session) {
         try {
-            Connection.Response response = Jsoup.connect("http://m.campingkorea.or.kr/ajax/booking_step1.htm")
+            Connection connection = Jsoup.connect("http://m.campingkorea.or.kr/ajax/booking_step1.htm")
                     .method(Connection.Method.GET)
                     .cookie(session[0], session[1])
                     .data("home", "ms")
-                    .data("date", "2018-05-28")
-                    .execute();
+                    .data("date", "2018-05-31");
+            addDefaultHeader(connection, BOOKING_URL);
+            connection.header("Accept", "*/*")
+                    .header("X-Requested-With", "XMLHttpRequest");
+            connection.header("Upgrade-Insecure-Requests", null);
+            Connection.Response response = connection.execute();
+            response.charset(EUC_KR);
         } catch (IOException e) {
             e.printStackTrace();
         }
 
     }
 
-
-    private static void doIndex(String[] session) {
+    private static void doAgree(String[] session) {
         try {
-            Connection.Response response = Jsoup.connect("http://m.campingkorea.or.kr/pages/index.htm")
-                    .method(Connection.Method.GET)
+            Connection connection = Jsoup.connect(BOOKING_URL)
                     .cookie(session[0], session[1])
-                    .execute();
+                    .method(Connection.Method.POST)
+                    .data("mode", "step1")
+                    .data("policy", "ok");
+            addDefaultHeader(connection, BOOKING_URL);
+            Connection.Response response = connection.execute();
+            response.charset(EUC_KR);
+            System.out.println(response.body());
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    private static void doBooking(String[] session) {
+        try {
+            Connection connection = Jsoup.connect(BOOKING_URL)
+                    .method(Connection.Method.GET)
+                    .cookie(session[0], session[1]);
+            addDefaultHeader(connection, MAIN_URL);
+            Connection.Response response = connection.execute();
+            response.charset(EUC_KR);
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -157,40 +183,108 @@ public class Reservation {
 
     private static void doMain(String[] session) {
         try {
-            Connection.Response response = Jsoup.connect("http://m.campingkorea.or.kr/pages/main.htm")
+            Connection connection = Jsoup.connect(MAIN_URL)
                     .method(Connection.Method.GET)
-                    .cookie(session[0], session[1])
-                    .execute();
+                    .cookie(session[0], session[1]);
+            addDefaultHeader(connection, INDEX_URL);
+            Connection.Response response = connection.execute();
+            response.charset(EUC_KR);
         } catch (IOException e) {
             e.printStackTrace();
         }
 
     }
 
-    private static void doBooking(String[] session) {
+    private static void doIndex(String[] session) {
         try {
-            Connection.Response response = Jsoup.connect(BOOKING_URL)
+            Connection connection = Jsoup.connect(INDEX_URL)
                     .method(Connection.Method.GET)
-                    .cookie(session[0], session[1])
-                    .execute();
+                    .cookie(session[0], session[1]);
+            addDefaultHeader(connection, null);
+            Connection.Response response = connection.execute();
+            response.charset(EUC_KR);
         } catch (IOException e) {
             e.printStackTrace();
         }
 
     }
 
-    public static void doAgree(String[] session) {
+    public static String[] doLogin() {
+        String[] session = null;
         try {
-            Connection.Response response = Jsoup.connect(BOOKING_URL)
-                    .cookie(session[0], session[1])
+            Connection indexConnection = Jsoup.connect(INDEX_URL)
+                    .method(Connection.Method.GET);
+            Reservation.addDefaultHeader(indexConnection, null);
+            Connection.Response indexResponse = indexConnection.execute();
+            
+
+            session = processSession(indexResponse);
+
+            Connection loginConnection = Jsoup.connect(LOGIN_URL)
+                    .method(Connection.Method.GET)
+                    .cookie(session[0], session[1]);
+            Reservation.addDefaultHeader(loginConnection, INDEX_URL);
+            loginConnection.execute();
+            
+
+            String[] credential = loadCredential();
+            Connection connection = Jsoup
+                    .connect("http://m.campingkorea.or.kr/bbs/member_login_ok.htm")
                     .method(Connection.Method.POST)
-                    .data("mode", "step1")
-                    .data("policy", "ok")
-                    .execute();
-            response.charset("EUC-KR");
+                    .cookie(session[0], session[1])
+                    .data("login", "1")
+                    .data("userid", credential[0])
+                    .data("passwd", credential[1]);
+            Reservation.addDefaultHeader(connection, LOGIN_URL);
+            Connection.Response response = connection.execute();
+            
+            response.charset(EUC_KR);
             System.out.println(response.body());
-        } catch (IOException e) {
+        } catch (Exception e) {
             e.printStackTrace();
         }
+
+        return session;
+    }
+
+    private static String[] processSession(Connection.Response response) {
+        String cookie = response.header("Set-Cookie");
+        String[] splitedCookie = cookie.split(";");
+
+        String[] session = splitedCookie[0].split("=");
+        System.out.println(session[0] + "=" + session[1]);
+
+        return session;
+    }
+
+    private static String[] loadCredential() {
+        Properties prop = new Properties();
+        String[] credential = new String[2];
+        try {
+            prop.load(new FileInputStream("credential.properties"));
+            credential[0] = (String) prop.get("userid");
+            credential[1] = (String) prop.get("passwd");
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        return credential;
+    }
+
+    public static Connection addDefaultHeader(Connection connection, String referer) {
+        connection
+                .header("Host", "m.campingkorea.or.kr")
+                .header("User-Agent", "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0")
+                .header("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8")
+                .header("Accept-Language", "ko-KR,ko;q=0.8,en-US;q=0.5,en;q=0.3")
+                .header("Accept-Encoding", "gzip, deflate")
+                .header("Connection", "keep-aliven")
+                .header("Upgrade-Insecure-Requests", "1");
+
+        if (referer != null) {
+            connection.header("Referer", referer);
+        }
+
+        return connection;
     }
 }
