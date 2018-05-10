@@ -25,13 +25,23 @@ public class Reservation {
     public static void doReservation() {
         try {
             String[] session = doLogin();
+            Thread.sleep(5000);
             doIndex(session);
+            Thread.sleep(5000);
             doMain(session);
+            nullDownload("http://m.campingkorea.or.kr/img/mv_ico01.png", session);
+            nullDownload("http://m.campingkorea.or.kr/img/mv_ico02.png", session);
+            Thread.sleep(5000);
             doBooking(session);
+            Thread.sleep(5000);
             doAgree(session);
+            Thread.sleep(5000);
             doStep01(session);
+            Thread.sleep(5000);
             doStep02(session);
+            Thread.sleep(5000);
             List<Connection.KeyVal> formdata = doStep03(session);
+            Thread.sleep(5000);
             doReserve(session, formdata);
         } catch (Exception e) {
             e.printStackTrace();
@@ -56,12 +66,14 @@ public class Reservation {
             addDefaultHeader(connection, BOOKING_URL);
             Connection.Response response = connection.execute();
             response.charset(EUC_KR);
-            System.out.println(response.body());
 
             for (Connection.KeyVal keyVal : formData) {
                 System.out.println(keyVal.key() + " : " + keyVal.value());
             }
-        } catch (IOException e) {
+
+
+            System.out.println(response.body());
+        } catch (Exception e) {
             e.printStackTrace();
         }
 
@@ -83,8 +95,9 @@ public class Reservation {
             out.close();
 
             String auth_name = Recognizer.doOcr(AUTH_NAME);
+            Thread.sleep(10000);
             return auth_name;
-        } catch (IOException e) {
+        } catch (Exception e) {
             e.printStackTrace();
         }
         return null;
@@ -126,6 +139,7 @@ public class Reservation {
                     .data("mode", "step02");
             addDefaultHeader(connection, BOOKING_URL);
             Connection.Response response = connection.execute();
+            System.out.println(response.body());
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -145,6 +159,7 @@ public class Reservation {
             connection.header("Upgrade-Insecure-Requests", null);
             Connection.Response response = connection.execute();
             response.charset(EUC_KR);
+            System.out.println(response.body());
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -175,6 +190,7 @@ public class Reservation {
             addDefaultHeader(connection, MAIN_URL);
             Connection.Response response = connection.execute();
             response.charset(EUC_KR);
+            System.out.println(response.body());
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -189,6 +205,7 @@ public class Reservation {
             addDefaultHeader(connection, INDEX_URL);
             Connection.Response response = connection.execute();
             response.charset(EUC_KR);
+            System.out.println(response.body());
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -203,6 +220,7 @@ public class Reservation {
             addDefaultHeader(connection, null);
             Connection.Response response = connection.execute();
             response.charset(EUC_KR);
+            System.out.println(response.body());
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -216,16 +234,25 @@ public class Reservation {
                     .method(Connection.Method.GET);
             Reservation.addDefaultHeader(indexConnection, null);
             Connection.Response indexResponse = indexConnection.execute();
-            
 
             session = processSession(indexResponse);
+
+            nullDownload("http://m.campingkorea.or.kr/img/mbg.gif", session);
+            nullDownload("http://m.campingkorea.or.kr/img/index_ico02.png", session);
+            nullDownload("http://m.campingkorea.or.kr/img/index_arr.png", session);
+            nullDownload("http://m.campingkorea.or.kr/img/index_ico01.png", session);
+
+            Thread.sleep(5000);
 
             Connection loginConnection = Jsoup.connect(LOGIN_URL)
                     .method(Connection.Method.GET)
                     .cookie(session[0], session[1]);
             Reservation.addDefaultHeader(loginConnection, INDEX_URL);
             loginConnection.execute();
-            
+
+            nullDownload("http://m.campingkorea.or.kr/img/bg_bl_10.png", session);
+
+            Thread.sleep(5000);
 
             String[] credential = loadCredential();
             Connection connection = Jsoup
@@ -271,14 +298,14 @@ public class Reservation {
         return credential;
     }
 
-    public static Connection addDefaultHeader(Connection connection, String referer) {
+    private static Connection addDefaultHeader(Connection connection, String referer) {
         connection
                 .header("Host", "m.campingkorea.or.kr")
                 .header("User-Agent", "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0")
                 .header("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8")
                 .header("Accept-Language", "ko-KR,ko;q=0.8,en-US;q=0.5,en;q=0.3")
                 .header("Accept-Encoding", "gzip, deflate")
-                .header("Connection", "keep-aliven")
+                .header("Connection", "keep-alive")
                 .header("Upgrade-Insecure-Requests", "1");
 
         if (referer != null) {
@@ -286,5 +313,27 @@ public class Reservation {
         }
 
         return connection;
+    }
+
+    private static void nullDownload(String url, String[] session) {
+        try {
+            Connection connection = Jsoup.connect(url)
+                    .method(Connection.Method.GET)
+                    .cookie(session[0], session[1])
+                    .ignoreContentType(true)
+                    .header("Host", "m.campingkorea.or.kr")
+                    .header("User-Agent", "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0")
+                    .header("Accept", "*/*c")
+                    .header("Accept-Language", "ko-KR,ko;q=0.8,en-US;q=0.5,en;q=0.3")
+                    .header("Accept-Encoding", "gzip, deflate")
+                    .header("Connection", "keep-alive");
+            Connection.Response resultImageResponse = connection.execute();
+
+            FileOutputStream out = (new FileOutputStream(new java.io.File("/dev/null")));
+            out.write(resultImageResponse.bodyAsBytes());
+            out.close();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 }
