@@ -58,16 +58,22 @@ public class App {
     }
 
     private Dic getDictionary(OkHttpClient client, String word) throws IOException {
-        Request request = new Request.Builder()
-                .url("https://glosbe.com/gapi/translate?from=eng&dest=kor&format=json&pretty=true&phrase=" + word)
-                .build();
-        Response response = client.newCall(request).execute();
-        String jsonString = response.body().string();
+        try {
+            Request request = new Request.Builder()
+                    .url("https://glosbe.com/gapi/translate?from=english&dest=kor&format=json&pretty=true&phrase=" + word)
+                    .build();
+            Response response = client.newCall(request).execute();
+            String jsonString = response.body().string();
 
-        Gson gson = new Gson();
-        Dic dic = gson.fromJson(jsonString, Dic.class);
+            Gson gson = new Gson();
+            Dic dic = gson.fromJson(jsonString, Dic.class);
 
-        return dic;
+            return dic;
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        return null;
     }
 
     private String[] codify(String[] words) {

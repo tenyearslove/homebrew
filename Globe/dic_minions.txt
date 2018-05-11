@@ -1,0 +1,940 @@
+overkill|An unnecessary excess of whatever is needed to achieve a goal.
+draft|드래프트, 흘수, 도안, 초안
+herb|향초, 약초, 藥草, 香草, 허브, 마리화나, 식물, 풀
+narrator|내레이터, 해설자
+through|을 통하여, 통해, 완전히, 을 통하여, 을 지나서, 통하여
+villain|악당, 농노, 불량자, 악역, 악한
+crown|왕관, 王冠, 정수리, 크라운, 치관, 수관, 인공치관, 절정, 코루나, 화관
+crowd|군중, 무더기, 군, 군집, 밀집, 붐비다, 사람들, 신, 패거리
+London|런던
+carriage|마차, 객차, 客車, 쇼핑 카트, 수레, 운반, 운송료, 탈것
+boss|보스, 상관, 상사, 두령, 두목, 사장님
+giant|거인, 거대한, 오거, 자이언트
+behind|뒤, 뒤에, 궁둥이, 기초, 밑, 바닥, 엉덩이, 후
+around|가량, 가령, 약, 어디에나, 정도
+evil|악, 罪, 괴롭다, 나쁘다, 나쁜, 몹쓸, 불량, 재난, 죄
+tribe|부족, 겨레, 部族, 족, 종족
+continuous|계속적인
+cave|동굴, 굴, 암
+finally|마침내, 결국, 기어이
+England|잉글랜드, 영국, ^영국, ^잉글랜드, 잉글랜드 (Inggeullaendeu), 영국 (Yeongguk)
+professor|교수, 선생, 先生, 敎授, 교사
+toward|로, 관하여, 위해, 쪽, 가까이, 으로
+turns|<i>third-person singular simple present indicative form of turn</i>
+Orlando|오를란도
+cheer|건배, 격려, 기분
+excited|흥분하다, 신나다, 뜨거운
+follow|따르다, 뒤따르다
+platform|플랫폼, 단, 플랫홈, 홈, 강령, 연단, 플래폼
+royal|왕실, 왕실의, 王, 국왕의, 여왕의, 왕, 훌륭한
+chandelier|샹들리에
+flux|선속, 녹다, 밀물, 유량, 흐름
+abbey|수도원, 수원, 승원, 사원
+broadcaster|방송사
+reveal|나타내다, 가리키다, 드러내다, 들추다, 들추어내다, 밝히다, 보이다
+lava|용암
+palace|궁전, 궁, 宮, 宮殿
+pile|무더기, 더미, 말뚝, 치질, 퇴적물
+station|정거장, 방송국, 역, 정류장, 채널, 터미널, 위치
+accidentally|우연히도, 가끔
+announcer|아나운서
+beneath|아래에, 아래
+caveman|동굴 거주인, 혈거인
+jet|제트기, 제트, 흑옥
+keeper|골키퍼, 키퍼
+several|몇, 여러, 數, 몇몇, 수, 여러 가지의, 여럿의
+sumo|스모
+dynamite|다이너마이트, 다이너 마이트, 남포
+moment|순간, 잠깐, 모먼트, 모멘트, 중요성, 찰나
+past|과거, 過去, 과거의, 과거형, 이전의, 지나간, 지난, 이전, 지나가다, 구
+revealing|<i>present participle of [i]reveal</i>[/i]
+adviser|고문, 충고자
+archbishop|대주교
+boulder|바위
+Buckingham|A dukedom in the English peerage
+chase|쫓다, 추격, 사냥, 뒤쫓다, 사냥하다, 쫓아내다, 추적, 추적하다, 홈
+henchman|후원자
+master|주인, 마스터, 석사, 교사, 님, 명인, 사, 선생, 주, 주인님, 회장
+painting|그림, 회화, 수채화, 유화, 화
+placement|배치, 시비위치
+specialist|전문가, 사, 전문가의
+above|위, 아까, 위에
+ahead|앞에, 앞으로
+awe|경외, 경의, 두려움, 존경
+british|영국의
+completely|완전히, 가득, 곰곰이, 꼬박, 다, 모두, 아주, 전부, 활짝
+convention|관습, 컨벤션, 규칙, 관례, 대회, 모임, 집회, 협약
+display|가리키다, 전시, 디스플레이, 전시하다, 과시, 표시하다, 나타내다, 보여주다, 보이다
+distance|거리, 距離, 간격, 구간, 앞서다, 음정, 차이
+dungeon|던전, 지하감옥
+excitement|격앙, 자극, 즐거움, 흥분
+knocking|노킹
+sewer|하수구, 하수도
+statue|조상, 조각상, 彫像, 상, 초상
+torture|고문, 拷問, 고문하다
+westminster|
+annoyed|Aroused to impatience or anger.
+barely|겨우, 간신히, 가까스로
+beefeater|officer in the (ceremonial) bodyguard of the British monarch
+butler|집사, 소믈리에
+causing|Present participle of cause.
+climb|오르다, 기어 올라가다, 등산, 올라가다, 타다
+confused|혼란스러운
+coronation|대관식, 즉위식
+manhole|맨홀
+para|파라
+pyramid|피라미드, 각뿔, 금자탑
+square|정사각형, 광장, 廣場, 네모, 바른네모, 바른네모꼴, 방, 사각형, 정규, 정돈된, 정방형 正方形, 정사각형 正四角形, 정사변형 正四邊形, 칸
+suit|양복, 洋服, 슈트, 정장, 수트, 기소, 맞다, 모음곡, 소송, 어울리다, 재판, 청원
+ukulele|우쿨렐레, 우클렐레
+ultimate|마지막, 최후의
+weapons|Plural form of weapon.
+york|요크
+amphibian|수륙양용비행기, 양서류, 兩棲類, 양서동물
+approach|다가가다, 접근, 가까워지다, 근접, 다가오다, 닥치다, 방법
+axe|도끼, 근
+broadsword|A type of sword that has a broad cutting blade as opposed to the more slender thrust-oriented rapier.
+comme|
+control|통제, 통제하다, 제어, 조절, 조절하다, 단속, 지배하다, 전시 작전통제권, 컨트롤, 가누다, 관제, 권세, 길들이다, 정부, 조종하다, 지배, 통치하다
+dracula|
+excitedly|In a excited manner; .
+exhausted|지친
+funeral|장례, 장례식, 장례의, 장사
+grenade|수류탄, 척탄
+grus|
+journey|여행, 旅行, 여행하다, 여정
+limo|a limousine
+loudspeaker|스피커, 확성기
+missile|미사일, 유도탄
+paper|종이, 신문, 논문, 보고서, 서류, 신문지
+pointing|The act or art of punctuating; punctuation.
+seriously|In an earnest manner.
+serve|제공하다, 서브, 공급하다, 근무하다, 다니다, 쏘다, 지내다
+smudge|더러움, 더럽히다, 얼룩
+yay|萬歲, 만세
+yeti|예티
+actually|사실은, 그야말로, 실제로, 실지로, 정말, 참으로
+attention|주의, 주목, 관심, 돌봄, 친절
+audience|경청자, 관객, 관중, 청중, 대상 그룹
+burst|파열하다, 돌발, 솟아오르다, 찢다, 파열, 폭발
+coffin|관, 棺, 맥주
+continue|계속, 계속하다, 잇다
+corgi|either of two Welsh breeds of long-bodied short-legged dogs with erect ears and a fox-like head
+creature|생물, 동물, 인간, 자식, 창조물
+crowned|Great; excessive; supreme.
+dissolve|녹다, 풀다, 풀리다
+elderly|늙다, 낡다, 노인, 선배
+Elizabeth|엘리자베스, 엘리사벳, ^엘리사벳, ^엘리자베스
+eventually|결국, 結局, 역시, 마침내
+felt|펠트
+Florida|플로리다, 플로리다 주
+footage|장면
+frenchman|
+frightened|Simple past tense and past participle of <i>frighten</i> .
+furniture|가구, 家具
+gear|톱니바퀴, 장비, 가구, 기어, 의복, 장치
+hangar|격납고
+hippie|히피
+hydrant|An outlet from a liquid/fluid main often consisting of an upright pipe with a valve attached from which fluid (e.g. water or fuel) can be tapped.
+hypnotize|induce hypnosis in
+illumination|조명, 세밀화, 계몽, 빛조사
+laboratory|실험실, 연구소, 實驗室, 研究所, 랩, 연구실, 실험실.
+lapse|타락
+law|법, 법률, 법칙, 法律, 法, 法則, 권리, 법령, 법학, 원칙
+meanwhile|그동안
+montage|몽타주
+Napoleon|나폴레옹, ^나폴레옹
+nuclear|핵, 핵무기
+organist|오르가니스트
+original|최초, 원래, 본래의, 원본, 최초의, 고유, 진짜
+overhead|오버헤드
+own|소유하다, 자기, 지우다, 가지다, 인정하다
+pair|켤레, 한쌍, 연결하다, 페어, 배, 쌍
+parliament|의회, 국회, 의원, 상원
+pharaoh|파라오
+polo|폴로
+proceeds|수입
+reflection|반사, 반영, 리플렉션, 굴절, 반성, 상
+rise|돋다, 등, 뜨다, 서다, 오르, 오르다, 오르막길, 올라가다, 일어나다, 일출, 자라다, 흥하다
+scary|끔찍하다, 무섭다, 무시무시한
+scene|장면, 場面, 신, 경관, 경치, 무대, 장
+screaming|스크리밍, 외침
+sergeant|중사, 병장, 하사
+shack|오두막집, 판잣집
+sightseeing|관광, 구경, 유람
+Soviet|소비에트, ^소비에트
+stomach|위, 배, 복, 복부, 胃, 위장, 腹, 견디다, 배짱, 식욕, 욕망, 참다
+stretch|당기다, 뻗다, 기지개, 늘이다, 스트레칭, 확대, 과장, 구간, 긴장, 늘리다, 늘어나다, 벌리다, 장, 지역, 퍼지다, 펴다
+stuffed|tired
+throne|와좌, 옥좌, 왕위, 어좌, 군주, 왕좌
+trophy|트로피, 전리품
+truly|정말, 사실은, 실제로, 정말로, 정확하게, 진심으로, 참
+tube|관, 지하철, 진공관, 통
+wham|hit hard; &quot;The teacher whacked the boy&quot;
+wreath|화환, 소용돌이, 원, 화관
+adorable|Befitting of being adored, cute and/or loveable
+amoeba|아메바
+armor|갑옷, 철갑, 기갑
+bachelor|독신자, 독신의, 학사, 총각
+bachelorette|독신의, 처녀
+balancing|An action wherein someone balances or something is balanced
+balcony|발코니, 계수기, 베란다
+bathtub|욕조, 목욕통, 浴槽
+Beatles|더 비틀즈, 비틀즈
+booth|노점
+Brooklyn|a borough of New York City
+candles|Plural form of candle.
+cane|蘆, 갈, 갈대, 대, 매, 줄기, 지팡이, 장
+celebrate|축하하다
+chanting|the act of singing in a monotonous tone
+cheering|providing freedom from worry
+choir|합창단, 合唱團, 내진, 합창, 성가대
+clad|( <i>in compounds</i>) Covered, enveloped in or surrounded by a specified material or substance.
+comfortable|편하다, 기분좋은, 편안한
+contain|포함하다, 성, 억누르다, 있다, 포함하다, 담고있다
+cop|경찰, 순경, 잡다, 짭새, 훔치다
+costume|복장, 옷
+dangling|The act of following or trailing around.
+denim|데님
+disappear|사라지다, 꺼지다, 스러지다, 슬다
+disappointed|Simple past tense and past participle of disappoint.
+dramatically|with respect to dramatic value; &quot;the play was dramatically interesting, but the direction was bad&quot;
+ecstatic|(in the plural) Transports of delight; words or actions performed in a state of ecstasy.
+edna|
+entertainment|엔터테인먼트, 오락, 연예, 게임, 환대, 흥행
+entire|전부, 완전한, 전
+evolve|To change; transform.
+fallen|having lost one&#39;s chastity
+fan|부채, 선풍기, 팬, 부치다, 키
+fashion|패션, 유행, 流行, 방법, 태도
+flash|플래시, 번개, 번득이다, 빛나다, 섬광, 순간, 은어
+forehead|이마, 선두
+fuse|퓨즈, 도화선, 녹다, 녹이다, 용
+gasp|숨가쁘다, 가쁘다, 헐떡거리다
+gather|모으다, 수집, 집합시키다, 거두다, 모이다, 얻다
+gathered|Simple past tense and past participle of gather.
+genius|천재, 天才, 귀재, 요정
+glory|영광, 명예, 광채, 광휘, 후광
+gloved|Simple past tense and past participle of glove.
+goggles|고글
+golden|금빛의, 값비싼
+goon|얼간이
+graphic|그래픽
+grate|갈다
+grim|불길한, 슬픈
+groovy|(British informal) very chic; &quot;groovy clothes&quot;
+hippies|<i>plural of [i]hippy</i>[/i]
+historic|역사적인
+hops|호프
+horrified|Struck with horror.
+horror|공포, 두려움, 무서움
+humming|The sound of something that hums; a hum.
+imitate|본뜨다, 흉나나다
+immediately|곧, 곧바로, 곧장, 당장, 바로, 즉시, 한꺼번에
+incredible|beyond belief or understanding; &quot;at incredible speed&quot;; &quot;the book&#39;s plot is simply incredible&quot;
+instant|순간, 잠깐, 찰나
+intercom|인터폰
+invention|발명, 發明, 인벤션, 발명품
+lizard|도마뱀, 도마뱀아목
+martini|마티니
+massive|거대한
+matter|물질, 物質, 중요하다, 주제, 중요, 고름, 문제, 용무, 일, 재료
+nervously|in an anxiously nervous manner; &quot;we watched the stock market nervously&quot;
+network|네트워크, 그물, 망, 방송망, 회로망, 연락망, 네트워크
+noose|올가미, 현
+norbert|
+numerous|수많은, 千, 百, 많은, 많이, 천
+onstage|On the part of a stage that is visible to the audience.
+packed|붐비는, 빽빽한
+pad|패드
+paddle|노, 젓다, 헤엄
+particularly|별로, 특히
+pier|교각, 부두, 돌제부두, 방파제, 선창
+placed|situated in a particular spot or position; &quot;valuable centrally located urban land&quot;; &quot;strategically placed artillery&quot;; &quot;a house set on a hilltop&quot;; &quot;nicely situated on a quiet riverbank&quot;
+polite|공손, 공손한, 예의바른
+portrait|초상, 그림, 세로, 진영, 화상
+post|게시하다, 기둥, 우편, 게시물, 부서, 부치, 신문, 우체국, 우편물, 주, 지위, 직, 포스트
+power|힘, 권력, 일률, 동력, 전력, 거듭제곱, 권능, 권위, 권한, 능력, 신, 에너지, 역량, 정권
+prehistoric|no longer fashionable; &quot;my mother has these prehistoric ideas about proper clothes&quot;
+prepare|준비하다, 마견하다, 만들다
+proceed|가다, 발생하다, 수익
+prohibited|금지, 금지된
+promise|약속, 약속하다, 서약
+promptly|빨리, 즉시
+pub|술집, 퍼브, 바, 선술집
+pummel|To hit or strike heavily and repeatedly
+pursuit|박해, 추구, 추적
+quest|퀘스트, 수색, 찾다, 탐구
+quicker|<i>comparative form of [i]quick</i>[/i]: more quick
+ray|광선, 光線, 가오리, 레이, 반지름, 반직선, 빛
+reality|실재, 현실, 사실
+realize|실현하다, 깨닫다, 실행하다
+reaper|<b>Reaper</b> Shortened form of &quot;The Grim Reaper&quot;, the angel of death.
+reason|이성, 이유, 理由, 리치, 원인, 이치, 곡절, 근거, 때문, 연고, 이, 탓, 합리
+reel|릴
+regal|국왕의
+reload|다시 로드하다, 다시
+rest|쉬다, 휴식, 休息, 쉼표, 나머지, 받침대, 쉬, 잔여, 정지하다
+restricted|제한된
+return|돌아오다, 돌아가다, 답, 리턴, 보고하다, 복구하다, 복원, 회귀
+revealed|(of a religion) Focused on the revelations of a god to humankind.
+revolving|The act of something that revolves or turns.
+rings|링
+river|강, 내, 수, 江, 가람, 하천, 水, 강 江
+rolling|굴림 운동, 롤파쇄
+row|줄, 로우 (데이터베이스), 행, 노, 논란, 로, 말다툼, 배, 싸움, 열, 젓다
+rushing|<i>present participle of [i]rush</i>[/i]
+scream|소리지르다, 외치다, 고함, 비명, 소리치다, 외침
+seaweed|해초, 바닷말, 김
+sheepishly|Meekly; self-consciously; with embarrassment.
+shore|바닷가, 물가, 해안, 海岸, 연안, 육지
+shoulder|어깨, 갓길, 어깨살
+silhouette|실루엣
+slice|조각, 몫, 부분, 슬라이스, 가닥, 베기, 베다, 부, 자르다, 편
+snap|맞추다, 깨물다, 꺾다, 부러뜨리다, 사진, 정력
+spleen|지라, 비장
+stairwell|A shaft in a multi-story building enclosing a stairway or staircase.
+starfish|불가사리, 불가사리류, 해성, 海星
+startled|Surprised and frightened.
+static|정적인, 고정적인
+steam|증기, 김, 蒸氣, 氣, 기, 수증기, 증발하다, 힘
+stolen|Past participle of steal
+strategically|in a strategic manner
+stroller|유모차, 방랑자
+stuck|unable to progress
+stunned|(be) startled
+summons|소집, 소환장, 호출장
+swatter|Something used to swat with. A flyswatter.
+sweetheart|愛人, 연인
+telly|텔레비전, 텔레비전 수상기, 티비
+thumb|엄지손가락, 엄지, 엄지 손가락, 위치 조정 컨트롤
+tone|성조, 聲調, 어조, 고른음, 音, 성, 음
+touched|<i>simple past tense and past participle of [i]touch</i>[/i]
+treasure|보물, 보배, 로마자 표기
+tripping|Having the right forefoot lifted, the others remaining on the ground, as if trotting; trippant.
+triumphantly|in a triumphant manner; &quot;she shouted triumphantly&quot;
+trunk|트렁크, 그루, 코, 흉상, Trunk, 가방, 간선, 몸통, 신, 여행 가방, 주요한, 줄기
+ultimately|역시, 결국
+underwater|수중
+unsure|unstable or precarious
+waist|허리, 요부
+wasteland|사막, 쑥대밭
+whip|채찍, 채찍질하다, 갈기다
+aback|Backward against the mast; said of the sails when pressed by the wind from the &quot;wrong&quot; (forward) side, or of a ship when its sails are set that way. [First attested in the late 17 <sup>th</sup> century.]&lt;ref name=SOED/&gt;
+abandoned|forsaken by owner or inhabitants; &quot;weed-grown yard of an abandoned farmhouse&quot;
+abdicate|禪, 선
+aboard|side by side; &quot;anchored close aboard another ship&quot;
+acrobatic|vigorously active; &quot;an acrobatic dance&quot;; &quot;an athletic child&quot;; &quot;athletic playing&quot;; &quot;gymnastic exercises&quot;
+activate|정품 인증하다, 활성화하다
+activation|정품 인증, 활성화
+actual|실제의, 실제, 사실상의, 사실의
+adolescent|청소년, 틴에이저
+adult|성인, 成人, 성인의, 다 자란, 어른
+advantage|이점, 유리, 우월, 이익
+afraid|무서워하다
+afro|A hair style characterized by a tightly curled locks and a rounded shape.
+ages|A long time.
+aimless|Without purpose.
+airplane|비행기, 飛行機
+aisle|통로, 복도
+alarming|<i>present participle of [i]alarm</i>[/i]
+alley|골목, 골목길, 오솔길
+alleyway|골목, 오솔길
+allow|허락, 내주다, 양, 인정하다, 허락하다
+alongside|Side by side with.
+alternative|다른, 얼터너티브, 옵션
+ambush|매복, 복병
+amount|양, 수량, 금액, 분량, 액
+ancient|낡다, 고대, 구
+angles|앵글족
+animated|활기찬
+antique|골동품, 고물
+anubis|
+appearing|appearance; act of coming into view
+applaud|칭찬하다
+appreciate|감사하다, 이해하다, 진가를, 가격을 올리다, 시세가 오르다, 진가를 알다, 고마와하다, 고마워하다, 식별하다, 평가하다
+assure|보증하다, 안심시키다
+auld|a Scottish word; &quot;auld lang syne&quot;
+avenue|거리, 도로, 대로
+awesome|쩐다, 경탄할 만한, 장엄한
+awful|끔찍한, 무섭다, 무시무시하다
+awkwardly|in an awkward manner; &quot;he bent awkwardly&quot;
+backpack|배낭, 背囊, 륙색, 胚囊, 등짐, 룩색
+backseat|<i>Alternative spelling of [i]back seat</i>[/i]
+bald|대머리의, 대머리
+barge|바지선, 짐배
+barrel|통, 배럴, 桶, 몸통, 원통, 총신
+bass|베이스, 배스, 저음
+battering|Present participle of batter.
+battle|전투, 전쟁, 교전, 승리, 투쟁, 투쟁하다
+battlefield|전장, 戰場, 싸움터
+beach|바닷가, 해변, 海邊, 모래, 물가, 비치, 해수욕장
+beam|광선, 光線, 빔, 들보, 빛, 빛나다, 양
+behold|보다, 만나다, 감탄하다
+bella|
+bewitched|<i>simple past tense and past participle of [i]bewitch</i>[/i]
+billboard|간판, 看板
+blade|날, 잎, 잎사귀, 칼, 칼날
+blah|Representing the sound of vomiting. See bleah, bleh.
+blame|비난, 비난하다, 원망, 원망하다, 탓, 탓하다, 책임
+blankly|in a blank manner, especially showing no emotion or expression
+blaring|unpleasantly loud and penetrating; &quot;the blaring noise of trumpets&quot;; &quot;shut our ears against the blasting music from his car radio&quot;
+blend|섞다, 석다, 혼성어, 혼합, 혼합물, 혼합하다
+blighter|One who blights
+bounce|튀다, 활기
+bow|활, 이물, 절, 절하다, 매듭, 구부리다, 보우, 현두, 굽히다, 수그리다
+braces|멜빵
+bravery|용감성, 용감, 용기
+breathe|숨쉬다, 呼吸, 하다, 호흡하다
+broadcast|방송, 放送, 프로그램, 브로드캐스트, 라디오, 방영하다, 뿌리다, 퍼뜨리다
+broadway|An esplanade
+brow|눈썹, 이마, 얼굴
+buckle|버클, 솔기, 쭈그리다, 구부러지다, 구부리다, 양보하다
+buddy|녀석, 동료, 친구
+buff|팬
+bumblebee|뒝벌, 땅벌, 벌
+bunch|다발, 묶음, 송이, 한패
+bury|매장하다, 묻다, 묻다, 숨기다, 잊다, 파묻다
+butt|꽁초, 담배꽁초, 엉덩이, 박치기
+calmly|with an air of composure
+capture|사로잡다, 캡처하다, 포트를 할당하다, 포획하다, 보존하다, 붙잡다, 캡처, 포착, 획득하다
+caravan|대상, 隊商, 카라반, 트레일러
+carnivorous|육식, 육식성
+carpet|양탄자, 융단, 깔개, 카펫
+carved|Ornamented with protruding shapes.
+ceiling|천장, 天障
+centerfold|single sheet of paper that forms the middle two pages of a magazine
+challenge|도전, 도전하다, 의심하다
+channels|<i>plural of [i]channel</i>[/i]
+chaos|혼돈, 混沌, 무질서, 카오스, 혼란
+characters|등장인물
+chased|a person who is being chased; &quot;the film jumped back and forth from the pursuer to the pursued&quot;
+cheerleader|치어리더
+chief|두목, 수령, 우두머리, 장, 주로, 주요한, 추장
+ciao|Hello
+cirque|카르, 원
+civilization|문명, 교양인, 문명화, 문화
+cliff|절벽, 絶壁, 낭떠러지, 바위, 벼랑, 초
+clothesline|빨랫줄
+clown|어릿광대, 광대, 피에로, 시골뜨기
+club|쇠몽둥이, 철퇴, 클럽, 곤봉, 구락부, 동호회, 나이트 클럽, 간, 동아리
+cluck|To make such a sound.
+collar|칼라, 깃, 목걸이 (BDSM), 목걸이, 옷깃
+collection|수집, 컬렉션, 누적, 모임, 집성, 집하, 퇴적
+colorful|interesting, multifaceted
+comfort|안락, 위로, 편안
+comfy|(informal) Comfortable.
+comma|쉼표, 콤마
+common|상호, 통상, 보통의, 우주의, 전세계의, 공유지, 공통, 범, 보통, 평범한
+community|공동체, 커뮤니티, 공유, 사회
+company|회사, 會社, 기업, 중대, 동료, 동반, 무리, 손님
+complete|되다, 마치다, 숙달한, 완벽한, 완성하다, 완전한, 원, 채우다
+concert|음악회, 콘서트, 연주회, 합주, 협화음
+confusing|difficult to understand
+connection|연결, 접속, 커넥션, 관계, 관련, 마디, 연락
+conquer|정복하다, 극복하다, 억누르다, 획득하다
+construction|건설, 建設, 건축물, 건물, 건축, 구성, 구조, 빌딩, 시공, 조립, 조영, 해석
+continually|늘, 언제나, 항상
+contraption|A mechanical device of any sort, especially one that is complicated.
+converge|to approach each other
+conversation|대화, 회화, 對話, 이야기, 담화, 대담, 면담, 얘기, 연설, 채팅
+conveyor|Anything that conveys, transports or delivers
+cor|(UK) Expression of surprise.
+cord|끈, 줄, 코드
+core|코어, 핵심, 골, 몸, 몸통, 속, 심, 응어리, 핵
+corset|코르셋
+couch|소파, 카우치, 상, 쇼파, 침상
+countryside|시골
+covering|덮개, 층
+cowboy|카우보이
+cramped|<i>simple past tense and past participle of [i]cramp</i>[/i]
+crayon|크레용
+cream|크림, 연고
+creepy|causing a sensation as of things crawling on your skin; &quot;a creepy story&quot;; &quot;I had a creepy-crawly feeling&quot;
+critic|비평가, 평론가
+crossbow|석궁, 石弓, 쇠뇌, 까마귀
+crosses|<i>third-person singular simple present indicative form of cross</i>
+crosswalk|횡단 보도
+cunning|교활한, 교활, 귀여운
+cup|컵, 잔, 머그잔, 고뿌, 배, 찻잔
+currently|현재
+curtain|커튼
+dare|도전, 모험, 무릅쓰다
+dashing|씩씩하다
+dawn|새벽, 해돋이, 밝다, 밝혀지다, 노을, 밝아지다, 서광, 일출
+daydreaming|An instance of daydreaming; a daydream or reverie.
+dazed|Simple past tense and past participle of daze.
+decide|정하다, 해결하다, 결정하다, 마음을 먹다, 결의하다, 하다
+dedicated|devoted to a cause or ideal or purpose; &quot;a dedicated dancer&quot;; &quot;dedicated teachers&quot;; &quot;dedicated to the proposition that all men are created equal&quot;- A.Lincoln
+dedication|충성, 헌신
+deep|깊다, 깊은, 짙다, 먼, 심연, 악, 짙은
+defeat|패배, 지우다, 상실, 손실, 실패, 타파
+defiantly|<i>Misspelling of [i]definitely</i>[/i].
+definitely|without question and beyond doubt
+degrees|도
+demeanor|처신, 행실
+density|밀도, 농도
+dentist|치과의사, 齒科醫師, 치과 의사
+depicting|Present participle of depict.
+deserve|만하다
+desolate|황량한
+despicable|deserving to be despised
+determination|決定, 각오, 결단력, 결심, 결의, 결정
+device|장치, 기기, 디바이스, 라디오, 장치, 도안
+deviled|Alternative spelling of devilled.
+devious|indirect in departing from the accepted or proper way; misleading; &quot;used devious means to achieve success&quot;; &quot;gave oblique answers to direct questions&quot;; &quot;oblique political maneuvers&quot;
+diamond|다이아몬드, 금강석, 내야
+digital|디지털, 디지탈, 손가락
+director|감독, 지도자, 가이드, 관리인, 관리자, 매니저, 이사, 임원, 중역
+disappoint|실망시키다
+disapproval|비난
+disclosure|공개, 발각, 폭로
+discouraged|Having lost one&#39;s psychological and moral dynamism or strength to go on doing a difficult or dangerous thing.
+distribution|분포, 유통, 구분, 배급, 분배, 확산
+dock|독, 도킹하다, 부두, 선창
+dodging|The act of dodging; a dodge.
+dominance|우성 유전자
+doom|운명, 재판, 죽음
+doorway|문간, 출입구
+doubles|doubles (e.g. in tennis)
+downward|spatially or metaphorically from a higher to a lower level or position; &quot;don&#39;t fall down&quot;; &quot;rode the lift up and skied down&quot;; &quot;prices plunged downward&quot;
+drawn|Appearing agitated and unwell
+drew|<i>simple past tense of [i]draw</i>[/i]
+drilling|드릴, 세조파
+drip|(to) drip
+driver|드라이버, 운전사, 기사, 운전기사
+drool|어리석은 소리
+dropped|Simple past tense and past participle of drop.
+ducks|오리
+due|a payment that is due (e.g., as the price of membership); &quot;the society dropped him for non-payment of dues&quot;
+during|동안
+duty|의무, 義務, 책임, 課業, 과업, 노릇, 분, 세금, 임무, 직, 직무
+eager|열망하는
+effort|노력, 努力, 분투, 애, 운동, 진력, 힘
+effortlessly|Without effort or apparent effort.
+eggs|알
+eggshell|계란 껍질, 난각, 달걀 껍질, 껍데기, 껍질, 卵殼
+Egyptian|이집트 사람, 이집트
+elaborate|동화하다
+electric|전기의
+elegance|우아
+elevator|엘리베이터, 승강기, 昇降機, 승강기 昇降機
+em|엠
+embracing|Present participle of embrace.
+emergence|창발, 출현, 탈피
+empire|제국, 帝國, 왕국
+employer|고용주, 고용인
+empty|비다, 비우다, 빈, 공
+encounter|만나다, 부닥치다, 다가가다, 당하다, 맞다, 뵙다, 부딪히다, 우연히 만나다
+enjoy|누리다, 갖고 있다, 즐기다
+enraged|화난
+entertain|To meet or encounter, as an enemy.
+enthusiasm|열의, 열광, 사랑, 열, 열정
+enthusiastically|In an enthusiastic manner.
+entranced|<i>simple past tense and past participle of [i]entrance</i>[/i]
+equipment|장비, 비품, 설비, 장치, 지식
+escalator|에스컬레이터
+escape|달아나다, 도망, 도망가다, 도피, 면하다, 새다, 일, 탈출
+esteemed|respected, having respect or admiration from others.
+exact|정확하다, 정확한, 길, 맞다, 정확, 엄중
+excalibur|
+execution|실행, 사형, 완성, 제작, 집행
+executioner|사형 집행인, 망나니
+existence|존재, 存在, 생존, 생활, 실재
+expect|기대하다, 기대하다, 예상하다, 생각하다
+explain|설명하다, 변명하다
+explode|폭발하다, 폭발적으로 증가하다, 터지다, 파열하다
+explore|탐험
+explosion|폭발, 爆發, 파열
+express|표현하다, 급행, 나타내다, 표, 표시하다
+extremely|最, 가장, 굉장히, 극, 매우, 몹시, 상당히, 썩, 최
+exuberance|joyful enthusiasm
+fabulous|extremely pleasing; &quot;a fabulous vacation&quot;
+facing|대
+failure|실패, 낭패, 미스, 실패자, 태만
+fake|가짜, 속임수의, 엉터리, 위조품, 위조하다
+famed|having fame; famous or noted
+familiar|알려지다, 친하다
+famous|유명한, 악명 높은, 유명하다
+fat|지방, 脂肪, 기름, 뚱뚱하다, 뚱뚱한, 油, 굵은, 뚱뚱해요, 비만, 살찐, 유
+fateful|치명적인
+favorite|즐겨찾기
+feeble|묽은, 약한
+feeling|감각, 감정, 감수성, 느낌, 예감, 의견, 정, 촉감
+fella|(informal) used to address a male
+fierce|난폭한, 잔인한
+fighting|싸움, 전투
+filing|Present participle of file.
+fill|채우기, 차지하다
+film|영화, 필름, 映畫, 피막
+final|韻母, 운모, 결승전, 마지막의, 마지막, 말, 최후의
+flag|기, 깃발, 플래그, 사령기, 플래그를 지정하다, 기치
+flapping|Present participle of flap.
+flee|달아나다, 도망가다
+flight|비행, 날기, 도주, 도피
+fling|던지다, 시도
+flip|대칭 이동하다
+float|뜨다, 고정 해제, 떠오르다, 수영하다, 잔돈, 찌, 흐르다
+flood|홍수, 한물, 洪水, 넘치다, 대홍수, 밀물
+flow|흐름, 흐르다, 몰입
+flowing|designed or arranged to offer the least resistant to fluid flow; &quot;a streamlined convertible&quot;
+foghorn|very loud low-pitched horn, used especially in lighthouses and large boats
+foldout|That folds out from a closed position
+force|힘, 포스, 강요하다, 폭력, 폭포, 효과
+forge|위조하다, 대장간, 변조하다
+foundation|파운데이션, 기초, 재단법인, 개설, 기반, 기반시설, 기본, 받침대, 설립, 터, 토대
+fox|여우
+fragile|깨지기 쉬운, 파손주의
+frame|프레임, 틀, 골격, 구조, 뼈대, 살, 액자
+frantically|In a frantic way.
+fro|(archaic) From; away; back or backward. In modern English used only in the set phrase to and fro (&quot;back and forth&quot;).
+frozen|Past participle of freeze
+frustrated|실망하다
+frustration|낭패, 욕구불만
+fully|가득, 꼬박, 다, 모두, 완전히, 전부, 충분히, 활짝
+funny|우스운, 이상한, 재미있는, 웃기는, 우습다, 익살스럽다
+furious|Marked by extreme and violent energy.
+furiously|(of the elements) in a wild and stormy manner; &quot;winds were blowing furiously&quot;
+further|더, 늘어나다, 더욱이
+futuristic|advanced so far beyond that which is current as to appear to be from the future
+gaining|<i>present participle of [i]gain</i>[/i]
+gang|갱, 폭력 조직, 도당
+garb|의상
+garbage|쓰레기, 汚物, 오물, 졸작, 찌꺼기, 폐기물
+gathering|모임, 누적, 집합
+gavel|망치
+gently|부드럽게, 고이, 살살
+gesture|제스처, 몸짓, 가리키다, 기미, 몸짓언어, 몸짓하기, 의사 표시, 행위
+gibberish|난센스, 횡설수설, 헛소리
+gigantic|거대한
+giggle|To laugh gently or in a high-pitched voice; to laugh in a silly or giddy way.
+glad|행복한, 반갑다, 기뻐하다, 기쁘다, 즐거워하다, 행복하다
+globe|지구의, 지구본, 지구, ^지구, 球, 공, 구, 구체
+glow|후광, 불빛, 빛, 빛나다, 타다
+goalie|골키퍼
+goggle|고글
+goodness|덕, 아이구, 친절
+goofing|Present participle of goof.
+goofy|어리석은
+googly|A ball, bowled by a leg-break bowler, that spins from off to leg (to a right-handed batsman), unlike a normal leg-break delivery.
+gorge|협곡, 골짜기, 꿀꺽하다, 목구멍, 삼키다
+grass|풀, 마리화나, 잔디밭, 잡초, 풀밭, 잔디, 아스파라거스
+grating|가리, 창살
+gratitude|감사, 고마움, 사례
+greatness|The state, condition, or quality of being great; as, greatness of size, greatness of mind, power, etc
+greeting|인사
+grove|숲
+growl|으르렁거리다, 불평하다
+guidebook|안내서
+guitarist|기타 연주자
+gush|분출, 뿜다
+hammer|망치, 추골
+handshake|악수, 핸드셰이크, 핸드세이크
+harried|troubled persistently especially with petty annoyances; &quot;harassed working mothers&quot;; &quot;a harried expression&quot;; &quot;her poor pestered father had to endure her constant interruptions&quot;; &quot;the vexed parents of an unruly teenager&quot;
+hate|미워하다, 싫어하다, 몹시 싫어하다, 미움, 분, 싫다, 증오, 증오심
+heels|High-heeled shoes.
+helpless|무력한
+hidden|숨겨진
+hind|A female deer, especially a red deer at least two years old.
+hipster|힙스터
+hitchhike|to try to get a ride in a passing vehicle while standing at the side of a road
+hockey|하키, 아이스하키
+homeless|집 없는, 무주택의, 집없는
+hunk|(US, slang) A honyock.
+hymn|찬가, 찬송가, 성가
+icicle|고드름
+identical|동일하다, 똑같다, 같은
+idiot|백치, 바보, 등신, 멍청이, 천치
+illuminated|<i>simple past tense and past participle of [i]illuminate</i>[/i]
+imbecile|천치
+impassioned|불타는
+importance|값어치, 무게, 중대성, 중요, 중요성, 중요함
+impressive|producing a strong effect; &quot;gave an impressive performance as Othello&quot;; &quot;a telling gesture&quot;
+inches|인치
+increasingly|점점
+index|색인, 索引, 인덱스, 손가락표, 녹음, 지수, 집게손가락, 표시
+indication|부호, 암시, 지시, 표시
+information|정보, 안내, 情報, 데이터, 보도, 통지
+insanity|광기, 발광
+inspire|격려하다, 돋우다, 북돋우다, 불어넣다, 시사하다
+instrument|악기, 도구, 계기, 기계, 기구, 앞잡이, 증서, 器具, 器械, 樂器, 計器, 道具, 계측하다, 계측, 공구, 기
+intended|<i>simple past tense and past participle of [i]intend</i>[/i]
+international|국제, 국제적
+intimidating|Present participle of intimidate.
+inventor|발명가
+jammed|Simple past tense and past participle of jam.
+jaundiced|Prejudiced; envious; as, a jaundiced judgment.
+jewels|male crotch (as a target in fighting)
+joyfully|즐겁게
+juggling|저글링
+justice|정의, 공정, 당, 사법, 의, 재판, 재판관, 정당, 정도
+kay|케이
+kept|(especially of promises or contracts) not violated or disregarded; &quot;unbroken promises&quot;; &quot;promises kept&quot;
+keynote|(transitive) To deliver a speech that sets the main theme of a conference or other gathering.
+lack|부족, 결핍, 궁핍, 무, 부족하다, 불충분, 없다
+landscape|경관, 풍경, 가로, 경치, 풍경화
+lanky|Somewhat lank; tall, slim, and rather ungraceful or awkward.
+lap|무릎, 바퀴, 싸다, 씻다, 핥기, 핥다
+laser|레이저
+lasso|올가미
+laughter|웃음
+laundry|빨래, 세탁, 洗濯, 세탁물, 세탁실, 세탁소
+lean|날씬한, 기대다, 기울기, 기울이다, 치우치다
+leap|건너뛰다, 도약, 뛰다, 점프
+learned|박식한
+legend|전설, 傳說, 범례, 설화
+lethargic|deficient in alertness or activity; &quot;bullfrogs became lethargic with the first cold nights&quot;
+liberty|자유, 특권
+license|면허, 免許, 면허장, 특허
+lick|핥다, 핥음, 속력, 이기다, 지우다, 핥기
+lifeless|죽은
+limited|유한, 제한된
+lipstick|립스틱, 입술연지
+logo|로고, 로고타이프
+loose|헐거운, 늘어진, 쏘다, 풀다
+loss|손실, 상실, 소실, 손해, 실패
+luckily|By fortunate luck.
+lumbering|The business of felling trees for lumber.
+lynch|To execute (somebody) without a proper legal trial or procedure, especially by hanging.
+magazine|잡지, 탄창, 탄약고, 雜誌, 창고
+maintain|유지하다, 단언하다, 계속하다, 주장하다
+majesty|폐하, 주권
+manage|관리, 관리하다, 가누다, 꾸리다, 다가가다, 다스리다, 마니다, 만지다, 이, 조종하다, 지배하다, 처리하다, 통치하다
+march|행진, 행군, 행군하다, 행진곡, 3월
+melting|융해, 용해
+memorabilia|Objects that are connected to or remind their owner of past events.
+microscopic|relating to microscopes
+miracle|기적, 奇蹟
+mission|사명, 임무, 任務, 미션, 사절단, 전도구, 전도단, 파견단, 포교구, 포교단
+mixer|믹서, 혼합기
+mock|놀리다, 비웃다, 비웃음, 조롱하다
+mode|모드, 최빈값, 선법, 방법, 방식, 양식, 유행, 패션
+modern|현대, 현대의, 신, 현대적인
+monarchy|군주제, 君主制, 군주국
+monica|
+monitor|모니터, 모니터 함, 감시하다
+motions|Plural of motion.
+mound|언덕, 더미, 무더기, 산
+mustache|콧수염, 코밑수염
+muttering|<i>present participle of [i]mutter</i>[/i]
+narrowly|간신히
+nation|국가, 나라, 국민, 國, 國家, 국, 민족
+nauseated|Having a feeling of nausea.
+nay|아뇨, 아니오, 아니요, 아니
+neck|목
+neckline|넥라인
+newscaster|A presenter of a news bulletin who is a working journalist and news gatherer, participanting in compiling the script to be delivered in a news bulletin.
+newspaper|신문, 新聞, .신문, 신문지
+newsroom|an office in which news is processed by a newspaper or news agency or television or radio station
+nixon|
+noble|고결한, 경
+nonchalantly|in a composed and unconcerned manner; &quot;without more ado Barker borrowed a knife from his brigade Major and honed it on a carborundum stone as coolly as a butcher&quot;
+nostrils|콧구멍
+nowhere|아무데도
+nuts|미친
+observe|관찰하다, 관찰, 보다, 인지하다, 점, 지켜보다, 지키다
+occupied|바쁘다, 바쁜, 사용 중
+offer|제의하다, 제안, 제공하다
+office|사무실, 事務室, 事務所, 사무소, 관청, 국, 부, 예배, 오피스, 의식, 지위, 직, 청, 돌보다, 직위, 친절, 사, 역할, 연구실, 작업실
+official|공무원, 공식, 심판, 직원, 사, 임원
+officially|In an official manner
+oka|a unit of volume in Egypt (and formerly Turkey) corresponding to about 1.2 litres.
+opener|병따개
+opera|오페라, 경극
+opposite|반대, 반대의, 反, 건너편에, 반
+ordering|Making an agreement for later pick up or delivery.
+outback|아웃백
+overlooked|Missed, unnoticed.
+overnight|일박, 밤새, 하루아침에
+owner|소유자, 所有者, 담당자, 임자, 주인
+pacing|(music) the speed at which a composition is to be played
+package|꾸러미, 짐, 짐꾸러미, 패키지, 패킷, 바리, 보따리, 봉지, 소포, 일괄, 포장
+padre|A Roman Catholic priest.
+page|페이지, 쪽, 페이징하다, 프레임 (컴퓨터 과학), 호출하다, 사환, 일화
+paging|페이징
+paint|페인트, 그리다, 칠하다, 도료, 칠
+pale|파리하다, 해쓱하다, 창백한, 말뚝, 약한, 연한, 한계
+papaya|파파야
+paso|
+patrol|순찰
+patron|고객, 후원자
+pavement|보도, 인도, 步道, 포장
+payment|변제, 급료, 보수, 사례금, 지불, 지불금액
+peacefully|in a peaceful manner
+peeing|Present participle of pee.
+pen|펜, 볼펜, 만년필, 교도소, 쓰다, 우리
+penniless|flat out (of)
+perish|멸망, 멸망하다, 비명횡사하다, 망하다, 죽다
+perk|To become more lively or enthusiastic.
+personal|개인의, 개인적인, 사, 사적인
+personnel|인원, 인원의, 전직원의, 직원
+pigeon|비둘기, 호구
+piggy|(hypocoristic/slang) toes
+pileup|<i>Alternative spelling of [i]pile-up</i>[/i]
+pinata|피냐타
+pingpong|
+pins|다리
+pinstriped|가는 세로줄 무늬의
+pistol|권총, 拳銃, 피스톨
+planet|행성, 行星, 유성, 遊星, 위성, 衛星
+plant|식물, 심다, 공장, 이식하다, 植物, 농작물, 숨기다, 시설, 장치, 주다, 채소, 풀
+plate|접시, 명찰, 양극, 입히다, 판, 판금
+pleasure|쾌락, 기쁨, 기호, 낙, 즐거움
+plum|자두, 서양자두, 자두나무, 오얏, 李, 紫桃, 이
+po|(obsolete) A peacock.
+podium|연단
+polar|극성
+politely|부드럽게
+population|인구, 人口, 개체군, 주민
+port|항구, 港口, 포트, 포트 와인, TCP 및 UDP 포트, 이동하다, 포팅하다, 좌현, 태도
+potential|퍼텐셜, 가능, 가능성, 전위
+pound|파운드, 빻다, 파운드 스털링
+practically|거의
+precariously|In a precarious manner; dangerously
+present|선물, 현재, 선사하다, 現在, 가리키다, 現在時制, 현재 시제, 현재의, 보이다, 소개하다, 제시, 제출하다, 지금의, 차, 현대의, 현대적인
+pride|자랑, 교만, 긍지, 명예, 자부심, 자존심, 자호감 自豪感
+probably|아마, 아마도
+proclaim|나타내다, 발표하다, 선언하다
+propel|to make to arrive to a certain situation or result
+property|재산, 소유물, 성질, 소유관, 소유지, 속성, 재산권, 프로퍼티, 부동산, 소유권, 재물
+protect|보호하다, 방어하다
+proudly|자랑스럽게
+prove|증명하다, 입증하다, 알다
+pry|지레
+psychiatric|relating to or used in or engaged in the practice of psychiatry; &quot;psychiatric disorder&quot;; &quot;psychiatric hospital&quot;
+public|공중의, 공공, 공개, 대중, 여론, 유명한, 인민
+puddle|웅덩이, 물웅덩이, 저수지
+puffed|Expanded by the use of steam.
+pulling|Present participle of pull.
+pumped|<i>simple past tense and past participle of [i]pump</i>[/i]
+purpose|목적, 뜻, 목표, 용도, 의도하다
+quarters|사분체
+quiet|조용한, 고요함, 조용하다, 덤덤하다, 무풍, 정숙한, 조용함
+quite|꽤, 상당히, 완전히, 매, 변변히, 아주, 퍽
+rack|선반, 옷걸이, 파괴
+radiation|放射, 방사, 輻射, 폭사, 방사선, 발광
+ragged|rough; shaggy; rugged
+raise|올리다, 묵게하다, 기르다, 높이다, 늘다, 떠올리다, 세우다, 증가, 진급시키다, 치다, 키우다
+ram|숫양, 면양, 부딪치다, 양
+range|범위, 음역, 항속 거리, 거리, 산맥, 연속, 줄
+rant|To dance rant steps.
+rapier|레이피어
+raucously|In a raucous manner, loudly.
+reaction|반응, 反應, 반동, 反動, 리액션, 반작용
+realization|실현
+reception|환영회, 리셉션, 접수처, 응접, 프런트, 반응, 받음, 수령, 수신, 연회, 피로연
+record|기록, 레코드, 기록하다, 음반, 기록, 기록하다, 싣다, 표시하다
+reflect|반사하다, 리플렉션하다, 비추다, 숙고하다
+remaining|(uncountable, now obsolete or in theology) An act or occurrence by which someone or something remains
+remove|치우다, 제거하다, 거리, 걷다, 덜다, 빼다, 뽑다, 옮기다, 이동하다, 풀다
+repeating|the act of doing or performing again
+report|보고, 보고하다, 報告, 레포트, 리포트, 보고서, 고발하다, 기록, 보도, 소문, 신고하다, 통보하다, 평판, 회보
+reproduction|생식, 生殖, 재생산, 복제, 재생, 번식, 복구, 복사물
+reputation|명성, 평판, 名聲, 評判, 이름
+respect|경의, 존중, 尊重, 존경, 존경하다, 받들다, 점
+response|대답, 응답, 답, 답변, 호응
+retractable|capable of being retracted
+retro|something, such as a fashion, from the past; a retro trend
+revolution|혁명, 革命, 공전, 변혁, 운행, 주기, 회전
+riding|승마
+ringer|신호음 장치, 링거, 링게르, 링겔
+rip|복사하다, 찢다, 폭로하다
+rival|敵, 경쟁자, 경쟁하다, 적
+rob|빼앗다, 훔치다
+rooftop|지붕
+rooting|발근
+rough|거친, 깡패, 난폭자, 난폭한, 불량자, 악당
+routine|루틴, 관례, 일과, 일상
+rub|비비다, 문지르다, 긁다, 안마, 장애
+ruler|자, 통치자, 王, 군, 군주, 눈금자, 왕, 정규, 지배자
+runaway|가출, 도망, 도망자, 탈주자
+rundown|협살
+runt|꼬마, 작음
+saint|성인, 성자
+sale|판매, 경매, 할인
+sanctuary|보호, 성당, 피신처
+save|구해내다, 보존하다, 아끼다, 절약하다, 구하다, 세이브, 저장하다, 省, 간직하다, 구원하다, 놓아두다, 보관하다, 살리다, 성, 지키다
+sayonara|사요나라
+scientist|과학자, 科學者
+scissors|가위
+scottish|
+scoundrel|악당
+scram|To abruptly insert the control rods of a nuclear reactor, usually in case of emergency shutdown.
+scratch|긁다, 할퀴다, 비비다, 상처, 찰과상
+screw|나사, 나사못, 교도관, 볼트, 비틀다, 압박, 압박하다, 인색하다, 틀다
+scrubbing|Present participle of scrub.
+searching|검색, 찾기
+selection|선택 영역, 선발, 선발, 선택, 선집, 선택
+sequence|시퀀스, 수열, 순서, 부속가, 계승, 연속, 열, 차, 차례
+serious|심각한
+settle|가다듬다, 가라앉다, 결정하다, 놓다, 정하다, 조정하다, 치르다, 하다, 해결하다
+shadow|그림자, 그늘, 응달, 가리다, 덮다, 막다, 어둠, 음영, 환영
+shake|떨다, 악수하다, 떨림, 순간, 악수, 요동, 휘두르다, 흔들다, 흔들리다
+shakespeare|
+sheepish|Having the characteristics of a sheep
+shining|샤이닝
+shut|닫다, 닫히다, 봉하다
+sigh|한숨, 한숨을 쉬다, 한숨짓다, 예
+sight|보다, 겨누다, 시력, 겨냥, 구경하다, 시각, 시계
+signal|신호, 부호, 징조
+silent|조용하다, 조용한, 조용히 하다, 덤덤하다, 무성, 무소음의, 무언의
+sincerely|간절히, 똑바르게, 믿음직하게, 성실하게, 솔직하게, 정직하게, 진심으로
+single|싱글, 단타, 단일, 단일의, 뿐, 편도, 혼자의, 독신의
+singsong|informal group singing of popular songs
+sip|마시다
+sir|선생님, 씨, 아저씨, 경, 고객님, 귀하, 님, 당신, 손님
+skating|the sport of gliding on skates
+skull|두개골, 頭蓋骨, 머리뼈, 두골, 두개, 두개골, 해골
+sleek|매끄러운, 매끈하다
+sleep|자다, 잠, 잠자다, 주무시다, 잡수시다, Sleep, 동물의 잠, 절전, 수, 수면, 자, 주무시
+slurp|To eat or drink (something) noisily
+smack|철석 때림, 낌새, 헤로인
+smallish|Somewhat small.
+smash|스매시, 깨트리다, 박살내다, 부러뜨리다, 부서지다, 부수다, 진압하다, 충돌
+smell|냄새를 맡다, 냄새, 맡다, 후각, 냄새맡다, (냄새) 후각, 느끼다, 미, 향, 향기
+smoke|연기, 피우다, 뿜다, 훈제하다, 담배피우다, 煙氣, 담배, 담배를 피우다, 내, 피우
+snoring|코골이
+snowball|눈덩이
+solely|뿐, 오로지, 유일한
+solemnly|In a solemn manner.
+solo|독주, 솔로
+someday|언젠가
+soon|곧, 일찍
+spaceship|우주선, 宇宙船
+sparkly|lively and high-spirited
+speak|말하다, 이야기하다, 말씀하다, 대화하다, 쓰다, 토하다, 하
+spear|창, 싹, 작살
+species|종, 종류, 형식
+spectacular|눈부신, 멋진
+speeding|driving faster than the legal speed limit
+spend|소비하다, 보내다, 쓰다, 소비, 보내, 잃다
+spinning|방적, 방적기
+splat|a single splash; &quot;he heard a splat as it hit the floor&quot;
+splattering|the noise of something spattering or sputtering explosively; &quot;he heard a spatter of gunfire&quot;
+spotlight|스포트라이트
+spots|점무늬병
+sprawling|<i>present participle of [i]sprawl</i>[/i]
+squeal|To give sensitive information about someone to a third party; to rat on someone.
+squeeze|조이다, 짜다, 압박하다
+squishy|Yielding easily to pressure; very soft; <i>especially</i>, soft and wet, <i>as</i> mud.
+stacked|누적형
+stained|marked or dyed or discolored with foreign matter; &quot;a badly stained tablecloth&quot;; &quot;tear-stained cheeks&quot;
+stairs|계단, 階段
+stairway|계단, 階段
+star|별, 스타, 항성, 별표
+stature|키
+stealing|The action of the verb <i>to steal</i>.
+steamship|기선, 증기선
+steep|가파르다, 가파른, 담그다, 험한
+stepped|<i>simple past tense and past participle of [i]step</i>[/i]
+sticks|<i>plural of [i]stick</i>[/i]
+stink|악취를 풍기다, 악취, 화학
+stockade|방책
+stockpile|something kept back or saved for future use or a special purpose
+strain|당기다, 거르다, 켕기다, 계통, 변형도, 가곡, 시, 종족
+strap|끈
+strength|힘, 강도, 강력, 영향력, 효과
+struggle|투쟁, 고투, 몸부림치다, 분투, 싸우다, 투쟁하다, 몸부림, 전투
+stubby|Like a stub, short especially cut short, stunted
+stuff|것, 게걸스레 먹다, 물건, 물질, 요소, 재료, 채우다, 틀어막다
+stumble|넘어질 뻔하다
