@@ -16,9 +16,11 @@ import java.util.Date;
  */
 public class App {
     private static final int CHUNK = 5;
-    private static final String title = "olaf";
+    private static final String title = "minions";
+    private static final String MOVIE = "Minions 2015 BluRay 720p DTS x264-ETRG.mkv";//"Olafs.Frozen.Adventure.2017.1080p.WEB-DL.DD5.1.H.264-LAZY.mkv";
+
     public void trim() {
-        SRTInfo info = SRTReader.read(new File("Olafs.FROZEN.Adventure.2017.WEB-DL.English-BlogDaoLeMInh3.srt"));
+        SRTInfo info = SRTReader.read(new File(title + ".srt"));
         SRTInfo newInfo = new SRTInfo();
         int newSequence = 1;
         for (SRT s : info) {
@@ -59,7 +61,9 @@ public class App {
                 bundle.text += "</P>";
 
                 if (s.number % CHUNK == 0) {
+                    bundle.endTime = s.endTime;
                     ffmpeg(bundle);
+//                    ffmpeg2(bundle);
                     bundle = null;
                 }
             }
@@ -76,9 +80,31 @@ public class App {
             System.out.println("<TR>");
             SimpleDateFormat SDF = new SimpleDateFormat("HH:mm:ss");
             String outputFile = String.format(title + "_%04d.jpg", bundle.number);
-            String command = String.format("ffmpeg -ss %s -i %s -vframes 1 -s 640x400 output/%s", SDF.format(bundle.startTime), "Olafs.Frozen.Adventure.2017.1080p.WEB-DL.DD5.1.H.264-LAZY.mkv", outputFile);
+            String command = String.format("ffmpeg -ss %s -i \"%s\" -vframes 1 -s 640x400 output/%s", SDF.format(bundle.startTime), MOVIE, outputFile);
+//            long diff = (bundle.endTime.getTime() - bundle.startTime.getTime() + 500) / 1000;
+//            Date sdate = new Date(bundle.startTime.getTime() - 500);
+//            String outputFile = String.format(title + "_%04d", bundle.number);
+//            String command = String.format("ffmpeg -ss %s -t %d -i \"%s\" -acodec copy -vcodec copy output2/%s.mkv", SDF.format(sdate), diff, MOVIE, outputFile);
+            System.out.println(String.format("<TD>%d</TD>", bundle.number));
             System.out.println(String.format("<TD><IMG SRC=%s></TD>", outputFile));
             System.out.println(String.format("<TD>%s</TD>", bundle.text));
+            System.err.println(command);
+//            Runtime.getRuntime().exec(command);
+            System.out.print("</TR>");
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+    }
+
+    public void ffmpeg2(SRTBundle bundle) {
+        try {
+            System.out.println("<TR>");
+            SimpleDateFormat SDF = new SimpleDateFormat("HH:mm:ss.sss");
+            long diff = (bundle.endTime.getTime() - bundle.startTime.getTime() + 500) / 1000;
+            Date sdate = new Date(bundle.startTime.getTime() - 100);
+            String outputFile = String.format(title + "_%04d", bundle.number);
+            String command = String.format("ffmpeg -ss %s -t %d -i \"%s\" -acodec copy -vcodec copy output2/%s.mkv", SDF.format(sdate), diff, MOVIE, outputFile);
             System.err.println(command);
 //            Runtime.getRuntime().exec(command);
             System.out.print("</TR>");
@@ -95,6 +121,7 @@ public class App {
     public static class SRTBundle {
         public int number;
         public Date startTime;
+        public Date endTime;
         public String text = "";
     }
 }
