@@ -68,9 +68,9 @@ public class Step4 {
             }
         }
         try {
-            Dropbox.upload(GetQuiz.title, filenames);
+//            Dropbox.upload(GetQuiz.title, filenames);
             for (String file : filenames) {
-                new File(file).delete();
+//                new File(file).delete();
             }
         } catch (Exception e) {
             e.printStackTrace();
@@ -95,7 +95,7 @@ public class Step4 {
             FileOutputStream fout = null;
             try {
                 in = new BufferedInputStream(new URL(urlString).openStream());
-                fout = new FileOutputStream(filename);
+                fout = new FileOutputStream(GetQuiz.HOME + "/" + filename);
 
                 final byte data[] = new byte[1024];
                 int count;

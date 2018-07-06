@@ -15,7 +15,7 @@ public class GetQuiz {
     public static final MediaType JSON = MediaType.parse("application/json; charset=utf-8");
 
     public static String StudyId = null;
-    public static String StudentHistoryId = "000077C2018000136";
+    public static String StudentHistoryId = null;
 
     public static String BOOK_TYPE = "E";
 
@@ -26,22 +26,27 @@ public class GetQuiz {
     public static final String SAVE_RESULT_URL = "http://study6.readinggate.com/hp/asmx/wsBrPb.asmx/SaveTestResult";
 
     public static String title = "default";
+    public static String ROOT = "/home/siwon.sung/Samba/Reading Gate/";
+    public static String HOME = null;
 
     public static BufferedWriter bw = null;
 
-    public static void main(String args[]) {
-        GetSession.getSession(StudyId);
+    public static void byWho(String cridential) {
+        GetSession.getSessionJsoup(StudyId, cridential);
         String BODY_INFO = getRequestBodyJson(null);
         String info = getData(INFO_URL, BODY_INFO);
         try {
             JsonObject jo = new JsonParser().parse(new JsonParser().parse(info).getAsJsonObject().get("d").getAsString()).getAsJsonArray().get(0).getAsJsonObject();
             title = jo.getAsJsonPrimitive("Title").getAsString().trim();
+            File dir = new File(ROOT + "/" + title);
+            dir.mkdir();
+            HOME = dir.getAbsolutePath();
         } catch (Exception e) {
             e.printStackTrace();
         }
 
         try {
-            bw = new BufferedWriter(new FileWriter(new File("E:/Reading Gate/" + title + ".txt")));
+            bw = new BufferedWriter(new FileWriter(new File(HOME + "/" + title + ".txt")));
         } catch (Exception e) {
             e.printStackTrace();
         }
