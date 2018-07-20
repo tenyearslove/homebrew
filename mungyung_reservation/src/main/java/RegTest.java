@@ -1,5 +1,9 @@
+import okhttp3.MediaType;
+import okhttp3.Request;
 import retrofit2.Call;
 import retrofit2.Response;
+
+import static java.lang.System.exit;
 
 public class RegTest {
 
@@ -11,6 +15,9 @@ public class RegTest {
 
     private static void testInstance() {
         api = RegApi.getInstance();
+
+        String cookie = doLogin("coolove", "ghdi0522!");
+        api.setCookie(cookie);
 
         Call<String> call;
         Response<String> response;
@@ -106,5 +113,36 @@ public class RegTest {
         );
 
         return callYuga;
+    }
+
+    public static String doLogin(String user_id, String passwd) {
+        try {
+            okhttp3.Request request1 = new okhttp3.Request.Builder()
+                    .url("http://www.mgtpcr.or.kr/web/login.do?menuIdx=183")
+                    .build();
+            okhttp3.Call call1 = api.getHttpClient().newCall(request1);
+            okhttp3.Response response1 = call1.execute();
+            String cookie = response1.header("Set-Cookie");
+
+            okhttp3.RequestBody formBody = new okhttp3.FormBody.Builder()
+                    .add("user_id", user_id)
+                    .add("passwd", passwd)
+                    .build();
+            okhttp3.Request request2 = new okhttp3.Request.Builder()
+                    .url("http://www.mgtpcr.or.kr/web/login.do?menuIdx=183")
+                    .header("Cookie", cookie)
+                    .post(formBody)
+                    .build();
+            okhttp3.Call call2 = api.getHttpClient().newCall(request2);
+            okhttp3.Response response2 = call2.execute();
+
+            return cookie;
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        exit(1);
+        return null;
     }
 }

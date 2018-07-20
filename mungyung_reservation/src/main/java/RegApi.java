@@ -16,6 +16,8 @@ public class RegApi {
 
     private static RegApi instance = null;
     private HttpBinService service;
+    private OkHttpClient httpClient = null;
+    private String cookie = null;
 
     /**
      * HttpBin.org service definition
@@ -104,9 +106,13 @@ public class RegApi {
 
         Interceptor cookieInterceptor = new Interceptor() {
             public Response intercept(Interceptor.Chain chain) throws IOException {
-                Request.Builder builder = chain.request().newBuilder();
-                builder.addHeader("Cookie", "JSESSIONID=St1OFHQf7BSFGJMreEJ3nbPi0gOk6iqw8VAJRLpb7hG8X1ErMsra35BtLam7Xg0s.TUdIT01FX2RvbWFpbi9ob21lcGFnZQ==");
-                return chain.proceed(builder.build());
+                if (cookie != null) {
+                    Request.Builder builder = chain.request().newBuilder();
+                    builder.addHeader("Cookie", cookie);
+                    return chain.proceed(builder.build());
+                } else {
+                    return chain.proceed(chain.request());
+                }
             }
         };
 
@@ -115,7 +121,7 @@ public class RegApi {
                 .addInterceptor(cookieInterceptor);
 //                .connectTimeout(60, TimeUnit.SECONDS);
 
-        OkHttpClient httpClient = builder.build();
+        httpClient = builder.build();
 
         Retrofit retrofit = new Retrofit.Builder()
                 .baseUrl(API_URL)
@@ -173,5 +179,13 @@ public class RegApi {
             }
             return null;
         }
+    }
+
+    public OkHttpClient getHttpClient() {
+        return httpClient;
+    }
+
+    public void setCookie(String cookie) {
+        this.cookie = cookie;
     }
 }
