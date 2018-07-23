@@ -43,7 +43,7 @@ public class App {
     public void chunking() {
         try {
             System.setOut(new PrintStream(new FileOutputStream("output/index.html")));
-            System.out.println("<HTML><BODY><TABLE>");
+            System.out.println("<HTML><BODY><TABLE cellpadding=\"5\" cellspacing=\"0\" border=\"1\" style=\"border-collapse:collapse; border:1px gray solid;\">");
             SRTInfo info = SRTReader.read(new File(title + ".trim.srt"));
             StringBuffer sb = new StringBuffer();
             SRTBundle bundle = null;
@@ -85,7 +85,7 @@ public class App {
 //            Date sdate = new Date(bundle.startTime.getTime() - 500);
 //            String outputFile = String.format(title + "_%04d", bundle.number);
 //            String command = String.format("ffmpeg -ss %s -t %d -i \"%s\" -acodec copy -vcodec copy output2/%s.mkv", SDF.format(sdate), diff, MOVIE, outputFile);
-            System.out.println(String.format("<TD>%d</TD>", bundle.number));
+            System.out.println(String.format("<TD align=\"center\">%04d</TD>", bundle.number));
             System.out.println(String.format("<TD><IMG SRC=%s></TD>", outputFile));
             System.out.println(String.format("<TD>%s</TD>", bundle.text));
             System.err.println(command);
