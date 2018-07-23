@@ -1,3 +1,5 @@
+package com.hoyalias.homebrew.mungyung.api;
+
 import okhttp3.*;
 import okhttp3.logging.HttpLoggingInterceptor;
 import retrofit2.Call;
@@ -14,10 +16,10 @@ import java.lang.reflect.Type;
 public class RegApi {
     public static final String API_URL = "http://www.mgtpcr.or.kr";
 
-    private static RegApi instance = null;
+//    private static RegApi instance = null;
     private HttpBinService service;
     private OkHttpClient httpClient = null;
-    private String cookie = null;
+    public String cookie = null;
 
     /**
      * HttpBin.org service definition
@@ -139,10 +141,11 @@ public class RegApi {
      * Get the HttpApi singleton instance
      */
     public static RegApi getInstance() {
-        if (instance == null) {
-            instance = new RegApi();
-        }
-        return instance;
+//        if (instance == null) {
+//            instance = new RegApi();
+//        }
+//        return instance;
+        return new RegApi();
     }
 
     /**

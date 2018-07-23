@@ -1,5 +1,5 @@
-import okhttp3.MediaType;
-import okhttp3.Request;
+package com.hoyalias.homebrew.mungyung.api;
+
 import retrofit2.Call;
 import retrofit2.Response;
 
@@ -8,15 +8,25 @@ import static java.lang.System.exit;
 public class RegTest {
 
     public static RegApi api;
+    public static boolean loop = false;
+    public static String log = null;
+
+
+    private static StringBuffer sb = null;
 
     public static void main(String[] args) {
-        testInstance();
+        testInstance(null, null, null);
     }
 
-    private static void testInstance() {
+    public static void testInstance(RegTestWatcher watcher, String userid, String passwd) {
         api = RegApi.getInstance();
 
-        String cookie = doLogin("coolove", "ghdi0522!");
+        if (userid == null || userid.length() == 0) {
+            userid = "coolove";
+            passwd = "ghdi0522!";
+        }
+
+        String cookie = doLogin(userid, passwd);
         api.setCookie(cookie);
 
         Call<String> call;
@@ -27,39 +37,46 @@ public class RegTest {
         // 222 북두칠성
         // 223 남두육성
 
-        String userName = "이정현";
-        String tel = "010-6528-9849";
+        String userName = "김연정";
+        String tel = "010-4001-7077";
 
 //        String userName = "성시원";
 //        String tel = "010-4013-9992";
-        while (true) {
-            execute("222", "2018-05-05", "280000", "15", userName, tel);
-            execute("222", "2018-05-06", "280000", "15", userName, tel);
 
-            execute("223", "2018-05-05", "280000", "15", userName, tel);
-            execute("223", "2018-05-06", "280000", "15", userName, tel);
+        int loopCount = 0;
+        while (loop) {
+            sb = new StringBuffer();
+            sb.append(api.cookie + "\n");
+            sb.append(loopCount++ + "\n");
 
-            execute("204", "2018-05-05", "220000", "14", userName, tel);
-            execute("204", "2018-05-06", "220000", "14", userName, tel);
+            execute("222", "2018-09-24", "280000", "15", userName, tel);
+            execute("222", "2018-09-25", "280000", "15", userName, tel);
+
+            execute("223", "2018-09-24", "280000", "15", userName, tel);
+            execute("223", "2018-09-25", "280000", "15", userName, tel);
+
+            log = sb.toString();
+            if (watcher != null) {
+                watcher.onLog(log);
+            }
+            sb = null;
         }
     }
 
     public static void execute(final String room, final String regDate, final String price, String personMax, String userName, String tel) {
         try {
-//            new Thread() {
-//                public void run() {
-                    //북두칠성
-                    try {
-                        Call<String> callYugaPre = getYugaPreCall(regDate, room, price);
-                        Call<String> callYuga = getYugaCall(regDate, regDate, room, price, personMax, userName, tel);
-                        callYugaPre.execute();
-                        callYuga.execute();
-                    } catch (Exception e) {
-                        System.out.println(e.getMessage());
+            try {
+                Call<String> callYugaPre = getYugaPreCall(regDate, room, price);
+                Call<String> callYuga = getYugaCall(regDate, regDate, room, price, personMax, userName, tel);
+                callYugaPre.execute();
+                Response response = callYuga.execute();
+                String body = response.body().toString();
+
+                sb.append(body);
+            } catch (Exception e) {
+                System.out.println(e.getMessage());
 //                        e.printStackTrace();
-                    }
-//                }
-//            }.start();
+            }
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -144,5 +161,9 @@ public class RegTest {
 
         exit(1);
         return null;
+    }
+
+    public interface RegTestWatcher {
+        public void onLog(String log);
     }
 }
