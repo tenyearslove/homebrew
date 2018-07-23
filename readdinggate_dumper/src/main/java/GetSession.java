@@ -62,8 +62,13 @@ public class GetSession {
                 Element el = doc.getElementsByClass("buttonLinkFree").get(0);
                 String[] idSplited = el.id().split("_");
                 String studyId = idSplited[0];
-                GetQuiz.StudyId = studyId;
-                GetQuiz.StudentHistoryId = idSplited[1];
+                try {
+                    GetQuiz.StudyId = studyId;
+                    GetQuiz.StudentHistoryId = idSplited[1];
+                } catch (Exception e) {
+                    System.out.println("과제가 없습니다");
+                    System.exit(0);
+                }
             }
 
             RequestBody body = RequestBody.create(FORM, "studyId=" + GetQuiz.StudyId + "&studentHistoryId=" + GetQuiz.StudentHistoryId);
