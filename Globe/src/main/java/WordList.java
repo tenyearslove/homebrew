@@ -10,7 +10,7 @@ import java.util.Set;
 
 public class WordList {
     public static void main(String[] args) {
-        process("minions.txt");
+        process("index.html");
     }
 
     public static void process(String fileName) {

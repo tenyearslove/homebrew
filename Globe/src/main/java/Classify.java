@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Classify {
     public static void main(String[] args) {
 
-        doClassify("minions_word.txt");
+        doClassify("minions_script.txt");
     }
 
     public static void doClassify(String fileName) {
@@ -16,11 +16,11 @@ public class Classify {
             while (scanner.hasNext()) {
                 String word = scanner.next();
                 String splited[] = word.split("\\|");
-                if (splited.length == 3 && "z" .equals(splited[2])) {
+//                if (splited.length == 3 && "z".equals(splited[2])) {
                     hardFw.write(splited[0] + "\n");
-                } else {
-                    easyFw.write(splited[0] + "\n");
-                }
+//                } else {
+//                    easyFw.write(splited[0] + "\n");
+//                }
             }
             hardFw.close();
             easyFw.close();

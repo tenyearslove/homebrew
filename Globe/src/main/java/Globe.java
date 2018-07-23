@@ -15,7 +15,7 @@ import okhttp3.Response;
 
 public class Globe {
     public static void main(String[] args) {
-        doGlobe("hard.txt");
+        doGlobe("hardes.txt");
     }
 
     public static void doGlobe(String fileName) {
