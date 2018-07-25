@@ -13,7 +13,7 @@ dependencies {
 }
 
 task execute(type:JavaExec) {
-    main = 'RegTest'
+    main = 'com.hoyalias.homebrew.mungyung.api.RegTest'
     classpath = sourceSets.main.runtimeClasspath
     jvmArgs = ['-Dhttp.proxyHost=168.219.61.252', '-Dhttp.proxyPort=8080', '-Dhttps.proxyHost=168.219.61.252', '-Dhttps.proxyPort=8080']
 }

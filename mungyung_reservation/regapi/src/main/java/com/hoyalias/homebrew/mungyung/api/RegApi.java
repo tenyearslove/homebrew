@@ -15,6 +15,10 @@ import java.lang.reflect.Type;
 
 public class RegApi {
     public static final String API_URL = "http://www.mgtpcr.or.kr";
+    public static final String USERID = "bingo3742";
+    public static final String PASSWD = "#duswjd9779";
+    public static final String USERNAME = "김연정";
+    public static final String TEL = "010-4001-7077";
 
 //    private static RegApi instance = null;
     private HttpBinService service;
@@ -108,9 +112,9 @@ public class RegApi {
 
         Interceptor cookieInterceptor = new Interceptor() {
             public Response intercept(Interceptor.Chain chain) throws IOException {
-                if (cookie != null) {
+                if (RegApi.this.cookie != null) {
                     Request.Builder builder = chain.request().newBuilder();
-                    builder.addHeader("Cookie", cookie);
+                    builder.addHeader("Cookie", RegApi.this.cookie);
                     return chain.proceed(builder.build());
                 } else {
                     return chain.proceed(chain.request());

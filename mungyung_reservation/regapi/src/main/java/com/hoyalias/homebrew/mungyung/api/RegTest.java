@@ -15,19 +15,14 @@ public class RegTest {
     private static StringBuffer sb = null;
 
     public static void main(String[] args) {
-        testInstance(null, null, null);
+        loop = true;
+        testInstance(null, RegApi.USERID, RegApi.PASSWD, true);
     }
 
-    public static void testInstance(RegTestWatcher watcher, String userid, String passwd) {
+    public static void testInstance(RegTestWatcher watcher, String userid, String passwd, boolean autoRelogin) {
         api = RegApi.getInstance();
 
-        if (userid == null || userid.length() == 0) {
-            userid = "coolove";
-            passwd = "ghdi0522!";
-        }
-
-        String cookie = doLogin(userid, passwd);
-        api.setCookie(cookie);
+        doLogin(userid, passwd);
 
         Call<String> call;
         Response<String> response;
@@ -37,8 +32,8 @@ public class RegTest {
         // 222 북두칠성
         // 223 남두육성
 
-        String userName = "김연정";
-        String tel = "010-4001-7077";
+        String userName = RegApi.USERNAME;
+        String tel = RegApi.TEL;
 
 //        String userName = "성시원";
 //        String tel = "010-4013-9992";
@@ -60,7 +55,13 @@ public class RegTest {
                 watcher.onLog(log);
             }
             sb = null;
+
+            if (autoRelogin && loopCount > 30) {
+                doLogin(userid, passwd);
+                loopCount = 0;
+            }
         }
+
     }
 
     public static void execute(final String room, final String regDate, final String price, String personMax, String userName, String tel) {
@@ -132,8 +133,11 @@ public class RegTest {
         return callYuga;
     }
 
-    public static String doLogin(String user_id, String passwd) {
+    public static void doLogin(String user_id, String passwd) {
         try {
+            api.setCookie(null);
+
+            System.out.println("DO LOGIN : " + user_id + " " + passwd);
             okhttp3.Request request1 = new okhttp3.Request.Builder()
                     .url("http://www.mgtpcr.or.kr/web/login.do?menuIdx=183")
                     .build();
@@ -152,15 +156,18 @@ public class RegTest {
                     .build();
             okhttp3.Call call2 = api.getHttpClient().newCall(request2);
             okhttp3.Response response2 = call2.execute();
+            String body = response2.body().string();
+            boolean correct = body.contains("로그인 시도 실패");
+            if (correct == true) {
+                exit(1);
+            }
 
-            return cookie;
+            System.out.println("DO LOGIN : " + cookie);
+            api.setCookie(cookie);
 
         } catch (Exception e) {
             e.printStackTrace();
         }
-
-        exit(1);
-        return null;
     }
 
     public interface RegTestWatcher {

@@ -7,6 +7,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.hoyalias.homebrew.mungyung.api.RegApi;
 import com.hoyalias.homebrew.mungyung.api.RegTest;
 
 public class MainActivity extends Activity {
@@ -24,6 +25,9 @@ public class MainActivity extends Activity {
 
         edt_id = (EditText) findViewById(R.id.edt_id);
         edt_pw = (EditText) findViewById(R.id.edt_pw);
+
+        edt_id.setText(RegApi.USERID);
+        edt_pw.setText(RegApi.PASSWD);
 
 //        try {
 //            Process process = Runtime.getRuntime().exec("logcat -d");
@@ -50,7 +54,7 @@ public class MainActivity extends Activity {
         new Thread() {
             public void run() {
                 RegTest.loop = true;
-                RegTest.testInstance(logWatcher, id, pw);
+                RegTest.testInstance(logWatcher, id, pw, false);
             }
         }.start();
     }
