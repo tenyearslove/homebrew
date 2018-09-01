@@ -15,7 +15,7 @@ public class GetQuiz {
     public static final MediaType JSON = MediaType.parse("application/json; charset=utf-8");
 
     public static String StudyId = null;
-    public static String StudentHistoryId = null;
+    public static String StudentHistoryId = null; // "000077C2018000011";
 
     public static String BOOK_TYPE = "E";
 
@@ -26,8 +26,9 @@ public class GetQuiz {
     public static final String SAVE_RESULT_URL = "http://study6.readinggate.com/hp/asmx/wsBrPb.asmx/SaveTestResult";
 
     public static String title = "default";
-    public static String ROOT = "/home/siwon.sung/Samba/Reading Gate/";
-    public static String HOME = null;
+    public static String ROOT = "C:/Reading Gate/";
+    public static boolean isDropboxUpload = true;
+    public static String HOME = "C:/Reading Gate/";
 
     public static BufferedWriter bw = null;
 

@@ -70,8 +70,8 @@ public class Dropbox {
 
         // Upload "test.txt" to Dropbox
         for (String filename : filenames) {
-            try (InputStream in = new FileInputStream(filename)) {
-                FileMetadata metadata = client.files().uploadBuilder("/Reading Gate/" + bookname + "/" + filename).uploadAndFinish(in);
+            try (InputStream in = new FileInputStream(GetQuiz.HOME + "/" + filename)) {
+                FileMetadata metadata = client.files().uploadBuilder("/Reading Gate/April" + bookname + "/" + filename).uploadAndFinish(in);
             }
         }
     }

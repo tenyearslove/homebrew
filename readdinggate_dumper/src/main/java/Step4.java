@@ -68,9 +68,11 @@ public class Step4 {
             }
         }
         try {
-//            Dropbox.upload(GetQuiz.title, filenames);
-            for (String file : filenames) {
-//                new File(file).delete();
+            if (GetQuiz.isDropboxUpload == true) {
+                Dropbox.upload(GetQuiz.title, filenames);
+                for (String file : filenames) {
+                    new File(file).delete();
+                }
             }
         } catch (Exception e) {
             e.printStackTrace();
