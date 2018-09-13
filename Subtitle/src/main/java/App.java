@@ -16,8 +16,8 @@ import java.util.Date;
  */
 public class App {
     private static final int CHUNK = 5;
-    private static final String title = "minions";
-    private static final String MOVIE = "Minions 2015 BluRay 720p DTS x264-ETRG.mkv";//"Olafs.Frozen.Adventure.2017.1080p.WEB-DL.DD5.1.H.264-LAZY.mkv";
+    private static final String title = "Despicable.Me.2010.1080p.BluRay.x264.YIFY";
+    private static final String MOVIE = "Despicable.Me.2010.1080p.BluRay.x264.YIFY.mp4";//"Olafs.Frozen.Adventure.2017.1080p.WEB-DL.DD5.1.H.264-LAZY.mkv";
 
     public void trim() {
         SRTInfo info = SRTReader.read(new File(title + ".srt"));
@@ -62,8 +62,8 @@ public class App {
 
                 if (s.number % CHUNK == 0) {
                     bundle.endTime = s.endTime;
-                    ffmpeg(bundle);
-//                    ffmpeg2(bundle);
+//                    ffmpeg(bundle);
+                    ffmpeg2(bundle);
                     bundle = null;
                 }
             }
@@ -102,9 +102,9 @@ public class App {
             System.out.println("<TR>");
             SimpleDateFormat SDF = new SimpleDateFormat("HH:mm:ss.sss");
             long diff = (bundle.endTime.getTime() - bundle.startTime.getTime() + 500) / 1000;
-            Date sdate = new Date(bundle.startTime.getTime() - 100);
+            Date sdate = new Date(bundle.startTime.getTime() - 200);
             String outputFile = String.format(title + "_%04d", bundle.number);
-            String command = String.format("ffmpeg -ss %s -t %d -i \"%s\" -acodec copy -vcodec copy output2/%s.mkv", SDF.format(sdate), diff, MOVIE, outputFile);
+            String command = String.format("ffmpeg -ss %s -t %d -i \"%s\" -acodec copy -vcodec copy output2/%s.mp4", SDF.format(sdate), diff, MOVIE, outputFile);
             System.err.println(command);
 //            Runtime.getRuntime().exec(command);
             System.out.print("</TR>");
