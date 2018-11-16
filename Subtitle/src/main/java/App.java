@@ -26,8 +26,10 @@ public class App {
 
     private static final long Minus9Hour = -9*60*60*1000;
 
+    private static int audipo_id = 10000;
+
     public static void main(String[] args) {
-        new App().chunking(2);
+        new App().chunking(1);
 //        new App().trim();
     }
 
@@ -60,6 +62,7 @@ public class App {
 
             System.setOut(new PrintStream(new FileOutputStream(outputDirName + "/index.html")));
             System.setErr(new PrintStream(new FileOutputStream(outputDirName + "/run.bat")));
+            FileWriter fw = new FileWriter(outputDirName + "/audipo.txt");
             System.out.println("<HTML><BODY><TABLE cellpadding=\"5\" cellspacing=\"0\" border=\"1\" style=\"border-collapse:collapse; border:1px gray solid;\">");
             SRTInfo info = SRTReader.read(new File(title + ".trim.srt"));
             StringBuffer sb = new StringBuffer();
@@ -80,21 +83,22 @@ public class App {
                 if (s.number % CHUNK == 0) {
                     bundle.endTime = s.endTime;
                     if (flag == 1)
-                        ffmpeg(bundle);
+                        ffmpeg(bundle, fw);
                     else
                         ffmpeg2(bundle, outputDirName);
                     bundle = null;
                 }
             }
             if (bundle != null) {
-                ffmpeg(bundle);
+                ffmpeg(bundle, null);
             }
+            fw.close();
         } catch (Exception e) {
             e.printStackTrace();
         }
     }
 
-    public void ffmpeg(SRTBundle bundle) {
+    public void ffmpeg(SRTBundle bundle, FileWriter fw) {
         try {
             System.out.println("<TR>");
             SimpleDateFormat SDF = new SimpleDateFormat("HH:mm:ss");
@@ -110,6 +114,12 @@ public class App {
             System.err.println(command);
 //            Runtime.getRuntime().exec(command);
             System.out.print("</TR>");
+
+            int id = audipo_id++;
+            long pos = bundle.startTime.getTime()-Minus9Hour;
+            String tag = title+"."+bundle.number;
+            if (fw != null)
+                fw.write(String.format("{\"id\":%d,\"pos\":%d,\"tag\":\"%s\"},", id, pos, tag));
         } catch (Exception e) {
             e.printStackTrace();
         }
