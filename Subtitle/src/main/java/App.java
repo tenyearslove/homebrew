@@ -10,7 +10,9 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintStream;
 import java.text.SimpleDateFormat;
+import java.util.ArrayList;
 import java.util.Date;
+import java.util.List;
 
 import sun.java2d.pipe.SpanShapeRenderer;
 import sun.misc.OSEnvironment;
@@ -20,25 +22,48 @@ import sun.misc.OSEnvironment;
  */
 public class App {
     private static final int CHUNK = 1;
-    private static final String title = "Despicable.Me.2013";
-    private static final String MOVIE  = "Despicable.Me.2013.mkv";//"Olafs.Frozen.Adventure.2017.1080p.WEB-DL.DD5.1.H.264-LAZY.mkv";
+    private static final String title = "Despicable.Me.3.2017";
+    private static final String MOVIE  = title + ".mkv";
 
     private static final SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMddHHmmss");
-
     private static final long Minus9Hour = -9*60*60*1000;
-
-    private static int audipo_id = 10000;
+    private static int audipo_id = 20000;
 
     public static void main(String[] args) {
-        new App().chunking(1);
+        new App().chunking(2);
 //        new App().trim();
     }
 
     public void trim() {
-        SRTInfo info = SRTReader.read(new File(title + ".srt"));
+        SRTInfo originalInfo = SRTReader.read(new File("Movie/" + title + ".srt"));
+        SRTInfo purifiedInfo = purify(originalInfo);
+        SRTInfo trimedInfo = new SRTInfo();
+        int newSequence = 1;
+        int SIZE = purifiedInfo.size();
+        for (int i = 1 ; i <= SIZE ; i++) {
+            SRT s = purifiedInfo.get(i);
+            for (int j = i + 1 ; j <= SIZE ; j++) {
+                SRT next = purifiedInfo.get(j);
+                if (Character.isLowerCase(next.text.get(0).charAt(0))) {
+                    s = merge(s, next);
+                    i++;
+                } else {
+                    break;
+                }
+            }
+
+            trimedInfo.add(new SRT(newSequence++, s.startTime, s.endTime, s.text));
+        }
+
+        SRTWriter.write(new File("Movie" + File.separator + title + ".trim.srt"), trimedInfo);
+    }
+
+    private SRTInfo purify(SRTInfo info) {
         SRTInfo newInfo = new SRTInfo();
         int newSequence = 1;
         for (SRT s : info) {
+            if (s.text.size() == 0) continue;
+
             System.out.println("Number: " + s.number);
             System.out.println("Start time: " + SRTTimeFormat.format(s.startTime));
             System.out.println("End time: " + SRTTimeFormat.format(s.endTime));
@@ -48,18 +73,54 @@ public class App {
             }
             System.out.println();
 
-            if (s.text.size() > 0) {
-                newInfo.add(new SRT(newSequence++, s.startTime, s.endTime, s.text));
-            }
+            List<String> newList = new ArrayList<>();
+            String newString = concat(s.text).replaceAll("<i>|</i>|<p>|</p>|-|#|<[a-z]*[^>]*>|\\([^\\)]*\\)|^\\.\\.\\.|[A-Z]+:", "").trim();
+            if (newString.isEmpty()) continue;
+            newList.add(newString);
+            newInfo.add(new SRT(newSequence++, s.startTime, s.endTime, newList));
         }
 
-        SRTWriter.write(new File(title + ".trim.srt"), newInfo);
+        return newInfo;
     }
+
+    public SRT merge(SRT s1, SRT s2) {
+        List<String> newText = new ArrayList<>();
+        String concat = "";
+
+        concat += concat(s1.text);
+        concat += " " + concat(s2.text);
+
+        newText.add(concat);
+
+        return new SRT(s1.number, s1.startTime, s2.endTime, newText);
+    }
+
+    private String concat(List<String> list) {
+        String concat = "";
+        for (String str : list) {
+            if (Character.isUpperCase(str.charAt(0))) {
+                if (concat.isEmpty()) {
+                    concat += str;
+                } else {
+                    concat += "\n" + str;
+                }
+            } else {
+                if (concat.isEmpty()) {
+                    concat += str;
+                } else {
+                    concat += " " + str;
+                }
+            }
+        }
+        return concat;
+    }
+
+
     public void chunking(int flag) {
         try {
             String OS = System.getProperty("os.name").toLowerCase();
 
-            String outputDirName = String.format("output%d_%s_%s", flag, title,  sdf.format(new Date()));
+            String outputDirName = String.format("Output/output%d_%s_%s", flag, title,  sdf.format(new Date()));
             File outputDir = new File(outputDirName);
             outputDir.mkdir();
 
@@ -72,7 +133,7 @@ public class App {
             }
             FileWriter fw = new FileWriter(outputDirName + "/audipo.txt");
             System.out.println("<HTML><BODY><TABLE cellpadding=\"5\" cellspacing=\"0\" border=\"1\" style=\"border-collapse:collapse; border:1px gray solid;\">");
-            SRTInfo info = SRTReader.read(new File(title + ".trim.srt"));
+            SRTInfo info = SRTReader.read(new File("Movie" + File.separator + title + ".trim.srt"));
             StringBuffer sb = new StringBuffer();
             SRTBundle bundle = null;
             for (SRT s : info) {
@@ -111,7 +172,7 @@ public class App {
             System.out.println("<TR>");
             SimpleDateFormat SDF = new SimpleDateFormat("HH:mm:ss");
             String outputFile = String.format(title.replaceAll(" ", "_") + "_%04d.jpg", bundle.number);
-            String command = String.format("ffmpeg -ss %s -i \"..%s%s\" -vframes 1 -s 160x100 %s -y", SDF.format(bundle.startTime), File.separator, MOVIE, outputFile);
+            String command = String.format("ffmpeg -ss %s -i \"../../Movie/%s\" -vframes 1 -s 160x100 %s -y", SDF.format(bundle.startTime), MOVIE, outputFile);
 //            long diff = (bundle.endTime.getTime() - bundle.startTime.getTime() + 500) / 1000;
 //            Date sdate = new Date(bundle.startTime.getTime() - 500);
 //            String outputFile = String.format(title + "_%04d", bundle.number);
@@ -141,13 +202,14 @@ public class App {
             Date diff = new Date(bundle.endTime.getTime() - bundle.startTime.getTime() + 2500);
             Date sdate = new Date(bundle.startTime.getTime() - 500);
             String outputFile = String.format(title + "_%04d", bundle.number);
-            String command = String.format("ffmpeg -i \"..%s%s\" -ss %s -t %s -acodec aac -strict experimental -ac 2 -ab 192k \"%s.mp4\" -y", File.separator, MOVIE, SDF.format(sdate), SDF2.format(diff), outputFile);
+            String command = String.format("ffmpeg -i \"../../Movie/%s\" -ss %s -t %s -acodec aac -strict experimental -ac 2 -ab 192k \"%s.mp4\" -y", MOVIE, SDF.format(sdate), SDF2.format(diff), outputFile);
             System.err.println(command);
 //            Runtime.getRuntime().exec(command);
             System.out.print("</TR>");
 
             SRTInfo newInfo = new SRTInfo();
-            newInfo.add(new SRT(1, new Date(Minus9Hour), new Date(Minus9Hour + 60*1000), bundle.text));
+            String text = bundle.text.replaceAll("<P>|</P>", "");
+            newInfo.add(new SRT(1, new Date(Minus9Hour), new Date(Minus9Hour + 60*1000), text));
             SRTWriter.write(new File(outputDirName + "/" + outputFile + ".srt"), newInfo);
         } catch (Exception e) {
             e.printStackTrace();
@@ -160,4 +222,28 @@ public class App {
         public Date endTime;
         public String text = "";
     }
+
+//    private List<String> concat(List<String> strings) {
+//        String concated = "";
+//        for (String s : strings) {
+//            concated += removeSpecial(s) + " ";
+//        }
+//        concated.trim();
+//        List<String> list = new ArrayList<String>(1);
+//        list.add(concated);
+//
+//        return list;
+//    }
+
+//    private String removeSpecial(SRTInfo info) {
+//        for (SRT s : info) {
+//            List<String> newList = new ArrayList<>();
+//            List<String> stringList = s.text;
+//            for (String text : s.text) {
+//                newList.add(text.replaceAll("<i>|</i>|<p>|</p>|-|#", "").trim());
+//            }
+//            s.
+//            s.text = newList;
+//        }
+//    }
 }
