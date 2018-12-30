@@ -15,10 +15,10 @@ import java.lang.reflect.Type;
 
 public class RegApi {
     public static final String API_URL = "http://www.mgtpcr.or.kr";
-    public static final String USERID = "bingo3742";
-    public static final String PASSWD = "#duswjd9779";
-    public static final String USERNAME = "김연정";
-    public static final String TEL = "010-4001-7077";
+    public static final String USERID = "coolove";
+    public static final String PASSWD = "ghdi0522!!";
+    public static final String USERNAME = "성시원";
+    public static final String TEL = "010-4013-9992";
 
 //    private static RegApi instance = null;
     private HttpBinService service;

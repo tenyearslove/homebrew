@@ -44,11 +44,13 @@ public class RegTest {
             sb.append(api.cookie + "\n");
             sb.append(loopCount++ + "\n");
 
-            execute("222", "2018-09-24", "280000", "15", userName, tel);
-            execute("222", "2018-09-25", "280000", "15", userName, tel);
+            execute("222", "2019-02-05", "280000", "15", userName, tel);
+            execute("222", "2019-02-06", "260000", "15", userName, tel);
+            execute("222", "2019-02-07", "260000", "15", userName, tel);
 
-            execute("223", "2018-09-24", "280000", "15", userName, tel);
-            execute("223", "2018-09-25", "280000", "15", userName, tel);
+            execute("223", "2019-02-05", "280000", "15", userName, tel);
+            execute("223", "2019-02-06", "260000", "15", userName, tel);
+            execute("223", "2019-02-07", "260000", "15", userName, tel);
 
             log = sb.toString();
             if (watcher != null) {
