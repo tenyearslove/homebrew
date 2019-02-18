@@ -1,13 +1,15 @@
-group 'org.metachris'
-version '1.0'
-
-apply plugin: 'groovy'
 apply plugin: 'java'
 
-sourceCompatibility = 1.5
-
 repositories {
-    mavenCentral()
+    jcenter({ url "http://jcenter.bintray.com" })
+    maven { url "http://10.252.250.53:8081/lm/content/groups/public/" }
+    maven {
+        url "http://artifactory.samsungone.com:8081/artifactory/libs-release-local"
+        credentials {
+            username "usersdk"
+            password "usersdk123"
+        }
+    }
 }
 
 compileJava {
@@ -18,7 +20,7 @@ dependencies {
     compile 'com.squareup.okhttp3:okhttp:3.4.1'
     compile 'com.squareup.okhttp3:logging-interceptor:3.4.1'
     compile 'com.squareup.retrofit2:retrofit:2.1.0'
-    compile 'com.squareup.retrofit2:converter-gson:2.1.0'
+    compile 'com.squareup.retrofit2:converter-scalars:2.1.0'
 }
 
 task execute(type:JavaExec) {
