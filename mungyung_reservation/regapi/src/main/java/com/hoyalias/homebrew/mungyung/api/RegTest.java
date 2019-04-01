@@ -1,5 +1,8 @@
 package com.hoyalias.homebrew.mungyung.api;
 
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
 import retrofit2.Call;
 import retrofit2.Response;
 
@@ -44,13 +47,13 @@ public class RegTest {
             sb.append(api.cookie + "\n");
             sb.append(loopCount++ + "\n");
 
-            execute("222", "2019-02-05", "280000", "15", userName, tel);
-            execute("222", "2019-02-06", "260000", "15", userName, tel);
-            execute("222", "2019-02-07", "260000", "15", userName, tel);
+//            newExecute("222", "2019-04-29", "2019-04-30","15", userName, tel);
 
-            execute("223", "2019-02-05", "280000", "15", userName, tel);
-            execute("223", "2019-02-06", "260000", "15", userName, tel);
-            execute("223", "2019-02-07", "260000", "15", userName, tel);
+            newExecute("222", "2019-05-04", "2019-05-05","15", userName, tel);
+            newExecute("222", "2019-05-05", "2019-05-06","15", userName, tel);
+
+            newExecute("223", "2019-05-04", "2019-05-05","15", userName, tel);
+            newExecute("223", "2019-05-05", "2019-05-06","15", userName, tel);
 
             log = sb.toString();
             if (watcher != null) {
@@ -61,6 +64,12 @@ public class RegTest {
             if (autoRelogin && loopCount > 30) {
                 doLogin(userid, passwd);
                 loopCount = 0;
+            }
+
+            try {
+                Thread.sleep(5000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
             }
         }
 
@@ -83,6 +92,77 @@ public class RegTest {
         } catch (Exception e) {
             e.printStackTrace();
         }
+    }
+
+    public static void newExecute(final String room, final String startDate, String endDate, String persons, String userName, String tel) {
+        try {
+            try {
+                System.out.println("########## new Execute : " + room + " " + startDate);
+                Call<String> callCampingForm = campingForm(startDate, room);
+                Call<String> callRegisterYuga = registerYuga(startDate, endDate, room, persons, userName, tel);
+//                Response response0 = callCampingForm.execute();
+//                String body0 = response0.body().toString();
+
+                SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+                String campingAgree = format.format(new Date());
+                campingAgree = campingAgree.replaceAll(" ", "T");
+                campingAgree = campingAgree.replaceAll(":", "S");
+                api.setCookie2("campingAgree=" + campingAgree);
+
+                Response response = callRegisterYuga.execute();
+                String body = response.body().toString();
+
+                sb.append(body);
+            } catch (Exception e) {
+                System.out.println(e.getMessage());
+//                        e.printStackTrace();
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    public static Call<String> campingForm(String startDate, String room) {
+        String[] start = startDate.split("-");
+        Call<String> callYuga = api.getService().campingForm(
+                start[0],
+                String.format("%d", Integer.parseInt(start[1])),
+                String.format("%d", Integer.parseInt(start[2])),
+                "363",
+                room,
+                "1"
+        );
+
+        return callYuga;
+    }
+
+    public static Call<String> registerYuga(String startDate, String endDate, String room, String personMax, String userName, String tel) {
+        String[] telNum = tel.split("-");
+        String[] start = startDate.split("-");
+        Call<String> callYuga = api.getService().postRegisterYuga(
+                start[0],
+                String.format("%d", Integer.parseInt(start[1])),
+                String.format("%d", Integer.parseInt(start[2])),
+                room,
+                startDate,
+                endDate,
+                "1",
+                personMax,
+                userName,
+                userName,
+                "",
+                "",
+                "",
+                "",
+                "",
+                telNum[0],
+                telNum[1],
+                telNum[2],
+                "",
+                ""
+        );
+
+        return callYuga;
     }
 
     public static Call<String> getYugaCall(String startDate, String endDate, String room, String price, String personMax, String userName, String tel) {

@@ -7,7 +7,9 @@ import retrofit2.Converter;
 import retrofit2.Retrofit;
 import retrofit2.http.Field;
 import retrofit2.http.FormUrlEncoded;
+import retrofit2.http.GET;
 import retrofit2.http.POST;
+import retrofit2.http.Query;
 
 import java.io.IOException;
 import java.lang.annotation.Annotation;
@@ -15,15 +17,23 @@ import java.lang.reflect.Type;
 
 public class RegApi {
     public static final String API_URL = "http://www.mgtpcr.or.kr";
-    public static final String USERID = "coolove";
-    public static final String PASSWD = "ghdi0522!!";
-    public static final String USERNAME = "성시원";
-    public static final String TEL = "010-4013-9992";
+
+//    public static final String USERID = "coolove";
+//    public static final String PASSWD = "ghdi0522!!";
+//    public static final String USERNAME = "성시원";
+//    public static final String TEL = "010-4013-9992";
+
+    public static final String USERID = "minjooama";
+    public static final String PASSWD = "minjooama1@";
+    public static final String USERNAME = "이정현";
+    public static final String TEL = "010-6528-9849";
 
 //    private static RegApi instance = null;
     private HttpBinService service;
     private OkHttpClient httpClient = null;
     public String cookie = null;
+
+    public String campingAgree = "";
 
     /**
      * HttpBin.org service definition
@@ -101,6 +111,41 @@ public class RegApi {
                 @Field("cashType") String cashType,
                 @Field("etcNum") String etcNum
         );
+
+        @GET("/web/campingForm.do")
+        Call<String> campingForm(
+                @Query("year") String year,
+                @Query("month") String month,
+                @Query("date") String date,
+                @Query("menuIdx") String menuIdx,
+                @Query("idx") String idx,
+                @Query("useDay") String useDay
+        );
+
+        @FormUrlEncoded
+        @POST("/web/campingRegister.do")
+        Call<String> postRegisterYuga(
+                @Field("year") String year,
+                @Field("month") String month,
+                @Field("date") String date,
+                @Field("idx") String idx,
+                @Field("startDate") String startDate,
+                @Field("endDate") String endDate,
+                @Field("useDay") String useDay,
+                @Field("persons") String persons,
+                @Field("userName") String userName,
+                @Field("account") String account,
+                @Field("organization") String organization,
+                @Field("sido") String sido,
+                @Field("gugun") String gugun,
+                @Field("jusoName") String jusoName,
+                @Field("reason") String reason,
+                @Field("tel1") String tel1,
+                @Field("tel2") String tel2,
+                @Field("tel3") String tel3,
+                @Field("emailid") String emailid,
+                @Field("emaildomain") String emaildomain
+        );
     }
 
     /**
@@ -115,6 +160,7 @@ public class RegApi {
                 if (RegApi.this.cookie != null) {
                     Request.Builder builder = chain.request().newBuilder();
                     builder.addHeader("Cookie", RegApi.this.cookie);
+                    System.out.println("############# Cookie : " + RegApi.this.cookie);
                     return chain.proceed(builder.build());
                 } else {
                     return chain.proceed(chain.request());
@@ -194,5 +240,9 @@ public class RegApi {
 
     public void setCookie(String cookie) {
         this.cookie = cookie;
+    }
+
+    public void setCookie2(String cookie2) {
+        this.cookie += ("; " + cookie2);
     }
 }
