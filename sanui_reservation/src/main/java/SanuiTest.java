@@ -6,7 +6,7 @@ import java.util.List;
 
 public class SanuiTest {
     public static final String A_TIME = "2019-02-19 19:00";
-    public static final String B_TIME = "2019-02-19 21:00";
+    public static final String B_TIME = "2019-05-08 21:00";
 
     private Parent Hong = new Parent("김홍석", "shar", "ghdi0522!!", "010-5426-1432");
     private Parent Jina = new Parent("김진아", "jjin053", "ghdi0522!!", "010-4017-9992");
@@ -18,7 +18,7 @@ public class SanuiTest {
 
     private Student Hansol = new Student("김한솔", "1", "1", "1");
     private Student Julian = new Student("성지율", "3", "3", "1");
-    private Student April = new Student("성하연", "1", "1", "1");
+    private Student April = new Student("성하연", "1", "10", "8");
 
     public static void main(String[] args) {
         new SanuiTest().testInstance();
@@ -29,16 +29,8 @@ public class SanuiTest {
         protected void runCase() {
             while (true) {
                 try {
-                    //19시 신청
-                    parent.execute("363", April, A_TIME); // 생명과학2(에코 생명) 1~2학년 A반(금 2:10~3:30)
-
                     //21시 신청
-                    parent.execute("474", April, B_TIME); // 방송댄스 1-2학년 A반 (월 2:10-3:30)
-                    parent.execute("486", April, B_TIME); // 국악난타 1-2학년 A반 (화 2:10-3:30)
-                    parent.execute("484", April, B_TIME); // 리코더&오카리나&단소 1-2학년 A반 (수 1:20~2:40)
-                    parent.execute("494", April, B_TIME); // 창의미술 1-2학년 A반 (목 2:10~3:30)
-
-                    parent.execute("558", Julian, B_TIME); // 영어국제반IC13-6학년(주4회,수요일 2T)
+                    parent.execute("488", April, B_TIME); // 바이올린 1-6학년 A반 (월 2:10-3:30))
 
                     Thread.sleep(1000);
                 } catch (Exception e) {
@@ -72,7 +64,7 @@ public class SanuiTest {
 
     public void testInstance() {
         runCase1.run();
-        runCase2.run();
+//        runCase2.run();
     }
 
     public class Parent {
