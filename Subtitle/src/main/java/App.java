@@ -22,16 +22,18 @@ import sun.misc.OSEnvironment;
  */
 public class App {
     private static final int CHUNK = 1;
-    private static final String title = "Despicable.Me.3.2017";
+    private static final String title = "Ralph.Breaks.the.Internet.2018";
     private static final String MOVIE  = title + ".mkv";
 
     private static final SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMddHHmmss");
     private static final long Minus9Hour = -9*60*60*1000;
-    private static int audipo_id = 20000;
+    private static int audipo_id = 50000;
+    private static int shift = 0;
 
     public static void main(String[] args) {
         new App().chunking(2);
 //        new App().trim();
+//        new App().trim2(title);
     }
 
     public void trim() {
@@ -58,6 +60,35 @@ public class App {
         SRTWriter.write(new File("Movie" + File.separator + title + ".trim.srt"), trimedInfo);
     }
 
+    public void trim2(String title) {
+        SRTInfo originalInfo = SRTReader.read(new File("Movie/" + title + ".srt"));
+        SRTInfo purifiedInfo = purify(originalInfo);
+        SRTInfo trimedInfo = new SRTInfo();
+        int newSequence = 1;
+        int SIZE = purifiedInfo.size();
+
+        for (int i = 1 ; i <= SIZE ; i++) {
+            SRT s = purifiedInfo.get(i);
+            for (int j = i + 1 ; j <= SIZE ; j++) {
+                SRT next = purifiedInfo.get(j);
+                if (isEnd(s.text.get(0))) {
+                    break;
+                } else {
+                    s = merge(s, next);
+                    i++;
+                }
+            }
+
+            trimedInfo.add(new SRT(newSequence++, s.startTime, s.endTime, s.text));
+        }
+
+        SRTWriter.write(new File("Movie" + File.separator + title + ".trim.srt"), trimedInfo);
+    }
+
+    private boolean isEnd(String s) {
+        return (s.endsWith("...") == false) && (s.endsWith(".") || s.endsWith("?") || s.endsWith("!"));
+    }
+
     private SRTInfo purify(SRTInfo info) {
         SRTInfo newInfo = new SRTInfo();
         int newSequence = 1;
@@ -74,7 +105,8 @@ public class App {
             System.out.println();
 
             List<String> newList = new ArrayList<>();
-            String newString = concat(s.text).replaceAll("<i>|</i>|<p>|</p>|-|#|<[a-z]*[^>]*>|\\([^\\)]*\\)|^\\.\\.\\.|[A-Z]+:", "").trim();
+            String newString = concat(s.text).replaceAll("<i>|</i>|<p>|</p>|#|<[a-z]*[^>]*>|\\([^\\)]*\\)|^\\.\\.\\.|[A-Z]+:", "").trim();
+            newString = newString.replaceAll("\\n", " ");
             if (newString.isEmpty()) continue;
             newList.add(newString);
             newInfo.add(new SRT(newSequence++, s.startTime, s.endTime, newList));
@@ -188,7 +220,7 @@ public class App {
             long pos = bundle.startTime.getTime()-Minus9Hour;
             String tag = title+"."+bundle.number;
             if (fw != null)
-                fw.write(String.format("{\"id\":%d,\"pos\":%d,\"tag\":\"%s\"},", id, pos, tag));
+                fw.write(String.format("{\"id\":%d,\"pos\":%d,\"tag\":\"%s\"},", id, pos+shift, tag));
         } catch (Exception e) {
             e.printStackTrace();
         }
