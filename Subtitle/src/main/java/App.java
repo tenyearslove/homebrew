@@ -22,7 +22,7 @@ import sun.misc.OSEnvironment;
  */
 public class App {
     private static final int CHUNK = 1;
-    private static final String title = "Ralph.Breaks.the.Internet.2018";
+    private static final String title = "Mr.Peabody.and.Sherman.2014";
     private static final String MOVIE  = title + ".mkv";
 
     private static final SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMddHHmmss");
@@ -31,15 +31,18 @@ public class App {
     private static int shift = 0;
 
     public static void main(String[] args) {
+        new App().chunking(1);
         new App().chunking(2);
 //        new App().trim();
 //        new App().trim2(title);
+//        new App().sentences(title);
     }
 
     public void trim() {
         SRTInfo originalInfo = SRTReader.read(new File("Movie/" + title + ".srt"));
         SRTInfo purifiedInfo = purify(originalInfo);
         SRTInfo trimedInfo = new SRTInfo();
+
         int newSequence = 1;
         int SIZE = purifiedInfo.size();
         for (int i = 1 ; i <= SIZE ; i++) {
@@ -193,6 +196,10 @@ public class App {
             if (bundle != null) {
                 ffmpeg(bundle, null);
             }
+            if (flag == 1)
+                System.err.print(String.format("zip %s\\(HTML\\).zip ./*", title));
+            if (flag == 2)
+                System.err.print(String.format("zip %s\\(분할\\).zip ./*", title));
             fw.close();
         } catch (Exception e) {
             e.printStackTrace();
@@ -278,4 +285,14 @@ public class App {
 //            s.text = newList;
 //        }
 //    }
+
+    public void sentences(String title) {
+        SRTInfo originalInfo = SRTReader.read(new File("Movie/" + title + ".srt"));
+        int SIZE = originalInfo.size();
+
+        for (int i = 1 ; i <= SIZE ; i++) {
+            SRT s = originalInfo.get(i);
+            System.out.println(s.text.get(0));
+        }
+    }
 }
