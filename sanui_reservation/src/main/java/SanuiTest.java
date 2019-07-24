@@ -5,7 +5,7 @@ import java.util.Date;
 import java.util.List;
 
 public class SanuiTest {
-    public static final String A_TIME = "2019-07-23 21:00";
+    public static final String A_TIME = "2019-07-24 21:00";
 //    public static final String B_TIME = "2019-05-08 21:00";
 
     private Parent Hong = new Parent("김홍석", "shar", "ghdi0522!!", "010-5426-1432");
@@ -80,6 +80,7 @@ public class SanuiTest {
         String phone;
 
         SanuiApi sanuiApi;
+        long loginTime;
 
         public void execute(String uno, Student student, String openDateString) throws Exception {
             SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm");
@@ -90,6 +91,11 @@ public class SanuiTest {
                 LOG(getCall(uno, student).execute().body());
             } else {
                 LOG("신청가능 시각은 " + openDateString + " 입니다.");
+
+                if (System.currentTimeMillis() - loginTime > 300000) {
+                    LOG("시간초과로 다시 로그인 합니다.");
+                    doLogin();
+                }
             }
         }
 
@@ -142,9 +148,11 @@ public class SanuiTest {
                 }
 
                 LOG("END LOGIN : " + cookie);
+                loginTime = System.currentTimeMillis();
                 this.sanuiApi.setCookie(cookie);
             } catch (Exception e) {
                 e.printStackTrace();
+                return false;
             }
 
             return true;
