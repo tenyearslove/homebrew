@@ -6,8 +6,8 @@ import time
 from ProcessImage import process_page
 
 # DECLARE CONSTANTS
-KMC_PATH = "/home/siwon.sung/Phytoncide/KMC"
-PDF_PATH = KMC_PATH + "/KMC_후기_초3_예선_2011_24회_문제.pdf"
+KMC_PATH = "/home/siwon.sung/Phytoncide/HME"
+PDF_PATH = KMC_PATH + "/HME_2005_하_초1_문제.pdf"
 OUTPUT_PATH = KMC_PATH + "/OUTPUT"
 
 DPI = 200
@@ -51,9 +51,28 @@ def save_images(pil_images, output_path, name):
         index += 1
 
 
-def process_pdf(pdf_path, output_path):
+def process_pdf(pdf_path, output_path, column=1):
     pil_images = pdftopil(pdf_path)
-    save_images(pil_images, output_path, pdf_path)
+    target_image = pil_images if column == 1 else split_page(pil_images)
+    save_images(target_image, output_path, get_file_name_without_ext(pdf_path))
+
+
+def get_file_name_without_ext(path):
+    return path.split("/")[-1].split(".")[0]
+
+
+def split_page(images):
+    splited = []
+    for img in images:
+        x, y = img.size
+        center = int(x / 2)
+        left = img.crop((0, 0, center-10, y))
+        right = img.crop((center+10, 0, x, y))
+
+        splited.append(left)
+        splited.append(right)
+
+    return splited
 
 
 if __name__ == "__main__":

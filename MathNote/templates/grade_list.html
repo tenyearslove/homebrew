@@ -13,7 +13,13 @@
     </ul>
     </div>
 
-    <form action="/kmc/file_upload" method="POST" enctype="multipart/form-data">
+    <br>
+    <br>
+    <a href="/{{type}}/view_cart">CART</a>
+
+    <br>
+    <br>
+    <form action="/{{type}}/file_upload" method="POST" enctype="multipart/form-data">
         <input type="file" name="file" />
         <input type="text" name="sequence" />
         <input type="hidden" name="grade" value="{{grade}}" />

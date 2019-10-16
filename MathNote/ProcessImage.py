@@ -1,7 +1,6 @@
 from PIL import Image, ImageDraw, ImageFont
 import os, errno
 
-SEQUENCE = 22
 BLANK_HIGHT = 150
 
 
@@ -34,7 +33,7 @@ def crop(image, page, start, end, dest_path, watermark):
         # draw watermark in the bottom right corner
         draw.text((x, y), watermark, font=font, fill=(0, 0, 0, 0))
 
-        crop.save('{}/{}-{:02d}-{:04d}.jpg'.format(dest_path, SEQUENCE, page, start))
+        crop.save('{}/{}-{:02d}-{:04d}.jpg'.format(dest_path, watermark, page, start))
 
 
 def process_page(image, name, page, dest_path):
