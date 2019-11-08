@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{title}}</title>
+</head>
+<body>
+    <div id='main'>
+    <ul>
+        {% for value in values %}
+        <li><a href='{{request.path}}/{{value}}'>{{value}}</a></li>
+        {% endfor %}
+    </ul>
+    </div>
+
+</body>
+</html>

@@ -5,8 +5,8 @@ import java.util.Date;
 import java.util.List;
 
 public class SanuiTest {
-    public static final String A_TIME = "2019-02-19 19:00";
-    public static final String B_TIME = "2019-05-08 21:00";
+    public static final String A_TIME = "2019-07-24 21:00";
+//    public static final String B_TIME = "2019-05-08 21:00";
 
     private Parent Hong = new Parent("김홍석", "shar", "ghdi0522!!", "010-5426-1432");
     private Parent Jina = new Parent("김진아", "jjin053", "ghdi0522!!", "010-4017-9992");
@@ -17,7 +17,7 @@ public class SanuiTest {
     };
 
     private Student Hansol = new Student("김한솔", "1", "1", "1");
-    private Student Julian = new Student("성지율", "3", "3", "1");
+    private Student Julian = new Student("성지율", "3", "3", "23");
     private Student April = new Student("성하연", "1", "10", "8");
 
     public static void main(String[] args) {
@@ -30,7 +30,8 @@ public class SanuiTest {
             while (true) {
                 try {
                     //21시 신청
-                    parent.execute("488", April, B_TIME); // 바이올린 1-6학년 A반 (월 2:10-3:30))
+                    parent.execute("488", April, A_TIME); // 바이올린 1-6학년 A반 (월 2:10-3:30))
+                    parent.execute("483", Julian, A_TIME); // 놀이체육&농구 3-6학년 B반 (금 3:40-5:00))
 
                     Thread.sleep(1000);
                 } catch (Exception e) {
@@ -40,19 +41,16 @@ public class SanuiTest {
         }
     };
 
-    RunCase runCase2 = new RunCase(Hong) {
+    RunCase runCase2 = new RunCase(Jina) {
         @Override
         protected void runCase() {
             while (true) {
                 try {
-                    //19시 신청
-                    parent.execute("363", Hansol, A_TIME); // 생명과학2(에코 생명) 1~2학년 A반(금 2:10~3:30)
-
                     //21시 신청
-                    parent.execute("474", Hansol, B_TIME); // 방송댄스 1-2학년 A반 (월 2:10-3:30)
-                    parent.execute("486", Hansol, B_TIME); // 국악난타 1-2학년 A반 (화 2:10-3:30)
-                    parent.execute("484", Hansol, B_TIME); // 리코더&오카리나&단소 1-2학년 A반 (수 1:20~2:40)
-                    parent.execute("494", Hansol, B_TIME); // 창의미술 1-2학년 A반 (목 2:10~3:30)
+                    parent.execute("474", Hansol, A_TIME); // 방송댄스 1-2학년 A반 (월 2:10-3:30)
+                    parent.execute("486", Hansol, A_TIME); // 국악난타 1-2학년 A반 (화 2:10-3:30)
+                    parent.execute("484", Hansol, A_TIME); // 리코더&오카리나&단소 1-2학년 A반 (수 1:20~2:40)
+                    parent.execute("494", Hansol, A_TIME); // 창의미술 1-2학년 A반 (목 2:10~3:30)
 
                     Thread.sleep(1000);
                 } catch (Exception e) {
@@ -82,6 +80,7 @@ public class SanuiTest {
         String phone;
 
         SanuiApi sanuiApi;
+        long loginTime;
 
         public void execute(String uno, Student student, String openDateString) throws Exception {
             SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm");
@@ -92,6 +91,11 @@ public class SanuiTest {
                 LOG(getCall(uno, student).execute().body());
             } else {
                 LOG("신청가능 시각은 " + openDateString + " 입니다.");
+
+                if (System.currentTimeMillis() - loginTime > 300000) {
+                    LOG("시간초과로 다시 로그인 합니다.");
+                    doLogin();
+                }
             }
         }
 
@@ -144,9 +148,11 @@ public class SanuiTest {
                 }
 
                 LOG("END LOGIN : " + cookie);
+                loginTime = System.currentTimeMillis();
                 this.sanuiApi.setCookie(cookie);
             } catch (Exception e) {
                 e.printStackTrace();
+                return false;
             }
 
             return true;

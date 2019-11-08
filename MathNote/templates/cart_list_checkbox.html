@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{title}}</title>
+    <script>
+        function makeQuestion() {
+            document.forms["process"].action = "/{{type}}/image_list";
+            document.forms["process"].submit();
+        }
+
+        function deleteItem() {
+            document.forms["process"].action = "/{{type}}/delete_item";
+            document.forms["process"].submit();
+        }
+
+        function deleteCart() {
+            document.forms["process"].action = "/{{type}}/delete_cart";
+            document.forms["process"].submit();
+        }
+    </script>
+</head>
+<body>
+    <form name="process" method="post" action="/{{type}}/image_list">
+    <input type="hidden" name="grade" value="{{grade}}" />
+    <input type="hidden" name="sequence" value="{{sequence}}" />
+    <div id='main'>
+    <table border='1'>
+        {% for value in values %}
+        <tr>
+            <td><input type="checkbox" name="question" value="{{value}}"/></td>
+            <td><img width="500" src="{{value}}"/></td>
+        </tr>
+        {% endfor %}
+    </table>
+    </div>
+    <input type="button" id="make" onclick="makeQuestion();" value="MAKE QUESTION"/>
+    <input type="button" id="delete" onclick="deleteItem();" value="DELETE ITEM"/>
+    <input type="button" id="deleteAll" onclick="deleteCart();" value="DELETE CART"/>
+    </form>
+</body>
+</html>
