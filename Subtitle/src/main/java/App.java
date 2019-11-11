@@ -20,7 +20,7 @@ public class App {
     private static final int CHUNK = 1;
     private static String title = "";
     private static String MOVIE = "";
-    private static String ext = ".mkv";
+    private static String ext = ".mp4";
 
     private static final SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMddHHmmss");
     private static final long Minus9Hour = -9 * 60 * 60 * 1000;
@@ -37,13 +37,70 @@ public class App {
                 MOVIE = title + ext;
                 System.out.println(title);
 
-                new App().trim2(title);
+//                new App().trim2(title);
                 new App().chunking(1);
                 new App().chunking(2);
 
                 System.out.println("===========================================");
             }
         }
+    }
+
+    private static final String[] Be_Verb = {"am", "are", "is", "was", "were"};
+    private static final String[] Pronoun = {"i", "you", "he", "she", "it", "we", "you", "they", "me", "him", "her", "us", "them", "my", "your", "his", "its", "our", "your", "their", "mine", "yours", "hers", "ours", "yours", "theirs"};
+    private static final String[] Relatives = {"who", "when", "where", "why", "which", "how", "that", "whose", "whom"};
+    private static final String[] Auxiliary = {"will", "would", "can", "could", "shall", "should"};
+    private static final String[] PrePosition = {"in", "at", "on", "for", "to", "up"};
+    private static final String[] Interjaction = {"oh", "ah", "wow", "oops", "uh", "hey", "yes", "no"};
+    private static final String[] Article = {"a", "an", "the"};
+
+    private static final String[][] Exceptions = {Be_Verb, Pronoun, Relatives, Auxiliary, PrePosition, Interjaction, Article};
+
+    public String makeDictation(String s) {
+        String[] splited = s.split(" ");
+        int last = -100;
+        for (int k = 0 ; k < splited.length ; k++) {
+            String token = splited[k];
+            if (token.indexOf("'") >= 0) continue;
+            if (token.indexOf(",") >= 0) continue;
+            if (Character.isUpperCase(token.charAt(0))) continue;
+            if (token.startsWith("[")) continue;
+            if (token.endsWith("]")) continue;
+            if (token.startsWith("<")) continue;
+            if (token.endsWith(">")) continue;
+            if (token.length() == 1) continue;;
+
+            String lowerToken = token.toLowerCase();
+
+            boolean isExceptionWord = false;
+            loops:
+            for (String[] wordClass : Exceptions) {
+                for (int i = 0 ; i < wordClass.length ; i++) {
+                    if (lowerToken.equals(wordClass[i])) {
+                        isExceptionWord = true;
+                        break loops;
+                    }
+                }
+            }
+
+            if (isExceptionWord == false) {
+                splited[k] = replaceWithUnderscore(token.length());
+                last = k;
+            }
+        }
+
+        return String.join(" ", splited);
+    }
+
+    public String replaceWithUnderscore(int len) {
+        StringBuffer sb = new StringBuffer();
+        len = (int) (len * 2);
+        while (len-- > 0) {
+//            if (sb.length() > 0) sb.append(" ");
+            sb.append("_");
+        }
+
+        return sb.toString();
     }
 
     public void trim() {
@@ -167,17 +224,23 @@ public class App {
 
             String outputDirName = String.format("Output/output%d_%s_%s", flag, _title, sdf.format(new Date()));
             File outputDir = new File(outputDirName);
-            outputDir.mkdir();
+            outputDir.mkdirs();
 
-            System.setOut(new PrintStream(new FileOutputStream(outputDirName + "/index.html")));
             if (OS.contains("nux")) {
                 System.setErr(new PrintStream(new FileOutputStream(outputDirName + "/run.sh")));
                 System.err.println("#!/bin/sh");
             } else {
                 System.setErr(new PrintStream(new FileOutputStream(outputDirName + "/run.bat")));
             }
-            FileWriter fw = new FileWriter(outputDirName + "/audipo.txt");
-            System.out.println("<HTML><HEAD><meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"></HEAD><BODY><TABLE cellpadding=\"5\" cellspacing=\"0\" border=\"1\" style=\"border-collapse:collapse; border:1px gray solid;\">");
+            FileWriter audipoFw = null;
+            FileWriter dictationFw = null;
+            if (flag == 1) {
+                System.setOut(new PrintStream(new FileOutputStream(outputDirName + "/index.html")));
+                audipoFw = new FileWriter(outputDirName + "/audipo.txt");
+                dictationFw = new FileWriter(outputDirName + "/dictation.html");
+                System.out.println("<HTML><HEAD><meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"></HEAD><BODY><TABLE cellpadding=\"5\" cellspacing=\"0\" border=\"1\" style=\"border-collapse:collapse; border:1px gray solid;\">");
+                dictationFw.write("<HTML><HEAD><meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"></HEAD><BODY><TABLE cellpadding=\"5\" cellspacing=\"0\" border=\"1\" style=\"border-collapse:collapse; border:1px gray solid;\">\n");
+            }
             SRTInfo info = SRTReader.read(new File("Movie" + File.separator + title + ".trim.srt"));
             StringBuffer sb = new StringBuffer();
             SRTBundle bundle = null;
@@ -197,25 +260,28 @@ public class App {
                 if (s.number % CHUNK == 0) {
                     bundle.endTime = s.endTime;
                     if (flag == 1)
-                        ffmpeg(bundle, fw);
+                        ffmpeg(bundle, audipoFw, dictationFw);
                     else
                         ffmpeg2(bundle, outputDirName);
                     bundle = null;
                 }
             }
             if (bundle != null) {
-                ffmpeg(bundle, null);
+                ffmpeg(bundle, null, null);
             }
             if (flag == 1)
                 System.err.println(String.format("zip \"%s(HTML).zip\" ./*", _title));
-            if (flag == 2)
-                System.err.println(String.format("zip \"%s(분할).zip\" ./*", _title));
+            if (flag == 2) {
+                System.err.println(String.format("zip \"%s(분할).zip\" ./*.mp4 ./*.srt", _title));
+                System.err.println(String.format("zip \"%s(MP3).zip\" ./*.mp3", _title));
+            }
 
             if (OS.contains("nux")) {
-                System.err.println("rm -rf *.srt *.mp4 *.html *.jpg *.html *.txt *.sh");
+                System.err.println("rm -rf *.srt *.mp4 *.mp3 *.html *.jpg *.html *.txt *.sh");
                 System.err.println("mv *.zip /home-mc/siwon.sung/Phytoncide/Movies/New_Movie/0_Processing/");
             }
-            fw.close();
+            audipoFw.close();
+            dictationFw.close();
 
             if (OS.contains("nux")) {
                 Runtime rt = Runtime.getRuntime();
@@ -227,7 +293,7 @@ public class App {
         }
     }
 
-    public void ffmpeg(SRTBundle bundle, FileWriter fw) {
+    public void ffmpeg(SRTBundle bundle, FileWriter audipofw, FileWriter dictationFw) {
         try {
             System.out.println("<TR>");
             SimpleDateFormat SDF = new SimpleDateFormat("HH:mm:ss");
@@ -237,6 +303,7 @@ public class App {
 //            Date sdate = new Date(bundle.startTime.getTime() - 500);
 //            String outputFile = String.format(title + "_%04d", bundle.number);
 //            String command = String.format("ffmpeg -ss %s -t %d -i \"%s\" -acodec copy -vcodec copy output2/%s.mkv", SDF.format(sdate), diff, MOVIE, outputFile);
+
             System.out.println(String.format("<TD align=\"center\">%04d</TD>", bundle.number));
             System.out.println(String.format("<TD><IMG SRC='%s'></TD>", outputFile));
             System.out.println(String.format("<TD>%s</TD>", bundle.text));
@@ -244,11 +311,18 @@ public class App {
 //            Runtime.getRuntime().exec(command);
             System.out.print("</TR>");
 
+
+            if (dictationFw != null) {
+                dictationFw.write(String.format("<TD align=\"center\">%04d</TD>\n", bundle.number));
+                dictationFw.write(String.format("<TD>%s</TD>\n", makeDictation(bundle.text)));
+                dictationFw.write("</TR>\n");
+            }
+
             int id = audipo_id++;
             long pos = bundle.startTime.getTime() - Minus9Hour;
             String tag = title + "." + bundle.number;
-            if (fw != null)
-                fw.write(String.format("{\"id\":%d,\"pos\":%d,\"tag\":\"%s\"},", id, pos + shift, tag));
+            if (audipofw != null)
+                audipofw.write(String.format("{\"id\":%d,\"pos\":%d,\"tag\":\"%s\"},", id, pos + shift, tag));
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -263,7 +337,9 @@ public class App {
             Date sdate = new Date(bundle.startTime.getTime() - 500);
             String outputFile = String.format(title + "_%04d", bundle.number);
             String command = String.format("ffmpeg -i \"../../Movie/%s\" -ss %s -t %s -acodec aac -strict experimental -ac 2 -ab 192k \"%s.mp4\" -y", MOVIE, SDF.format(sdate), SDF2.format(diff), outputFile);
+            String command2 = String.format("ffmpeg -i \"%s.mp4\" \"%s.mp3\" -y", MOVIE, outputFile, outputFile);
             System.err.println(command);
+            System.err.println(command2);
 //            Runtime.getRuntime().exec(command);
             System.out.print("</TR>");
 
