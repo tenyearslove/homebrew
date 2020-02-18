@@ -5,64 +5,59 @@ import java.util.Date;
 import java.util.List;
 
 public class SanuiTest {
-    public static final String A_TIME = "2019-07-24 21:00";
-//    public static final String B_TIME = "2019-05-08 21:00";
+    public static final String A_TIME = "2020-02-18 19:00";
+    public static final String B_TIME = "2020-02-18 21:00";
+    public static Date END_TIME = null;
 
     private Parent Hong = new Parent("김홍석", "shar", "ghdi0522!!", "010-5426-1432");
     private Parent Jina = new Parent("김진아", "jjin053", "ghdi0522!!", "010-4017-9992");
     private Parent Siwon = new Parent("성시원", "coolove", "ghdi0522!!", "010-4013-9992");
 
-    private Parent[] parents = new Parent[]{
-            Jina, Siwon
-    };
-
     private Student Hansol = new Student("김한솔", "1", "1", "1");
-    private Student Julian = new Student("성지율", "3", "3", "23");
-    private Student April = new Student("성하연", "1", "10", "8");
+    private Student Julian = new Student("성지율", "4", "1", "1");
+    private Student April = new Student("성하연", "2", "2", "1");
+
+    static {
+        try {
+            END_TIME = new SimpleDateFormat("yyyy-MM-dd HH:mm").parse("2020-02-18 22:00");
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
 
     public static void main(String[] args) {
         new SanuiTest().testInstance();
     }
 
+    //Jina
     RunCase runCase1 = new RunCase(Jina) {
         @Override
         protected void runCase() {
-            while (true) {
-                try {
-                    //21시 신청
-                    parent.execute("488", April, A_TIME); // 바이올린 1-6학년 A반 (월 2:10-3:30))
-                    parent.execute("483", Julian, A_TIME); // 놀이체육&농구 3-6학년 B반 (금 3:40-5:00))
+            //19시 신청
+            parent.execute("356", April, A_TIME); // 한자속독 B반 1-6학년 (목 3:40~5:00) 2020-02-18일 19시 ~ 2020-02-21일 11시
+            parent.execute("356", Julian, A_TIME); // 한자속독 B반 1-6학년 (목 3:40~5:00) 2020-02-18일 19시 ~ 2020-02-21일 11시
 
-                    Thread.sleep(1000);
-                } catch (Exception e) {
-                    e.printStackTrace();
-                }
-            }
+            //21시 신청
+            parent.execute("480", April, B_TIME); // 창의미술 1-2학년 A반 (목 2:10~3:30) 2020-02-18일 21시 ~ 2020-02-21일 11시
         }
     };
 
-    RunCase runCase2 = new RunCase(Jina) {
+    //Hong
+    RunCase runCase2 = new RunCase(Hong) {
         @Override
         protected void runCase() {
-            while (true) {
-                try {
-                    //21시 신청
-                    parent.execute("474", Hansol, A_TIME); // 방송댄스 1-2학년 A반 (월 2:10-3:30)
-                    parent.execute("486", Hansol, A_TIME); // 국악난타 1-2학년 A반 (화 2:10-3:30)
-                    parent.execute("484", Hansol, A_TIME); // 리코더&오카리나&단소 1-2학년 A반 (수 1:20~2:40)
-                    parent.execute("494", Hansol, A_TIME); // 창의미술 1-2학년 A반 (목 2:10~3:30)
+            //19시 신청
+            parent.execute("356", Hansol, A_TIME); // 한자속독 B반 1-6학년 (목 3:40~5:00) 2020-02-18일 19시 ~ 2020-02-21일 11시
+            parent.execute("361", Hansol, A_TIME); // 생명과학1(꼬마킹콩) 1~2학년 A반(월 2:10~3:30) 2020-02-18일 19시 ~ 2020-02-21일 11시
 
-                    Thread.sleep(1000);
-                } catch (Exception e) {
-                    e.printStackTrace();
-                }
-            }
+            //21시 신청
+            parent.execute("480", Hansol, B_TIME); // 창의미술 1-2학년 A반 (목 2:10~3:30) 2020-02-18일 21시 ~ 2020-02-21일 11시
         }
     };
 
     public void testInstance() {
         runCase1.run();
-//        runCase2.run();
+        runCase2.run();
     }
 
     public class Parent {
@@ -82,20 +77,24 @@ public class SanuiTest {
         SanuiApi sanuiApi;
         long loginTime;
 
-        public void execute(String uno, Student student, String openDateString) throws Exception {
-            SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm");
-            Date openDate = dateFormat.parse(openDateString);
-            Date now = new Date();
+        public void execute(String uno, Student student, String openDateString) {
+            try {
+                SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm");
+                Date openDate = dateFormat.parse(openDateString);
+                Date now = new Date();
 
-            if (now.after(openDate)) {
-                LOG(getCall(uno, student).execute().body());
-            } else {
-                LOG("신청가능 시각은 " + openDateString + " 입니다.");
+                if (now.after(openDate)) {
+                    LOG(getCall(uno, student).execute().body());
+                } else {
+                    LOG("신청가능 시각은 " + openDateString + " 입니다.");
 
-                if (System.currentTimeMillis() - loginTime > 300000) {
-                    LOG("시간초과로 다시 로그인 합니다.");
-                    doLogin();
+                    if (System.currentTimeMillis() - loginTime > 10 * 60 * 1000) {
+                        LOG("시간초과로 다시 로그인 합니다.");
+                        doLogin();
+                    }
                 }
+            } catch (Exception e) {
+                e.printStackTrace();
             }
         }
 
@@ -190,7 +189,15 @@ public class SanuiTest {
                     }
                 }
 
-                runCase();
+                while (new Date().before(END_TIME)) {
+                    try {
+                        runCase();
+
+                        Thread.sleep(1000);
+                    } catch (Exception e) {
+                        e.printStackTrace();
+                    }
+                }
             }, this.parent.name).start();
         }
 
