@@ -23,10 +23,15 @@ public class RegApi {
 //    public static final String USERNAME = "성시원";
 //    public static final String TEL = "010-4013-9992";
 
-    public static final String USERID = "minjooama";
-    public static final String PASSWD = "minjooama1@";
-    public static final String USERNAME = "이정현";
-    public static final String TEL = "010-6528-9849";
+//    public static final String USERID = "minjooama";
+//    public static final String PASSWD = "minjooama1@";
+//    public static final String USERNAME = "이정현";
+//    public static final String TEL = "010-6528-9849";
+
+    public static final String USERID = "avocadoj";
+    public static final String PASSWD = "avo378717*";
+    public static final String USERNAME = "김민정";
+    public static final String TEL = "010-2528-5099";
 
 //    private static RegApi instance = null;
     private HttpBinService service;
@@ -153,7 +158,7 @@ public class RegApi {
      */
     private RegApi() {
         HttpLoggingInterceptor loggingLevelinterceptor = new HttpLoggingInterceptor();
-        loggingLevelinterceptor.setLevel(HttpLoggingInterceptor.Level.BODY);
+        loggingLevelinterceptor.setLevel(HttpLoggingInterceptor.Level.NONE);
 
         Interceptor cookieInterceptor = new Interceptor() {
             public Response intercept(Interceptor.Chain chain) throws IOException {
@@ -244,5 +249,29 @@ public class RegApi {
 
     public void setCookie2(String cookie2) {
         this.cookie += ("; " + cookie2);
+    }
+
+    public void setCookie3(String key, String value) {
+        String newCookie = "";
+        boolean isAdd = false;
+        String[] cookies = this.cookie.split("; ");
+        if (cookies != null) {
+            for (String cookie : cookies) {
+                String[] keyValue = cookie.split("=");
+                if (keyValue[0].equals(key) == false) {
+                    newCookie += (cookie);
+                } else {
+                    newCookie += (key + "=" + value);
+                    isAdd = true;
+                }
+
+                newCookie += "; ";
+            }
+
+            if (isAdd == false) {
+                newCookie += (key + "=" + value + "; ");
+            }
+        }
+        this.cookie = newCookie;
     }
 }

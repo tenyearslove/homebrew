@@ -23,56 +23,76 @@ public class RegTest {
     }
 
     public static void testInstance(RegTestWatcher watcher, String userid, String passwd, boolean autoRelogin) {
-        api = RegApi.getInstance();
+        try {
+            api = RegApi.getInstance();
 
-        doLogin(userid, passwd);
+            doLogin(userid, passwd);
 
-        Call<String> call;
-        Response<String> response;
+            Call<String> call;
+            Response<String> response;
 
-        System.out.println("START");
+            System.out.println("START");
 
-        // 222 북두칠성
-        // 223 남두육성
+            // 222 북두칠성
+            // 223 남두육성
 
-        String userName = RegApi.USERNAME;
-        String tel = RegApi.TEL;
+            String userName = RegApi.USERNAME;
+            String tel = RegApi.TEL;
 
-//        String userName = "성시원";
-//        String tel = "010-4013-9992";
+            //        String userName = "성시원";
+            //        String tel = "010-4013-9992";
 
-        int loopCount = 0;
-        while (loop) {
-            sb = new StringBuffer();
-            sb.append(api.cookie + "\n");
-            sb.append(loopCount++ + "\n");
+            SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMdd HH:mm:ss");
+            Date willDate = sdf.parse("20200901 12:00:00");
 
-//            newExecute("222", "2019-04-29", "2019-04-30","15", userName, tel);
+            int loopCount = 0;
+            while (loop) {
+                sb = new StringBuffer();
+                sb.append(api.cookie + "\n");
+                sb.append(loopCount++ + "\n");
 
-            newExecute("222", "2019-05-04", "2019-05-05","15", userName, tel);
-            newExecute("222", "2019-05-05", "2019-05-06","15", userName, tel);
+//                newExecute("219", "2020-10-03", "2020-10-04", "6", userName, tel);
+//
+//                newExecute("223", "2020-10-01", "2020-10-02", "15", userName, tel);
+//                newExecute("223", "2020-10-02", "2020-10-03", "15", userName, tel);
+//
+//                newExecute("222", "2020-10-01", "2020-10-02", "15", userName, tel);
+//                newExecute("222", "2020-10-02", "2020-10-03", "15", userName, tel);
 
-            newExecute("223", "2019-05-04", "2019-05-05","15", userName, tel);
-            newExecute("223", "2019-05-05", "2019-05-06","15", userName, tel);
+                Date now = new Date();
+                if (now.after(willDate)) {
+                    newExecute("219", "2020-10-03", "2020-10-04", "6", userName, tel);
 
-            log = sb.toString();
-            if (watcher != null) {
-                watcher.onLog(log);
+                    newExecute("223", "2020-10-01", "2020-10-02", "15", userName, tel);
+                    newExecute("223", "2020-10-02", "2020-10-03", "15", userName, tel);
+
+                    newExecute("222", "2020-10-01", "2020-10-02", "15", userName, tel);
+                    newExecute("222", "2020-10-02", "2020-10-03", "15", userName, tel);
+                } else {
+                    System.out.println("Please wait.. " + sdf.format(now) + " " + sdf.format(willDate));
+                }
+
+                log = sb.toString();
+                if (watcher != null) {
+                    watcher.onLog(log);
+                }
+                sb = null;
+
+                if (autoRelogin && loopCount > 30) {
+                    boolean success = doLogin(userid, passwd);
+                    if (success)
+                        loopCount = 0;
+                }
+
+                try {
+                    Thread.sleep(5000);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
             }
-            sb = null;
-
-            if (autoRelogin && loopCount > 30) {
-                doLogin(userid, passwd);
-                loopCount = 0;
-            }
-
-            try {
-                Thread.sleep(5000);
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
+        } catch (Exception e) {
+            e.printStackTrace();
         }
-
     }
 
     public static void execute(final String room, final String regDate, final String price, String personMax, String userName, String tel) {
@@ -107,7 +127,8 @@ public class RegTest {
                 String campingAgree = format.format(new Date());
                 campingAgree = campingAgree.replaceAll(" ", "T");
                 campingAgree = campingAgree.replaceAll(":", "S");
-                api.setCookie2("campingAgree=" + campingAgree);
+//                api.setCookie2("campingAgree=" + campingAgree);
+                api.setCookie3("campingAgree", campingAgree);
 
                 Response response = callRegisterYuga.execute();
                 String body = response.body().toString();
@@ -215,7 +236,7 @@ public class RegTest {
         return callYuga;
     }
 
-    public static void doLogin(String user_id, String passwd) {
+    public static boolean doLogin(String user_id, String passwd) {
         try {
             api.setCookie(null);
 
@@ -240,16 +261,16 @@ public class RegTest {
             okhttp3.Response response2 = call2.execute();
             String body = response2.body().string();
             boolean correct = body.contains("로그인 시도 실패");
-            if (correct == true) {
-                exit(1);
+            if (correct == false) {
+                System.out.println("DO LOGIN : " + cookie);
+                api.setCookie(cookie);
+                return true;
             }
-
-            System.out.println("DO LOGIN : " + cookie);
-            api.setCookie(cookie);
-
         } catch (Exception e) {
             e.printStackTrace();
         }
+
+        return false;
     }
 
     public interface RegTestWatcher {
