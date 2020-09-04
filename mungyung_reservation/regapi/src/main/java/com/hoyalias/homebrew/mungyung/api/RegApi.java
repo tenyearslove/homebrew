@@ -18,20 +18,25 @@ import java.lang.reflect.Type;
 public class RegApi {
     public static final String API_URL = "http://www.mgtpcr.or.kr";
 
-//    public static final String USERID = "coolove";
-//    public static final String PASSWD = "ghdi0522!!";
-//    public static final String USERNAME = "성시원";
-//    public static final String TEL = "010-4013-9992";
+    public static final String USERID = "coolove";
+    public static final String PASSWD = "ghdi0522!!";
+    public static final String USERNAME = "성시원";
+    public static final String TEL = "010-4013-9992";
 
 //    public static final String USERID = "minjooama";
 //    public static final String PASSWD = "minjooama1@";
 //    public static final String USERNAME = "이정현";
 //    public static final String TEL = "010-6528-9849";
 
-    public static final String USERID = "avocadoj";
-    public static final String PASSWD = "avo378717*";
-    public static final String USERNAME = "김민정";
-    public static final String TEL = "010-2528-5099";
+//    public static final String USERID = "avocadoj";
+//    public static final String PASSWD = "avo378717*";
+//    public static final String USERNAME = "김민정";
+//    public static final String TEL = "010-2528-5099";
+
+//    public static final String USERID = "bingo3742";
+//    public static final String PASSWD = "#duswjd9779!";
+//    public static final String USERNAME = "김연정";
+//    public static final String TEL = "010-4001-7077";
 
 //    private static RegApi instance = null;
     private HttpBinService service;
@@ -164,8 +169,10 @@ public class RegApi {
             public Response intercept(Interceptor.Chain chain) throws IOException {
                 if (RegApi.this.cookie != null) {
                     Request.Builder builder = chain.request().newBuilder();
-                    builder.addHeader("Cookie", RegApi.this.cookie);
-                    System.out.println("############# Cookie : " + RegApi.this.cookie);
+                    if (RegApi.this.cookie != null) {
+                        builder.addHeader("Cookie", RegApi.this.cookie);
+                        System.out.println("############# Cookie : " + RegApi.this.cookie);
+                    }
                     return chain.proceed(builder.build());
                 } else {
                     return chain.proceed(chain.request());

@@ -3,6 +3,7 @@ package com.hoyalias.homebrew.mungyung.api;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+import okhttp3.OkHttpClient;
 import retrofit2.Call;
 import retrofit2.Response;
 
@@ -53,24 +54,24 @@ public class RegTest {
 
 //                newExecute("219", "2020-10-03", "2020-10-04", "6", userName, tel);
 //
-//                newExecute("223", "2020-10-01", "2020-10-02", "15", userName, tel);
-//                newExecute("223", "2020-10-02", "2020-10-03", "15", userName, tel);
+                newExecute("223", "2020-10-01", "2020-10-02", "15", userName, tel);
+                newExecute("223", "2020-10-02", "2020-10-03", "15", userName, tel);
 //
 //                newExecute("222", "2020-10-01", "2020-10-02", "15", userName, tel);
 //                newExecute("222", "2020-10-02", "2020-10-03", "15", userName, tel);
 
-                Date now = new Date();
-                if (now.after(willDate)) {
-                    newExecute("219", "2020-10-03", "2020-10-04", "6", userName, tel);
-
-                    newExecute("223", "2020-10-01", "2020-10-02", "15", userName, tel);
-                    newExecute("223", "2020-10-02", "2020-10-03", "15", userName, tel);
-
-                    newExecute("222", "2020-10-01", "2020-10-02", "15", userName, tel);
-                    newExecute("222", "2020-10-02", "2020-10-03", "15", userName, tel);
-                } else {
-                    System.out.println("Please wait.. " + sdf.format(now) + " " + sdf.format(willDate));
-                }
+//                Date now = new Date();
+//                if (now.after(willDate)) {
+//                    newExecute("219", "2020-10-03", "2020-10-04", "6", userName, tel);
+//
+//                    newExecute("223", "2020-10-01", "2020-10-02", "15", userName, tel);
+//                    newExecute("223", "2020-10-02", "2020-10-03", "15", userName, tel);
+//
+//                    newExecute("222", "2020-10-01", "2020-10-02", "15", userName, tel);
+//                    newExecute("222", "2020-10-02", "2020-10-03", "15", userName, tel);
+//                } else {
+//                    System.out.println("Please wait.. " + sdf.format(now) + " " + sdf.format(willDate));
+//                }
 
                 log = sb.toString();
                 if (watcher != null) {
@@ -78,10 +79,12 @@ public class RegTest {
                 }
                 sb = null;
 
-                if (autoRelogin && loopCount > 30) {
+                if (autoRelogin && loopCount > 300) {
                     boolean success = doLogin(userid, passwd);
                     if (success)
                         loopCount = 0;
+                    else
+                        loopCount -= 10;
                 }
 
                 try {
@@ -238,13 +241,13 @@ public class RegTest {
 
     public static boolean doLogin(String user_id, String passwd) {
         try {
-            api.setCookie(null);
+            OkHttpClient client = new OkHttpClient.Builder().build();
 
             System.out.println("DO LOGIN : " + user_id + " " + passwd);
             okhttp3.Request request1 = new okhttp3.Request.Builder()
                     .url("http://www.mgtpcr.or.kr/web/login.do?menuIdx=183")
                     .build();
-            okhttp3.Call call1 = api.getHttpClient().newCall(request1);
+            okhttp3.Call call1 = client.newCall(request1);
             okhttp3.Response response1 = call1.execute();
             String cookie = response1.header("Set-Cookie");
 
@@ -257,7 +260,7 @@ public class RegTest {
                     .header("Cookie", cookie)
                     .post(formBody)
                     .build();
-            okhttp3.Call call2 = api.getHttpClient().newCall(request2);
+            okhttp3.Call call2 = client.newCall(request2);
             okhttp3.Response response2 = call2.execute();
             String body = response2.body().string();
             boolean correct = body.contains("로그인 시도 실패");
