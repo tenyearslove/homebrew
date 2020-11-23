@@ -1,14 +1,14 @@
 import requests, time, os
 from datetime import datetime, timedelta
 
-proxies = {
- "http": "http://168.219.61.252:8080",
- "https": "http://168.219.61.252:8080"
-}
-
-os.environ['REQUESTS_CA_BUNDLE'] = os.path.join(
-    '/etc/ssl/certs/',
-    'ca-certificates.crt')
+# proxies = {
+#  "http": "http://168.219.61.252:8080",
+#  "https": "http://168.219.61.252:8080"
+# }
+#
+# os.environ['REQUESTS_CA_BUNDLE'] = os.path.join(
+#     '/etc/ssl/certs/',
+#     'ca-certificates.crt')
 
 lastNotify = datetime.now() - timedelta(days=1)
 # print(lastNotify)
@@ -37,8 +37,8 @@ def toSlack(roomname):
 
     #8th: 'https://hooks.slack.com/services/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'
     # 8th mo: 'https://hooks.slack.com/services/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',
-    response = requests.post('https://hooks.slack.com/services/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',
-                             headers=headers, data=data.encode('utf-8'), proxies=proxies)
+    response = requests.post('https://hooks.slack.com/services/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',
+                             headers=headers, data=data.encode('utf-8'))
     lastNotify = datetime.now()
 
 
