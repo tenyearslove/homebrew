@@ -26,9 +26,9 @@ public class GetQuiz {
     public static final String SAVE_RESULT_URL = "http://study6.readinggate.com/hp/asmx/wsBrPb.asmx/SaveTestResult";
 
     public static String title = "default";
-    public static String ROOT = "C:/Reading Gate/";
+    public static String ROOT = "/home/siwon.sung/Phytoncide/Reading Gate/";
     public static boolean isDropboxUpload = true;
-    public static String HOME = "C:/Reading Gate/";
+    public static String HOME = "/home/siwon.sung/Phytoncide/Reading Gate/";
 
     public static BufferedWriter bw = null;
 

@@ -27,7 +27,7 @@ public class Step4 {
     public static void getStep(String studyId, String studentHistoryId) {
         String BODY_STEP4 = GetQuiz.getRequestBodyJson("4");
         String qzJson = GetQuiz.getData(GetQuiz.DATA_URL, BODY_STEP4);
-        GetQuiz.writeOutput(String.format("%s (%s)", "STEP 4", GetQuiz.title));
+        GetQuiz.writeOutput(String.format("%s (%s)\n", "STEP 4", GetQuiz.title));
 
         JsonObject root = new JsonParser().parse(qzJson).getAsJsonObject();
         JsonPrimitive d = (JsonPrimitive) root.get("d");

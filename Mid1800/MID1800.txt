@@ -1,0 +1,1800 @@
+1 life 삶[인생/생활], 생명
+2 person 사람
+3 job 일, 일자리
+4 earth 지구, 땅
+5 country 나라, 시골
+6 way 방법[방식], 길
+7 story 이야기, 층
+8 movie 영화(관)
+9 problem 문제
+10 lot (수량이) 많음
+11 hand 손, 건네주다
+12 place 장소, 두다[놓다]
+13 call 전화하다, 부르다, 통화, 부름
+14 start 시작하다, 출발하다, 시작, 출발
+15 try 노력하다, ~해 보다, 시도
+16 use 사용[이용](하다)
+17 kind 종류, 친절한
+18 fun 재미(있는), 장난
+19 future 미래(의), 장래
+20 have 가지고 있다, 먹다, ~하게 하다
+21 make 만들다, ~하게 하다
+22 let ~하게 하다[허락하다]
+23 get 얻다, 이르다, 되다
+24 take 데려[가져]가다, 필요로 하다, 받다
+25 different 다른
+26 important 중요한
+27 right 옳은, 오른쪽(의), 바로, 권리
+28 sure 확신하는, 물론
+29 well 잘, 건강한, 우물
+30 hard 열심히, 단단한, 어려운
+31 piece (한) 부분[조각], 한 개[하 나]
+32 example 예, 모범
+33 minute 분, 잠깐[순간]
+34 trip 여행
+35 letter 편지, 글자
+36 language 언어
+37 science 과학
+38 fire 불, 화재, 해고하다, 발사 하다
+39 name 이름, 이름을 붙이다
+40 part 부분, 부품, 역할, 헤어지다
+41 plan 계획(하다)
+42 plant 식물, 공장, 심다
+43 practice 연습(하다), 실행(하다), 관행
+44 turn 돌(리)다, 바뀌다[바꾸다], 차례, 회전
+45 need 필요(하다), 욕구
+46 learn 배우다, 알게 되다
+47 keep 유지하다, 계속하다, 보존 하다
+48 find 찾아내다[발견하다]
+49 become ~이 되다[~(해)지다]
+50 live 살다, 살아 있는
+51 mean 의미하다, 의도하다, 못된
+52 last 지난, 마지막의, 계속되다
+53 any 어떤 (것), 아무(것)
+54 each 각각(의)
+55 other 다른 (것[사람])
+56 another 또 하나의 (것[사람]), 다른 (것[사람])
+57 same 같은 (것[사람])
+58 too 너무, ~도
+59 also ~도
+60 really 정말[진짜]
+61 restaurant 레스토랑[식당]
+62 street 거리[도로]
+63 side 측[쪽], 측면, 옆
+64 space 공간, 우주
+65 art 미술, 예술, 기술
+66 culture 문화
+67 activity 활동
+68 weekend 주말
+69 information 정보
+70 face 얼굴, 직면하다
+71 mind 마음, 언짢아하다
+72 work 일(하다), 공부(하다), 작동[작용]하다
+73 watch 지켜보다, 시계
+74 worry 걱정시키다[걱정하다], 걱정(거리)
+75 change 바꾸다, 변화(하다), 거스 름돈
+76 light 빛, 불(을 붙이다), 밝은, 가벼운
+77 present 선물, 현재(의), 출석한
+78 middle 한가운데(의)
+79 favorite 가장 좋아하는 (것[사람])
+80 enjoy 즐기다
+81 win 이기다, 따다[얻다]
+82 understand 이해하다
+83 warm 따뜻한, 따뜻하게 하다
+84 clean 깨끗한, 청소하다
+85 own 자신의 (것), 소유하다
+86 interesting 재미있는
+87 famous 유명한
+88 special 특별[특수]한, 전문의
+89 fast 빨리, 단단히, 빠른
+90 only 단지[오직], 유일한
+91 clothes 옷[의복]
+92 poem 시
+93 nature 자연, 천성
+94 forest 숲
+95 island 섬
+96 village 마을
+97 state 국가, (미국의) 주, 상태
+98 habit 습관
+99 history 역사
+100 dialog 대화
+101 newspaper 신문
+102 vacation 휴가[방학]
+103 store 가게, 비축[저장]하다
+104 sound 소리, ~처럼 들리다, 건전 한[건강한]
+105 point (요)점, 점수, 가리키다
+106 land 땅[육지], 착륙하다
+107 fall 떨어지다, 넘어지다, 가을, 떨어짐, 폭포
+108 fly 날다, 파리
+109 visit 방문(하다)
+110 begin 시작하다
+111 grow 자라다, 기르다, ~해지다
+112 believe 믿다
+113 save 구하다, 저축[절약]하다
+114 participate 참가[참여]하다
+115 please 제발, 기쁘게 하다
+116 easy 쉬운, 편한
+117 poor 가난한, 불쌍한, 잘 못하는
+118 such 그러한, 그렇게[너무나]
+119 just 막, 꼭, 단지
+120 always 늘[언제나]
+121 war 전쟁
+122 soldier 군인[병사]
+123 vegetable 채소[야채]
+124 leaf 잎
+125 bottle 병
+126 machine 기계
+127 area 지역, 분야, 면적
+128 grade 성적, 등급, 학년
+129 advertisement [ad] 광고
+130 spring 봄, 용수철, 샘, 튀다
+131 rock 바위, 록 음악, 흔들다
+132 line 선, 줄(을 서다)
+133 exercise 운동(하다), 연습(하다)
+134 cook 요리하다, 요리사
+135 stay 머무르다, 그대로 있다, 머무름
+136 break 깨뜨리다, 고장 내다, 어기다, 휴식
+137 front 앞(쪽)(의)
+138 second 제2의, 초, 잠깐
+139 cold 추운, 차가운, 감기, 추위
+140 happen 일어나다, 우연히 ~하다
+141 leave 떠나다, 내버려두다, 남기다
+142 remember 기억하다
+143 wear 입고[신고/쓰고] 있다
+144 move 움직이다, 이사하다, 감동 시키다
+145 send 보내다
+146 large 큰, 넓은
+147 amazing 놀라운
+148 early 초기의, 이른, 일찍
+149 often 자주[흔히]
+150 sometimes 때때로
+151 peace 평화
+152 neighbor 이웃 (사람[나라])
+153 pet 애완동물
+154 brain (두)뇌
+155 age 나이, 시대
+156 subject 과목, 주제
+157 fact 사실
+158 price 값[가격]
+159 custom 관습[풍습]
+160 office 사무실, 관청
+161 park 공원, 주차하다
+162 rule 규칙, 지배(하다)
+163 respect 존경[존중](하다)
+164 check 점검[확인](하다), 수표
+165 bring 가져[데려]오다
+166 build 짓다[건축/건설하다]
+167 join 가입하다, 함께하다
+168 lose 잃다, 지다
+169 die 죽다
+170 half (절)반(의), 반쯤
+171 few 소수(의), 몇몇(의)
+172 both 양쪽[둘 다](의)
+173 sick 병든[아픈]
+174 busy 바쁜, 번화한, 통화 중의
+175 real 진짜[현실]의
+176 wrong 틀린[잘못된], 틀리게
+177 most 대부분(의), 가장 (많은)
+178 late 늦은, 늦게
+179 fortunately 운 좋게도[다행히]
+180 even ~조차(도), 훨씬
+181 health 건강
+182 holiday (공)휴일
+183 gift 선물, 재능
+184 goal 목표[목적], 골[득점]
+185 effect 영향[결과/효과]
+186 field 들판, 경기장, 분야, 현장
+187 magazine 잡지
+188 sign 표지판, 신호(하다), 서명 하다
+189 report 보고[보도](하다)
+190 order 순서, 질서, 명령(하다), 주문(하다)
+191 experience 경험(하다)
+192 result 결과(로 생기다)
+193 ride 타다, 타기, 탈것
+194 wish 바라다[빌다], 소원[소망]
+195 human 인간(의), 인간다운
+196 past 지나간, 과거(의), ~을 지나서
+197 carry 가지고 있다, 나르다
+198 draw 그리다, 끌어당기다, 뽑다
+199 spend (시간/돈을) 쓰다
+200 wait 기다리다
+201 decide 결정하다
+202 choose 고르다[선택하다]
+203 true 사실인, 진짜의, 참된
+204 popular 인기 있는, 대중의
+205 difficult 어려운
+206 foreign 외국의
+207 able ~할 수 있는
+208 full 가득 찬
+209 usually 보통[일반적으로]
+210 never 결코 ~ 않다
+211 dish 접시, 요리
+212 toy 장난감
+213 subway 지하철
+214 voice 목소리
+215 event 사건[행사]
+216 opinion 의견[견해]
+217 solution 해법[해답]
+218 allowance 용돈[수당]
+219 hundred 백[100]
+220 thousand 천[1000]
+221 century 세기[100년]
+222 rest 휴식, 나머지, 쉬다
+223 waste 낭비(하다), 쓰레기
+224 surprise 놀라게 하다, 놀람
+225 bear 낳다, 곰
+226 fight 싸우다, 싸움
+227 buy 사다
+228 sell 팔다
+229 follow 따르다
+230 miss 놓치다, 그리워하다
+231 close 닫다, 가까운, 가까이
+232 free 자유로운, 무료의, 자유롭게 하다
+233 upset 속상한, 속상하게 하다
+234 healthy 건강한, 건강에 좋은
+235 delicious 맛있는
+236 sad 슬픈
+237 careful 조심하는[주의 깊은]
+238 ready 준비된
+239 away 떨어져, 떠나서
+240 however 그러나[그렇지만]
+241 president 대통령, 장(?)
+242 diary 일기(장)
+243 cartoon 만화 (영화)
+244 meal 식사
+245 character 성격, (등장)인물, 글자
+246 reason 이유, 이성
+247 ground 땅, 운동장
+248 community 공동체[주민/지역 사회]
+249 glass 유리(잔), 안경
+250 weight 무게, 몸무게[체중]
+251 control 지배[통제](하다), 조절하다
+252 step 걸음, 단계, 계단, 밟다
+253 matter 문제[일], 중요하다
+254 match 시합, 성냥, 어울리다
+255 set 두다, 세우다, (해가) 지다, 세트
+256 catch (붙)잡다, (병에) 걸리다
+257 hold 잡고 있다, 개최하다
+258 pick 고르다, 따다, 뽑다
+259 teach 가르치다
+260 agree 동의하다[의견이 일치하 다]
+261 invent 발명하다
+262 welcome 환영(하다), 환영받는
+263 bright 빛나는[밝은], 똑똑한
+264 smart 영리한[똑똑한]
+265 wise 지혜로운[현명한]
+266 hungry 배고픈
+267 fine 좋은[훌륭한], 잘
+268 pretty 예쁜, 꽤, 아주
+269 still 아직도, 훨씬, 가만히 있는
+270 later 나중에, 더 뒤의
+271 teenager 십대 소년·소녀
+272 arm 팔, 무기
+273 skill 기술[기능]
+274 factory 공장
+275 prize 상[상품]
+276 chance 기회, 가망[가능성]
+277 shape 모양, 상태
+278 difference 다름[차이]
+279 wall 벽[담]
+280 contest 경연[대회], 겨루다
+281 race 경주(하다), 인종
+282 smell 냄새(나다)
+283 interest 관심[흥미](를 끌다)
+284 judge 재판관, 판단하다
+285 cause 원인(이 되다), 일으키다
+286 cover 덮다, 다루다, 덮개
+287 travel 여행(하다), 이동하다
+288 guess 추측(하다)
+289 finish 끝내다[끝나다]
+290 wash 씻다
+291 introduce 소개하다
+292 hurt 다치게 하다, 아프다
+293 tired 피곤한, 싫증난
+294 proud 자랑스러운
+295 dirty 더러운
+296 angry 화난[성난]
+297 modern 현대의, 현대적인
+298 useful 유용한[쓸모 있는]
+299 soon 곧, 빨리
+300 once 한 번, (과거) 언젠가
+301 environment 환경
+302 pollution 오염
+303 lake 호수
+304 desert 사막
+305 insect 곤충
+306 accident 사고
+307 college 대학
+308 exam 시험
+309 advice 조언[충고]
+310 hobby 취미
+311 form 형태, 형식, 형성되다
+312 mark 표시(하다), 부호, 자국
+313 board 판, 게시판, 탑승하다
+314 post 우편(물), 게시하다
+315 laugh (비)웃다, 웃음
+316 excuse 용서하다, 변명(하다)
+317 pass 지나가다, 건네주다, 합격 하다, 패스
+318 drive 운전하다, 드라이브
+319 receive 받다
+320 kill 죽이다
+321 climb 오르다[등반하다]
+322 add 더하다, 덧붙이다
+323 fat 살찐[뚱뚱한], 지방
+324 dark 어두운, 어둠
+325 whole 전체[전부](의)
+326 afraid 두려워하는, 걱정하는
+327 physical 육체[신체]의, 물질의
+328 dangerous 위험한
+329 off 떨어져[멀리]
+330 ever 언제든[한번이라도]
+331 clerk 사무원, 점원
+332 riddle 수수께끼
+333 company 회사, 함께 있음, 친구
+334 garage 차고[주차장]
+335 palace 궁전
+336 hole 구멍
+337 bill 청구서, 지폐, 법안
+338 seed 씨(앗)
+339 medicine 약, 의학
+340 luck (행)운
+341 meaning 의미[뜻]
+342 volunteer 자원봉사자, 자원하다
+343 view 견해, 전망, 바라보다
+344 lie (누워) 있다, 거짓말(하다)
+345 act 행동(하다), 연기(하다)
+346 pay 지불하다, 봉급
+347 shout 외치다, 외침
+348 cross 건너다, 교차시키다, 십자가
+349 seem 보이다, ~인 것 같다
+350 invite 초대하다
+351 arrive 도착하다
+352 collect 모으다[수집하다]
+353 rich 부유한, 풍부한
+354 blind 시각 장애가 있는[눈 먼]
+355 heavy 무거운, 심한
+356 terrible 끔찍한[지독한]
+357 strange 이상한, 낯선
+358 possible 가능한
+359 maybe 아마
+360 ago ~ 전에
+361 sense 감각
+362 pleasure 기쁨[즐거움]
+363 image 이미지[인상/영상/심상]
+364 map 지도
+365 project 프로젝트[계획/기획/과제]
+366 traffic 교통(량)
+367 safety 안전
+368 spaceship 우주선
+369 rainbow 무지개
+370 million 100만
+371 model 모델[모형/모범]
+372 type 유형, 타자를 치다
+373 block 블록[구획], 막다
+374 seat 좌석[자리], 앉히다
+375 touch 만지다, 감동시키다, 접촉
+376 wonder 궁금하다, 경이
+377 magic 마술[마법](의)
+378 secret 비밀(의)
+379 general 일반적인, 육군[공군] 장군
+380 prepare 준비하다
+381 imagine 상상하다
+382 forget 잊다
+383 develop 발달하다, 개발하다
+384 recycle 재활용하다
+385 several 몇몇의
+386 funny 웃기는[재미있는]
+387 safe 안전한
+388 enough 충분한 (수량), 충분히
+389 loud 큰 소리의, 큰소리로
+390 far 멀리, 훨씬, 먼
+391 truth 진실[사실/진리]
+392 success 성공
+393 friendship 우정
+394 being 존재
+#395 goods 상품[제품]
+396 coin 동전
+397 bank 은행, 둑
+398 address 주소, 연설
+399 electricity 전기
+400 law 법(률)
+401 campaign (정치·사회적) 운동[캠페 인]
+402 sentence 문장
+403 heat 열, 더위, 뜨겁게 하다
+404 circle 원(을 그리다), 집단
+405 reach 이르다[도착하다] 뻗다, 범위
+406 mix 섞다[섞이다], 혼합
+407 excite 흥분시키다
+408 rise 오르다, 떠오르다
+409 lead 이끌다[데리고 가다]
+410 enter 들어가다, 입학하다
+411 fill (가득) 채우다[차다]
+412 produce 생산하다
+413 cool 시원한, 식다[식히다]
+414 slow 느린, 늦추다
+415 clear 명확한, 맑은, 치우다
+416 false 틀린[가짜의/거짓된]
+417 national 국가[민족]의
+418 main 주된[가장 중요한]
+419 almost 거의
+420 finally 마침내, 마지막으로
+421 library 도서관
+422 museum 박물관[미술관]
+423 ocean 대양[바다]
+424 bone 뼈
+425 bath 목욕
+426 pity 유감[안된 일], 동정
+427 proverb 격언[속담]
+428 product 생산물[제품]
+429 invention 발명(품)
+430 technology 테크놀로지[과학 기술]
+431 trash 쓰레기
+432 moment 때[순간], 잠시
+433 date 날짜, 데이트
+434 taste 맛(이 나다), 취향
+435 balance 균형(을 잡다)
+436 ring 반지, (종[전화]이) 울리다
+437 share 공유하다, 나누다, 몫
+438 return (되)돌아가다[오다], 귀환
+439 lift (들어) 올리다, 태우기
+440 raise 올리다, 모금하다, 기르다
+441 explain 설명하다
+442 marry ~와 결혼하다
+443 exciting 흥분시키는[흥미진진한]
+444 common 흔한, 공통의, 보통의
+445 global 세계[지구]의
+446 regular 규칙적인, 보통의
+447 serious 진지한, 심각한
+448 fresh 신선한, 새로운
+449 probably 아마
+#450 else 그 밖의
+451 planet 행성, 지구
+452 beauty 아름다움, 미인
+453 sight 시력, 봄, 시야, 광경
+454 nation 국가, 민족
+455 foreigner 외국인
+456 band 악단[악대], 밴드[띠]
+457 straw (밀)짚, 빨대
+458 storm 폭풍우
+459 disease (질)병
+460 purpose 목적
+461 display 전시[진열](하다)
+462 reply 대답(하다)
+463 record 기록(하다), 녹음하다
+464 cheer 환호[응원](하다)
+465 shake 흔들(리)다, 밀크셰이크
+466 key 열쇠, 비결, 핵심적인
+467 wild 야생(의)
+468 square 정사각형(의), 제곱(의), 광장
+469 wake 잠에서 깨다[깨우다]
+470 discover 발견하다
+471 solve 풀다[해결하다]
+472 continue 계속하다
+473 burn (불)타다[태우다]
+474 simple 간단한[단순한]
+475 quiet 조용한
+476 traditional 전통의, 전통적인
+477 international 국제의, 국제적인
+478 huge 거대한
+479 instead 대신에
+480 suddenly 갑자기
+481 bridge (건너는) 다리
+482 ghost 유령
+483 scene 장면, 현장
+484 effort 노력
+485 wisdom 지혜
+486 fault 잘못, 결점
+487 flight 항공편, 비행
+488 zoo 동물원
+489 candle (양)초
+490 bottom 맨 아래[바닥]
+491 mistake 실수(하다)
+492 trouble 곤란[곤경], 괴롭히다
+493 nap 낮잠(을 자다)
+494 blow 불다, 강타[타격]
+495 flood 물에 잠기게 하다, 홍수
+496 hurry 서두르다, 서두름
+497 treat 대하다, 치료하다, 대접하 다, 한턱내기
+498 express 표현하다, 급행의, 급행열차
+499 breathe 숨 쉬다[호흡하다]
+500 hate 몹시 싫어하다
+501 create 창조[창출]하다
+502 divide 나누다[나뉘다]
+503 soft 부드러운
+504 empty 빈
+505 perfect 완벽한[완전한]
+506 successful 성공한[성공적인]
+507 everyday 매일의[일상의]
+508 low 낮은, 낮게
+509 alone 혼자, 외로이, 외로운
+510 inside 안(쪽)(에)
+511 creature 동물, 생명체
+512 army 군대, 육군
+513 society 사회
+514 fan 팬[~광], 선풍기[부채]
+515 wheel 바퀴
+516 pair 쌍[벌/켤레]
+517 joy 기쁨
+518 memory 기억(력), 추억
+519 recipe 조리[요리]법
+520 kid 아이, 농담하다
+521 smoke 연기, 담배를 피우다
+522 favor 호의[친절], 부탁, 선호하다
+523 trick 속임수, 장난, 속이다
+524 experiment 실험(하다)
+525 drop 떨어뜨리다, 방울
+526 press 누르다, 언론, 인쇄
+527 stick 붙(이)다, 찌르다, 내밀다, 스틱
+528 roll 구르다, 말다, 두루마리
+529 throw 던지다
+530 serve 음식을 제공하다, 시중들다
+531 improve 개선되다, 향상시키다
+532 realize 깨닫다, 실현하다
+533 dry 마른[건조한], 말리다
+534 complete 완전한, 끝내다
+535 lucky 행운의[운 좋은]
+536 natural 자연[천연]의, 타고난
+537 friendly 친절한, 친한
+538 cute 귀여운
+539 already 이미[벌써]
+540 especially 특히
+541 hometown 고향
+542 yard 마당[뜰]
+543 grocery 식료품 잡화
+544 fairy 요정
+545 flag 기[깃발]
+546 manner 방식, 태도, 예의
+547 noise 시끄러운 소리[소음]
+548 pain 고통, 수고
+549 danger 위험
+550 guide 안내(인), 안내하다
+551 coach 코치, 코치[지도]하다
+552 note 메모, 필기, 주목하다
+553 count 세다, 계산(하다), 셈
+554 sail 항해하다, 돛
+555 promise 약속(하다)
+556 repeat 되풀이하다, 반복(하다)
+557 bake 굽다
+558 gather 모으다[모이다]
+559 succeed 성공하다, 뒤를 잇다
+560 protect 보호하다
+561 advertise 광고하다
+562 disappear 사라지다
+563 electric 전기의
+564 lovely 아름다운, 즐거운
+565 thin 얇은, 마른, 묽은
+566 round 둥근, 왕복의, 라운드, 주위에
+567 deep 깊은, 깊게
+568 wide 넓은, 활짝
+569 yet 아직, 벌써, 그렇지만
+570 quickly 빨리, 곧
+571 couple 한 쌍, 몇몇, 커플[부부]
+572 tourist 관광객
+573 gate (대)문, 탑승구
+574 background 배경
+575 capital 수도, 대문자, 자본
+576 valley 골짜기[계곡]
+577 direction 방향, 지시
+578 distance 거리
+579 behavior 행동
+580 dictionary 사전
+581 object 물건[물체], 목적, 대상, 반대하다
+582 rescue 구조[구출](하다)
+583 tear 눈물, 찢(어지)다
+584 honor 존경(하다), 영광, 명예
+585 increase 증가(하다), 증가시키다
+586 bite 물다, 물기
+587 male 남성[수컷](의)
+588 native 출생지의, 원주민(의)
+589 disappoint 실망시키다
+590 shine 빛나다
+591 fix 고치다, 고정시키다
+592 pour 따르다, (퍼)붓다
+593 allow 허락[허용]하다
+594 prevent 막다[방지/예방하다]
+595 certain 확신하는[확실한], 어떤
+596 mental 정신[마음]의
+597 comfortable 편(안)한
+598 expensive 비싼
+599 therefore 그러므로
+600 everywhere 어디나
+601 action 행동, 조치
+602 talent 재능, 재능 있는 사람(들)
+603 choice 선택
+604 slave 노예
+605 situation 상황
+606 pride 자랑스러움[자부심]
+607 tip (뾰족한) 끝, 팁, 조언
+608 stair 계단
+609 soil 흙[토양]
+610 master 달인, 주인, 숙달하다
+611 suit 정장, ~옷[복], 맞다, 어울리다
+612 notice 알아차리다, 주목
+613 bow 절(하다), 숙이다, 활, 나비매듭
+614 rush 서두르다, 돌진
+615 adult 성인(의), 어른(스러운)
+616 principal 교장, 장, 주요한
+617 folk 사람들, 가족, 민속의
+618 material 재료, 자료, 물질의
+619 standard 수준[기준], 일반적인
+620 surf 파도타기를 하다
+621 accept 받아들이다[인정하다]
+622 obey 따르다[순종하다]
+623 hide 숨기다[숨다]
+624 basic 기본[기초]의
+625 local 지역[지방]의
+626 boring 지루한
+627 weak 약한
+628 quick 빠른
+629 easily 쉽게
+630 abroad 외국에[으로]
+631 hero 영웅, 남자 주인공
+632 ability 능력
+633 knowledge 지식
+634 technique 기법[기술]
+635 floor 바닥, (건물의) 층
+636 cancer 암
+637 diet 식사, 다이어트
+638 garbage 쓰레기
+639 cash 현금
+640 countryside 시골
+641 route 길[노선]
+642 amount 양, 합계 ~이다
+643 score 득점[점수], 득점하다
+644 challenge 도전(하다)
+645 cure 치료제[법], 치료하다
+646 appear 나타나다, ~인 것 같다
+647 spread 펴다, 퍼지다
+648 hunt 사냥하다
+649 destroy 파괴하다
+650 consider 숙고[고려]하다, 여기다
+651 expect 기대[예상]하다
+652 suggest 제안하다[권하다]
+653 cultural 문화의
+654 social 사회의
+655 elderly 연세 드신
+656 unhappy 불행한
+657 crazy 미친, 열광적인, 화난
+658 alive 살아 있는
+659 outside 밖에[으로], 외부의
+660 quite 꽤
+661 host 주인[주최자], 진행자
+662 audience 청중[관객], 시청자
+663 athlete 운동선수
+664 cell 세포
+665 wing 날개
+666 tail 꼬리
+667 bowl 사발[공기]
+668 brick 벽돌
+669 temperature 온도[기온], 체온
+670 transportation 운송, 교통수단
+671 site 장소, 현장, 웹사이트
+672 decision 결정
+673 fiction 소설[허구]
+674 frighten 무섭게 하다[겁주다]
+675 scare 무섭게 하다[겁주다]
+676 slip 미끄러지다
+677 melt 녹다[녹이다]
+678 pollute 오염시키다
+679 affect 영향을 미치다
+680 depend 의존하다, 믿다, 달려 있다
+681 manage 경영[관리]하다, 해내다
+682 fit 맞다[맞추다], 건강한
+683 correct 맞는, 바로잡다
+684 surprising 놀라운
+685 active 활동적인, 적극적인
+686 colorful 다채로운[화려한]
+687 wet 젖은, 비 오는
+688 lively 활기찬[활발한]
+689 daily 매일[일상]의, 매일
+690 straight 똑바로[곧장], 곧은[똑바 른]
+691 god 신[조물주]
+692 guest 손님
+693 diver 잠수부
+694 blood 피[혈액]
+695 pool 수영장, 웅덩이
+696 temple 사원[절]
+697 thought 생각[사고]
+698 crop 농작물, 수확량
+699 sheet (침대) 시트, 한 장
+700 quarter 4분의 1
+701 crowd 군중, 꽉 채우다
+702 care 돌봄, 관심을 갖다
+703 strike 치다[부딪치다], 치기
+704 relative 친척, 상대적인
+705 patient 환자, 참을성 있는
+706 gain 얻다, 늘다
+707 provide 제공[공급]하다
+708 dig 파다[캐다]
+709 explore 탐사[탐험/탐구]하다
+710 warn 경고하다
+711 recognize 알아보다
+712 celebrate 축하[기념]하다
+713 stupid 어리석은[멍청한]
+714 helpful 도움이 되는
+715 convenient 편리한
+716 impossible 불가능한
+717 medical 의학[의료]의
+718 outdoor 야외의
+719 forever 영원히
+720 indeed 정말
+721 wood 나무[목재], 숲
+722 cave 동굴
+723 tomb 무덤
+724 tool 도구[연장]
+725 satellite (인공)위성
+726 communication 의사소통, 통신
+727 wealth 부[재산]
+728 attention 주의[주목]
+729 miracle 기적
+730 stream 개울[시내], 흐름, 계속 흐르다
+731 wave 파도[물결], 흔들다
+732 value 가치, 소중히 여기다
+733 beat 이기다, 계속 때리다, 박동, 박자
+734 support 지지(하다), 부양하다
+735 twin 쌍둥이 (중의 한 명), 쌍둥이의
+736 chemical 화학 물질, 화학의
+737 female 여성[암컷](의)
+738 fair 공정한[공평한], 박람회
+739 respond 반응하다, 대답하다
+740 deliver 배달하다
+741 fold 접다
+742 include 포함하다
+743 earn (돈을) 벌다
+744 bet 돈을 걸다
+745 calm 침착한, 평온, 진정하다
+746 direct 직접(의), 지휘하다
+747 thick 두꺼운, 짙은, 진한
+748 abstract 추상적인
+749 someday (미래) 언젠가
+750 nowadays 요즘에는
+751 lawyer 변호사
+752 officer 장교, 관리, 경찰관
+753 university 대학
+754 level 수준, 높이
+755 growth 성장, 증가
+756 journey 여행
+757 gun 총, 대포
+758 emergency 비상[응급]
+759 case 경우, 사건, 케이스[용기]
+760 difficulty 어려움, 곤경
+761 addition 더하기
+762 credit 신용 거래
+763 fool 바보, 속이다
+764 harvest 수확(량), 수확하다
+765 figure 수치, 인물, 도표, 이해하다
+766 tie 묶다, 동점(이 되다), 넥타이
+767 boil 끓다[끓이다], 삶다
+768 borrow 빌리다
+769 belong ~에 속하다, ~ 소유이다
+770 communicate (의사)소통하다, 연락하다
+771 confuse 혼란시키다, 혼동하다
+772 survive 살아남다, ~보다 오래 살다
+773 handsome 잘생긴
+774 gentle 온화한
+775 mad 화난, 열광적인, 미친
+776 merry 즐거운[명랑한]
+777 noisy 시끄러운
+778 scientific 과학의, 과학적인
+779 mostly 주로
+780 anywhere 어디든, 아무데(서)도, 어딘가
+781 captain 선장[기장], (팀의) 주장
+782 stranger 낯선 사람, 처음인 사람
+783 statue 조각상
+784 spirit 정신[영혼], 기분[기백]
+785 scenery 경치[풍경]
+786 gesture 제스처[몸짓]
+787 pole 막대기, 극
+788 rubber 고무
+789 structure 구조, 구조[건축]물
+790 root 뿌리, 응원하다
+791 schedule 일정[시간표], 예정이다
+792 tour 여행, 관광[순회](하다)
+793 charge 요금, 외상, 책임, 청구하다
+794 decrease 줄(이)다, 감소(하다)
+795 review 복습하다, 검토, 논평
+796 vote 투표(하다)
+797 attend 참석하다, 다니다
+798 discuss 토론[논의]하다
+799 settle 해결하다, 정착하다
+800 elect (선거로) 선출하다
+801 achieve 이루다[성취하다]
+802 appreciate 감사하다, 진가를 알아보다
+803 brave 용감한
+804 cheap 싼
+805 classical 고전의, 고전적인
+806 familiar 잘 아는, 친숙한
+807 unknown 알려지지 않은
+808 uncomfortable 불편한
+809 simply 그저[단지], 간단히
+810 anyway 어쨌든
+811 population 인구
+812 coast 해안
+813 bucket 양동이
+814 cart 마차, 카트[손수레]
+815 cage 새장[우리]
+816 screen 화면[스크린]
+817 kite 연
+818 autumn 가을
+819 breeze 산들바람[미풍]
+820 mess 엉망
+821 litter 쓰레기
+822 joke 농담(하다)
+823 hike 도보 여행(을 하다)
+824 fear 두려움, 두려워하다
+825 offer 제의[제공](하다)
+826 remain 계속 ~이다, 남다, 나머 지, 유적
+827 repair 고치다, 수리(하다)
+828 blank 빈칸, 빈
+829 final 마지막의, 결승전
+830 public 대중[공공]의, 대중
+831 bend 구부리다
+832 float 뜨다[띄우다], 떠다니다
+833 bark 짖다
+834 concentrate 집중하다
+835 dead 죽은
+836 personal 개인의[개인적인]
+837 historic 역사상 중요한[역사적인]
+838 western 서쪽의, 서양의
+839 ahead 앞에[으로]
+840 exactly 정확히
+841 government 정부
+842 stomach 위, 배[복부]
+843 flour 곡물 가루
+844 doll 인형
+845 cyberspace 사이버 공간
+846 strength 힘, 강점
+847 will 의지[뜻], 유언장
+848 development 발달, 개발
+849 engineering 공학
+850 edge 끝[가장자리], 날
+851 pattern 양식, 무늬
+852 alarm 경보(기), 자명종
+853 dot 점(을 찍다)
+854 cost 비용(이 ~이다[들다])
+855 focus 초점(을 맞추다), 집중하다
+856 shock 충격(을 주다)
+857 reward 보상(하다), 보상금
+858 impress 감명을 주다
+859 replace 대신하다, 교체하다
+860 fail 실패하다, 낙제하다
+861 skip 건너뛰다[빼먹다], 깡충깡충 뛰다
+862 necessary 필요한
+863 elementary 기본의, 초등학교의
+864 fantastic 환상적인
+865 tasty 맛있는
+866 flat 평평한, 바람이 빠진
+867 tough 힘든, 강인한, 질긴
+868 crowded 붐비는
+869 forward 앞으로
+870 badly 잘못[안 좋게], 몹시
+871 climate 기후
+872 degree 도, 정도, 학위
+873 article 기사, 물품
+874 metal 금속
+875 monster 괴물
+876 treasure 보물
+877 symbol 상징
+878 ceremony 의식(儀式)
+879 congratulation 축하
+880 breath 숨[호흡]
+881 death 죽음
+882 headache 두통
+883 muscle 근육
+884 base 기초, 기반[근거지], ~에 근거를 두다
+885 lock 잠그다, 자물쇠
+886 dislike 싫어하다, 싫어함
+887 feed 먹을 것을 주다
+888 lend 빌려 주다
+889 suffer (고통을) 겪다
+890 hang 걸(리)다, 목을 매달다
+891 wrap 싸다[포장하다]
+892 pleasant 쾌적한[즐거운]
+893 lonely 외로운
+894 thirsty 목마른
+895 polite 예의 바른[공손한]
+896 rude 무례한
+897 excellent 뛰어난[탁월한]
+898 overweight 과체중의, 중량 초과의
+899 perhaps 아마도
+900 twice 두 번, 두 배로
+901 heaven 천국
+902 myth 신화
+903 sand 모래, 모래사장
+904 castle 성(城)
+905 kindness 친절
+906 concentration 집중(력)
+907 mystery 수수께끼, 신비[불가사의]
+908 battle 전투
+909 industry 산업[공업], 근면
+910 pile 더미, 쌓아 올리다
+911 chat 담소[수다], 채팅하다
+912 puzzle 퍼즐, 어리둥절하게 하다
+913 text 문자(를 보내다), 글, 교재
+914 advance 진보, 진전(되다), 전진
+915 graduate 졸업하다, 졸업자
+916 predict 예측[예견]하다
+917 compare 비교하다
+918 complain 불평[항의]하다
+919 forgive 용서하다
+920 determine 결정하다, 알아내다
+921 exist 존재하다
+922 dive 다이빙하다, 잠수하다
+923 upper 위쪽의
+924 central 중심[중앙]의
+925 normal 정상[보통]의
+926 similar 비슷한
+927 honest 정직한
+928 ashamed 부끄러워하는
+929 anymore 더 이상
+930 besides 게다가, ~ 외에
+931 generation 세대
+932 self 자신[자아]
+933 visitor 방문객
+934 boss 상사[상관]
+935 portrait 초상화
+936 darkness 어둠
+937 earthquake 지진
+938 weapon 무기
+939 charity 자선 (단체)
+940 saying 속담[격언]
+941 issue 쟁점[문제], 호, 발표[발 행]하다
+942 signal 신호(를 보내다)
+943 exchange 교환(하다)
+944 swallow 삼키다, 제비
+945 average 평균(의)
+946 official 공식의, 관리[임원]
+947 gray 회색(의), 반백의
+948 prefer 더 좋아하다[선호하다]
+949 relax 쉬다[긴장을 풀다]
+950 reduce 줄(이)다
+951 bury 묻다[매장하다]
+952 shoot 쏘다, 촬영하다, 슛하다
+953 yell 외치다[소리치다]
+954 powerful 강력한
+955 faithful 충실한[믿음직한]
+956 creative 창조적인
+957 deaf 청각 장애가 있는
+958 electronic 전자의
+959 nearly 거의
+960 happily 행복하게, 다행히
+961 ancestor 조상[선조]
+962 director 감독, 책임자, 임원
+963 customer 고객
+964 astronaut 우주 비행사
+965 dynasty 왕조
+966 furniture 가구
+967 drug 약
+968 greenhouse 온실
+969 harmony 조화
+970 dirt 먼지, 때, 흙
+971 shot 발사, 슛, 주사
+972 curve 곡선(을 이루다)
+973 stuff 것(들), 채우다
+974 pack (짐을) 싸다, 꾸러미
+975 spill 엎지르다, 유출
+976 debate 토론[논의](하다)
+977 whisper 속삭이다, 속삭임
+978 lay 놓다, 눕히다, 낳다
+979 pardon 용서하다, 뭐라고요?
+980 beg 간청하다, 구걸하다
+981 relate 관련시키다
+982 intelligent 총명한[똑똑한]
+983 eager 열망하는
+984 disabled 장애가 있는
+985 homeless 집 없는
+986 harmful 해로운
+987 lifelong 평생의
+988 nervous 초조한, 신경의
+989 seldom 좀처럼[거의] ~ 않는
+990 somewhere 어딘가에[로]
+991 birth 출생
+992 childhood 어린 시절
+993 education 교육
+994 emotion 감정
+995 attitude 태도[자세]
+996 courage 용기
+997 condition 상태, 환경, 조건
+998 fever 열(병)
+999 conversation 대화
+1000 adventure 모험
+1001 triangle 삼각형, 트라이앵글
+1002 bulb 전구, 알뿌리[구근]
+1003 attack 공격(하다), 발작
+1004 cough 기침(하다)
+1005 flow 흐르다, 흐름
+1006 search 찾다, 수색[검색](하다)
+1007 original 원래의, 독창적인, 원작
+1008 opposite (정)반대(의), 맞은편의, 맞은편에
+1009 jog 조깅하다
+1010 scan 살피다, (대충) 훑어보다
+1011 describe 묘사[기술]하다
+1012 freeze 얼(리)다
+1013 remove 제거하다[없애다]
+1014 single 단 하나의, 독신의, 1인용의
+1015 positive 긍정적인
+1016 ugly 못생긴[추한]
+1017 northern 북쪽의
+1018 nearby 가까운, 가까이에(서)
+1019 upside down 거꾸로 (된), 뒤집혀
+1020 downtown 시내에[로], 시내의
+1021 thief 도둑
+1022 lifetime 일생[평생]
+1023 career 직업, 경력
+1024 economy 경제
+1025 fur 모피, (동물의) 털
+1026 engine 엔진, 기관차
+1027 poetry (집합적) 시
+1028 border 국경[경계]
+1029 disaster 재난[재해]
+1030 filter 필터[여과 장치], 여과하 다[거르다]
+1031 forecast 예보(하다)
+1032 quarrel (말)다툼, 다투다
+1033 harm 피해[손해], 해치다
+1034 regard 안부 인사, 여기다
+1035 sneeze 재채기(를 하다)
+1036 sink 가라앉다, 싱크대
+1037 characteristic 특징, 특유의
+1038 professional 직업의, 전문적인, 전문가
+1039 encourage 용기를 북돋우다[격려하 다]
+1040 reflect 비추다, 반사[반영]하다
+1041 slide 미끄러지다
+1042 stretch 늘리다, 당기다, 뻗다
+1043 steal 훔치다
+1044 comic 희극의, 웃기는
+1045 anxious 걱정하는, 열망하는
+1046 asleep 잠든
+1047 effective 효과적인
+1048 due ~ 때문인, 예정인, 지불 기한이 된
+1049 actually 실제로
+1050 rather 꽤, 약간[좀], 오히려
+1051 manager 경영[관리]자, 매니저
+1052 shore 물가[해안/호숫가]
+1053 sunrise 해돋이[일출]
+1054 lighting 조명
+1055 wire 철사, (전)선
+1056 stage 단계, 무대
+1057 zone 지역[구역]
+1058 height 높이, 키[신장]
+1059 prediction 예측[예견]
+1060 marriage 결혼
+1061 period 기간[시기], 마침표
+1062 claim 주장(하다), 청구
+1063 deal 거래(하다), 다루다
+1064 limit 한계, 제한(하다)
+1065 tap 톡톡 두드리다, (수도)꼭지
+1066 spray 뿌리다[뿌려지다], 물보라, 분무기
+1067 weigh 무게가 ~이다
+1068 pray 기도[기원]하다
+1069 greet 인사하다
+1070 chew 씹다
+1071 attract (마음을) 끌다
+1072 overcome 극복하다
+1073 salty 짠
+1074 southern 남쪽의
+1075 curious 호기심이 많은, 궁금한
+1076 humorous 유머러스한, 재미있는
+1077 foolish 어리석은
+1078 greedy 탐욕스러운
+1079 valuable 귀중한[값비싼]
+1080 certainly 확실히, 물론
+1081 agent 에이전트[대리인[점]/중개 인]
+1082 politics 정치
+1083 reality 현실
+1084 relationship 관계
+1085 role 역할
+1086 theater 극장, 연극
+1087 performance 공연[연주], 수행
+1088 reservation 예약
+1089 sightseeing 관광
+1090 path (좁은) 길
+1091 source 원천, 근원, 출처
+1092 proof 증거
+1093 term 기간[기한], 용어
+1094 net 인터넷, 그물
+1095 cast 깁스, 배역진, 던지다, 배역하다
+1096 trust 신뢰(하다)
+1097 crash 충돌하다, 충돌 사고
+1098 hatch 부화하다, (배·비행기) 해치
+1099 clap 박수[손뼉]를 치다
+1100 announce 발표하다
+1101 represent 나타내다, 대표하다
+1102 devote 바치다
+1103 peaceful 평화로운
+1104 painful 아픈[고통스러운]
+1105 sharp 날카로운
+1106 responsible 책임 있는, 원인이 되는
+1107 lazy 게으른
+1108 likely ~할[일] 것 같은
+1109 completely 완전히
+1110 immediately 즉시
+1111 architect 건축가
+1112 narrator 내레이터[해설자]
+1113 enemy 적
+1114 throat 목(구멍)
+1115 illness 병
+1116 weed 잡초
+1117 humor 유머
+1118 volcano 화산
+1119 kingdom 왕국, ~계
+1120 attempt 시도(하다)
+1121 award 상, 수여하다
+1122 broadcast 방송(하다)
+1123 aid 원조[도움], 돕다
+1124 nod 끄덕이다, 끄덕임
+1125 escape 달아나다, 탈출(하다)
+1126 envy 부러워하다, 부러움
+1127 measure 재다[측정하다], 조치
+1128 chief 장[추장], 주된
+1129 total 총[전체의], 총계[합계]
+1130 worth 가치(가 있는)
+1131 embarrass 당황하게 하다
+1132 erupt 분출[폭발]하다
+1133 perform 공연하다, 수행하다
+1134 publish 출판[발행]하다
+1135 silent 침묵하는, 조용한
+1136 silly 어리석은
+1137 scary 무서운
+1138 sore 아픈[쑤시는]
+1139 bitter 쓴, 쓰라린
+1140 lately 최근에
+1141 landscape 풍경(화)
+1142 construction 건설[공사]
+1143 mood 기분, 분위기
+1144 excitement 흥분
+1145 complaint 불평[항의]
+1146 confidence 신뢰, 자신(감)
+1147 invasion 침략, 침해
+1148 container 용기[그릇], 컨테이너
+1149 ash 재
+1150 bar 막대, 술집
+1151 contact 연락[접촉], 연락하다
+1152 benefit 혜택[이득], 이득을 주다
+1153 damage 손상(시키다), 피해
+1154 supply 공급(량), 공급하다
+1155 demand 요구(하다), 수요
+1156 lack 부족(하다), 결핍
+1157 conflict 갈등[충돌], 상충하다
+1158 spin 돌(리)다
+1159 scratch 긁다[할퀴다]
+1160 suppose 생각하다, 가정하다
+1161 refer 언급하다, 가리키다, 참고 하다
+1162 ruin 망치다
+1163 rid 없애다[제거하다]
+1164 tight 꽉 끼는, 단단한
+1165 brilliant 눈부신, 뛰어난, 멋진
+1166 specific 특정한, 구체적인
+1167 unusual 특이한
+1168 negative 부정적인
+1169 royal 왕의
+1170 partly 부분적으로
+1171 happiness 행복
+1172 freedom 자유
+1173 independence 독립
+1174 imagination 상상(력)
+1175 importance 중요(성)
+1176 speech 연설
+1177 silence 침묵
+1178 invitation 초대
+1179 exhibition 전시(회)
+1180 sculpture 조각(품)
+1181 region 지역
+1182 position 위치, 자세, 지위
+1183 research 연구(하다)
+1184 aim 목표(하다), 겨누다
+1185 moral 도덕의, 교훈
+1186 extra 추가의, 엑스트라
+1187 arrange 준비하다, 배열하다
+1188 advise 조언[충고]하다
+1189 recommend 추천하다, 권고하다
+1190 declare 선언하다, 신고하다
+1191 prove 증명하다, 판명되다
+1192 injure 다치게 하다
+1193 connect 연결[접속]하다
+1194 hug 껴안다[포옹하다]
+1195 foggy 안개가 낀
+1196 neat 깔끔한
+1197 loose 풀린, 헐렁한
+1198 endangered (멸종) 위기에 처한
+1199 bound 꼭 ~할 것 같은, ~행의
+1200 recently 최근에
+1201 merchant 상인
+1202 heritage 유산
+1203 organization 조직[단체/기구]
+1204 kindergarten 유치원
+1205 management 경영[관리]
+1206 operation 수술, 작전
+1207 mission 임무
+1208 means 수단[방법]
+1209 payment 지불(금)
+1210 merit 장점[가치]
+1211 mirror 거울
+1212 ladder 사다리
+1213 ingredient (요리의) 재료, 요소
+1214 index 색인, 지수[지표]
+1215 behave 행동하다
+1216 compete 경쟁하다
+1217 argue 다투다, 주장하다
+1218 release 풀어 주다, 방출하다, 공개하다
+1219 pretend ~인 척하다
+1220 conclude 결론을 내리다
+1221 observe 관찰하다, 준수하다
+1222 spicy 매운
+1223 terrific 멋진[훌륭한], 엄청난
+1224 steady 꾸준한
+1225 various 여러 가지의[다양한]
+1226 unique 유일한[독특한]
+1227 unnecessary 불필요한
+1228 ill 병든[아픈], 나쁜
+1229 underground 지하의, 지하에[로]
+1230 sincerely 진심으로
+1231 peer 또래
+1232 pressure 압력
+1233 loss 손실[분실/상실], 감소
+1234 playground 운동장[놀이터]
+1235 pond 연못
+1236 harbor 항구
+1237 frame 틀
+1238 hammer 망치
+1239 expression 표현, 표정
+1240 quality 질
+1241 movement 움직임, 운동
+1242 package 소포[꾸러미], 포장하다
+1243 survey 조사(하다)
+1244 panic 극심한 공포, 공황 (상태에 빠지다)
+1245 sigh 한숨(을 쉬다)
+1246 rinse 씻어내다[헹구다]
+1247 appeal 호소(하다)
+1248 sweep 쓸다[청소하다], 휩쓸다
+1249 consist 이루어져 있다
+1250 unify 통일[통합]하다[~하기 쉽다]
+1251 depress 우울하게 하다
+1252 blame 탓하다
+1253 smooth 매끄러운[부드러운]
+1254 wooden 나무로 된
+1255 helpless 무력한[속수무책의]
+1256 incredible 믿을 수 없는
+1257 available 이용할[구할] 수 있는
+1258 ancient 고대[옛날]의
+1259 recent 최근의
+1260 thus 따라서[그러므로]
+1261 wildlife 야생 생물
+1262 sunset 해넘이[일몰]
+1263 horizon 수평선[지평선]
+1264 steam 증기
+1265 warmth 따뜻함
+1266 statement 성명, 진술
+1267 response 반응, 대답
+1268 task 과업[과제]
+1269 security 보안[안보]
+1270 needle 바늘
+1271 branch 나뭇가지, 지사[지점]
+1272 thread 실, (실을) 꿰다
+1273 row 줄[열], 배[노]를 젓다
+1274 yawn 하품(하다)
+1275 rub 문지르다
+1276 wipe 닦다
+1277 operate 작동하다, 수술하다
+1278 contain 포함[함유]하다
+1279 preserve 보존[보호]하다
+1280 refuse 거절[거부]하다
+1281 remind 상기시키다
+1282 bother 괴롭히다, 신경 쓰다
+1283 tiny 아주 작은
+1284 curly 곱슬곱슬한
+1285 rapid 빠른
+1286 shy 수줍어하는
+1287 eastern 동쪽의
+1288 violent 폭력적인
+1289 worldwide 전 세계적인
+1290 highly 대단히, 고도로
+1291 dinosaur 공룡
+1292 ruler 지배자, 자
+1293 admiral 해군 장군[제독]
+1294 liberty 자유
+1295 tragedy 비극
+1296 trial 재판, 시험[실험]
+1297 treatment 치료
+1298 shelter 주거지, 피신처
+1299 orphanage 고아원
+1300 item 항목[품목]
+1301 gravity 중력
+1302 clue 실마리[단서], 힌트
+1303 range 범위
+1304 rumor 소문
+1305 vehicle 탈것[차량]
+1306 sew 바느질하다[꿰매다]
+1307 associate 연상하다[연관시키다]
+1308 identify (신원을) 확인하다
+1309 mention 언급하다
+1310 establish 설립[확립]하다
+1311 unite 연합[통합]하다
+1312 frustrate 좌절시키다
+1313 stuck 움직일 수 없는[갇힌]
+1314 cheerful 쾌활한[유쾌한]
+1315 careless 부주의한
+1316 dull 지루한, 둔한
+1317 disgusting 역겨운
+1318 willing 기꺼이 하는
+1319 golden 금(빛)의, 귀중한
+1320 apart 떨어져
+1321 lung 폐[허파]
+1322 passport 여권
+1323 photo 사진
+1324 envelope 봉투
+1325 attendant 안내원[수행원]
+1326 appointment (만날) 약속, 임명[지명]
+1327 midnight 자정
+1328 personality 성격, 개성
+1329 chimney 굴뚝
+1330 fence 울타리
+1331 evidence 증거
+1332 feature 특징
+1333 flavor 맛(을 내다)
+1334 leap 뛰어오르다, 도약
+1335 leak 새다, 누출
+1336 scream 비명을 지르다
+1337 refresh 생기를 되찾게 하다
+1338 occur 일어나다[발생하다]
+1339 obtain 얻다
+1340 intend 의도[작정]하다
+1341 lower 낮추다, 아래의
+1342 lean 기울다, 기대다, 호리호리한
+1343 equal 동일[동등]한, 같다
+1344 separate 분리된, 분리되다
+1345 spare 여분의, 여가의, 할애하다
+1346 hardworking 열심히 일하는[근면한]
+1347 hopeless 가망 없는[절망적인]
+1348 raw 날것의
+1349 portable 휴대용의
+1350 rarely 드물게[좀처럼 ~ 않는]
+1351 passenger 승객
+1352 continent 대륙
+1353 port 항구 (도시)
+1354 cooperation 협력[협동]
+1355 competition 경쟁, 대회[시합]
+1356 convenience 편리[편의]
+1357 curiosity 호기심
+1358 suicide 자살
+1359 bullet 총알
+1360 descendant 자손[후손]
+1361 collection 수집(품)
+1362 desire 욕구[욕망], 바라다
+1363 export 수출(품), 수출하다
+1364 blend 썩(이)다, 혼합물
+1365 stare 빤히 보다[응시하다]
+1366 deceive 속이다
+1367 commit (나쁜 일을) 저지르다
+1368 twist 비틀다[구부리다]
+1369 decorate 꾸미다[장식하다]
+1370 tend 경향이 있다[~하기 쉽다]
+1371 firm 회사, 단단한[딱딱한]
+1372 senior 연상, 어르신, 졸업반 학생, 상급의
+1373 major 주요한, 전공(하다)
+1374 minor 작은, 미성년자, 부전공
+1375 individual 개인(의), 개개의
+1376 current 현재의, 흐름[조류/기류/ 전류]
+1377 grand 웅장한
+1378 odd 이상한, 홀수의
+1379 awkward 어색한
+1380 directly 직접, 똑바로
+1381 novel 소설
+1382 grave 무덤
+1383 crime 범죄
+1384 prison 감옥[교도소]
+1385 blanket 담요
+1386 skin 피부
+1387 instance 사례
+1388 element 요소[성분]
+1389 dozen 다스[12개]
+1390 honesty 정직
+1391 duty 의무, 세금
+1392 failure 실패
+1393 rate (비)율, 요금, 속도
+1394 progress 진보[진전/진행](하다)
+1395 trade 거래[무역](하다)
+1396 doubt 의심(하다), 의문이다
+1397 march 행진(하다)
+1398 delay 미루다, 지연(시키다)
+1399 satisfy 만족시키다
+1400 misunderstand 오해하다
+1401 scold 꾸짖다
+1402 apply 지원하다, 적용하다
+1403 drown 익사하다[익사시키다]
+1404 broad 넓은
+1405 cruel 잔인한
+1406 private 사적인
+1407 urgent 긴급한
+1408 military 군사의
+1409 historical 역사(학)의
+1410 fully 완전히[충분히]
+1411 universe 우주
+1412 laughter 웃음(소리)
+1413 knee 무릎
+1414 gym 체육관
+1415 equipment 장비
+1416 rope 로프[밧줄]
+1417 refrigerator 냉장고
+1418 production 생산
+1419 tradition 전통
+1420 religion 종교
+1421 semester 학기
+1422 shadow 그림자[그늘]
+1423 flea 벼룩
+1424 plug 플러그, 마개, 막다
+1425 ache 아프다, 아픔[통증]
+1426 handle 다루다[처리하다], 손잡이
+1427 pause 잠시 멈추다, 멈춤
+1428 admire 존경하다, 감탄하다
+1429 apologize 사과하다
+1430 threaten 위협[협박]하다
+1431 arrest 체포하다
+1432 select 선발[선정/선택]하다
+1433 narrow 좁은
+1434 attractive 매력적인
+1435 awful 끔찍한[지독한]
+1436 casual 평상시의
+1437 capable ~을 할 수 있는
+1438 absent 결석한, 없는
+1439 alike 비슷한, 똑같이
+1440 otherwise 그렇지 않으면
+1441 citizen 시민
+1442 fare (교통) 요금
+1443 tale 이야기
+1444 suggestion 제안
+1445 responsibility 책임
+1446 risk 위험
+1447 intelligence 지능
+1448 viewpoint 관점[시각]
+1449 shell 껍질
+1450 surface 표면
+1451 version 버전[판]
+1452 account 계좌, 설명(하다)
+1453 influence 영향(을 미치다)
+1454 hesitate 망설이다[주저하다]
+1455 fasten 매다
+1456 manufacture 제조하다
+1457 hire 고용하다
+1458 examine 조사[검사]하다
+1459 explode 폭발하다[폭파시키다]
+1460 erase 지우다
+1461 interrupt 방해하다[중단시키다]
+1462 deny 부인[부정]하다
+1463 former 이전의[전 ~]
+1464 clever 영리한[똑똑한]
+1465 distant 먼
+1466 faint 희미한
+1467 double 두 배(의), 2인용의, 두배로 되다
+1468 entire 전체의
+1469 frequent 잦은[빈번한]
+1470 possibly 아마
+1471 author 저자
+1472 secretary 비서
+1473 beggar 거지
+1474 shepherd 양치기
+1475 fable 우화
+1476 tongue 혀, 언어
+1477 departure 출발
+1478 entrance 입구, 입장, 입학
+1479 method 방법
+1480 aptitude 적성
+1481 victory 승리
+1482 chain 사슬[쇠줄], 체인[연쇄점]
+1483 billion 10억
+1484 blossom 꽃(이 피다)
+1485 praise 칭찬(하다)
+1486 wind 감다[돌리다], 바람
+1487 require 요구[필요]하다
+1488 tremble 떨다, 흔들리다
+1489 starve 굶주리다[굶어 죽다]
+1490 quit 그만두다
+1491 spoil 망치다
+1492 punish 벌주다[처벌하다]
+1493 translate 번역[통역]하다
+1494 wealthy 부유한
+1495 independent 독립된
+1496 mild 온화한, 순한
+1497 harsh 가혹한[혹독한]
+1498 informal 격식을 차리지 않는
+1499 lunar 달의
+1500 overseas 해외로[에], 해외의
+1501 client 의뢰인[고객]
+1502 clown 어릿광대
+1503 empire 제국
+1504 dragon 용
+1505 nail 손톱[발톱], 못
+1506 baggage (여행) 짐[수하물]
+1507 label 라벨[표/상표]
+1508 coal 석탄
+1509 bubble 거품
+1510 bug 작은 곤충, (컴퓨터) 오류
+1511 dawn 새벽
+1512 detail 세부 사항
+1513 plenty 충분한[풍부한] 수량
+1514 delight 기쁨, 기쁘게 하다
+1515 dispute 분쟁[논쟁], 반박하다
+1516 flame 불길[불꽃], 타오르다
+1517 flash 번쩍이다[비추다], 섬광
+1518 regret 후회(하다), 유감
+1519 bless 축복하다
+1520 spell 철자를 쓰다[말하다]
+1521 surround 둘러싸다
+1522 swear 맹세하다, 욕하다
+1523 wander 돌아다니다[배회하다]
+1524 generous 인심 좋은[관대한]
+1525 thankful 감사하는
+1526 instant 즉각적인, 즉석의
+1527 medium 중간의
+1528 virtual 가상의
+1529 illegal 불법의
+1530 either (부정문) ~도, (둘 중) 어느 하나(의)
+1531 counselor 상담원[카운슬러]
+1532 opportunity 기회
+1533 literature 문학
+1534 illusion 환상[착각]
+1535 leisure 여가[레저]
+1536 shuttle 정기 왕복 비행기[버스]
+1537 location 장소[위치]
+1538 laundry 세탁[세탁물/세탁소]
+1539 witch 마녀
+1540 length 길이
+1541 relation 관계
+1542 popularity 인기
+1543 sort 종류, 분류하다
+1544 rent 빌리다[빌려 주다], 집세
+1545 commercial 상업의, 광고 방송
+1546 ideal 이상(적인)
+1547 complex 복잡한, 단지, 콤플렉스
+1548 junior 하급의, 연하
+1549 shut 닫다
+1550 bore 지루하게 하다
+1551 compose 구성하다, 작곡하다
+1552 mend 수선[수리]하다
+1553 inform 알리다[통지하다]
+1554 calculate 계산하다
+1555 ordinary 보통의
+1556 selfish 이기적인
+1557 strict 엄(격)한
+1558 sour (맛이) 신
+1559 solar 태양의
+1560 neither ~도 아니다
+1561 appetite 식욕
+1562 beast 짐승[야수]
+1563 palm 손바닥, 야자
+1564 lab 실험[실습]실
+1565 horror 공포
+1566 chore (정기적으로 하는) (집안) 잡일
+1567 outline 개요, 윤곽
+1568 crosswalk 횡단보도
+1569 rhyme (시의) (각)운
+1570 charm 매력, 매혹하다
+1571 force 힘[무력], 강요하다
+1572 function 기능(하다)
+1573 contrast 대조[차이], 대조하다
+1574 assist 돕다, 도움 주기
+1575 employ 고용하다
+1576 govern 통치[지배]하다
+1577 entertain 즐겁게 하다
+1578 criticize 비판[비판/비평]하다
+1579 indicate 보여 주다, 가리키다
+1580 react 반응하다
+1581 dare 감히 ~하다
+1582 obvious 명백한[분명한]
+1583 facial 얼굴의
+1584 confident 자신 있는, 확신하는
+1585 proper 적절한
+1586 typical 전형적인
+1587 outer 밖[외부]의
+1588 realistic 현실적인
+1589 underwater 물속의, 물속으로
+1590 fairly 꽤[상당히], 공정하게
+1591 conductor 지휘자, 열차 승무원
+1592 court 법정, 경기장, 궁정
+1593 dictation 받아쓰기
+1594 jam (먹는) 잼, 막힘[혼잡]
+1595 string 끈[줄], (악기의) 현
+1596 feather 깃털
+1597 scale 규모, 등급, 저울
+1598 spot 장소[지점], (반)점[얼룩]
+1599 shame 부끄러움[수치], 유감
+1600 chemistry 화학
+1601 import 수입(품), 수입하다
+1602 load 짐, 싣다
+1603 suspect 의심하다, 용의자
+1604 pat 쓰다듬다, 쓰다듬기
+1605 liquid 액체(의)
+1606 solid 고체(의), 단단한
+1607 leftover 남은 음식, 남은
+1608 evil 악한, 악
+1609 possess 소유하다
+1610 contribute 기부하다, 기여하다
+1611 recover 회복되다[되찾다]
+1612 ignore 무시하다
+1613 diligent 근면한[성실한]
+1614 pale 창백한, 엷은
+1615 brief 짧은[간단한]
+1616 rare 드문, 살짝 익힌
+1617 genetic 유전(학)의
+1618 organic 유기농의, 유기체의
+1619 holy 신성한[성스러운]
+1620 unfortunately 불행히도
+1621 anniversary 기념일
+1622 nutrient 영양소[영양분]
+1623 grain 곡물
+1624 document 문서
+1625 license 면허(증)
+1626 department 부서[학과]
+1627 fortune (행)운, 큰돈[재산]
+1628 resource 자원
+1629 hunger 굶주림[배고픔]
+1630 error 실수[오류]
+1631 jail 감옥[교도소]
+1632 request 요청(하다)
+1633 bomb 폭탄, 폭파[폭격]하다
+1634 poison 독, 독살하다
+1635 wound 상처(를 입히다)
+1636 chase 뒤쫓다, 추적
+1637 amaze (크게) 놀라게 하다
+1638 relieve 덜어[없애] 주다, 완화하다
+1639 motivate 동기를 부여하다
+1640 afford 여유[형편]가 되다
+1641 absorb 빨아들이다[흡수하다]
+1642 attach 붙이다[첨부하다]
+1643 cooperate 협력[협동]하다
+1644 defend 방어[수비/옹호]하다
+1645 aware 알고 있는
+1646 precious 귀중한[소중한/값비싼]
+1647 political 정치의
+1648 nuclear 원자력의, 핵의
+1649 indoor 실내의
+1650 aloud 소리 내어
+1651 atmosphere 대기, 분위기
+1652 voyage 여행[항해]
+1653 navy 해군
+1654 instrument 기구, 악기
+1655 tube 관[튜브]
+1656 leather 가죽
+1657 jewelry 보석류[장신구]
+1658 mud 진흙
+1659 target 목표[표적/과녁]
+1660 aspect 측면
+1661 anger 화, 화나게 하다
+1662 iron 철, 다리미, 다림질하다
+1663 comment 논평(하다)
+1664 protest 항의(하다)
+1665 concern 걱정, 관심사, 관계되다
+1666 dump 버리다, (쓰레기) 폐기장
+1667 enable 할 수 있게 하다
+1668 annoy 짜증나게 하다
+1669 insist 주장하다[우기다]
+1670 combine 결합하다
+1671 owe 빚지고 있다
+1672 suck 빨다[빨아 먹다]
+1673 awake 깨어 있는, 깨(우)다
+1674 idle 게으른, 빈둥거리다
+1675 previous 이전의
+1676 efficient 능률[효율]적인
+1677 rough 거친, 대강[대략]의
+1678 severe 심(각)한, 엄(격)한
+1679 romantic 낭만적인
+1680 sometime 언젠가
+1681 democracy 민주주의
+1682 justice 정의
+1683 faith 신뢰, 신앙
+1684 glory 영광
+1685 apology 사과
+1686 crisis 위기
+1687 debt 빚[부채]
+1688 gap 틈[격차]
+1689 angle 각(도)
+1690 theory 이론[학설]
+1691 nest 둥지
+1692 cycle 순환(하다), 자전거(를 타다)
+1693 remark 발언, 언급하다
+1694 comfort 편안, 위로(하다)
+1695 approach 접근하다, 접근(법)
+1696 struggle 투쟁(하다)
+1697 content 내용(물), 만족하는
+1698 acid 산, 산(성)의
+1699 differ 다르다
+1700 deserve 받을 만하다
+1701 permit 허용[허락]하다
+1702 forbid 금(지)하다
+1703 reject 거부[거절]하다
+1704 pure 순수한[깨끗한]
+1705 innocent 무죄의, 무고한, 순진한
+1706 slight 약간의
+1707 particular 특정한, 특별한
+1708 financial 재정[금융]의
+1709 unexpected 예기치 않은
+1710 aboard (배/비행기/열차에) 타고
+1711 identity 신원, 정체성
+1712 devil 악마[마귀]
+1713 spectator 관중
+1714 income 소득[수입]
+1715 tax 세금
+1716 fee 수수료[요금]
+1717 fuel 연료
+1718 burden 부담[짐]
+1719 variety 다양성[여러 가지]
+1720 sum 금액, 합계, 요약하다
+1721 profit 이익(을 얻다[주다])
+1722 process 과정, 가공[처리]하다
+1723 exit 출구, 나가다
+1724 pop 펑 하고 터지다, 팝뮤직 (의), 대중적인
+1725 purchase 구입하다, 구입(품)
+1726 defeat 패배(시키다), 이기다
+1727 persuade 설득하다
+1728 cheat 부정행위를 하다, 속이다
+1729 locate ~에 위치하다, 위치를 찾아내다
+1730 investigate 조사하다
+1731 distinguish 구별하다
+1732 adopt 입양하다, 채택하다
+1733 usual 보통[평소]의
+1734 fashionable 유행하는
+1735 sufficient 충분한
+1736 accurate 정확한
+1737 complicated 복잡한
+1738 artificial 인공[인조]의
+1739 tropical 열대의
+1740 hardly 거의 ~ 않다
+1741 genius 천재[영재]
+1742 servant 하인
+1743 profession 전문직
+1744 occupation 직업, 점령
+1745 surgery 수술
+1746 instruction 설명, 지시
+1747 principle 원칙[원리/법칙]
+1748 revolution 혁명
+1749 authority 권한[권위], 당국
+1750 rank 지위[계급]
+1751 property 재산
+1752 advantage 유리한 점[이점]
+1753 privacy 사생활
+1754 occasion 때[경우], (특별한) 행사
+1755 propose 제안하다, 청혼하다
+1756 approve 찬성[승인]하다
+1757 admit 인정[시인]하다
+1758 conduct 수행[실시]하다
+1759 reserve 예약하다
+1760 reveal 드러내다[밝히다]
+1761 donate 기부[기증]하다
+1762 involve 포함하다, 관련시키다
+1763 definite 확실한[명확한]
+1764 urban 도시의
+1765 addicted 중독된[푹 빠진]
+1766 extreme 극도의[극단적인]
+1767 academic 학업의, 학구적인
+1768 guilty 죄책감을 느끼는, 유죄의
+1769 conscious 의식하는, 의식이 있는
+1770 generally 일반적으로[대체로]
+1771 mankind 인류
+1772 poet 시인
+1773 detective 형사[탐정]
+1774 consumer 소비자
+1775 chef 주방장[요리사]
+1776 passion 열정
+1777 steel 강철
+1778 device 장치
+1779 pill 알약[정제]
+1780 ceiling 천장
+1781 aisle 통로
+1782 appearance 외모, 출현
+1783 destination 목적지
+1784 sweat 땀(을 흘리다)
+1785 switch 스위치, 전환, 바꾸다
+1786 grab 움켜잡다[잡아채다], 잡아 채기
+1787 plain 분명한, 소박한, 평야
+1788 giant 거대한, 거인
+1789 found 설립하다
+1790 seek 찾다, (추)구하다
+1791 rob 강탈하다[털다]
+1792 swing 흔들(리)다
+1793 cancel 취소하다
+1794 avoid (회)피하다
+1795 rotten 썩은
+1796 magnetic 자기[자성]의, 자석 같은
+1797 steep 가파른
+1798 logical 논리적인
+1799 ridiculous 어리석은[우스꽝스러운]
+1800 upstairs 위층으로[에], 위층(의)

@@ -39,7 +39,7 @@ public class WordList {
             Collections.sort(wordList);
 
             for (Word word : wordList) {
-                System.out.println(word.english + "|" + word.priority + "|");
+                System.out.println(word.english);// + "|" + word.priority + "|");
             }
 
         } catch (Exception e) {

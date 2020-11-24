@@ -60,20 +60,22 @@ public class App {
         }
     }
 
-    private static final String[] Be_Verb = {"am", "are", "is", "was", "were"};
+    private static final String[] Be_Verb = {"am", "are", "is", "was", "were", "being", "be"};
     private static final String[] Pronoun = {"i", "you", "he", "she", "it", "we", "you", "they", "me", "him", "her", "us", "them", "my", "your", "his", "its", "our", "your", "their", "mine", "yours", "hers", "ours", "yours", "theirs"};
     private static final String[] Relatives = {"who", "when", "where", "why", "which", "how", "that", "whose", "whom"};
     private static final String[] Auxiliary = {"will", "would", "can", "could", "shall", "should"};
-    private static final String[] PrePosition = {"in", "at", "on", "for", "to", "up"};
-    private static final String[] Interjaction = {"oh", "ah", "wow", "oops", "uh", "hey", "yes", "no"};
+    private static final String[] PrePosition = {"in", "at", "on", "for", "to", "up", "with", "within", "of", "as", "from", "by", "off", "onto", "into", "toward", "about", "out"};
+    private static final String[] Interjaction = {"oh", "ah", "wow", "oops", "uh", "hey", "yes", "no", "not"};
     private static final String[] Article = {"a", "an", "the"};
+    private static final String[] Conjuntion = {"and", "or", "but"};
+    private static final String[] Adverb = {"yet"};
 
-    private static final String[][] Exceptions = {Be_Verb, Pronoun, Relatives, Auxiliary, PrePosition, Interjaction, Article};
+    private static final String[][] Exceptions = {Be_Verb, Pronoun, Relatives, Auxiliary, PrePosition, Interjaction, Article, Conjuntion, Adverb};
 
     public String makeDictation(String s) {
         String[] splited = s.split(" ");
         int last = -100;
-        for (int k = 0; k < splited.length; k++) {
+        for (int k = 0 ; k < splited.length ; k++) {
             String token = splited[k];
             if (token.indexOf("'") >= 0) continue;
             if (token.indexOf(",") >= 0) continue;
@@ -83,14 +85,13 @@ public class App {
             if (token.startsWith("<")) continue;
             if (token.endsWith(">")) continue;
             if (token.length() == 1) continue;
-            ;
 
             String lowerToken = token.toLowerCase();
 
             boolean isExceptionWord = false;
             loops:
             for (String[] wordClass : Exceptions) {
-                for (int i = 0; i < wordClass.length; i++) {
+                for (int i = 0 ; i < wordClass.length ; i++) {
                     if (lowerToken.equals(wordClass[i])) {
                         isExceptionWord = true;
                         break loops;
@@ -271,6 +272,7 @@ public class App {
         try {
             String OS = System.getProperty("os.name").toLowerCase();
             String _title = title.replaceAll(" ", "_");
+
             String outputDirName = String.format("Output/output%d_%s_%s", flag, _title, sdf.format(new Date()));
             File outputDir = new File(outputDirName);
             outputDir.mkdirs();
@@ -289,8 +291,6 @@ public class App {
                 dictationFw = new FileWriter(outputDirName + "/dictation.html");
                 System.out.println("<HTML><HEAD><meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"></HEAD><BODY><TABLE cellpadding=\"5\" cellspacing=\"0\" border=\"1\" style=\"border-collapse:collapse; border:1px gray solid;\">");
                 dictationFw.write("<HTML><HEAD><meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"></HEAD><BODY><TABLE cellpadding=\"5\" cellspacing=\"0\" border=\"1\" style=\"border-collapse:collapse; border:1px gray solid;\">\n");
-
-
             }
             SRTInfo info = SRTReader.read(new File("Movie" + File.separator + title + ".trim.srt"));
             StringBuffer sb = new StringBuffer();

@@ -29,7 +29,7 @@ public class Step3 {
         String BODY_STEP3 = GetQuiz.getRequestBodyJson("3");
         String qzJson = GetQuiz.getData(GetQuiz.DATA_URL, BODY_STEP3);
 
-        GetQuiz.writeOutput(String.format("%s (%s)", "STEP 3", GetQuiz.title));
+        GetQuiz.writeOutput(String.format("%s (%s)\n", "STEP 3", GetQuiz.title));
 
         JsonObject root = new JsonParser().parse(qzJson).getAsJsonObject();
         JsonPrimitive d = (JsonPrimitive) root.get("d");

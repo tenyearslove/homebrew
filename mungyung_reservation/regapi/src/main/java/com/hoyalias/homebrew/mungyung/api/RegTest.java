@@ -52,10 +52,10 @@ public class RegTest {
                 sb.append(api.cookie + "\n");
                 sb.append(loopCount++ + "\n");
 
-//                newExecute("219", "2020-10-03", "2020-10-04", "6", userName, tel);
-//
-                newExecute("223", "2020-10-01", "2020-10-02", "15", userName, tel);
-                newExecute("223", "2020-10-02", "2020-10-03", "15", userName, tel);
+                newExecute("219", "2020-10-03", "2020-10-05", "6", userName, tel);
+
+//                newExecute("222", "2020-10-01", "2020-10-02", "15", userName, tel);
+//                newExecute("222", "2020-10-02", "2020-10-03", "15", userName, tel);
 //
 //                newExecute("222", "2020-10-01", "2020-10-02", "15", userName, tel);
 //                newExecute("222", "2020-10-02", "2020-10-03", "15", userName, tel);
